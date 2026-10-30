@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -434,11 +434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02034.html">Accelerating the standard siren method: Improved constraints on modified gravitational-wave propagation with future data</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="cosmology-360d.html">cosmology</a> · <a href="ligo-360d.html">ligo</a></div></td>
 <td>Matteo Tagliazucchi et al.</td>
 <td><a href="http://arxiv.org/abs/2504.02034">2504.02034</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01959.html">Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Eleonora Villa et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01959">2511.01959</a></td>
 </tr>
 </tbody></table>

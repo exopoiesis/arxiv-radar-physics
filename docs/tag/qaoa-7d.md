@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30925.html">Beyond Binary Encoding: Qudit-Based QAOA Framework for ML Detection in $M$-QAM MIMO Systems</a></div></td>
-<td>Chiran Siriwardena et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30925">2610.30925</a></td>
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35665.html">$κ$-Parametrized Boltzmann Distribution Sampling on Quantum Approximate Optimization Algorithm</a></div></td>
+<td>João Marcos Cavalcanti de Albuquerque Neto et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35665">2610.35665</a></td>
 </tr>
 </tbody></table>

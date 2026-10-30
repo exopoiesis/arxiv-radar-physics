@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35164.html">Accelerating SO(2)-Equivariant Materials Models through Low-Precision Emulation</a></div></td>
+<td>Denghui Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35164">2610.35164</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33315.html">MLIPDiff: Guiding Denoising Diffusion Models for Structure-Based Drug Design via Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Yiyan Liao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33315">2610.33315</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26301.html">Machine Learning-Assisted Discovery of Carbon-Related Defect Formation Mechanisms in Diamond</a></div></td>

@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37178.html">INTR++: INterpretable TRansformer with better Accuracy, Interpretability, and Adaptability</a></div></td>
+<td>Dipanjyoti Paul et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37178">2610.37178</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32768.html">SCDM-HTD: Spectral-Wise Conditional Diffusion Model for Hyperspectral Target Detection</a></div></td>
+<td>Dunbin Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32768">2610.32768</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31304.html">Data-Driven Vision-Language Models for Remote Sensing: A Survey</a></div></td>
 <td>Yue Zhou et al.</td>
@@ -2984,17 +2996,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02831.html">GeoCrossBench: Cross-Band Generalization for Remote Sensing</a></div></td>
 <td>Hakob Tamazyan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02831">2511.02831</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11080.html">Efficient Remote Sensing Change Detection with Change State Space Models</a></div></td>
-<td>Elman Ghazaei et al.</td>
-<td><a href="http://arxiv.org/abs/2504.11080">2504.11080</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23447.html">Adjustable Spatio-Spectral Hyperspectral Image Compression Network</a></div></td>
-<td>Martin Hermann Paul Fuchs et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23447">2507.23447</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>pinns — all</h1>
-  <span class="paper-count">1043 papers</span>
+  <span class="paper-count">1055 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,72 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38260.html">A Physics-Informed Neural Network for Geodesic Computation and Visualization of Geodesic Spheres on Riemannian Manifolds</a></div></td>
+<td>Sujit Bhattacharyya</td>
+<td><a href="http://arxiv.org/abs/2610.38260">2610.38260</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38269.html">A Hybrid Physics-informed holomorphic neural networks Method</a></div></td>
+<td>Zhijie Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38269">2610.38269</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38814.html">Regional accuracy of physics-informed neural networks (PINNs) for recirculation in a deep lid-driven cavity</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Ehsan Roohi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38814">2610.38814</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38889.html">Inherent Failure Modes of Physics-Informed Neural Networks for Buoyancy-Driven Flow: Role of Non-Dimensionalization in Network Training</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Krishan Chand et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38889">2610.38889</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35391.html">Autonomous Structural Discovery Of Bioprocess Dynamics And Kinetics Via LLM-Driven Agents</a></div></td>
+<td>Erdal Aydin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35391">2610.35391</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34345.html">Lie Symmetry-Guided Adaptive Sampling for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Runze Zhao</td>
+<td><a href="http://arxiv.org/abs/2610.34345">2610.34345</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33562.html">Hybrid-time PINNs: Discontinuity-Aware Physics-Informed Neural Networks for Learning Hybrid Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Shivanshu Tripathi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33562">2610.33562</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32840.html">Physics Informed Neural Network for Multi-dimensional Turbulent Self-gravitating Flows</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Tirthankar De et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32840">2610.32840</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33133.html">Physics Informed Neural Networks for Solving the Drift-Diffusion Equations</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a></div></td>
+<td>Luke Ragan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33133">2610.33133</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31855.html">Cautious Conflict-Free Inverse Gradient Methods</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="schr-dinger-equation-all.html">schr-dinger-equation</a></div></td>
+<td>Damian Hattler et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31855">2610.31855</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31963.html">Physics-informed neural network (PINN) approximations of capillary menisci in polygonal channels</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Zijian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31963">2610.31963</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27500.html">Soliton Profiles in 1D: Enhanced Neural-Network Solvers and Constrained Deep Ritz Methods</a></div></td>
@@ -140,6 +206,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09126.html">Domain-informed Adaptive Sampling for Generalizable PINNs in Metal Additive Manufacturing via Conditional Flow Matching</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
 <td>Hyeonsu Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2610.09126">2610.09126</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33000.html">Canonical residual physics-informed neural networks and algorithmic perturbation landscapes map cell-fate transitions in longitudinal H3K27M glioma</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
+<td>Abicumaran Uthamacumaran</td>
+<td><a href="http://arxiv.org/abs/2610.33000">2610.33000</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-05</td>

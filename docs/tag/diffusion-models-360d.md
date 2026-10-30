@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">547 papers</span>
+  <span class="paper-count">551 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38207.html">Progressive Coupling Method for Diffusion Posterior Sampling in Ptychography</a></div></td>
+<td>Yihan Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38207">2610.38207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38974.html">Fully Quantum Latent Diffusion for Synthetic Malware Records: Effective Denoising, Limited Class Information, and Costly Post-Selection</a></div></td>
+<td>Ban Q. Tran et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38974">2610.38974</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36751.html">Generative Refinement Learning for Temporal Interpolation in Scientific Machine Learning</a></div></td>
+<td>Pu Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36751">2610.36751</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37825.html">Probing Cosmology with Diffusion Models: Memorization, Generalization, and Parameter Estimation</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a></div></td>
+<td>Jiaming Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37825">2610.37825</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35123.html">Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Luca Biferale et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35123">2610.35123</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35627.html">Local Koopman modes of saddle-point diffusions: exact singular functions and a data-driven estimator</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="koopman-operator-360d.html">koopman-operator</a></div></td>
+<td>Xuehao Ding</td>
+<td><a href="http://arxiv.org/abs/2610.35627">2610.35627</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32125.html">Conditional Flow Models for Offline Maximum Entropy Reinforcement Learning</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Hao Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32125">2610.32125</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33315.html">MLIPDiff: Guiding Denoising Diffusion Models for Structure-Based Drug Design via Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Yiyan Liao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33315">2610.33315</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31071.html">Conditional Mean Flows for Frequency-Domain Scattered Wavefield Generation</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
@@ -3272,29 +3320,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02462.html">KAO: Kernel-Adaptive Optimization in Diffusion for Satellite Image</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
 <td>Teerapong Panboonyuen</td>
 <td><a href="http://arxiv.org/abs/2511.02462">2511.02462</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18932.html">ReviveDiff: A Universal Diffusion Model for Restoring Images in Adverse Weather Conditions</a></div></td>
-<td>Wenfeng Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18932">2409.18932</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21015.html">MediQ-GAN: Quantum-Inspired GAN for High Resolution Medical Image Generation</a></div></td>
-<td>Qingyue Jiao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21015">2506.21015</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01678.html">UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback</a></div></td>
-<td>Ropeway Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01678">2511.01678</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01976.html">Stability of mixed-state phases under weak decoherence</a></div></td>
-<td>Yifan F. Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01976">2511.01976</a></td>
 </tr>
 </tbody></table>

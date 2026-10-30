@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">123 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39332.html">Tabular Foundation Models Dramatically Outperform Bespoke Photometric Redshift Estimators</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
+<td>Biprateep Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39332">2610.39332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37516.html">Recovering Non-Maxwellian Velocity Distribution Functions from Collective Thomson Scattering Spectra Using Generalized Basis Representations</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Greg A. Baker et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37516">2610.37516</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27409.html">The Inverse Problem of Velocity Reconstruction from Flow-Induced Magnetic Fields: Stability and Uniqueness</a></div><div class="paper-tags"><a href="magnetohydrodynamics-360d.html">magnetohydrodynamics</a></div></td>

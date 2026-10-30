@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>data-assimilation — 90d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <strong>90d</strong> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35123.html">Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Luca Biferale et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35123">2610.35123</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35352.html">From Stochastic Transport Models to High-Dimensional Bayesian Inference</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Dan Crisan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35352">2610.35352</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32148.html">Covariance-Informed Ensemble Score Filtering: Embedding Localized Covariance Geometry into Score-Based Transport</a></div></td>
+<td>Siming Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32148">2610.32148</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32582.html">Batched NN 4D-Var: a performant hybrid model framework for the Integrated Forecasting System</a></div></td>
+<td>Alban Farchi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32582">2610.32582</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26567.html">Assisted Turbulence Modeling via Data Assimilation and Machine Learning for Turbomachinery Flows</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="les-90d.html">les</a> · <a href="navier-stokes-equations-90d.html">navier-stokes-equations</a> · <a href="rans-90d.html">rans</a></div></td>

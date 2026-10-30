@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cosmology — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <strong>30d</strong> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39332.html">Tabular Foundation Models Dramatically Outperform Bespoke Photometric Redshift Estimators</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a></div></td>
+<td>Biprateep Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39332">2610.39332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33955.html">FastPM: Fast Pretrained Model for Cosmological Simulation-Based Inference</a></div></td>
+<td>Masaya Yamamoto et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33955">2610.33955</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29937.html">Constraining Dynamical Dark Energy with Tomographic Galaxy and CMB Weak Lensing Through Higher-Order Statistics</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>

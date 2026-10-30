@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chaotic-systems — 360d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="chaotic-systems-7d.html">7d</a> <a href="chaotic-systems-30d.html">30d</a> <a href="chaotic-systems-90d.html">90d</a> <strong>360d</strong> <a href="chaotic-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34779.html">Logit--Koopman coordinates for scale-resolved forecast-error growth in a three-level Lorenz-96 system</a></div></td>
+<td>Malaquias Peña</td>
+<td><a href="http://arxiv.org/abs/2610.34779">2610.34779</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22358.html">PathFM: Fast Generative Forecasting of Multivariate Trajectories</a></div></td>

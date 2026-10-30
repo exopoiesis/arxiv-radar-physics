@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38218.html">HotPOT: Operator Transformer with Heterogeneous Physics Experts for Large-Scale PDE Pre-training</a></div></td>
+<td>Jiayi Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38218">2610.38218</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38790.html">Safeguarded Neurally-Accelerated Preconditioning (SNAP) framework for Nonlinear Optimization</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Youngkyu Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38790">2610.38790</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36498.html">Learning Multiscale Dynamics of Nanoparticle Self-Assembly</a></div><div class="paper-tags"><a href="phase-transitions-30d.html">phase-transitions</a></div></td>
+<td>Shuaifeng Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36498">2610.36498</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37333.html">diff-soup: GPU-native Differentiable Simulation and Inference for Large-scale Stiff Dynamical Systems</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Samuel Degnan-Morgenstern et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37333">2610.37333</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34345.html">Lie Symmetry-Guided Adaptive Sampling for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Runze Zhao</td>
+<td><a href="http://arxiv.org/abs/2610.34345">2610.34345</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33769.html">CFL-aware edge design for graph neural solvers of hyperbolic transport</a></div></td>
+<td>Jinyoung Jeong et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33769">2610.33769</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32911.html">Classical, Machine Learning, and Hybrid Solvers for Partial Differential Equations: An Evidence-Weighted Review and Decision Framework</a></div></td>
+<td>Yingchao Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32911">2610.32911</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32926.html">ZENO: Nonlinear filtering with Zakai Equation Neural Operators</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Aaditya Prasad et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32926">2610.32926</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31855.html">Cautious Conflict-Free Inverse Gradient Methods</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a> · <a href="schr-dinger-equation-30d.html">schr-dinger-equation</a></div></td>
+<td>Damian Hattler et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31855">2610.31855</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27888.html">Automatic Differentiation with Constraints in Forward and Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>

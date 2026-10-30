@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">146 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33668.html">Beyond Affine Reconstruction: Multi-Resolution Transformer DeepONets for the Radiative Transfer Equation</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Tanguy Azéma et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33668">2610.33668</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31935.html">Beyond Local Accuracy: Benchmarking the Rollout Reliability of PDE Foundation Models</a></div></td>
+<td>Jaewan Park et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31935">2610.31935</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22157.html">The importance of tensor handling and implementation of physics-informed DeepONets</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
@@ -884,11 +896,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02962.html">Hybrid DeepONet Surrogates for Multiphase Flow in Porous Media</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Ezequiel S. Santos et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02962">2511.02962</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08795.html">PO-CKAN:Physics Informed Deep Operator Kolmogorov Arnold Networks with Chunk Rational Structure</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Junyi Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08795">2510.08795</a></td>
 </tr>
 </tbody></table>

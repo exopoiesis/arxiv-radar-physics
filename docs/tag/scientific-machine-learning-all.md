@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-machine-learning — all</h1>
-  <span class="paper-count">332 papers</span>
+  <span class="paper-count">335 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <a href="scientific-machine-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33939.html">Stable and Calibrated Latent Force ODE Filters</a></div></td>
+<td>Paul Fischer et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33939">2610.33939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32026.html">RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training</a></div></td>
+<td>Binghang Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32026">2610.32026</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32926.html">ZENO: Nonlinear filtering with Zakai Equation Neural Operators</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
+<td>Aaditya Prasad et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32926">2610.32926</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30179.html">GeoDiv KAN Solver for Time Fractional Navier Stokes Equations on Complex Domains to Realistic CFD Reconstruction</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="pinns-all.html">pinns</a> · <a href="rans-all.html">rans</a></div></td>

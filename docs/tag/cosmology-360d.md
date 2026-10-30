@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39332.html">Tabular Foundation Models Dramatically Outperform Bespoke Photometric Redshift Estimators</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
+<td>Biprateep Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39332">2610.39332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33955.html">FastPM: Fast Pretrained Model for Cosmological Simulation-Based Inference</a></div></td>
+<td>Masaya Yamamoto et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33955">2610.33955</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29937.html">Constraining Dynamical Dark Energy with Tomographic Galaxy and CMB Weak Lensing Through Higher-Order Statistics</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
 <td>Shu-Fan Chen et al.</td>
@@ -1094,17 +1106,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02034.html">Accelerating the standard siren method: Improved constraints on modified gravitational-wave propagation with future data</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a> · <a href="ligo-360d.html">ligo</a></div></td>
 <td>Matteo Tagliazucchi et al.</td>
 <td><a href="http://arxiv.org/abs/2504.02034">2504.02034</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13304.html">Searching for a signature of turnaround in galaxy clusters with convolutional neural networks</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Nikolaos Triantafyllou et al.</td>
-<td><a href="http://arxiv.org/abs/2412.13304">2412.13304</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03707.html">CosmoBench: A Multiscale, Multiview, Multitask Cosmology Benchmark for Geometric Deep Learning</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Ningyuan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03707">2507.03707</a></td>
 </tr>
 </tbody></table>

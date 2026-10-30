@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37825.html">Probing Cosmology with Diffusion Models: Memorization, Generalization, and Parameter Estimation</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
+<td>Jiaming Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37825">2610.37825</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27088.html">DDELenS: Tomographic Weak Lensing Simulations with Dynamical Dark Energy</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Shu-Fan Chen et al.</td>
@@ -122,11 +128,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05367.html">Linking Warm Dark Matter to Merger Tree Histories via Deep Learning Networks</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Ilem Leisher et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05367">2511.05367</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03707.html">CosmoBench: A Multiscale, Multiview, Multitask Cosmology Benchmark for Geometric Deep Learning</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Ningyuan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03707">2507.03707</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36532.html">A Homological Approach to Dynamics</a></div></td>
+<td>William Kalies et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36532">2610.36532</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37333.html">diff-soup: GPU-native Differentiable Simulation and Inference for Large-scale Stiff Dynamical Systems</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Samuel Degnan-Morgenstern et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37333">2610.37333</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34687.html">Machine Learning Applications in the Solar Interior and Atmosphere</a></div></td>
+<td>Vishal Upendran et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34687">2610.34687</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35617.html">Distilling neural networks into equations to predict planetary instability</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
+<td>Simon Alford et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35617">2610.35617</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35627.html">Local Koopman modes of saddle-point diffusions: exact singular functions and a data-driven estimator</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a> · <a href="koopman-operator-30d.html">koopman-operator</a></div></td>
+<td>Xuehao Ding</td>
+<td><a href="http://arxiv.org/abs/2610.35627">2610.35627</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36342.html">Balanced Active Subspaces for Optimal Control via Trajectory Optimization</a></div></td>
+<td>Emmanuel S. Ameh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36342">2610.36342</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35967.html">Data-driven Discovery of Lie Symmetries and First Integrals with Latent ODEs</a></div></td>
+<td>Matt L. Wiemman et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35967">2610.35967</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33562.html">Hybrid-time PINNs: Discontinuity-Aware Physics-Informed Neural Networks for Learning Hybrid Dynamical Systems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Shivanshu Tripathi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33562">2610.33562</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32926.html">ZENO: Nonlinear filtering with Zakai Equation Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Aaditya Prasad et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32926">2610.32926</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31585.html">Action Learning for Scientific Simulations</a></div></td>
@@ -140,6 +194,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10054.html">Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control</a></div></td>
 <td>Boya Hou et al.</td>
 <td><a href="http://arxiv.org/abs/2610.10054">2610.10054</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33000.html">Canonical residual physics-informed neural networks and algorithmic perturbation landscapes map cell-fate transitions in longitudinal H3K27M glioma</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
+<td>Abicumaran Uthamacumaran</td>
+<td><a href="http://arxiv.org/abs/2610.33000">2610.33000</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-04</td>

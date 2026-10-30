@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>koopman-operator — 360d</h1>
-  <span class="paper-count">81 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <strong>360d</strong> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35627.html">Local Koopman modes of saddle-point diffusions: exact singular functions and a data-driven estimator</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
+<td>Xuehao Ding</td>
+<td><a href="http://arxiv.org/abs/2610.35627">2610.35627</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19442.html">Traffic State Prediction and Control Using a Koopman Operator Framework with Polynomial Observables</a></div></td>

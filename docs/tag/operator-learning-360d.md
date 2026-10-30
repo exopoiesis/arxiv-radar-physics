@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">275 papers</span>
+  <span class="paper-count">277 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39041.html">Exponential-Nemytskii Neural Operators: Learning Field Evolution Across Step Sizes</a></div></td>
+<td>Jingye Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39041">2610.39041</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32125.html">Conditional Flow Models for Offline Maximum Entropy Reinforcement Learning</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
+<td>Hao Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32125">2610.32125</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32167.html">Solving and Learning Navier-Stokes Dynamics with the Neural Basis Method</a></div></td>
+<td>Yuhe Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32167">2610.32167</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32926.html">ZENO: Nonlinear filtering with Zakai Equation Neural Operators</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Aaditya Prasad et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32926">2610.32926</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31465.html">RheOPT: Few-Shot Non-Newtonian Flow Prediction via Newtonian Pretraining of RheOFormer</a></div></td>
@@ -1652,17 +1676,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06083.html">Event-driven physics-informed operator learning for reliability analysis</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Shailesh Garg et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06083">2511.06083</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22959.html">Scientific Machine Learning with Kolmogorov-Arnold Networks</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Salah A. Faroughi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22959">2507.22959</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08795.html">PO-CKAN:Physics Informed Deep Operator Kolmogorov Arnold Networks with Chunk Rational Structure</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Junyi Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08795">2510.08795</a></td>
 </tr>
 </tbody></table>

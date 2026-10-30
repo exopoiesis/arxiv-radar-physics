@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">236 papers</span>
+  <span class="paper-count">240 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38195.html">Crystoria: A Large-Scale Crystal Dataset Linking Thermodynamic and Dynamical Stability for Materials AI</a></div></td>
+<td>Ke-Xin Pang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38195">2610.38195</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36542.html">First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers</a></div></td>
+<td>Yuhyun Cha et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36542">2610.36542</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36193.html">Learning the Chronology of Materials Discovery for Synthesizability Prediction</a></div></td>
+<td>Junkil Park et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36193">2610.36193</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34021.html">Deep Scientific Reasoning under Physical Constraints: Structure-Aware Spectrum Prediction</a></div></td>
+<td>Yingheng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34021">2610.34021</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33310.html">Exploring Joint-Embedding Predictive Architectures for Self-Supervised Representation Learning of Powder X-ray Diffraction Patterns</a></div></td>
+<td>Ming-Chiang Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33310">2610.33310</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29895.html">Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models</a></div></td>
@@ -1424,11 +1454,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03038.html">A Normalized Descriptor for Unbiased Screening of Second-Order Nonlinear Optical Materials</a></div></td>
 <td>Aubrey G. J. Nyiri et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03038">2511.03038</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01790.html">A Synthesizability-Guided Pipeline for Materials Discovery</a></div></td>
-<td>Thorben Prein et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01790">2511.01790</a></td>
 </tr>
 </tbody></table>

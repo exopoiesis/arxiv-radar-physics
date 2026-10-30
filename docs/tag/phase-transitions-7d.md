@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31663.html">Phase Transition from Random Features to Fully Trainable Networks</a></div></td>
-<td>Xin He et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31663">2610.31663</a></td>
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36498.html">Learning Multiscale Dynamics of Nanoparticle Self-Assembly</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
+<td>Shuaifeng Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36498">2610.36498</a></td>
 </tr>
 </tbody></table>

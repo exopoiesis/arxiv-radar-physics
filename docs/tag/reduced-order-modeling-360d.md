@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 360d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <strong>360d</strong> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37986.html">Predicting Sparse Observables in Parameterized Unsteady Flows Using Coarse-Mesh Graph Neural Networks</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Brener Ramos et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37986">2610.37986</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35123.html">Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="diffusion-models-360d.html">diffusion-models</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Luca Biferale et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35123">2610.35123</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08693.html">Neural-Operator-Predicted Time-Dependent Reduced Subspaces for Projection-Based Simulation of Nonlinear PDEs</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
@@ -260,11 +272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.18148.html">Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Nithin Somasekharan et al.</td>
 <td><a href="http://arxiv.org/abs/2410.18148">2410.18148</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01535.html">HFNO: an interpretable data-driven decomposition strategy for turbulent flows</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Marco Cayuela et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01535">2511.01535</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">184 papers</span>
+  <span class="paper-count">183 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33140.html">Search for nonresonant production of strongly coupled dark matter in proton-proton collisions at $\sqrt{s}$ = 13 TeV</a></div></td>
+<td> CMS Collaboration</td>
+<td><a href="http://arxiv.org/abs/2610.33140">2610.33140</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26343.html">Neural Bayesian Online Calibration with Deficient Simulators for MADMAX Dark Matter Experiment</a></div></td>
@@ -1106,17 +1112,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03919.html">Revealing Hidden Cosmic Flows through the Zone of Avoidance with Deep Learning</a></div></td>
 <td>Alexandra Dupuy et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03919">2511.03919</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13304.html">Searching for a signature of turnaround in galaxy clusters with convolutional neural networks</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Nikolaos Triantafyllou et al.</td>
-<td><a href="http://arxiv.org/abs/2412.13304">2412.13304</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03707.html">CosmoBench: A Multiscale, Multiview, Multitask Cosmology Benchmark for Geometric Deep Learning</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="cosmology-360d.html">cosmology</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Ningyuan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03707">2507.03707</a></td>
 </tr>
 </tbody></table>

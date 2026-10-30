@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30777.html">One Pretrained Decision Model Is Enough for Training-Free Generalist Graph Anomaly Detection</a></div></td>
-<td>Xinyu Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30777">2610.30777</a></td>
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34635.html">Quantum Anomaly Detection in network traffic using Variational Quantum Classifiers</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a> · <a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
+<td>Mir H M Ilham et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34635">2610.34635</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31478.html">MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models</a></div></td>
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32486.html">Efficient Zero-Shot Video Anomaly Detection via Signal-Aware Adaptive Fusion (SAAF)</a></div></td>
 <td>Khaled Waleed Dawoud et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31478">2610.31478</a></td>
+<td><a href="http://arxiv.org/abs/2610.32486">2610.32486</a></td>
 </tr>
 </tbody></table>

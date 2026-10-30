@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32748.html">On the Identifiability of Hybrid Deep Generative Models: Meta-Learning as a Solution</a></div></td>
+<td>Yubo Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32748">2610.32748</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31260.html">Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels?</a></div></td>
 <td>Ravi Kumar Jha et al.</td>
@@ -1142,11 +1148,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06551.html">Machine learning intermolecular transfer integrals with compact atomic cluster representations</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a></div></td>
 <td>Keerati Keeratikarn et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06551">2511.06551</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01982.html">SEAL - A Symmetry EncourAging Loss for High Energy Physics</a></div><div class="paper-tags"><a href="jet-tagging-360d.html">jet-tagging</a></div></td>
-<td>Pradyun Hebbar et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01982">2511.01982</a></td>
 </tr>
 </tbody></table>

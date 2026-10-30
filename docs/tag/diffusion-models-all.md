@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-models — all</h1>
-  <span class="paper-count">1026 papers</span>
+  <span class="paper-count">1034 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38207.html">Progressive Coupling Method for Diffusion Posterior Sampling in Ptychography</a></div></td>
+<td>Yihan Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38207">2610.38207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38974.html">Fully Quantum Latent Diffusion for Synthetic Malware Records: Effective Denoising, Limited Class Information, and Costly Post-Selection</a></div></td>
+<td>Ban Q. Tran et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38974">2610.38974</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36751.html">Generative Refinement Learning for Temporal Interpolation in Scientific Machine Learning</a></div></td>
+<td>Pu Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36751">2610.36751</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37825.html">Probing Cosmology with Diffusion Models: Memorization, Generalization, and Parameter Estimation</a></div><div class="paper-tags"><a href="cosmological-simulations-all.html">cosmological-simulations</a></div></td>
+<td>Jiaming Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37825">2610.37825</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35123.html">Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a> · <a href="reduced-order-modeling-all.html">reduced-order-modeling</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Luca Biferale et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35123">2610.35123</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35627.html">Local Koopman modes of saddle-point diffusions: exact singular functions and a data-driven estimator</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="koopman-operator-all.html">koopman-operator</a></div></td>
+<td>Xuehao Ding</td>
+<td><a href="http://arxiv.org/abs/2610.35627">2610.35627</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32125.html">Conditional Flow Models for Offline Maximum Entropy Reinforcement Learning</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
+<td>Hao Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32125">2610.32125</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33315.html">MLIPDiff: Guiding Denoising Diffusion Models for Structure-Based Drug Design via Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Yiyan Liao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33315">2610.33315</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31071.html">Conditional Mean Flows for Frequency-Domain Scattered Wavefield Generation</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>

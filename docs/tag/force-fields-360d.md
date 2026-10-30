@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>force-fields — 360d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">91 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <strong>360d</strong> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35204.html">mdRNAcat: A Molecular Dynamics RNA Catalog of REST2 Conformational Ensembles</a></div></td>
+<td>Anton E. Dorn et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35204">2610.35204</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23776.html">Active Learning for Interatomic Potentials: A Review of Uncertainty-Driven Data Efficiency</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>

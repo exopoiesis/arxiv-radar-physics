@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">212 papers</span>
+  <span class="paper-count">213 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33939.html">Stable and Calibrated Latent Force ODE Filters</a></div></td>
+<td>Paul Fischer et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33939">2610.33939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32026.html">RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training</a></div></td>
+<td>Binghang Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32026">2610.32026</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32926.html">ZENO: Nonlinear filtering with Zakai Equation Neural Operators</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Aaditya Prasad et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32926">2610.32926</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30179.html">GeoDiv KAN Solver for Time Fractional Navier Stokes Equations on Complex Domains to Realistic CFD Reconstruction</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="pinns-360d.html">pinns</a> · <a href="rans-360d.html">rans</a></div></td>
@@ -1274,17 +1292,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15177.html">Finding geodesics with the Deep Ritz method</a></div><div class="paper-tags"><a href="sciml-360d.html">sciml</a></div></td>
 <td>Conor Rowan</td>
 <td><a href="http://arxiv.org/abs/2510.15177">2510.15177</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22959.html">Scientific Machine Learning with Kolmogorov-Arnold Networks</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Salah A. Faroughi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22959">2507.22959</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01830.html">Towards Multi-Fidelity Scaling Laws of Neural Surrogates in CFD</a></div><div class="paper-tags"><a href="rans-360d.html">rans</a></div></td>
-<td>Paul Setinek et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01830">2511.01830</a></td>
 </tr>
 </tbody></table>

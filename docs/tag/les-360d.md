@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>les — 360d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <a href="les-30d.html">30d</a> <a href="les-90d.html">90d</a> <strong>360d</strong> <a href="les-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,17 +332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05596.html">AutoHood3D: A Multi-Modal Benchmark for Automotive Hood Design and Fluid-Structure Interaction</a></div></td>
 <td>Vansh Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05596">2511.05596</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01226.html">WindMiL: Equivariant Graph Learning for Wind Loading Prediction</a></div></td>
-<td>Themistoklis Vargiemezis et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01226">2511.01226</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01766.html">Towards a Unified Data-Driven Boundary Layer Momentum Flux Parameterization for Ocean and Atmosphere</a></div></td>
-<td>Renaud Falga et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01766">2511.01766</a></td>
 </tr>
 </tbody></table>

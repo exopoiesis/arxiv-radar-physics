@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>inductive-bias — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,15 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31260.html">Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels?</a></div></td>
-<td>Ravi Kumar Jha et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31260">2610.31260</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31330.html">Quantum Fokker-Planck solvers as trainable generative models</a></div></td>
-<td>Tariq Mahassen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31330">2610.31330</a></td>
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32748.html">On the Identifiability of Hybrid Deep Generative Models: Meta-Learning as a Solution</a></div></td>
+<td>Yubo Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32748">2610.32748</a></td>
 </tr>
 </tbody></table>

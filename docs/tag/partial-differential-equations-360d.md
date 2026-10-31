@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">775 papers</span>
+  <span class="paper-count">774 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39855.html">Probabilistic Meshless Methods on Manifolds</a></div></td>
+<td>Federico Pavesi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39855">2610.39855</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40201.html">An Adaptive Transferable Neural Network for Partial Differential Equations with Anisotropic or Sharp Solutions</a></div></td>
+<td>Jiacong Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40201">2610.40201</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40449.html">Reinforcement learning for control of partial differential equations</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="flow-control-360d.html">flow-control</a></div></td>
+<td>Nicolò Botteghi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40449">2610.40449</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38218.html">HotPOT: Operator Transformer with Heterogeneous Physics Experts for Large-Scale PDE Pre-training</a></div></td>
@@ -4640,29 +4658,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03797.html">Learning Paths for Dynamic Measure Transport: A Control Perspective</a></div></td>
 <td>Aimee Maurais et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03797">2511.03797</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00316.html">Surrogate modeling of Cellular-Potts Agent-Based Models as a segmentation task using the U-Net neural network architecture</a></div></td>
-<td>Tien Comlekoglu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00316">2505.00316</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07003.html">End-to-End Probabilistic Framework for Learning with Hard Constraints</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Utkarsh Utkarsh et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07003">2506.07003</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00032.html">From Uniform to Adaptive: General Skip-Block Mechanisms for Efficient PDE Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Lei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00032">2511.00032</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02962.html">Hybrid DeepONet Surrogates for Multiphase Flow in Porous Media</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Ezequiel S. Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02962">2511.02962</a></td>
 </tr>
 </tbody></table>

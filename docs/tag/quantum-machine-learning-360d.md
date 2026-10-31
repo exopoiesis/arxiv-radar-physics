@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">490 papers</span>
+  <span class="paper-count">489 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39350.html">Provably efficient experimental classification of quantum data with quantum kernels</a></div></td>
 <td>Keitaro Anai et al.</td>
 <td><a href="http://arxiv.org/abs/2610.39350">2610.39350</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39980.html">Benchmarking Quantum Neural Networks Developed for MBHB Coalescence in the Context of LISA Space Mission</a></div></td>
+<td>Maria-Catalina Isfan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39980">2610.39980</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-27</td>
@@ -2942,17 +2948,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03320.html">Influence of Data Dimensionality Reduction Methods on the Effectiveness of Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Aakash Ravindra Shinde et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03320">2511.03320</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02479.html">Secure PAC Learning: Sample-Budget Laws and Quantum Data-Path Admissibility</a></div></td>
-<td>Jeongho Bang</td>
-<td><a href="http://arxiv.org/abs/2511.02479">2511.02479</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02602.html">Trustworthy Quantum Machine Learning: A Roadmap for Reliability, Robustness, and Security in the NISQ Era</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Ferhat Ozgur Catak et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02602">2511.02602</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">130 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39855.html">Probabilistic Meshless Methods on Manifolds</a></div></td>
+<td>Federico Pavesi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39855">2610.39855</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40201.html">An Adaptive Transferable Neural Network for Partial Differential Equations with Anisotropic or Sharp Solutions</a></div></td>
+<td>Jiacong Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40201">2610.40201</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40449.html">Reinforcement learning for control of partial differential equations</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="flow-control-90d.html">flow-control</a></div></td>
+<td>Nicolò Botteghi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40449">2610.40449</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38218.html">HotPOT: Operator Transformer with Heterogeneous Physics Experts for Large-Scale PDE Pre-training</a></div></td>
@@ -776,29 +794,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20404.html">Robust Discovery of Coarse-Grained Continuum Equations from Microscopic Dynamics</a></div><div class="paper-tags"><a href="equation-discovery-90d.html">equation-discovery</a></div></td>
 <td>Partha Sarathi Mondal et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20404">2608.20404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00400.html">Modeling Unknown Nonlocal PDE Systems via Flow Map Learning</a></div></td>
-<td>Zhongshu Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00400">2608.00400</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00723.html">Hyperbolic-Tangent Shocks in a Lossy Nonlinear Transmission Line</a></div></td>
-<td>Eugene Kogan</td>
-<td><a href="http://arxiv.org/abs/2608.00723">2608.00723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00760.html">Variational Inference Using a Differentiable Multigrid Linear Solver</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Andrés Ramírez et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00760">2608.00760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00850.html">Adaptive Quantum Physics-Informed Neural Networks for Differential Equations with Applications to Fluid Dynamics</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Fabio Pereira dos Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00850">2608.00850</a></td>
 </tr>
 </tbody></table>

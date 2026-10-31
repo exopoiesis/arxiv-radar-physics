@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">524 papers</span>
+  <span class="paper-count">521 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3140,23 +3140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04567.html">Machine Learning for Electron-Scale Turbulence Modeling in W7-X</a></div></td>
 <td>Ionut-Gabriel Farcas et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04567">2511.04567</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07003.html">End-to-End Probabilistic Framework for Learning with Hard Constraints</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Utkarsh Utkarsh et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07003">2506.07003</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02602.html">Trustworthy Quantum Machine Learning: A Roadmap for Reliability, Robustness, and Security in the NISQ Era</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Ferhat Ozgur Catak et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02602">2511.02602</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03065.html">Updated flexible global parametrization of generalized parton distributions from elastic and deep inelastic inclusive scattering data</a></div><div class="paper-tags"><a href="lattice-qcd-360d.html">lattice-qcd</a></div></td>
-<td>Zaki Panjsheeri et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03065">2511.03065</a></td>
 </tr>
 </tbody></table>

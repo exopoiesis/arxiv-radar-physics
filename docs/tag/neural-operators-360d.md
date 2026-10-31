@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39580.html">Learning Kolmogorov Backward Operators for Spectral Analysis and Forecasting: A Data-Driven Variational Galerkin Framework</a></div></td>
+<td>Yuanchao Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39580">2610.39580</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40528.html">NEOPIC: A Neural Operator Framework for Particle-based Kinetic Plasma Simulations</a></div></td>
+<td>Sriramkrishnan Muralikrishnan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40528">2610.40528</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38790.html">Safeguarded Neurally-Accelerated Preconditioning (SNAP) framework for Nonlinear Optimization</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Youngkyu Lee et al.</td>
@@ -2504,17 +2516,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09054.html">NeurOp-Diff:Continuous Remote Sensing Image Super-Resolution via Neural Operator Diffusion</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
 <td>Zihao Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2501.09054">2501.09054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00032.html">From Uniform to Adaptive: General Skip-Block Mechanisms for Efficient PDE Neural Operators</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Lei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00032">2511.00032</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02962.html">Hybrid DeepONet Surrogates for Multiphase Flow in Porous Media</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Ezequiel S. Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02962">2511.02962</a></td>
 </tr>
 </tbody></table>

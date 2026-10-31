@@ -4,21 +4,25 @@
   total: 804
   group: generative-models
 - name: neural-operators
-  count: 46
-  total: 659
+  count: 48
+  total: 661
   group: scientific-machine-learning
 - name: partial-differential-equations
-  count: 45
-  total: 1439
+  count: 48
+  total: 1442
   group: dynamical-systems
 - name: quantum-machine-learning
-  count: 43
-  total: 948
+  count: 44
+  total: 949
   group: quantum-physics
 - name: diffusion-models
-  count: 41
-  total: 1034
+  count: 42
+  total: 1035
   group: generative-models
+- name: dynamical-systems
+  count: 41
+  total: 1190
+  group: dynamical-systems
 - name: physics-informed-neural-networks
   count: 38
   total: 1101
@@ -31,10 +35,6 @@
   count: 38
   total: 923
   group: generative-models
-- name: dynamical-systems
-  count: 37
-  total: 1186
-  group: dynamical-systems
 - name: inverse-problems
   count: 36
   total: 719
@@ -84,21 +84,21 @@
   total: 327
   group: generative-models
 - name: electronic-structure
-  count: 13
-  total: 212
+  count: 14
+  total: 213
   group: materials-science
 - name: dark-matter
   count: 12
   total: 370
   group: astrophysics
+- name: inductive-bias
+  count: 12
+  total: 251
+  group: scientific-machine-learning
 - name: astrophysics
   count: 11
   total: 236
   group: astrophysics
-- name: inductive-bias
-  count: 11
-  total: 250
-  group: scientific-machine-learning
 - name: dark-energy
   count: 10
   total: 211
@@ -115,6 +115,10 @@
   count: 9
   total: 311
   group: fluid-dynamics
+- name: navier-stokes-equations
+  count: 9
+  total: 160
+  group: fluid-dynamics
 - name: scientific-machine-learning
   count: 9
   total: 335
@@ -123,10 +127,6 @@
   count: 8
   total: 263
   group: scientific-machine-learning
-- name: navier-stokes-equations
-  count: 8
-  total: 159
-  group: fluid-dynamics
 - name: rans
   count: 8
   total: 130
@@ -167,9 +167,17 @@
   count: 6
   total: 281
   group: materials-science
+- name: quantum-error-correction
+  count: 6
+  total: 88
+  group: quantum-physics
 - name: schr-dinger-equation
   count: 6
   total: 101
+  group: quantum-physics
+- name: variational-quantum-algorithms
+  count: 6
+  total: 103
   group: quantum-physics
 - name: crystal-structure-prediction
   count: 5
@@ -183,14 +191,10 @@
   count: 5
   total: 71
   group: fluid-dynamics
-- name: quantum-error-correction
-  count: 5
-  total: 87
-  group: quantum-physics
-- name: variational-quantum-algorithms
-  count: 5
-  total: 102
-  group: quantum-physics
+- name: flow-control
+  count: 4
+  total: 50
+  group: fluid-dynamics
 - name: gravitational-waves
   count: 4
   total: 140
@@ -199,6 +203,10 @@
   count: 4
   total: 74
   group: particle
+- name: koopman-operator
+  count: 4
+  total: 153
+  group: dynamical-systems
 - name: qaoa
   count: 4
   total: 55
@@ -207,6 +215,14 @@
   count: 4
   total: 81
   group: quantum-physics
+- name: reduced-order-modeling
+  count: 4
+  total: 74
+  group: dynamical-systems
+- name: rom
+  count: 4
+  total: 97
+  group: dynamical-systems
 - name: cosmological-simulations
   count: 3
   total: 50
@@ -219,10 +235,6 @@
   count: 3
   total: 36
   group: particle
-- name: flow-control
-  count: 3
-  total: 49
-  group: fluid-dynamics
 - name: galaxy-formation
   count: 3
   total: 80
@@ -235,10 +247,6 @@
   count: 3
   total: 44
   group: climate
-- name: koopman-operator
-  count: 3
-  total: 152
-  group: dynamical-systems
 - name: ligo
   count: 3
   total: 150
@@ -251,14 +259,6 @@
   count: 3
   total: 30
   group: fluid-dynamics
-- name: reduced-order-modeling
-  count: 3
-  total: 73
-  group: dynamical-systems
-- name: rom
-  count: 3
-  total: 96
-  group: dynamical-systems
 - name: equivariant-neural-networks
   count: 2
   total: 34
@@ -279,6 +279,10 @@
   count: 2
   total: 14
   group: particle
+- name: vqe
+  count: 2
+  total: 57
+  group: quantum-physics
 - name: ai4science
   count: 1
   total: 39
@@ -331,10 +335,6 @@
   count: 1
   total: 47
   group: fluid-dynamics
-- name: vqe
-  count: 1
-  total: 56
-  group: quantum-physics
 - name: astrostatistics
   count: 0
   total: 0

@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32748.html">On the Identifiability of Hybrid Deep Generative Models: Meta-Learning as a Solution</a></div></td>
-<td>Yubo Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32748">2610.32748</a></td>
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39679.html">PairWatch: Pair-Aware Anomaly Transformer for Detecting Adversarial Rendezvous in Public Satellite Catalogs</a></div></td>
+<td>Young Eun Kwon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39679">2610.39679</a></td>
 </tr>
 </tbody></table>

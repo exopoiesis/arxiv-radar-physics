@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40561.html">Grow, Compress, and Perturb: A Hybrid Quantum-Classical Pathway to Scalable Quantum Chemistry on Quantum Computers</a></div><div class="paper-tags"><a href="vqe-360d.html">vqe</a></div></td>
+<td>Hugo D. Nogueira et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40561">2610.40561</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37843.html">Where the Error Lives: Spectral Representations of Learned Kohn-Sham Hamiltonians</a></div></td>
 <td>Fang Sun et al.</td>
@@ -734,11 +740,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07771.html">Quantum-centric machine learning for molecular dynamics</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
 <td>Yanxian Tao et al.</td>
 <td><a href="http://arxiv.org/abs/2511.07771">2511.07771</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03061.html">Modal Backflow Neural Quantum States for Anharmonic Vibrational Calculations</a></div></td>
-<td>Lexin Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03061">2511.03061</a></td>
 </tr>
 </tbody></table>

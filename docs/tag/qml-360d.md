@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qml — 360d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <strong>360d</strong> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -962,11 +962,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03320.html">Influence of Data Dimensionality Reduction Methods on the Effectiveness of Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Aakash Ravindra Shinde et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03320">2511.03320</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02602.html">Trustworthy Quantum Machine Learning: A Roadmap for Reliability, Robustness, and Security in the NISQ Era</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Ferhat Ozgur Catak et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02602">2511.02602</a></td>
 </tr>
 </tbody></table>

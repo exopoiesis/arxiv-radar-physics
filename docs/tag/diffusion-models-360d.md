@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40383.html">Composing and Steering Diffusion Models with Generalized Feynman-Kac Correctors</a></div></td>
+<td>Wael Mattar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40383">2610.40383</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38207.html">Progressive Coupling Method for Diffusion Posterior Sampling in Ptychography</a></div></td>
 <td>Yihan Qiu et al.</td>
@@ -3314,11 +3320,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03112.html">Accelerating inverse materials design using generative diffusion models with reinforcement learning</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Junwu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03112">2511.03112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02462.html">KAO: Kernel-Adaptive Optimization in Diffusion for Satellite Image</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Teerapong Panboonyuen</td>
-<td><a href="http://arxiv.org/abs/2511.02462">2511.02462</a></td>
 </tr>
 </tbody></table>

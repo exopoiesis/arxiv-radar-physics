@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rans — 360d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <strong>360d</strong> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -458,11 +458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03756.html">Bifidelity Karhunen-Loève Expansion Surrogate with Active Learning for Random Fields</a></div></td>
 <td>Aniket Jivani et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03756">2511.03756</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16502.html">dApps: Enabling Real-Time AI-Based Open RAN Control</a></div></td>
-<td>Andrea Lacava et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16502">2501.16502</a></td>
 </tr>
 </tbody></table>

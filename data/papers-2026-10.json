@@ -26716,5 +26716,450 @@
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2026-10-29"
+ },
+ "2610.39522": {
+  "abstract": "Causal analysis characterizes directional dependencies in dynamical systems, while such information is not typically used to inform reduced-order modeling of unsteady flows. This study proposes a Granger Causality-informed Dynamic Mode Decomposition (GC-DMD) framework that incorporates such information into data-driven modeling and modal analysis of high-dimensional flow data. The framework uses conditional Granger causality estimates to regularize the identification of the DMD operator, preferentially suppressing weakly supported interactions while preserving dynamically relevant couplings. This regularization promotes sparse operators informed by directional predictive dependencies, leading to improved predictive accuracy and identification of dynamically relevant modes. GC-DMD is evaluated on a linear system with a known coupling structure, lid-driven cavity flows with varying dynamical complexity, and a broadband transonic turbulent jet. Compared with standard DMD, GC-DMD improves operator identification accuracy in the linear benchmark and improves the robustness of the identified spectrum while reducing long-horizon prediction errors in the cavity flows. For the turbulent jet, it yields a sparser operator with improved prediction accuracy. These results demonstrate the potential of incorporating causality information to guide the identification of sparse, predictive reduced-order models of complex flows. The \\href{https://github.com/JiaqingKou/GC-DMD-Granger-Causality-informed-DMD}{source codes} \\footnote{https://github.com/JiaqingKou/GC-DMD-Granger-Causality-informed-DMD} from this research are publicly available in the GitHub repository.",
+  "authors": [
+   "Yihua Pan",
+   "Jiaqing Kou"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Yihua Pan",
+  "pdf_url": "http://arxiv.org/pdf/2610.39522",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-10-29",
+  "tags": [
+   "dynamical-systems",
+   "reduced-order-modeling"
+  ],
+  "title": "Causality-informed dynamic mode decomposition for unsteady flow analysis",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.39577": {
+  "abstract": "This paper introduces a hybrid quantum framework for training Variational Quantum Algorithms (VQAs) aimed at addressing the fundamental problem of entanglement detection using adiabatic quantum computing. This problem is of foundational significance in quantum information science and has been approached through both classical and quantum methodologies. We propose an adiabatic-inspired optimization strategy for training VQAs, which combines a discretization of the parameter space with a hierarchical segmentation scheme. The optimization problem is formulated as a Quadratic Unconstrained Binary Optimization (QUBO) model to leverage the capabilities of quantum annealing. Preliminary results are compared against classical neural networks and conventional VQA training techniques. The findings aim to stimulate further investigation and discussion within the scientific community regarding the efficacy and applicability of the proposed approach.",
+  "authors": [
+   "E. Acosta",
+   "C. Cano",
+   "D. Manzano",
+   "G. Botella"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "7 pages, 8 figures",
+  "first_author": "E. Acosta",
+  "pdf_url": "http://arxiv.org/pdf/2610.39577",
+  "primary_category": "quant-ph",
+  "published": "2026-10-29",
+  "tags": [
+   "variational-quantum-algorithms"
+  ],
+  "title": "Adiabatic training of VQAs for entanglement detection",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.39580": {
+  "abstract": "For a time-homogeneous Markov process, the fixed-lag solution operator \\( (T_τf)(x)=\\mathbb E[f(X_{t+τ})\\mid X_t=x] \\) of the Kolmogorov backward equation evolves observables linearly and deterministically, even when the dynamics are stochastic. We approximate this operator using a two-stage method where we first approximate this operator directly from data, without knowledge of the governing equation (e.g., Fourier Neural Operator), and then compress the Galerkin projection onto a finite-dimensional observable space that is fixed in advance or selected variationally. The error analysis traces the learning error of the estimator, the sampling error of the Galerkin inner products, and the invariance and reconstruction properties of the observable space to the computed spectra and forecasts. The sampling error enters only through a multiplicative factor. Near an isolated spectral cluster, the invariance defect of a subspace controls its distance from the target invariant subspace. The forecast error is controlled by the one-step error of the reduced model and the projection error of the observable; when the measure is invariant and the reduced model preserves constants and is stable on mean-zero observables, the bound is uniform in the horizon. For deterministic dynamics, a learning rate for Fourier neural operators (FNOs) gives one explicit bound for the learning error. Numerical experiments illustrate spectral approximation and forecasting, including long-rollout stability and a comparison with extended dynamic mode decomposition (EDMD) when fewer transition pairs than basis functions are observed.",
+  "authors": [
+   "Yuanchao Xu",
+   "Claire Valva",
+   "Ben Gao",
+   "Isao Ishikawa"
+  ],
+  "categories": [
+   "math.DS",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Yuanchao Xu",
+  "pdf_url": "http://arxiv.org/pdf/2610.39580",
+  "primary_category": "math.DS",
+  "published": "2026-10-29",
+  "tags": [
+   "neural-operators"
+  ],
+  "title": "Learning Kolmogorov Backward Operators for Spectral Analysis and Forecasting: A Data-Driven Variational Galerkin Framework",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.39679": {
+  "abstract": "Documented adversarial rendezvous and proximity operations (RPO) appear in the public TLE catalog, yet existing TLE-based maneuver detectors treat each satellite in isolation - mistaking routine station-keeping for adversarial behavior and missing RPO entirely when the target stays passive. We argue that the right unit is the satellite pair and the right inductive bias is the kinematic symmetry between approach and recede. We instantiate both with PairWatch, a pair-aware AnomalyTransformer whose attention prior is augmented with a sign-symmetric geometric similarity over relative-motion features, and release an open benchmark of 359 windows from public Space-Track data spanning 11 documented RPO events, 100 Clohessy-Wiltshire synthetic adversarial windows, and a five-class hard-negative set culminating in the TerraSAR-X / TanDEM-X helix formation. Under the deployment-relevant criterion of a single threshold separating real RPO from operational negatives - a necessary property for catalog-scale screening - PairWatch is the only model that succeeds, with the property holding in 100% of bootstrap resamples versus 0-19.5% for three neural baselines and under 0.1% for four physics-informed detectors. A per-source analysis exposes a shortcut-learning failure mode of single-number AUROC: simpler baselines attain higher overall AUROC by shortcutting a synthetic-vs-formation contrast with no operational meaning; removing this single cell flips the test ranking entirely (LSTM-AD), and these baselines fail the security-relevant task the benchmark was built to measure.",
+  "authors": [
+   "Young Eun Kwon",
+   "Ji Won Yoon"
+  ],
+  "categories": [
+   "cs.CR"
+  ],
+  "comment": "5 pages, 4 tables. Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM '26), Rome, Italy. Code and benchmark: https://github.com/e9uation/PairWatch",
+  "first_author": "Young Eun Kwon",
+  "pdf_url": "http://arxiv.org/pdf/2610.39679",
+  "primary_category": "cs.CR",
+  "published": "2026-10-29",
+  "tags": [
+   "inductive-bias"
+  ],
+  "title": "PairWatch: Pair-Aware Anomaly Transformer for Detecting Adversarial Rendezvous in Public Satellite Catalogs",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.39845": {
+  "abstract": "We propose a semigroup-aware structured kernel neural operator for source-driven evolution PDEs. Unlike generic time-conditioned kernel models, the proposed formulation represents temporal dependence through a latent exponential propagator \\(e^{tA_θ}\\), where \\(A_θ\\) is a learned latent generator. This provides a structured transition from a non-ODE kernel representation to an ODE-inspired kernel operator whose latent temporal evolution satisfies the composition principle of evolution semigroups. For time-dependent forcing terms, a direct kernel-based evaluation requires repeated quadrature over delayed kernel evaluations. To address this computational bottleneck, we derive a latent-first reformulation of the source term: the forcing field is projected onto the kernel-induced latent space, where its accumulated effect is represented as the solution of a forced linear latent dynamical system. For a fixed learned kernel, this reformulation is exact. The resulting system can then be integrated using a \\(φ_1\\)-based exponential integrator, yielding a source-evaluation path that is structurally aligned with the learned latent propagator. The resulting framework combines geometry- and physics-conditioned low-rank kernel factorization with alternative source-evaluation paths based on either explicit Duhamel quadrature or latent exponential integration. Dissipativity constraints on the latent generator and identity-preserving corrections near the initial time are optional architectural components. Numerical experiments on advection-iffusion-reaction (ADR) problems compare the non-ODE and semigroup-aware formulations, evaluate the quadrature and \\(φ_1\\) source paths, and assess predictive accuracy and computational cost.",
+  "authors": [
+   "Naseem Abbas",
+   "Vittorio Colao",
+   "Davide Macrì",
+   "Matthieu Barreau",
+   "William Spataro"
+  ],
+  "categories": [
+   "math.NA",
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Naseem Abbas",
+  "pdf_url": "http://arxiv.org/pdf/2610.39845",
+  "primary_category": "math.NA",
+  "published": "2026-10-29",
+  "tags": [],
+  "title": "A Semigroup-Aware Kernel Neural Operator with Latent Exponential Integration for Forced PDEs",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.39855": {
+  "abstract": "Probabilistic meshless methods solve partial differential equations (PDEs) by placing a Gaussian process prior on the solution and conditioning it on the PDE at a finite set of collocation nodes. The posterior provides both an approximation of the solution and a Bayesian quantification of its error. While these methods are well established on Euclidean domains, their extension to manifolds lacks, to our knowledge, any convergence analysis. We extend them to compact manifolds and study their convergence in two settings. First, for known manifolds whose Laplace-Beltrami eigenpairs are available, the prior can be evaluated exactly, but the PDE operator generally cannot be applied to it in closed form. We replace this operator by a standard generalized finite difference discretization on a point cloud sampled from the manifold, and show that the resulting method is consistent at the points of the cloud, at a rate governed by their fill distance. Second, for implicit manifolds, known only through a point cloud, both the prior and the operator must be approximated. We propose a new generalized finite difference scheme with a free stencil radius, and show that it retains the consistency of the standard construction while controlling the growth of its coefficients, and that an appropriate radius yields uniform convergence of the discrete Gram matrix. In both settings, we derive error bounds for the posterior mean which separate the collocation error intrinsic to the method from the error due to approximating the operator and, for implicit manifolds, the prior. Experiments on the circle, the sphere and the flat torus confirm our theoretical claims. On real-world cortical thickness data, our approach attains the accuracy of established discretizations, while conditioning on fewer than a tenth of the observations and providing a credible interval at every vertex.",
+  "authors": [
+   "Federico Pavesi",
+   "Noémie Jaquier",
+   "Antonio Candelieri"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Federico Pavesi",
+  "pdf_url": "http://arxiv.org/pdf/2610.39855",
+  "primary_category": "stat.ML",
+  "published": "2026-10-29",
+  "tags": [
+   "partial-differential-equations"
+  ],
+  "title": "Probabilistic Meshless Methods on Manifolds",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.39897": {
+  "abstract": "Learning continuous-time dynamical systems from data is an active area of research. The Koopman formalism is often used here, because it is a flexible approach that is informative about the system's fundamental properties. The formalism represents dynamical systems through linear operators acting on a suitable function space. A practical difficulty arising in the numerical approximation of Koopman operators is the choice of a ``dictionary'', meaning an effective finite-dimensional representation of the function space. In this paper, we focus on learning dynamical systems in continuous-time, and so we consider numerical approximations of the Koopman generator instead of the Koopman operator. Our main contribution is a data-driven random-feature method to obtain a parsimonious and effective function representation for Galerkin approximation methods such as gEDMD. The representation we construct is data-informed, which allows us to improve upon data-agnostic methods. We empirically demonstrate the suitability of our method for forecasting tasks and system analysis. The numerical experiments show that our approach is accurate, and faster than iterative optimization. Further, we prove convergence of our approximation of the vector field and the resulting trajectories. In addition to the numerical results, we also make theoretical contributions, including a general convergence criterion for the semigroup generated by the gEDMD approximation and a counterexample showing that gEDMD does not generally preserve exponential boundedness. With our contribution, we advance the frontier of efficiently learning continuous-time dynamics from data, towards interpretable and mathematically robust modelling based on the Koopman framework.",
+  "authors": [
+   "Ana Čukarska",
+   "Maximilian Gollwitzer",
+   "Viola Muning Li",
+   "Vladyslav Fediukov",
+   "Zahra Monfared",
+   "Felix Dietrich"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Ana Čukarska",
+  "pdf_url": "http://arxiv.org/pdf/2610.39897",
+  "primary_category": "cs.LG",
+  "published": "2026-10-29",
+  "tags": [
+   "dynamical-systems",
+   "koopman-operator"
+  ],
+  "title": "Data-driven Random-feature Approximation of Koopman Generators of Nonlinear Continuous-time Systems",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.39980": {
+  "abstract": "Machine learning (ML) techniques are increasingly explored to analyse gravitational wave (GW) data expected from the Laser Interferometer Space Antenna (LISA). At the same time, advances in quantum computing have stimulated interest in quantum machine learning as a potential alternative to conventional approaches. We investigate the applicability of quantum, hybrid quantum-classical, and classical ML models to two tasks relevant for LISA observations of massive black hole binaries: GW signal detection and merger prediction. Using the Sangria dataset from the LISA Data Challenge, we benchmark several quantum architectures, including variational quantum classifiers (VQCs), post VQC hybrid models, quantum kernel methods, data reuploading classifiers, and quantum long short-term memory (QLSTM) networks, against classical support vector machines, multilayer perceptrons, recurrent neural networks, and LSTM networks. The models are trained on labelled data derived from the Sangria training dataset and evaluated on the corresponding blind dataset. For signal detection, several quantum models match or outperform classical baselines. In particular, the best performing hybrid post VQC architecture correctly identifies all signal samples in the blind dataset, while the standard VQC and data reuploading classifier achieve competitive detection rates. For merger detection and coalescence time estimation, however, the standard VQC emerges as the most reliable model, successfully localising all detected merger events with the lowest localisation errors. We further analyse the trade-offs between predictive performance, model complexity, and quantum circuit resources. Our results indicate that, although no universal quantum advantage is observed, selected quantum models can provide practical benefits for specific GW analysis tasks and represent promising candidates for future LISA data analysis pipelines.",
+  "authors": [
+   "Maria-Catalina Isfan",
+   "Laurentiu-Ioan Caramete",
+   "Ana Caramete"
+  ],
+  "categories": [
+   "astro-ph.CO",
+   "astro-ph.IM",
+   "gr-qc",
+   "physics.data-an"
+  ],
+  "comment": "Submitted to Classical and Quantum Gravity",
+  "first_author": "Maria-Catalina Isfan",
+  "pdf_url": "http://arxiv.org/pdf/2610.39980",
+  "primary_category": "astro-ph.CO",
+  "published": "2026-10-29",
+  "tags": [
+   "quantum-machine-learning"
+  ],
+  "title": "Benchmarking Quantum Neural Networks Developed for MBHB Coalescence in the Context of LISA Space Mission",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.40201": {
+  "abstract": "Transferable neural network (TransNet) has demonstrated great potential for solving partial differential equations (PDEs) with high accuracy and efficiency. However, it struggles significantly when dealing with PDEs featuring anisotropy or sharp solutions. In this work, we propose an adaptive transferable neural network (A-TransNet), a novel machine learning framework that adaptively expands neurons in regions with large solution gradients to effectively capture complex solution behaviors. Instead of relying on training or random sampling, the location parameters of newly added neurons are determined by integrating the active subspaces method and local gradient analysis based on posterior gradient information. This adaptive strategy enables neurons to be allocated where they are most needed, thereby improving the resolution of anisotropic and sharp features without additional computational costs. Moreover, the shape parameters of new neurons are automatically determined from the neuron density induced by their locations, further enhancing the network representation capability. An iterative neuron expansion strategy is developed, together with rigorous analysis of stability, a posteriori error estimation, and convergence of the proposed A-TransNet method. Extensive numerical experiments on challenging PDE problems with anisotropic and sharp solutions demonstrate that A-TransNet achieves superior accuracy, efficiency, and robustness compared with existing methods.",
+  "authors": [
+   "Jiacong Qu",
+   "Liyong Zhu"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Jiacong Qu",
+  "pdf_url": "http://arxiv.org/pdf/2610.40201",
+  "primary_category": "math.NA",
+  "published": "2026-10-29",
+  "tags": [
+   "partial-differential-equations"
+  ],
+  "title": "An Adaptive Transferable Neural Network for Partial Differential Equations with Anisotropic or Sharp Solutions",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.40383": {
+  "abstract": "Diffusion models have become the leading paradigm in generative modeling, yet many applications require sampling from distributions that are not those of any single pretrained model, but are instead defined through combinations of several models, possibly tilted toward high values of a downstream reward. Naively combining the scores of the models yields incorrect samples, while existing corrections are restricted to specific families of targets. In this work, we introduce the generalized Feynman-Kac correctors (GFKC), a principled framework for sampling from an arbitrary target function of several pretrained diffusion models. We show that the geometric interpolation between an arbitrary initial function and the target function of the models satisfies a Feynman--Kac partial differential equation, and derive its potential in closed form. To evaluate this potential during generation, we further generalize the log-probability ODE to track the density of each model along trajectories driven by a different velocity field. The resulting algorithm operates entirely in the log domain, incorporates reward-based steering at no additional conceptual cost, and corrects the generation on the fly, without retraining or fine-tuning the models. We validate the method on analytic Gaussian models, where it closely matches the ground-truth targets, and on diffusion models trained on MNIST, where it samples from non-trivial combinations of the models and enables effective steering.",
+  "authors": [
+   "Wael Mattar",
+   "Daniel Freedman"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Wael Mattar",
+  "pdf_url": "http://arxiv.org/pdf/2610.40383",
+  "primary_category": "cs.LG",
+  "published": "2026-10-29",
+  "tags": [
+   "diffusion-models"
+  ],
+  "title": "Composing and Steering Diffusion Models with Generalized Feynman-Kac Correctors",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.40384": {
+  "abstract": "Neural networks are commonly used to learn the solution operators of PDEs such as the Navier-Stokes equations and viscous conservation laws. On standard benchmarks, moderately sized and often shallow networks achieve small errors that decay at algebraic rates with the network size. These observations are not well described by the current approximation theory, which treats the solution operator as a generic map and derives worst-case bounds over large classes of operators. We show that the structure of the equations and their properties explain the observed behavior. For semilinear parabolic equations, the approximation costs separate into two terms, where one is controlled by an invariant of the governing law and the other by the data. The constitutive law can be parameterized as a single block whose size for accuracy $η$ is $O(η^{-pχ}\\logη^{-1})$ for every $p>p_f$, where the structural exponent $p_f$ only depends on the computation graph of $f$. This exponent does not depend on the dimension and is in fact zero for polynomial laws, so for the two-dimensional Navier-Stokes equations the nonlinear block costs only $O(\\logη^{-1})$ parameters. The data enters through encoding layers with a bounded number of learned weights per mode, so neither term grows with the grid resolution or the time step. While the analysis only uses the max-norm error of the pointwise block, we show that one obtains approximation bounds in a stronger norm along the whole trajectory. For viscous Hamilton-Jacobi equations with a $C^s$ Hamiltonian, the approximation requires on the order of $η^{-1/s}$ parameters, and we prove a matching lower bound, up to logarithms. This shows that solution operators for this class of problems have low structural complexity, even though they are nonlinear maps between infinite-dimensional spaces.",
+  "authors": [
+   "Hayden Schaeffer"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Hayden Schaeffer",
+  "pdf_url": "http://arxiv.org/pdf/2610.40384",
+  "primary_category": "math.NA",
+  "published": "2026-10-29",
+  "tags": [
+   "navier-stokes-equations"
+  ],
+  "title": "Neural Network Approximation and Structural Complexity of Semilinear PDEs with Lower Bounds",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.40426": {
+  "abstract": "This study introduces a new approach for building surrogate models, in the form of Reduced Order Models (ROMs), for PDE-constrained optimization. A physics-constrained data-driven framework is developed to transform large-scale non-linear optimization problems into ROM-constrained optimization problems. Unlike conventional methods, which suffer from instability of the forward sensitivity function, the proposed approach projects optimization problems to system dynamics optimization problems in Hilbert space to increase stability, diminish memory requirements, and lower computational cost. The present approach is applied to shape optimization of a 2D flapping wing section at $Re=2,400$, where the non-linear interaction of the wing with fluid includes chaotic flow structures. It is shown that the proposed approach can significantly enhance the time-averaged thrust force and propulsive efficiency by 37\\% and 40\\%, respectively. We also tested this approach for a 3D flapping wing and the results reveal the potential of the proposed approach for more complex optimal designs in the aerospace industry.",
+  "authors": [
+   "Hamid R. Karbasian",
+   "Brian C. Vermeire"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "math.DS",
+   "math.OC",
+   "nlin.CD"
+  ],
+  "comment": null,
+  "first_author": "Hamid R. Karbasian",
+  "pdf_url": "http://arxiv.org/pdf/2610.40426",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-10-29",
+  "tags": [
+   "rom"
+  ],
+  "title": "Aerodynamic Shape Optimization of unsteady flapping wings",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.40449": {
+  "abstract": "Controlling dynamical systems governed by partial differential equations (PDEs) remains a challenging task in scientific computing, owing to high-dimensional state spaces, distributed actuation, nonlinear dynamics, and stringent real-time constraints. Reinforcement learning (RL) has emerged as a promising paradigm for synthesizing feedback controllers that adapt to varying operating conditions and can be deployed efficiently in real-time. This review provides a unified perspective on RL and PDE-constrained optimization, and surveys model-free, model-based, and multi-agent RL approaches to PDE control, with particular emphasis on sample efficiency, generalization across parametric variations, and scalability to high-dimensional problems. Two demonstrative examples, the stabilization of a chaotic system and a flow control problem, illustrate the performance and pitfalls of RL agents in practice. Finally, we discuss evaluation and benchmarking practices, current limitations, and open research directions toward reliable, data-efficient, and scalable RL for scientific computing.",
+  "authors": [
+   "Nicolò Botteghi",
+   "Matteo Tomasetto",
+   "Andrea Manzoni"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Nicolò Botteghi",
+  "pdf_url": "http://arxiv.org/pdf/2610.40449",
+  "primary_category": "cs.LG",
+  "published": "2026-10-29",
+  "tags": [
+   "dynamical-systems",
+   "flow-control",
+   "partial-differential-equations"
+  ],
+  "title": "Reinforcement learning for control of partial differential equations",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.40471": {
+  "abstract": "The rapid growth in the size of state-of-the-art machine-learning (ML) models has led to increasing compute demands, spurring the development of energy-efficient hardware accelerators. Physical systems trained to perform ML inference, known as physical neural networks, have been proposed as accelerators in part because of their potential to be highly energy efficient. However, the ML inference accuracies reported in most investigations of physical neural networks have been substantially below the state of the art for conventional digital neural networks. In this work, we show in simulation studies that by applying modern ML training practices, including model compression, various candidate physical neural networks based on nonlinear dynamical systems can achieve accuracies as high as 99.2% on MNIST handwritten-digit recognition. We also show for one dynamical system that using it as the core building block of a parameter-efficient ML architecture inspired by MLP-Mixers enables accuracies of up to 86.4% on CIFAR-10 image classification (92.2% with pretraining and knowledge distillation), compared with 64% for the same system without the mixer architecture. The mixer approach achieved its accuracy while using $>5\\times$ fewer trainable parameters than the baseline. Finally, we present back-of-the-envelope estimates for inference energy efficiency and speed when using an example physical dynamical system, suggesting that orders of magnitude improvements may be possible over digital-electronic neural networks.",
+  "authors": [
+   "Tyler King",
+   "Magnus Saebo",
+   "Jeremie Laydevant",
+   "Haoting Zhen",
+   "Maxwell G. Anderson",
+   "Tatsuhiro Onodera",
+   "Peter L. McMahon"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.dis-nn",
+   "cs.ET",
+   "cs.NE"
+  ],
+  "comment": "32 pages, 10 figures",
+  "first_author": "Tyler King",
+  "pdf_url": "http://arxiv.org/pdf/2610.40471",
+  "primary_category": "cs.LG",
+  "published": "2026-10-15",
+  "tags": [
+   "dynamical-systems"
+  ],
+  "title": "Nonlinear Dynamical Systems as Scalable and Efficient Physical Neural Networks",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.40490": {
+  "abstract": "Quantum error correction is essential for fault-tolerant quantum computing. High-rate quantum low-density parity-check (qLDPC) codes have emerged as a promising approach to reducing the substantial physical qubit overhead of quantum error correction, enabling encoding rates exceeding $1/2$ in blocks of approximately one thousand physical data qubits. However, their practical implementation requires decoders that combine high accuracy with low latency to keep pace with quantum hardware. Existing decoders of high-rate qLDPC codes can achieve high accuracy but often incur substantial computational latency, whereas neural network decoders have yet to be demonstrated for high-rate qLDPC codes. Here, we introduce \\emph{neural triage decoding}, a framework that uses syndrome consistency to adaptively allocate neural computation. A local neural message-passing network rapidly predicts error corrections, additional iterations reduce residual syndrome violations, and a rarely invoked diversification stage searches for consistent corrections to the remaining shots. We demonstrate that the \\texttt{Triage} decoder can decode ultra-high-rate qLDPC codes encoding a few hundred logical qubits, including lifted-product and Kasai codes, achieving state-of-the-art accuracy comparable to the near optimal algorithmic decoders while reducing decoding latency by approximately one to two orders of magnitude. Our framework is inspired by a rigorous analysis of the exact bitwise marginal decoder, revealing a distance-independent syndrome-inconsistent error floor. In addition, we show the robustness of neural network decoders to mismatched error priors. Our results establish adaptive neural decoding as a promising route towards fast, accurate, and scalable quantum error correction in the near term.",
+  "authors": [
+   "Hong-Ye Hu",
+   "Zhenlai Wang",
+   "Binzhao Luo",
+   "Tao Xiang",
+   "Chen Zhao"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.AI",
+   "cs.IT",
+   "cs.LG"
+  ],
+  "comment": "5 pages, 4 figures with Methods. We will release the fully supplementary information in the second update soon",
+  "first_author": "Hong-Ye Hu",
+  "pdf_url": "http://arxiv.org/pdf/2610.40490",
+  "primary_category": "quant-ph",
+  "published": "2026-10-29",
+  "tags": [
+   "quantum-error-correction"
+  ],
+  "title": "Fast and accurate neural triage decoding of ultra-high-rate quantum LDPC codes",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.40528": {
+  "abstract": "We introduce NEOPIC, a framework for learning the field operator in particle-based methods applied to kinetic plasma simulations. Its key novelty is a neural operator that acts directly on the empirical measure of the particles, rather than on a grid, and is evaluated at the particle positions. No mesh or tree is needed and, unlike grid-based neural operators, no deposition onto a mesh takes place, so the particle noise that dominates the inputs of particle simulations is not aliased. Since it replaces only the field solve, it serves as a plug-and-play field solver for particle-based methods: it can be trained on data from particle-in-cell, particle-in-Fourier or tree codes, and combined with any time integrator, including implicit schemes. We prove that the discrete evaluation coincides with the continuous operator at any number of particles (representation equivalence) and derive an error analysis that separates sampling, learning and time-stepping errors: up to the learning error, NEOPIC has the error structure of standard Monte Carlo particle methods. We show that the particle noise in the training data acts as an implicit regularizer, which gives guidance on the number of training particles in relation to the particle numbers used at inference. A complexity analysis shows that NEOPIC is an $O(N_p)$ method whose constants are set by the architecture alone, independently of any mesh or tree. Numerical experiments on electrostatic benchmarks in two and three dimensions, including Landau damping, two-stream and bump-on-tail instabilities, a cyclotron mini-app and a Penning trap, confirm the theoretical findings. A single model trained on several mini-apps generated by different reference methods captures all of them and remains stable up to twice the training time window, which points towards foundation models for fields in particle-based methods.",
+  "authors": [
+   "Sriramkrishnan Muralikrishnan",
+   "Chelsea Maria John",
+   "Jeffrey Kelling",
+   "Michael Bussmann",
+   "Robert Speck",
+   "Paul Gibbon"
+  ],
+  "categories": [
+   "math.NA",
+   "cs.LG",
+   "physics.comp-ph",
+   "physics.plasm-ph"
+  ],
+  "comment": "84 pages, 19 figures, 3 tables. Code: https://github.com/srikrrish/operator_learning (tags neopic-arxiv-v1, neopic-arxiv-v1-nufft); analysis scripts: https://github.com/NEOPIC-framework/neopic-paper-scripts",
+  "first_author": "Sriramkrishnan Muralikrishnan",
+  "pdf_url": "http://arxiv.org/pdf/2610.40528",
+  "primary_category": "math.NA",
+  "published": "2026-10-29",
+  "tags": [
+   "neural-operators"
+  ],
+  "title": "NEOPIC: A Neural Operator Framework for Particle-based Kinetic Plasma Simulations",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.40561": {
+  "abstract": "While Variational Quantum Eigensolver (VQE) variants are among leading candidates for electronic structure calculations on quantum computers, gradient-based operator selection limits their scalability. To solve this, we introduce the Hamiltonian-gradient-free VULCAN (Variational Upbuilding, Layered Compression, Adaptive N-body perturbation) layered VQE framework. Our method dynamically generates ansatz operators using Variational Double Bracket Flow (VDBF) equations. Combined with a linearly scaling minimal complete pool, it creates a pool 4-12 times smaller than QEB (Qubit-Excitation-Based) pools. By appending entire layers simultaneously, Hamiltonian gradient measurements are completely eliminated. Circuit depth is managed via a grow-then-compress scheme using efficient state-overlap measurements, and qubit requirements are reduced by projecting the Hamiltonian onto a dominant-determinant subspace. Using high-performance emulation up to 32 logical qubits, we achieve chemical accuracy at just 5-20% of the measurement cost of batched ADAPT-VQE for hydrogen chains, BeH2 and H2O. For the 32-qubit C3H6, where batched ADAPT-VQE does not reach chemical accuracy, a single VULCAN layer combined with a GPU-accelerated stochastic Epstein-Nesbet (ENPT2) correction does. This stochastic ENPT2 post-processing step enables early termination at chemical accuracy.",
+  "authors": [
+   "Hugo D. Nogueira",
+   "Siwar Badreddine",
+   "Olivier Adjoua",
+   "Diata Traore",
+   "Guillaume Michel",
+   "Jean-Philip Piquemal"
+  ],
+  "categories": [
+   "quant-ph",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Hugo D. Nogueira",
+  "pdf_url": "http://arxiv.org/pdf/2610.40561",
+  "primary_category": "quant-ph",
+  "published": "2026-10-29",
+  "tags": [
+   "electronic-structure",
+   "vqe"
+  ],
+  "title": "Grow, Compress, and Perturb: A Hybrid Quantum-Classical Pathway to Scalable Quantum Chemistry on Quantum Computers",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-10-29"
  }
 }

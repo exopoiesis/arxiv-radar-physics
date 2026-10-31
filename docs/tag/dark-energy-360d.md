@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-energy — 360d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <strong>360d</strong> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -668,23 +668,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10191.html">Machine learning analysis of Photometric data from the Dark Energy Survey</a></div></td>
 <td>Elcio Abdalla et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10191">2508.10191</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18336.html">Gaussian-process reconstructions and model building of quintom dark energy from latest cosmological observations</a></div></td>
-<td>Yuhang Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18336">2501.18336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02357.html">Redshift-dependent Distance Duality Violation in Resolving Multidimensional Cosmic Tensions</a></div></td>
-<td>Zhihuan Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02357">2511.02357</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02631.html">Supernova Classification using the Recurrent Neural Network in the CSST Ultra-Deep Field Survey</a></div></td>
-<td>Minglin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02631">2511.02631</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39522.html">Causality-informed dynamic mode decomposition for unsteady flow analysis</a></div><div class="paper-tags"><a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
+<td>Yihua Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39522">2610.39522</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39897.html">Data-driven Random-feature Approximation of Koopman Generators of Nonlinear Continuous-time Systems</a></div><div class="paper-tags"><a href="koopman-operator-30d.html">koopman-operator</a></div></td>
+<td>Ana Čukarska et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39897">2610.39897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40449.html">Reinforcement learning for control of partial differential equations</a></div><div class="paper-tags"><a href="flow-control-30d.html">flow-control</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Nicolò Botteghi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40449">2610.40449</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36532.html">A Homological Approach to Dynamics</a></div></td>
@@ -122,6 +140,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22711.html">Normalizing Flow Maps</a></div><div class="paper-tags"><a href="normalizing-flows-30d.html">normalizing-flows</a></div></td>
 <td>Francesco M. Ruscio et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22711">2610.22711</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40471.html">Nonlinear Dynamical Systems as Scalable and Efficient Physical Neural Networks</a></div></td>
+<td>Tyler King et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40471">2610.40471</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-14</td>

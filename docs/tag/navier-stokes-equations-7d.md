@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40384.html">Neural Network Approximation and Structural Complexity of Semilinear PDEs with Lower Bounds</a></div></td>
+<td>Hayden Schaeffer</td>
+<td><a href="http://arxiv.org/abs/2610.40384">2610.40384</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38018.html">Regularizing the Navier-Stokes Equations via Additive Type Noise plus Small Linear Multiplicative Noise</a></div></td>
 <td>Weiquan Chen</td>
 <td><a href="http://arxiv.org/abs/2610.38018">2610.38018</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32601.html">Let&#x27;s Do Turbulence Right: In Space and Time!</a></div></td>
-<td>Maximilian Plattner et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32601">2610.32601</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06451.html">A Risk-Neutral Neural Operator for Arbitrage-Free SPX-VIX Term Structures</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Jian&#x27;an Zhang</td>
 <td><a href="http://arxiv.org/abs/2511.06451">2511.06451</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02962.html">Hybrid DeepONet Surrogates for Multiphase Flow in Porous Media</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Ezequiel S. Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02962">2511.02962</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40384.html">Neural Network Approximation and Structural Complexity of Semilinear PDEs with Lower Bounds</a></div></td>
+<td>Hayden Schaeffer</td>
+<td><a href="http://arxiv.org/abs/2610.40384">2610.40384</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38018.html">Regularizing the Navier-Stokes Equations via Additive Type Noise plus Small Linear Multiplicative Noise</a></div></td>
 <td>Weiquan Chen</td>
@@ -452,11 +458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05428.html">Interscale energy transfer in turbulent channels</a></div></td>
 <td>Joy Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05428">2511.05428</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02229.html">Role of varying Reynolds number for flow past a rotating cylinder at high rotation rate</a></div></td>
-<td>Aditi Sengupta et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02229">2511.02229</a></td>
 </tr>
 </tbody></table>

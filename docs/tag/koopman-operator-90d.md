@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39897.html">Data-driven Random-feature Approximation of Koopman Generators of Nonlinear Continuous-time Systems</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Ana Čukarska et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39897">2610.39897</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35627.html">Local Koopman modes of saddle-point diffusions: exact singular functions and a data-driven estimator</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
 <td>Xuehao Ding</td>
@@ -98,11 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06155.html">Verifiable Regularity Criterion for Conditional Expectation Operators and Conditional Mean Embeddings with Applications to Nonparametric Regression, Bayesian Inverse Problems, and Koopman Operators</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
 <td>Maximiliano Hertel et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06155">2608.06155</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02661.html">Beyond Invariant Dictionary: Data-Driven Koopman Spectral Recovery with Filtered Extended Dynamic Mode Decomposition</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
-<td>Siji Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02661">2608.02661</a></td>
 </tr>
 </tbody></table>

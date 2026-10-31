@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">289 papers</span>
+  <span class="paper-count">288 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1742,11 +1742,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03095.html">Sparse, self-organizing ensembles of local kernels detect rare statistical anomalies</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Gaia Grosso et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03095">2511.03095</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02301.html">Federated Quantum Kernel Learning for Anomaly Detection in Multivariate IoT Time-Series</a></div></td>
-<td>Kuan-Cheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02301">2511.02301</a></td>
 </tr>
 </tbody></table>

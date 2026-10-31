@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">182 papers</span>
+  <span class="paper-count">181 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1100,11 +1100,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05470.html">$\texttt{unimpeded}$: A Public Nested Sampling Database for Bayesian Cosmology</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Dily Duan Yi Ong et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05470">2511.05470</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02034.html">Accelerating the standard siren method: Improved constraints on modified gravitational-wave propagation with future data</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a> · <a href="ligo-360d.html">ligo</a></div></td>
-<td>Matteo Tagliazucchi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.02034">2504.02034</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">240 papers</span>
+  <span class="paper-count">238 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1442,17 +1442,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03112.html">Accelerating inverse materials design using generative diffusion models with reinforcement learning</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Junwu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03112">2511.03112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.03153.html">SAM-EM: Real-Time Segmentation for Automated Liquid Phase Transmission Electron Microscopy</a></div></td>
-<td>Alexander Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2501.03153">2501.03153</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03038.html">A Normalized Descriptor for Unbiased Screening of Second-Order Nonlinear Optical Materials</a></div></td>
-<td>Aubrey G. J. Nyiri et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03038">2511.03038</a></td>
 </tr>
 </tbody></table>

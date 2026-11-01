@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,23 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03880.html">Reinforcement Learning on the Discrete Composition Channel of a Crystal Generator: Validated Gains and Reward Hacking</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Pawan Prakash et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03880">2610.03880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01502.html">Learned End-to-End Guidance Schedules for Diffusion Models</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
-<td>Aneesh Barthakur et al.</td>
-<td><a href="http://arxiv.org/abs/2610.01502">2610.01502</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01522.html">Langevin-Informed Transfer Learning: Replacing Target Samples by Black-Box Feedback</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Vladimir R. Kostic et al.</td>
-<td><a href="http://arxiv.org/abs/2610.01522">2610.01522</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01759.html">PhysDEM: Physics-Defined Energy-Matching Diffusion for Spatiotemporal Field Generation under Scarce Measurements</a></div></td>
-<td>Zhenyu Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.01759">2610.01759</a></td>
 </tr>
 </tbody></table>

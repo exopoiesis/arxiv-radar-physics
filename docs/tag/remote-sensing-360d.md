@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">493 papers</span>
+  <span class="paper-count">488 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2942,35 +2942,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04304.html">Deep learning-based object detection of offshore platforms on Sentinel-1 Imagery and the impact of synthetic training data</a></div></td>
 <td>Robin Spanier et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04304">2511.04304</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13451.html">A Label Propagation Strategy for CutMix in Multi-Label Remote Sensing Image Classification</a></div></td>
-<td>Tom Burgert et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13451">2405.13451</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09054.html">NeurOp-Diff:Continuous Remote Sensing Image Super-Resolution via Neural Operator Diffusion</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Zihao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2501.09054">2501.09054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18751.html">Seg the HAB: Language-Guided Geospatial Algae Bloom Reasoning and Segmentation</a></div></td>
-<td>Patterson Hsieh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18751">2510.18751</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03173.html">Optimizing Earth-Moon Transfer and Cislunar Navigation: Integrating Low-Energy Trajectories, AI Techniques and GNSS-R Technologies</a></div></td>
-<td>Arsalan Muhammad et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03173">2511.03173</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03291.html">Spectral-Convergent Decentralized Machine Learning: Theory and Application in Space Networks</a></div></td>
-<td>Zhiyuan Zhai et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03291">2511.03291</a></td>
 </tr>
 </tbody></table>

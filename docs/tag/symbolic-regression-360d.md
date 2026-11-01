@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">205 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1244,11 +1244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05093.html">Sym-EFT: Accelerating Effective Field Theory of Large Scale Structure with Symbolic Regression</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Despoina Farakou et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05093">2511.05093</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03494.html">Data-driven Modeling of Grid-following Control in Grid-connected Converters</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Amir Bahador Javadi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03494">2511.03494</a></td>
 </tr>
 </tbody></table>

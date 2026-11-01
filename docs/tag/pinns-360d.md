@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">595 papers</span>
+  <span class="paper-count">592 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3566,23 +3566,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04490.html">A Two-stage Adaptive Lifting PINN Framework for Solving Viscous Approximations to Hyperbolic Conservation Laws</a></div></td>
 <td>Yameng Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04490">2511.04490</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18091.html">Reliable and efficient inverse analysis using physics-informed neural networks with normalized distance functions and adaptive weight tuning</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Shota Deguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.18091">2504.18091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07272.html">A physics-informed neural network for modeling fracture without gradient damage: formulation, application, and assessment</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Aditya Konale et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07272">2507.07272</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03876.html">Computed Tomography (CT)-derived Cardiovascular Flow Estimation Using Physics-Informed Neural Networks Improves with Sinogram-based Training: A Simulation Study</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Jinyuxuan Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03876">2511.03876</a></td>
 </tr>
 </tbody></table>

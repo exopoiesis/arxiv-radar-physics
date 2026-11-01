@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hep — 360d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <a href="hep-30d.html">30d</a> <a href="hep-90d.html">90d</a> <strong>360d</strong> <a href="hep-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07486.html">RINO: Renormalization Group Invariance with No Labels</a></div><div class="paper-tags"><a href="high-energy-physics-360d.html">high-energy-physics</a></div></td>
 <td>Zichun Hao et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07486">2509.07486</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.10504.html">Aspen Open Jets: Unlocking LHC Data for Foundation Models in Particle Physics</a></div></td>
-<td>Oz Amram et al.</td>
-<td><a href="http://arxiv.org/abs/2412.10504">2412.10504</a></td>
 </tr>
 </tbody></table>

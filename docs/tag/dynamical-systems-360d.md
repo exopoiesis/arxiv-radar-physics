@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">665 papers</span>
+  <span class="paper-count">663 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3992,17 +3992,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04451.html">Deep Dictionary-Free Method for Identifying Linear Model of Nonlinear System with Input Delay</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
 <td>Patrik Valábek et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04451">2511.04451</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03494.html">Data-driven Modeling of Grid-following Control in Grid-connected Converters</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Amir Bahador Javadi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03494">2511.03494</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03862.html">Integrating Score-Based Generative Modeling and Neural ODEs for Accurate Representation of Multiscale Chaotic Dynamics</a></div></td>
-<td>Giulio Del Felice et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03862">2511.03862</a></td>
 </tr>
 </tbody></table>

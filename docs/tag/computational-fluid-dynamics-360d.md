@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 360d</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1022,17 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10158.html">Closed Form Modelling and Identification of Banking Effects in Confined Waters</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Jeppe H. Mikkelsen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10158">2511.10158</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03223.html">A Hybrid CNN-Cheby-KAN Framework for Efficient Prediction of Two-Dimensional Airfoil Pressure Distribution</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Yaohong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03223">2511.03223</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03876.html">Computed Tomography (CT)-derived Cardiovascular Flow Estimation Using Physics-Informed Neural Networks Improves with Sinogram-based Training: A Simulation Study</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Jinyuxuan Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03876">2511.03876</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">432 papers</span>
+  <span class="paper-count">429 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2588,23 +2588,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04792.html">Blind Strong Gravitational Lensing Inversion: Joint Inference of Source and Lens Mass with Score-Based Models</a></div></td>
 <td>Gabriel Missael Barco et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04792">2511.04792</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18091.html">Reliable and efficient inverse analysis using physics-informed neural networks with normalized distance functions and adaptive weight tuning</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Shota Deguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.18091">2504.18091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03241.html">A unified physics-informed generative operator framework for general inverse problems</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Gang Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03241">2511.03241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03278.html">3D Bayesian Variational Surface Wave Tomography and Application to the Southwest China</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Wenda Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03278">2511.03278</a></td>
 </tr>
 </tbody></table>

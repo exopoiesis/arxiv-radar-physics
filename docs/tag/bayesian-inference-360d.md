@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">417 papers</span>
+  <span class="paper-count">415 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2504,17 +2504,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05470.html">$\texttt{unimpeded}$: A Public Nested Sampling Database for Bayesian Cosmology</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Dily Duan Yi Ong et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05470">2511.05470</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15315.html">Neural Posterior Estimation for Cataloging Astronomical Images from the Legacy Survey of Space and Time</a></div></td>
-<td>Yicun Duan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15315">2510.15315</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03278.html">3D Bayesian Variational Surface Wave Tomography and Application to the Southwest China</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Wenda Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03278">2511.03278</a></td>
 </tr>
 </tbody></table>

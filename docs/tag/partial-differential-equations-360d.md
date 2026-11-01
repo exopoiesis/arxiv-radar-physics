@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">774 papers</span>
+  <span class="paper-count">769 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4628,35 +4628,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04564.html">Uncertainties in Physics-informed Inverse Problems: The Hidden Risk in Scientific AI</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="magnetohydrodynamics-360d.html">magnetohydrodynamics</a></div></td>
 <td>Yoh-ichi Mototake et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04564">2511.04564</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18091.html">Reliable and efficient inverse analysis using physics-informed neural networks with normalized distance functions and adaptive weight tuning</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Shota Deguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.18091">2504.18091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07272.html">A physics-informed neural network for modeling fracture without gradient damage: formulation, application, and assessment</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Aditya Konale et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07272">2507.07272</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03241.html">A unified physics-informed generative operator framework for general inverse problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Gang Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03241">2511.03241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03578.html">Learning Under Laws: A Constraint-Projected Neural PDE Solver that Eliminates Hallucinations</a></div></td>
-<td>Mainak Singha</td>
-<td><a href="http://arxiv.org/abs/2511.03578">2511.03578</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03797.html">Learning Paths for Dynamic Measure Transport: A Control Perspective</a></div></td>
-<td>Aimee Maurais et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03797">2511.03797</a></td>
 </tr>
 </tbody></table>

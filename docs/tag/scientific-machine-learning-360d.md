@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">213 papers</span>
+  <span class="paper-count">211 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1280,17 +1280,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05614.html">An MLCommons Scientific Benchmarks Ontology</a></div></td>
 <td>Ben Hawks et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05614">2511.05614</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18091.html">Reliable and efficient inverse analysis using physics-informed neural networks with normalized distance functions and adaptive weight tuning</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Shota Deguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.18091">2504.18091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15177.html">Finding geodesics with the Deep Ritz method</a></div><div class="paper-tags"><a href="sciml-360d.html">sciml</a></div></td>
-<td>Conor Rowan</td>
-<td><a href="http://arxiv.org/abs/2510.15177">2510.15177</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reduced-order-modeling — 360d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <strong>360d</strong> <a href="reduced-order-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22655.html">Learning Stochastic Multiscale Models</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Andrew F. Ilersich et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22655">2506.22655</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.18148.html">Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Nithin Somasekharan et al.</td>
-<td><a href="http://arxiv.org/abs/2410.18148">2410.18148</a></td>
 </tr>
 </tbody></table>

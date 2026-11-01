@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>magnetohydrodynamics — all</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="magnetohydrodynamics-7d.html">7d</a> <a href="magnetohydrodynamics-30d.html">30d</a> <a href="magnetohydrodynamics-90d.html">90d</a> <a href="magnetohydrodynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.14056.html">First Calculations of Starspot Spectra based on 3D Radiative Magnetohydrodynamics Simulations</a></div></td>
 <td>H. N. Smitha et al.</td>
 <td><a href="http://arxiv.org/abs/2411.14056">2411.14056</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12754.html">Global-local Fourier Neural Operator for Accelerating Coronal Magnetic Field Model</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a> · <a href="mhd-all.html">mhd</a></div></td>
-<td>Yutao Du et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12754">2405.12754</a></td>
 </tr>
 </tbody></table>

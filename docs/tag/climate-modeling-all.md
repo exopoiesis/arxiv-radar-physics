@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>climate-modeling — all</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <a href="climate-modeling-90d.html">90d</a> <a href="climate-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -404,29 +404,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.00913.html">Ratio law: mathematical descriptions for a universal relationship between AI performance and input samples</a></div></td>
 <td>Boming Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2411.00913">2411.00913</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15073.html">Exploring and Exploiting Runtime Reconfigurable Floating Point Precision in Scientific Computing: a Case Study for Solving PDEs</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
-<td>Cong &quot;Callie&quot; Hao</td>
-<td><a href="http://arxiv.org/abs/2409.15073">2409.15073</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08092.html">Modeling Snow on Sea Ice using Physics Guided Machine Learning</a></div></td>
-<td>Ayush Prasad et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08092">2409.08092</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07585.html">Efficient Localized Adaptation of Neural Weather Forecasting: A Case Study in the MENA Region</a></div><div class="paper-tags"><a href="weather-forecasting-all.html">weather-forecasting</a></div></td>
-<td>Muhammad Akhtar Munir et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07585">2409.07585</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01626.html">AQ-PINNs: Attention-Enhanced Quantum Physics-Informed Neural Networks for Carbon-Efficient Climate Modeling</a></div><div class="paper-tags"><a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a> · <a href="tensor-networks-all.html">tensor-networks</a></div></td>
-<td>Siddhant Dutta et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01626">2409.01626</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>normalizing-flows — all</h1>
-  <span class="paper-count">156 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <a href="normalizing-flows-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -932,23 +932,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18974.html">Neural Product Importance Sampling via Warp Composition</a></div></td>
 <td>Joey Litalien et al.</td>
 <td><a href="http://arxiv.org/abs/2409.18974">2409.18974</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09029.html">Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="dark-energy-all.html">dark-energy</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Michael W. Toomey et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09029">2409.09029</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09101.html">Understanding posterior projection effects with normalizing flows</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="cosmology-all.html">cosmology</a></div></td>
-<td>Marco Raveri et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09101">2409.09101</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07957.html">Rapid Parameter Estimation for Extreme Mass Ratio Inspirals Using Machine Learning</a></div></td>
-<td>Bo Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07957">2409.07957</a></td>
 </tr>
 </tbody></table>

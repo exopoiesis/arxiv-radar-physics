@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>anomaly-detection — all</h1>
-  <span class="paper-count">546 papers</span>
+  <span class="paper-count">535 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3224,71 +3224,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02721.html">Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization</a></div></td>
 <td>Ryan C. Barron et al.</td>
 <td><a href="http://arxiv.org/abs/2410.02721">2410.02721</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20413.html">Novel machine learning applications at the LHC</a></div><div class="paper-tags"><a href="fast-simulation-all.html">fast-simulation</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Javier M. Duarte</td>
-<td><a href="http://arxiv.org/abs/2409.20413">2409.20413</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12785.html">Investigation on domain adaptation of additive manufacturing monitoring systems to enhance digital twin reusability</a></div></td>
-<td>Jiarui Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12785">2409.12785</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13053.html">Towards Unbiased Evaluation of Time-series Anomaly Detector</a></div></td>
-<td>Debarpan Bhattacharya et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13053">2409.13053</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11223.html">Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection</a></div></td>
-<td>Yuta Kaneko et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11223">2409.11223</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09742.html">OML-AD: Online Machine Learning for Anomaly Detection in Time Series Data</a></div></td>
-<td>Sebastian Wette et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09742">2409.09742</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09804.html">Abnormal Event Detection In Videos Using Deep Embedding</a></div></td>
-<td>Darshan Venkatrayappa</td>
-<td><a href="http://arxiv.org/abs/2409.09804">2409.09804</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05639.html">Deep Learning-based Anomaly Detection and Log Analysis for Computer Networks</a></div></td>
-<td>Shuzhan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05639">2407.05639</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07505.html">A Survey of Anomaly Detection in In-Vehicle Networks</a></div></td>
-<td>Övgü Özdemir et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07505">2409.07505</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04935.html">Anomaly Detection for Real-World Cyber-Physical Security using Quantum Hybrid Support Vector Machines</a></div></td>
-<td>Tyler Cultice et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04935">2409.04935</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04519.html">The role of data embedding in quantum autoencoders for improved anomaly detection</a></div></td>
-<td>Jack Y. Araz et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04519">2409.04519</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02973.html">SDOoop: Capturing Periodical Patterns and Out-of-phase Anomalies in Streaming Data Analysis</a></div></td>
-<td>Alexander Hartl et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02973">2409.02973</a></td>
 </tr>
 </tbody></table>

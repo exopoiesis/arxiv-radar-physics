@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chaotic-systems — all</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="chaotic-systems-7d.html">7d</a> <a href="chaotic-systems-30d.html">30d</a> <a href="chaotic-systems-90d.html">90d</a> <a href="chaotic-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -674,11 +674,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00480.html">Stability analysis of chaotic systems in latent spaces</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Elise Özalp et al.</td>
 <td><a href="http://arxiv.org/abs/2410.00480">2410.00480</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15167.html">Data-driven model discovery with Kolmogorov-Arnold networks</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Mohammadamin Moradi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15167">2409.15167</a></td>
 </tr>
 </tbody></table>

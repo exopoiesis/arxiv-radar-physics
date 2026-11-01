@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dynamical-systems — all</h1>
-  <span class="paper-count">1190 papers</span>
+  <span class="paper-count">1172 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -7046,113 +7046,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.07368.html">Learning to learn ecosystems from limited data -- a meta-learning approach</a></div></td>
 <td>Zheng-Meng Zhai et al.</td>
 <td><a href="http://arxiv.org/abs/2410.07368">2410.07368</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19518.html">KODA: A Data-Driven Recursive Model for Time Series Forecasting and Data Assimilation using Koopman Operators</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a> · <a href="koopman-operator-all.html">koopman-operator</a></div></td>
-<td>Ashutosh Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19518">2409.19518</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19278.html">Explicit construction of recurrent neural networks effectively approximating discrete dynamical systems</a></div></td>
-<td>Chikara Nakayama et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19278">2409.19278</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17872.html">A method for identifying causality in the response of nonlinear dynamical systems</a></div></td>
-<td>Joseph Massingham et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17872">2409.17872</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16817.html">A parametric framework for kernel-based dynamic mode decomposition using deep learning</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Konstantinos Kevopoulos et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16817">2409.16817</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02815.html">Estimate of Koopman modes and eigenvalues with Kalman Filter</a></div></td>
-<td>Ningxin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2410.02815">2410.02815</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01280.html">Real-Time Machine Learning Strategies for a New Kind of Neuroscience Experiments</a></div></td>
-<td>Ayesha Vermani et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01280">2409.01280</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15167.html">Data-driven model discovery with Kolmogorov-Arnold networks</a></div><div class="paper-tags"><a href="chaotic-systems-all.html">chaotic-systems</a></div></td>
-<td>Mohammadamin Moradi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15167">2409.15167</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13421.html">State space models, emergence, and ergodicity: How many parameters are needed for stable predictions?</a></div></td>
-<td>Ingvar Ziemann et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13421">2409.13421</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04192.html">KAN-ODEs: Kolmogorov-Arnold Network Ordinary Differential Equations for Learning Dynamical Systems and Hidden Physics</a></div><div class="paper-tags"><a href="schr-dinger-equation-all.html">schr-dinger-equation</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
-<td>Benjamin C. Koenig et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04192">2407.04192</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02803.html">On the Effect of Quantization on Extended Dynamic Mode Decomposition</a></div><div class="paper-tags"><a href="koopman-operator-all.html">koopman-operator</a></div></td>
-<td>Dipankar Maity et al.</td>
-<td><a href="http://arxiv.org/abs/2410.02803">2410.02803</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09106.html">Recent Trends in Modelling the Continuous Time Series using Deep Learning: A Survey</a></div></td>
-<td>Mansura Habiba et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09106">2409.09106</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08382.html">Stochastic Reinforcement Learning with Stability Guarantees for Control of Unknown Nonlinear Systems</a></div></td>
-<td>Thanin Quartz et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08382">2409.08382</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07590.html">Deep Learning for predicting rate-induced tipping</a></div></td>
-<td>Yu Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07590">2409.07590</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06101.html">Bridging Autoencoders and Dynamic Mode Decomposition for Reduced-order Modeling and Control of PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="reduced-order-modeling-all.html">reduced-order-modeling</a></div></td>
-<td>Priyabrata Saha et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06101">2409.06101</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16673.html">Reconstructing dynamical systems as zero-noise limits</a></div></td>
-<td>Suddhasattwa Das</td>
-<td><a href="http://arxiv.org/abs/2407.16673">2407.16673</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04120.html">An updated look on the convergence and consistency of data-driven dynamical models</a></div></td>
-<td>Kristian Løvland et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04120">2409.04120</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01308.html">Representing Neural Network Layers as Linear Operations via Koopman Operator Theory</a></div><div class="paper-tags"><a href="koopman-operator-all.html">koopman-operator</a></div></td>
-<td>Nishant Suresh Aswani et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01308">2409.01308</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01394.html">Optimal training of finitely-sampled quantum reservoir computers for forecasting of chaotic dynamics</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a> · <a href="time-series-prediction-all.html">time-series-prediction</a></div></td>
-<td>Osama Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01394">2409.01394</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-machine-learning — all</h1>
-  <span class="paper-count">335 papers</span>
+  <span class="paper-count">332 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <a href="scientific-machine-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2006,23 +2006,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06452.html">Modeling chaotic Lorenz ODE System using Scientific Machine Learning</a></div><div class="paper-tags"><a href="sciml-all.html">sciml</a></div></td>
 <td>Sameera S Kashyap et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06452">2410.06452</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04192.html">KAN-ODEs: Kolmogorov-Arnold Network Ordinary Differential Equations for Learning Dynamical Systems and Hidden Physics</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="schr-dinger-equation-all.html">schr-dinger-equation</a></div></td>
-<td>Benjamin C. Koenig et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04192">2407.04192</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10777.html">Physics-Informed Neural Networks with Trust-Region Sequential Quadratic Programming</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a> · <a href="sciml-all.html">sciml</a></div></td>
-<td>Xiaoran Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10777">2409.10777</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00604.html">Spatio-spectral graph neural operator for solving computational mechanics problems on irregular domain and unstructured grid</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Subhankar Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00604">2409.00604</a></td>
 </tr>
 </tbody></table>

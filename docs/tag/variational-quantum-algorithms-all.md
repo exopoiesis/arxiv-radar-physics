@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>variational-quantum-algorithms — all</h1>
-  <span class="paper-count">103 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="variational-quantum-algorithms-7d.html">7d</a> <a href="variational-quantum-algorithms-30d.html">30d</a> <a href="variational-quantum-algorithms-90d.html">90d</a> <a href="variational-quantum-algorithms-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -614,23 +614,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.23940.html">Quantum Deep Equilibrium Models</a></div><div class="paper-tags"><a href="qml-all.html">qml</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
 <td>Philipp Schleich et al.</td>
 <td><a href="http://arxiv.org/abs/2410.23940">2410.23940</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05475.html">Reinforcement Learning for Variational Quantum Circuits Design</a></div></td>
-<td>Simone Foderà et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05475">2409.05475</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11589.html">Improve Variational Quantum Eigensolver by Many-Body Localization</a></div></td>
-<td>Li Xin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11589">2407.11589</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13713.html">Verifiable cloud-based variational quantum algorithms</a></div><div class="paper-tags"><a href="qml-all.html">qml</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Junhong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13713">2408.13713</a></td>
 </tr>
 </tbody></table>

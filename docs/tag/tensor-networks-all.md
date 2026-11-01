@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>tensor-networks — all</h1>
-  <span class="paper-count">97 papers</span>
+  <span class="paper-count">93 papers</span>
   <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <a href="tensor-networks-30d.html">30d</a> <a href="tensor-networks-90d.html">90d</a> <a href="tensor-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -572,29 +572,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.05615.html">Tensor neural networks for high-dimensional Fokker-Planck equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a></div></td>
 <td>Taorui Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2404.05615">2404.05615</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16075.html">Ultra-low latency quantum-inspired machine learning predictors implemented on FPGA</a></div><div class="paper-tags"><a href="hep-all.html">hep</a> · <a href="high-energy-physics-all.html">high-energy-physics</a> · <a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a></div></td>
-<td>Lorenzo Borella et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16075">2409.16075</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16045.html">LTNtorch: PyTorch Implementation of Logic Tensor Networks</a></div></td>
-<td>Tommaso Carraro et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16045">2409.16045</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20669.html">A Tutorial on the Use of Physics-Informed Neural Networks to Compute the Spectrum of Quantum Systems</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a> · <a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a> · <a href="schr-dinger-equation-all.html">schr-dinger-equation</a></div></td>
-<td>Lorenzo Brevi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20669">2407.20669</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01626.html">AQ-PINNs: Attention-Enhanced Quantum Physics-Informed Neural Networks for Carbon-Efficient Climate Modeling</a></div><div class="paper-tags"><a href="climate-modeling-all.html">climate-modeling</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Siddhant Dutta et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01626">2409.01626</a></td>
 </tr>
 </tbody></table>

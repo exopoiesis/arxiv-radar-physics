@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-many-body-systems — all</h1>
-  <span class="paper-count">81 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="quantum-many-body-systems-7d.html">7d</a> <a href="quantum-many-body-systems-30d.html">30d</a> <a href="quantum-many-body-systems-90d.html">90d</a> <a href="quantum-many-body-systems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,23 +482,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.07886.html">Simulating Quantum Many-Body States with Neural-Network Exponential Ansatz</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a> · <a href="schr-dinger-equation-all.html">schr-dinger-equation</a></div></td>
 <td>Weillei Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2411.07886">2411.07886</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18225.html">Machine Learning out of equilibrium correlations in the Bose-Hubbard model</a></div></td>
-<td>Ali Mokhtari-Jazi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18225">2409.18225</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16075.html">Ultra-low latency quantum-inspired machine learning predictors implemented on FPGA</a></div><div class="paper-tags"><a href="hep-all.html">hep</a> · <a href="high-energy-physics-all.html">high-energy-physics</a> · <a href="tensor-networks-all.html">tensor-networks</a></div></td>
-<td>Lorenzo Borella et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16075">2409.16075</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20669.html">A Tutorial on the Use of Physics-Informed Neural Networks to Compute the Spectrum of Quantum Systems</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a> · <a href="schr-dinger-equation-all.html">schr-dinger-equation</a> · <a href="tensor-networks-all.html">tensor-networks</a></div></td>
-<td>Lorenzo Brevi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20669">2407.20669</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>neural-operators — all</h1>
-  <span class="paper-count">661 papers</span>
+  <span class="paper-count">657 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3956,29 +3956,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11617.html">M$^{2}$M: Learning controllable Multi of experts and multi-scale operators are the Partial Differential Equations need</a></div><div class="paper-tags"><a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Aoming Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2410.11617">2410.11617</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10972.html">Towards Gaussian Process for operator learning: an uncertainty aware resolution independent operator learning algorithm for computational mechanics</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Sawan Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10972">2409.10972</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09207.html">FB-HyDON: Parameter-Efficient Physics-Informed Operator Learning of Complex PDEs via Hypernetwork and Finite Basis Domain Decomposition</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="operator-learning-all.html">operator-learning</a></div></td>
-<td>Milad Ramezankhani et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09207">2409.09207</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05508.html">A general reduced-order neural operator for spatio-temporal predictive learning on complex spatial domains</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a></div></td>
-<td>Qinglu Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05508">2409.05508</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04708.html">Harnessing physics-informed operators for high-dimensional reliability analysis problems</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>N Navaneeth et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04708">2409.04708</a></td>
 </tr>
 </tbody></table>

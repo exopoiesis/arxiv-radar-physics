@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>les — all</h1>
-  <span class="paper-count">104 papers</span>
+  <span class="paper-count">101 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <a href="les-30d.html">30d</a> <a href="les-90d.html">90d</a> <a href="les-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -620,23 +620,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06282.html">A novel data-driven method for augmenting turbulence modeling for unsteady cavitating flows</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="rans-all.html">rans</a></div></td>
 <td>Dhruv Apte et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06282">2410.06282</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19971.html">NeDF: neural deflection fields for sparse-view tomographic background oriented Schlieren</a></div></td>
-<td>Jiawei Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19971">2409.19971</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07605.html">Dual scale Residual-Network for turbulent flow sub grid scale resolving: A prior analysis</a></div></td>
-<td>Omar Sallam et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07605">2409.07605</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00984.html">A wall model for separated flows: embedded learning to improve a posteriori performance</a></div></td>
-<td>Zhideng Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00984">2409.00984</a></td>
 </tr>
 </tbody></table>

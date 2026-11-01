@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electronic-structure — all</h1>
-  <span class="paper-count">213 papers</span>
+  <span class="paper-count">207 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1256,41 +1256,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.09659.html">Many-body Expansion Based Machine Learning Models for Octahedral Transition Metal Complexes</a></div></td>
 <td>Ralf Meyer et al.</td>
 <td><a href="http://arxiv.org/abs/2410.09659">2410.09659</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15800.html">MGNN: Moment Graph Neural Network for Universal Molecular Potentials</a></div></td>
-<td>Jian Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15800">2409.15800</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11037.html">A High-Dimensional Neural Network Potential for Co$_3$O$_4$</a></div></td>
-<td>Amir Omranpour et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11037">2409.11037</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10881.html">Exciting DeePMD: Learning excited state energies, forces, and non-adiabatic couplings</a></div></td>
-<td>Lucien Dupuy et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10881">2407.10881</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08886.html">PiNNAcLe: Adaptive Learn-On-The-Fly Algorithm for Machine-Learning Potential</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Yunqi Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08886">2409.08886</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08891.html">Self-supervised learning for denoising quasiparticle interference data</a></div></td>
-<td>Ilse S. Kuijf et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08891">2409.08891</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01523.html">Machine learning approach for vibronically renormalized electronic band structures</a></div></td>
-<td>Niraj Aryal et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01523">2409.01523</a></td>
 </tr>
 </tbody></table>

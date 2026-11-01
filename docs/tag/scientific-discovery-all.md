@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-discovery — all</h1>
-  <span class="paper-count">804 papers</span>
+  <span class="paper-count">800 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4814,29 +4814,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06769.html">DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents</a></div></td>
 <td>Peter Jansen et al.</td>
 <td><a href="http://arxiv.org/abs/2406.06769">2406.06769</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10833.html">A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery</a></div></td>
-<td>Yu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10833">2406.10833</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12295.html">SANE: Strategic Autonomous Non-Smooth Exploration for Multiple Optima Discovery in Multi-modal and Non-differentiable Black-box Functions</a></div></td>
-<td>Arpan Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12295">2409.12295</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04109.html">Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers</a></div></td>
-<td>Chenglei Si et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04109">2409.04109</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06292.html">The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</a></div></td>
-<td>Chris Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06292">2408.06292</a></td>
 </tr>
 </tbody></table>

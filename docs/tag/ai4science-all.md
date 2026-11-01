@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ai4science — all</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="ai4science-7d.html">7d</a> <a href="ai4science-30d.html">30d</a> <a href="ai4science-90d.html">90d</a> <a href="ai4science-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06494.html">DiffPhyCon: A Generative Approach to Control Complex Physical Systems</a></div></td>
 <td>Long Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2407.06494">2407.06494</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04481.html">Large Language Models in Drug Discovery and Development: From Disease Mechanisms to Clinical Trials</a></div></td>
-<td>Yizhen Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04481">2409.04481</a></td>
 </tr>
 </tbody></table>

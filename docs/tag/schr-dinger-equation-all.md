@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>schr-dinger-equation — all</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">98 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <a href="schr-dinger-equation-30d.html">30d</a> <a href="schr-dinger-equation-90d.html">90d</a> <a href="schr-dinger-equation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -602,23 +602,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.07886.html">Simulating Quantum Many-Body States with Neural-Network Exponential Ansatz</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a> · <a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a></div></td>
 <td>Weillei Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2411.07886">2411.07886</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20023.html">CNN-Assisted Particle Swarm Optimization of a Perturbation-Based Model for Nonlinearity Compensation in Optical Transmission Systems</a></div></td>
-<td>Alexey Redyuk et al.</td>
-<td><a href="http://arxiv.org/abs/2409.20023">2409.20023</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04192.html">KAN-ODEs: Kolmogorov-Arnold Network Ordinary Differential Equations for Learning Dynamical Systems and Hidden Physics</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
-<td>Benjamin C. Koenig et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04192">2407.04192</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20669.html">A Tutorial on the Use of Physics-Informed Neural Networks to Compute the Spectrum of Quantum Systems</a></div><div class="paper-tags"><a href="pinns-all.html">pinns</a> · <a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a> · <a href="tensor-networks-all.html">tensor-networks</a></div></td>
-<td>Lorenzo Brevi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20669">2407.20669</a></td>
 </tr>
 </tbody></table>

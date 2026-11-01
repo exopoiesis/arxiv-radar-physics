@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-inference — all</h1>
-  <span class="paper-count">733 papers</span>
+  <span class="paper-count">718 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4322,95 +4322,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00947.html">Data-Driven Modeling of Seasonal Dengue Dynamics in Bangladesh: A Bayesian-Stochastic Approach</a></div></td>
 <td>Mahmudul Bari Hridoy et al.</td>
 <td><a href="http://arxiv.org/abs/2410.00947">2410.00947</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07678.html">The ESO SupJup Survey II: The 12C/13C ratios of three young brown dwarfs with CRIRES$^+$</a></div></td>
-<td>D. González Picos et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07678">2407.07678</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18452.html">Nambu-Jona-Lasinio description of hadronic matter from a Bayesian approach</a></div></td>
-<td>K. D. Marquez et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18452">2407.18452</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19284.html">Interacting ultralight dark matter and dark energy and fits to cosmological data in a field theory approach</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a> · <a href="dark-matter-all.html">dark-matter</a></div></td>
-<td>Amin Aboubrahim et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19284">2406.19284</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14143.html">GWPopulation: Hardware agnostic population inference for compact binaries and beyond</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="gravitational-waves-all.html">gravitational-waves</a> · <a href="ligo-all.html">ligo</a></div></td>
-<td>Colm Talbot et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14143">2409.14143</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13821.html">Neural Network Constraints on the Cosmic-Ray Ionization Rate and Other Physical Conditions in NGC 253 with ALCHEMI Measurements of HCN and HNC</a></div></td>
-<td>Erica Behrens et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13821">2409.13821</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12173.html">Poisson approximate likelihood compared to the particle filter</a></div></td>
-<td>Yize Hao et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12173">2409.12173</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10381.html">J-UBIK: The JAX-accelerated Universal Bayesian Imaging Kit</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a></div></td>
-<td>Vincent Eberle et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10381">2409.10381</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04072.html">Variational Prior Replacement in Bayesian Inference and Inversion</a></div></td>
-<td>Xuebin Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04072">2406.04072</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09029.html">Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a> · <a href="normalizing-flows-all.html">normalizing-flows</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Michael W. Toomey et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09029">2409.09029</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09101.html">Understanding posterior projection effects with normalizing flows</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="normalizing-flows-all.html">normalizing-flows</a></div></td>
-<td>Marco Raveri et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09101">2409.09101</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15280.html">Gravity.jl: fast and accurate gravitational lens modeling in Julia</a></div></td>
-<td>Marco Lombardi</td>
-<td><a href="http://arxiv.org/abs/2406.15280">2406.15280</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06750.html">Scalar Field Dominated Cosmology with Woods-Saxon Like Potential</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="dark-energy-all.html">dark-energy</a></div></td>
-<td>Sreerag Radhakrishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06750">2405.06750</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05757.html">jaxspec : a fast and robust Python library for X-ray spectral fitting</a></div><div class="paper-tags"><a href="astrophysics-all.html">astrophysics</a></div></td>
-<td>Simon Dupourqué et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05757">2409.05757</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12965.html">The future of cosmological likelihood-based inference: accelerated high-dimensional parameter estimation and model comparison</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a></div></td>
-<td>Davide Piras et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12965">2405.12965</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08538.html">Phenomenological model of gravitational self-force enhanced tides in inspiralling binary neutron stars</a></div><div class="paper-tags"><a href="gravitational-waves-all.html">gravitational-waves</a></div></td>
-<td>Natalie Williams et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08538">2407.08538</a></td>
 </tr>
 </tbody></table>

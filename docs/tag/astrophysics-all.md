@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>astrophysics — all</h1>
-  <span class="paper-count">236 papers</span>
+  <span class="paper-count">229 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <a href="astrophysics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1388,47 +1388,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06736.html">Photometric Analysis for Predicting Star Formation Rates in Large Galaxies Using Machine Learning and Deep Learning Techniques</a></div><div class="paper-tags"><a href="galaxy-formation-all.html">galaxy-formation</a></div></td>
 <td>Satvik Raghav et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06736">2410.06736</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00271.html">GalaxiesML: a dataset of galaxy images, photometry, redshifts, and structural parameters for machine learning</a></div></td>
-<td>Tuan Do et al.</td>
-<td><a href="http://arxiv.org/abs/2410.00271">2410.00271</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12141.html">Investigating the effects of precise mass measurements of Ru and Pd isotopes on machine learning mass modeling</a></div></td>
-<td>W. S. Porter et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12141">2409.12141</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10381.html">J-UBIK: The JAX-accelerated Universal Bayesian Imaging Kit</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Vincent Eberle et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10381">2409.10381</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05482.html">Advancing Machine Learning for Stellar Activity and Exoplanet Period Rotation</a></div></td>
-<td>Fatemeh Fazel Hesar et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05482">2409.05482</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05757.html">jaxspec : a fast and robust Python library for X-ray spectral fitting</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Simon Dupourqué et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05757">2409.05757</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12754.html">Global-local Fourier Neural Operator for Accelerating Coronal Magnetic Field Model</a></div><div class="paper-tags"><a href="magnetohydrodynamics-all.html">magnetohydrodynamics</a> · <a href="mhd-all.html">mhd</a></div></td>
-<td>Yutao Du et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12754">2405.12754</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17324.html">Delving into the Utilisation of ChatGPT in Scientific Publications in Astronomy</a></div></td>
-<td>Simone Astarita et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17324">2406.17324</a></td>
 </tr>
 </tbody></table>

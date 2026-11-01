@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dark-matter — all</h1>
-  <span class="paper-count">370 papers</span>
+  <span class="paper-count">364 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <a href="dark-matter-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2198,41 +2198,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00755.html">Model-independent searches of new physics in DARWIN with a semi-supervised deep learning pipeline</a></div></td>
 <td>J. Aalbers et al.</td>
 <td><a href="http://arxiv.org/abs/2410.00755">2410.00755</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19284.html">Interacting ultralight dark matter and dark energy and fits to cosmological data in a field theory approach</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="dark-energy-all.html">dark-energy</a></div></td>
-<td>Amin Aboubrahim et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19284">2406.19284</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01724.html">Application of Kolmogorov-Arnold Networks in high energy physics</a></div></td>
-<td>E. Abasov et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01724">2409.01724</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15170.html">Probing $Λ$CDM through the Weyl potential and machine learning forecasts</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="dark-energy-all.html">dark-energy</a></div></td>
-<td>Rubén Arjona et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15170">2409.15170</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18834.html">Exploring Exotic Decays of the Higgs Boson to Multi-Photons at the LHC via Multimodal Learning Approaches</a></div></td>
-<td>A. Hammad et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18834">2405.18834</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09124.html">CHARM: Creating Halos with Auto-Regressive Multi-stage networks</a></div></td>
-<td>Shivam Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09124">2409.09124</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02980.html">How DREAMS are made: Emulating Satellite Galaxy and Subhalo Populations with Diffusion Models and Point Clouds</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="galaxy-formation-all.html">galaxy-formation</a> · <a href="strong-lensing-all.html">strong-lensing</a></div></td>
-<td>Tri Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02980">2409.02980</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>weather-forecasting — all</h1>
-  <span class="paper-count">327 papers</span>
+  <span class="paper-count">317 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <a href="weather-forecasting-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1916,65 +1916,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.07472.html">Exploring the design space of deep-learning-based weather forecasting systems</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
 <td>Shoaib Ahmed Siddiqui et al.</td>
 <td><a href="http://arxiv.org/abs/2410.07472">2410.07472</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18529.html">Robustness of AI-based weather forecasts in a changing climate</a></div></td>
-<td>Thomas Rackow et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18529">2409.18529</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11502.html">Super Resolution On Global Weather Forecasts</a></div></td>
-<td>Lawrence Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11502">2409.11502</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09371.html">WeatherReal: A Benchmark Based on In-Situ Observations for Evaluating Weather Models</a></div></td>
-<td>Weixin Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09371">2409.09371</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09414.html">Weather Prediction Using CNN-LSTM for Time Series Analysis: A Case Study on Delhi Temperature Data</a></div></td>
-<td>Bangyu Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09414">2409.09414</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09230.html">Classifying different types of solar wind plasma with uncertainty estimations using machine learning</a></div></td>
-<td>Tom Narock et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09230">2409.09230</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00127.html">Latent-EnSF: A Latent Ensemble Score Filter for High-Dimensional Data Assimilation with Sparse Observation Data</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
-<td>Phillip Si et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00127">2409.00127</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07188.html">FuXi-2.0: Advancing machine learning weather forecasting model for practical applications</a></div></td>
-<td>Xiaohui Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07188">2409.07188</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07585.html">Efficient Localized Adaptation of Neural Weather Forecasting: A Case Study in the MENA Region</a></div><div class="paper-tags"><a href="climate-modeling-all.html">climate-modeling</a></div></td>
-<td>Muhammad Akhtar Munir et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07585">2409.07585</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06522.html">Deep Learning for Koopman Operator Estimation in Idealized Atmospheric Dynamics</a></div><div class="paper-tags"><a href="koopman-operator-all.html">koopman-operator</a></div></td>
-<td>David Millard et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06522">2409.06522</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02891.html">Regional data-driven weather modeling with a global stretched-grid</a></div></td>
-<td>Thomas Nils Nipen et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02891">2409.02891</a></td>
 </tr>
 </tbody></table>

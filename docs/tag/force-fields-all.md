@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>force-fields — all</h1>
-  <span class="paper-count">183 papers</span>
+  <span class="paper-count">179 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <a href="force-fields-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1088,29 +1088,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.03921.html">Scaling Graph Neural Networks to Large Proteins</a></div></td>
 <td>Justin Airas et al.</td>
 <td><a href="http://arxiv.org/abs/2410.03921">2410.03921</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11000.html">Absolute standard hydrogen electrode potential and redox potentials of atoms and molecules: machine learning aided first principles calculations</a></div></td>
-<td>Ryosuke Jinnouchi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11000">2409.11000</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02263.html">FreeCG: Free the Design Space of Clebsch-Gordan Transform for Machine Learning Force Fields</a></div></td>
-<td>Shihao Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02263">2407.02263</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01931.html">On the design space between molecular mechanics and machine learning force fields</a></div></td>
-<td>Yuanqing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01931">2409.01931</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03118.html">Generative artificial intelligence for computational chemistry: a roadmap to predicting emergent phenomena</a></div></td>
-<td>Pratyush Tiwary et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03118">2409.03118</a></td>
 </tr>
 </tbody></table>

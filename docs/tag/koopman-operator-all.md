@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>koopman-operator — all</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">148 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <a href="koopman-operator-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -902,35 +902,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09920.html">Multi-Step Embed to Control: A Novel Deep Learning-based Approach for Surrogate Modelling in Reservoir Simulation</a></div><div class="paper-tags"><a href="reduced-order-modeling-all.html">reduced-order-modeling</a></div></td>
 <td>Jungang Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2409.09920">2409.09920</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19518.html">KODA: A Data-Driven Recursive Model for Time Series Forecasting and Data Assimilation using Koopman Operators</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a> · <a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Ashutosh Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19518">2409.19518</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02803.html">On the Effect of Quantization on Extended Dynamic Mode Decomposition</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Dipankar Maity et al.</td>
-<td><a href="http://arxiv.org/abs/2410.02803">2410.02803</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06522.html">Deep Learning for Koopman Operator Estimation in Idealized Atmospheric Dynamics</a></div><div class="paper-tags"><a href="weather-forecasting-all.html">weather-forecasting</a></div></td>
-<td>David Millard et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06522">2409.06522</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01222.html">Nonlinear PDE Constrained Optimal Dispatch of Gas and Power: A Global Linearization Approach</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Yuan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01222">2409.01222</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01308.html">Representing Neural Network Layers as Linear Operations via Koopman Operator Theory</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Nishant Suresh Aswani et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01308">2409.01308</a></td>
 </tr>
 </tbody></table>

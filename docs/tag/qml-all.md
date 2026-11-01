@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>qml — all</h1>
-  <span class="paper-count">345 papers</span>
+  <span class="paper-count">339 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <a href="qml-90d.html">90d</a> <a href="qml-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2048,41 +2048,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10932.html">Early Detection of Coronary Heart Disease Using Hybrid Quantum Machine Learning Approach</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
 <td>Mehroush Banday et al.</td>
 <td><a href="http://arxiv.org/abs/2409.10932">2409.10932</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16346.html">Scalable quantum dynamics compilation via quantum machine learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Yuxuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16346">2409.16346</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19011.html">Identification and Mitigating Bias in Quantum Machine Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Nandhini Swaminathan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19011">2409.19011</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10902.html">Evaluating Modifications to Classifiers for Identification of Higgs Bosons</a></div><div class="paper-tags"><a href="hep-all.html">hep</a> · <a href="high-energy-physics-all.html">high-energy-physics</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Rishivarshil Nelakurti et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10902">2409.10902</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07632.html">Learning Robust Observable to Address Noise in Quantum Machine Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Bikram Khanal et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07632">2409.07632</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04955.html">Quantum Geometric Machine Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Elija Perrier</td>
-<td><a href="http://arxiv.org/abs/2409.04955">2409.04955</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13713.html">Verifiable cloud-based variational quantum algorithms</a></div><div class="paper-tags"><a href="quantum-machine-learning-all.html">quantum-machine-learning</a> · <a href="variational-quantum-algorithms-all.html">variational-quantum-algorithms</a></div></td>
-<td>Junhong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13713">2408.13713</a></td>
 </tr>
 </tbody></table>

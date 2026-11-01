@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>plasma-physics — all</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="plasma-physics-7d.html">7d</a> <a href="plasma-physics-30d.html">30d</a> <a href="plasma-physics-90d.html">90d</a> <a href="plasma-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,23 +176,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11161.html">Differentiable Programming for Computational Plasma Physics</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Nick McGreivy</td>
 <td><a href="http://arxiv.org/abs/2410.11161">2410.11161</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07075.html">Data-driven discovery of a model equation describing self-oscillations of direct current discharge</a></div></td>
-<td>Dmitry Levko</td>
-<td><a href="http://arxiv.org/abs/2405.07075">2405.07075</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02349.html">Machine Learning Applications to Computational Plasma Physics and Reduced-Order Plasma Modeling: A Perspective</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
-<td>Farbod Faraji et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02349">2409.02349</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00963.html">Topological thermal transport</a></div><div class="paper-tags"><a href="condensed-matter-physics-all.html">condensed-matter-physics</a></div></td>
-<td>Zhoufei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00963">2409.00963</a></td>
 </tr>
 </tbody></table>

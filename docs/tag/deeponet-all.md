@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>deeponet — all</h1>
-  <span class="paper-count">263 papers</span>
+  <span class="paper-count">256 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <a href="deeponet-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1550,47 +1550,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00357.html">Neural Scaling Laws of Deep ReLU and Deep Operator Network: A Theoretical Study</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
 <td>Hao Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2410.00357">2410.00357</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18032.html">FlowBench: A Large Scale Benchmark for Flow Simulation over Complex Geometries</a></div></td>
-<td>Ronak Tali et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18032">2409.18032</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16572.html">Efficient and generalizable nested Fourier-DeepONet for three-dimensional geological carbon sequestration</a></div><div class="paper-tags"><a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Jonathan E. Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16572">2409.16572</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09207.html">FB-HyDON: Parameter-Efficient Physics-Informed Operator Learning of Complex PDEs via Hypernetwork and Finite Basis Domain Decomposition</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="operator-learning-all.html">operator-learning</a></div></td>
-<td>Milad Ramezankhani et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09207">2409.09207</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05508.html">A general reduced-order neural operator for spatio-temporal predictive learning on complex spatial domains</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a></div></td>
-<td>Qinglu Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05508">2409.05508</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04779.html">Component Fourier Neural Operator for Singularly Perturbed Differential Equations</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
-<td>Ye Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04779">2409.04779</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04782.html">Tailored Finite Point Operator Networks for Interface problems</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Ye Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04782">2409.04782</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00994.html">Physics-informed DeepONet with stiffness-based loss functions for structural response prediction</a></div></td>
-<td>Bilal Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00994">2409.00994</a></td>
 </tr>
 </tbody></table>

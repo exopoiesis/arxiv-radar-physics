@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlip — all</h1>
-  <span class="paper-count">228 papers</span>
+  <span class="paper-count">223 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1352,35 +1352,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.15350.html">Li$_{14}$Mn$_{2}$S$_{9}$ and Li$_{10}$Si$_{2}$S$_{9}$ as a pair of all-electrochem-active electrode and solid-state electrolyte with chemical compatibility and low interface resistance</a></div></td>
 <td>Qifan Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2410.15350">2410.15350</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16712.html">Atomic insight into Li$^+$ ion transport in amorphous electrolytes Li$_x$AlO$_y$Cl$_{3+x-2y}$ (0.5 $\leq$ x $\leq$ 1.5, 0.25 $\leq$ y $\leq$ 0.75)</a></div></td>
-<td>Yang Qifan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16712">2409.16712</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11808.html">Accelerating the Training and Improving the Reliability of Machine-Learned Interatomic Potentials for Strongly Anharmonic Materials through Active Learning</a></div></td>
-<td>Kisung Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11808">2409.11808</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07947.html">Data-efficient multi-fidelity training for high-fidelity machine learning interatomic potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-all.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Jaesun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07947">2409.07947</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07610.html">When More Data Hurts: Optimizing Data Coverage While Mitigating Diversity Induced Underfitting in an Ultra-Fast Machine-Learned Potential</a></div></td>
-<td>Jason B. Gibson et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07610">2409.07610</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05590.html">Transferability of datasets between Machine-Learning Interaction Potentials</a></div></td>
-<td>Samuel P. Niblett et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05590">2409.05590</a></td>
 </tr>
 </tbody></table>

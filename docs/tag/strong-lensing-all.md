@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>strong-lensing — all</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="strong-lensing-7d.html">7d</a> <a href="strong-lensing-30d.html">30d</a> <a href="strong-lensing-90d.html">90d</a> <a href="strong-lensing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02936.html">Galaxy-Galaxy Strong Lensing with U-Net (GGSL-UNet). I. Extracting 2-Dimensional Information from Multi-Band Images in Ground and Space Observations</a></div></td>
 <td>Fucheng Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2410.02936">2410.02936</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02980.html">How DREAMS are made: Emulating Satellite Galaxy and Subhalo Populations with Diffusion Models and Point Clouds</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="dark-matter-all.html">dark-matter</a> · <a href="galaxy-formation-all.html">galaxy-formation</a></div></td>
-<td>Tri Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02980">2409.02980</a></td>
 </tr>
 </tbody></table>

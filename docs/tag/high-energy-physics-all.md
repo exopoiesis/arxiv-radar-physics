@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>high-energy-physics — all</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="high-energy-physics-7d.html">7d</a> <a href="high-energy-physics-30d.html">30d</a> <a href="high-energy-physics-90d.html">90d</a> <a href="high-energy-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -434,29 +434,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06788.html">A unified machine learning approach for reconstructing hadronically decaying tau leptons</a></div><div class="paper-tags"><a href="detector-simulation-all.html">detector-simulation</a> · <a href="jet-tagging-all.html">jet-tagging</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
 <td>Laurits Tani et al.</td>
 <td><a href="http://arxiv.org/abs/2407.06788">2407.06788</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20506.html">Nanosecond hardware regression trees in FPGA at the LHC</a></div></td>
-<td>Pavel Serhiayenka et al.</td>
-<td><a href="http://arxiv.org/abs/2409.20506">2409.20506</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16075.html">Ultra-low latency quantum-inspired machine learning predictors implemented on FPGA</a></div><div class="paper-tags"><a href="hep-all.html">hep</a> · <a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a> · <a href="tensor-networks-all.html">tensor-networks</a></div></td>
-<td>Lorenzo Borella et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16075">2409.16075</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10902.html">Evaluating Modifications to Classifiers for Identification of Higgs Bosons</a></div><div class="paper-tags"><a href="hep-all.html">hep</a> · <a href="qml-all.html">qml</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Rishivarshil Nelakurti et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10902">2409.10902</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05207.html">Low Latency Transformer Inference on FPGAs for Physics Applications with hls4ml</a></div><div class="paper-tags"><a href="ligo-all.html">ligo</a></div></td>
-<td>Zhixing Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05207">2409.05207</a></td>
 </tr>
 </tbody></table>

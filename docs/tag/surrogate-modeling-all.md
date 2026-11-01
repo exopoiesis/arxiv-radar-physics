@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>surrogate-modeling — all</h1>
-  <span class="paper-count">252 papers</span>
+  <span class="paper-count">249 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1508,23 +1508,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.07940.html">AI Surrogate Model for Distributed Computing Workloads</a></div></td>
 <td>David K. Park et al.</td>
 <td><a href="http://arxiv.org/abs/2410.07940">2410.07940</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16572.html">Efficient and generalizable nested Fourier-DeepONet for three-dimensional geological carbon sequestration</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a></div></td>
-<td>Jonathan E. Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16572">2409.16572</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17159.html">Uncertainty quantification for seismic response using dimensionality reduction-based stochastic simulator</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Jungho Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17159">2409.17159</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05234.html">Empowering Bayesian Neural Networks with Functional Priors through Anchored Ensembling for Mechanics Surrogate Modeling Applications</a></div></td>
-<td>Javad Ghorbanian et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05234">2409.05234</a></td>
 </tr>
 </tbody></table>

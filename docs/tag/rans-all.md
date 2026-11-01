@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rans — all</h1>
-  <span class="paper-count">130 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <a href="rans-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -782,17 +782,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06282.html">A novel data-driven method for augmenting turbulence modeling for unsteady cavitating flows</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="les-all.html">les</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a></div></td>
 <td>Dhruv Apte et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06282">2410.06282</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05092.html">Towards an AI/ML-driven SMO Framework in O-RAN: Scenarios, Solutions, and Challenges</a></div></td>
-<td>Mohammad Asif Habibi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05092">2409.05092</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03395.html">Data-driven turbulent heat flux modeling with inputs of multiple fidelity</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
-<td>Matilde Fiore et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03395">2409.03395</a></td>
 </tr>
 </tbody></table>

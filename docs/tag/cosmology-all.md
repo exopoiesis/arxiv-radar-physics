@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cosmology — all</h1>
-  <span class="paper-count">344 papers</span>
+  <span class="paper-count">337 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <a href="cosmology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2036,47 +2036,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10942.html">Cosmological and Astrophysical Parameter Inference from Stacked Galaxy Cluster Profiles Using CAMELS-zoomGZ</a></div></td>
 <td>Elena Hernández-Martínez et al.</td>
 <td><a href="http://arxiv.org/abs/2410.10942">2410.10942</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15170.html">Probing $Λ$CDM through the Weyl potential and machine learning forecasts</a></div><div class="paper-tags"><a href="dark-energy-all.html">dark-energy</a> · <a href="dark-matter-all.html">dark-matter</a></div></td>
-<td>Rubén Arjona et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15170">2409.15170</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14143.html">GWPopulation: Hardware agnostic population inference for compact binaries and beyond</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="gravitational-waves-all.html">gravitational-waves</a> · <a href="ligo-all.html">ligo</a></div></td>
-<td>Colm Talbot et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14143">2409.14143</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09101.html">Understanding posterior projection effects with normalizing flows</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="normalizing-flows-all.html">normalizing-flows</a></div></td>
-<td>Marco Raveri et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09101">2409.09101</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06750.html">Scalar Field Dominated Cosmology with Woods-Saxon Like Potential</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="dark-energy-all.html">dark-energy</a></div></td>
-<td>Sreerag Radhakrishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06750">2405.06750</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06001.html">The cosmological analysis of X-ray cluster surveys: VI. Inference based on analytically simulated observable diagrams</a></div></td>
-<td>M. Kosiba et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06001">2409.06001</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02980.html">How DREAMS are made: Emulating Satellite Galaxy and Subhalo Populations with Diffusion Models and Point Clouds</a></div><div class="paper-tags"><a href="dark-matter-all.html">dark-matter</a> · <a href="galaxy-formation-all.html">galaxy-formation</a> · <a href="strong-lensing-all.html">strong-lensing</a></div></td>
-<td>Tri Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02980">2409.02980</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01301.html">Cosmology from HSC Y1 Weak Lensing with Combined Higher-Order Statistics and Simulation-based Inference</a></div></td>
-<td>Camila P. Novaes et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01301">2409.01301</a></td>
 </tr>
 </tbody></table>

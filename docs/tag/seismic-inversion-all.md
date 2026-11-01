@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>seismic-inversion — all</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="seismic-inversion-7d.html">7d</a> <a href="seismic-inversion-30d.html">30d</a> <a href="seismic-inversion-90d.html">90d</a> <a href="seismic-inversion-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13491.html">Neural machine translation of seismic waves for petrophysical inversion</a></div></td>
 <td>José Cunha Teixeira et al.</td>
 <td><a href="http://arxiv.org/abs/2411.13491">2411.13491</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06840.html">Uncertainty Quantification in Seismic Inversion Through Integrated Importance Sampling and Ensemble Methods</a></div><div class="paper-tags"><a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Luping Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06840">2409.06840</a></td>
 </tr>
 </tbody></table>

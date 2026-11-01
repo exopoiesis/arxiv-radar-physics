@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dark-energy — all</h1>
-  <span class="paper-count">211 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <a href="dark-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1238,47 +1238,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10312.html">KiDS-1000 and DES-Y1 combined: Cosmology from peak count statistics</a></div></td>
 <td>Joachim Harnois-Deraps et al.</td>
 <td><a href="http://arxiv.org/abs/2405.10312">2405.10312</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19284.html">Interacting ultralight dark matter and dark energy and fits to cosmological data in a field theory approach</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="dark-matter-all.html">dark-matter</a></div></td>
-<td>Amin Aboubrahim et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19284">2406.19284</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17081.html">The effect of image quality on galaxy merger identification with deep learning</a></div></td>
-<td>Robert W. Bickley et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17081">2409.17081</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15170.html">Probing $Λ$CDM through the Weyl potential and machine learning forecasts</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="dark-matter-all.html">dark-matter</a></div></td>
-<td>Rubén Arjona et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15170">2409.15170</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09029.html">Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="normalizing-flows-all.html">normalizing-flows</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Michael W. Toomey et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09029">2409.09029</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08359.html">Participatory Science and Machine Learning Applied to Millions of Sources in the Hobby-Eberly Telescope Dark Energy Experiment</a></div></td>
-<td>Lindsay R. House et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08359">2409.08359</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06750.html">Scalar Field Dominated Cosmology with Woods-Saxon Like Potential</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="cosmology-all.html">cosmology</a></div></td>
-<td>Sreerag Radhakrishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06750">2405.06750</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12965.html">The future of cosmological likelihood-based inference: accelerated high-dimensional parameter estimation and model comparison</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a></div></td>
-<td>Davide Piras et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12965">2405.12965</a></td>
 </tr>
 </tbody></table>

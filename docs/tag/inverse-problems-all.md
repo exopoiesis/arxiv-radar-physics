@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inverse-problems — all</h1>
-  <span class="paper-count">719 papers</span>
+  <span class="paper-count">711 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4280,53 +4280,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18943.html">Decoding a mean field game by the Cauchy data around its unknown stationary states</a></div></td>
 <td>Hongyu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2405.18943">2405.18943</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00229.html">Stochastic Inverse Problem: stability, regularization and Wasserstein gradient flow</a></div></td>
-<td>Qin Li et al.</td>
-<td><a href="http://arxiv.org/abs/2410.00229">2410.00229</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13486.html">DiffSound: Differentiable Modal Sound Rendering and Inverse Rendering for Diverse Inference Tasks</a></div></td>
-<td>Xutong Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13486">2409.13486</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12964.html">Differential Walk on Spheres</a></div></td>
-<td>Bailey Miller et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12964">2405.12964</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11346.html">DEDEM: Discontinuity Embedded Deep Energy Method for solving fracture mechanics problems</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Luyang Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11346">2407.11346</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05355.html">Well-posedness of the time-periodic Jordan-Moore-Gibson-Thompson equation</a></div></td>
-<td>Barbara Kaltenbacher</td>
-<td><a href="http://arxiv.org/abs/2409.05355">2409.05355</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04143.html">An efficient hp-Variational PINNs framework for incompressible Navier-Stokes equations</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Thivin Anandh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04143">2409.04143</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02605.html">Inverse problems for quantum graph associated with square and hexagonal lattices</a></div></td>
-<td>K. Ando et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02605">2409.02605</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01899.html">PINNIES: An Efficient Physics-Informed Neural Network Framework to Integral Operator Problems</a></div></td>
-<td>Alireza Afzal Aghaei et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01899">2409.01899</a></td>
 </tr>
 </tbody></table>

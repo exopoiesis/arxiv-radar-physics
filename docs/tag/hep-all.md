@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>hep — all</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="hep-7d.html">7d</a> <a href="hep-30d.html">30d</a> <a href="hep-90d.html">90d</a> <a href="hep-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -506,29 +506,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02888.html">HEP ML Lab: An end-to-end framework for applying machine learning into phenomenology studies</a></div><div class="paper-tags"><a href="high-energy-physics-all.html">high-energy-physics</a></div></td>
 <td>Jing Li et al.</td>
 <td><a href="http://arxiv.org/abs/2405.02888">2405.02888</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08682.html">Jet Tagging with More-Interaction Particle Transformer</a></div><div class="paper-tags"><a href="jet-tagging-all.html">jet-tagging</a> · <a href="particle-physics-all.html">particle-physics</a></div></td>
-<td>Yifan Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08682">2407.08682</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16075.html">Ultra-low latency quantum-inspired machine learning predictors implemented on FPGA</a></div><div class="paper-tags"><a href="high-energy-physics-all.html">high-energy-physics</a> · <a href="quantum-many-body-systems-all.html">quantum-many-body-systems</a> · <a href="tensor-networks-all.html">tensor-networks</a></div></td>
-<td>Lorenzo Borella et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16075">2409.16075</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19021.html">ChatQCD: Let Large Language Models Explore QCD</a></div></td>
-<td>Antonin Sulc et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19021">2409.19021</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10902.html">Evaluating Modifications to Classifiers for Identification of Higgs Bosons</a></div><div class="paper-tags"><a href="high-energy-physics-all.html">high-energy-physics</a> · <a href="qml-all.html">qml</a> · <a href="quantum-machine-learning-all.html">quantum-machine-learning</a></div></td>
-<td>Rishivarshil Nelakurti et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10902">2409.10902</a></td>
 </tr>
 </tbody></table>

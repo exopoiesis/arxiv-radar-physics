@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inductive-bias — all</h1>
-  <span class="paper-count">251 papers</span>
+  <span class="paper-count">248 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <a href="inductive-bias-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1502,23 +1502,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01244.html">Equivariant score-based generative models provably learn distributions with symmetries efficiently</a></div></td>
 <td>Ziyu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01244">2410.01244</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04300.html">Equivariant Machine Learning Decoder for 3D Toric Codes</a></div></td>
-<td>Oliver Weissl et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04300">2409.04300</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08207.html">VI3DRM:Towards meticulous 3D Reconstruction from Sparse Views via Photo-Realistic Novel View Synthesis</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
-<td>Hao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08207">2409.08207</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06085.html">Differentiable programming across the PDE and Machine Learning barrier</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Nacime Bouziani et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06085">2409.06085</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cfd — all</h1>
-  <span class="paper-count">364 papers</span>
+  <span class="paper-count">356 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2150,53 +2150,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01657.html">Scalable and Consistent Graph Neural Networks for Distributed Mesh-based Data-driven Modeling</a></div></td>
 <td>Shivam Barwey et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01657">2410.01657</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19851.html">Inference of water waves surface elevation from horizontal velocity components using physics informed neural networks (PINN)</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Omar Sallam et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19851">2409.19851</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12707.html">Machine-learning-based multipoint optimization of fluidic injection parameters for improving nozzle performance</a></div></td>
-<td>Yunjia Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12707">2409.12707</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11899.html">Multi-Grid Graph Neural Networks with Self-Attention for Computational Mechanics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
-<td>Paul Garnier et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11899">2409.11899</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07175.html">Coupling Machine Learning Local Predictions with a Computational Fluid Dynamics Solver to Accelerate Transient Buoyant Plume Simulations</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
-<td>Clément Caron et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07175">2409.07175</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07545.html">Hammering at the entropy: A GENERIC-guided approach to learning polymeric rheological constitutive equations using PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>David Nieto Simavilla et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07545">2409.07545</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04143.html">An efficient hp-Variational PINNs framework for incompressible Navier-Stokes equations</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="inverse-problems-all.html">inverse-problems</a> · <a href="navier-stokes-equations-all.html">navier-stokes-equations</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Thivin Anandh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04143">2409.04143</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07441.html">Reducing Spatial Discretization Error on Coarse CFD Simulations Using an OpenFOAM-Embedded Deep Learning Framework</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
-<td>Jesus Gonzalez-Sieiro et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07441">2405.07441</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03395.html">Data-driven turbulent heat flux modeling with inputs of multiple fidelity</a></div><div class="paper-tags"><a href="rans-all.html">rans</a></div></td>
-<td>Matilde Fiore et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03395">2409.03395</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>uncertainty-quantification — all</h1>
-  <span class="paper-count">923 papers</span>
+  <span class="paper-count">909 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -5468,89 +5468,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02079.html">Deep Generative Modeling for Identification of Noisy, Non-Stationary Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
 <td>Doris Voina et al.</td>
 <td><a href="http://arxiv.org/abs/2410.02079">2410.02079</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20512.html">Uncertainty-Informed Screening for Safer Solvents Used in the Synthesis of Perovskite via Language Models</a></div></td>
-<td>Arpan Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2409.20512">2409.20512</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16817.html">A parametric framework for kernel-based dynamic mode decomposition using deep learning</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
-<td>Konstantinos Kevopoulos et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16817">2409.16817</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12342.html">Probabilistic Eddy Identification with Uncertainty Quantification</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a></div></td>
-<td>Jeffrey Covington et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12342">2405.12342</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12815.html">Graph Convolutional Neural Networks as Surrogate Models for Climate Simulation</a></div></td>
-<td>Kevin Potter et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12815">2409.12815</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10972.html">Towards Gaussian Process for operator learning: an uncertainty aware resolution independent operator learning algorithm for computational mechanics</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="operator-learning-all.html">operator-learning</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Sawan Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10972">2409.10972</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08729.html">Accurate Computation of the Logarithm of Modified Bessel Functions on GPUs</a></div></td>
-<td>Andreas Plesner et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08729">2409.08729</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08886.html">PiNNAcLe: Adaptive Learn-On-The-Fly Algorithm for Machine-Learning Potential</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Yunqi Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08886">2409.08886</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09906.html">Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking</a></div></td>
-<td>Tomoya Wakayama et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09906">2405.09906</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06840.html">Uncertainty Quantification in Seismic Inversion Through Integrated Importance Sampling and Ensemble Methods</a></div><div class="paper-tags"><a href="seismic-inversion-all.html">seismic-inversion</a></div></td>
-<td>Luping Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06840">2409.06840</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17159.html">Uncertainty quantification for seismic response using dimensionality reduction-based stochastic simulator</a></div><div class="paper-tags"><a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
-<td>Jungho Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17159">2409.17159</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05160.html">Inference for Large Scale Regression Models with Dependent Errors</a></div></td>
-<td>Lionel Voirol et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05160">2409.05160</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05206.html">SEF: A Method for Computing Prediction Intervals by Shifting the Error Function in Neural Networks</a></div></td>
-<td>E. V. Aretos et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05206">2409.05206</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03276.html">Tensor network square root Kalman filter for online Gaussian process regression</a></div></td>
-<td>Clara Menzen et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03276">2409.03276</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03543.html">Prediction Accuracy &amp; Reliability: Classification and Object Localization under Distribution Shift</a></div></td>
-<td>Fabian Diet et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03543">2409.03543</a></td>
 </tr>
 </tbody></table>

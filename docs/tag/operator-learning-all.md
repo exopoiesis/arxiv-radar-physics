@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>operator-learning — all</h1>
-  <span class="paper-count">444 papers</span>
+  <span class="paper-count">436 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2630,53 +2630,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01065.html">Structure-Preserving Operator Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Nacime Bouziani et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01065">2410.01065</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10972.html">Towards Gaussian Process for operator learning: an uncertainty aware resolution independent operator learning algorithm for computational mechanics</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
-<td>Sawan Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10972">2409.10972</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11609.html">Time-Series Forecasting, Knowledge Distillation, and Refinement within a Multimodal PDE Foundation Model</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Derek Jollie et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11609">2409.11609</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09811.html">PROSE-FD: A Multimodal PDE Foundation Model for Learning Multiple Operators for Forecasting Fluid Dynamics</a></div><div class="paper-tags"><a href="navier-stokes-equations-all.html">navier-stokes-equations</a></div></td>
-<td>Yuxuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09811">2409.09811</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09207.html">FB-HyDON: Parameter-Efficient Physics-Informed Operator Learning of Complex PDEs via Hypernetwork and Finite Basis Domain Decomposition</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a> · <a href="neural-operators-all.html">neural-operators</a></div></td>
-<td>Milad Ramezankhani et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09207">2409.09207</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06846.html">Stratospheric aerosol source inversion: Noise, variability, and uncertainty quantification</a></div></td>
-<td>J. Hart et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06846">2409.06846</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04779.html">Component Fourier Neural Operator for Singularly Perturbed Differential Equations</a></div><div class="paper-tags"><a href="deeponet-all.html">deeponet</a></div></td>
-<td>Ye Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04779">2409.04779</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04538.html">Operator Learning with Gaussian Processes</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Carlos Mora et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04538">2409.04538</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00604.html">Spatio-spectral graph neural operator for solving computational mechanics problems on irregular domain and unstructured grid</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
-<td>Subhankar Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00604">2409.00604</a></td>
 </tr>
 </tbody></table>

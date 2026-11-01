@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-models — all</h1>
-  <span class="paper-count">1035 papers</span>
+  <span class="paper-count">1021 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -6140,89 +6140,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13532.html">Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis</a></div></td>
 <td>Sven Lüpke et al.</td>
 <td><a href="http://arxiv.org/abs/2409.13532">2409.13532</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00173.html">GaNDLF-Synth: A Framework to Democratize Generative AI for (Bio)Medical Imaging</a></div></td>
-<td>Sarthak Pati et al.</td>
-<td><a href="http://arxiv.org/abs/2410.00173">2410.00173</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13908.html">Nonlinear Inverse Design of Mechanical Multi-Material Metamaterials Enabled by Video Denoising Diffusion and Structure Identifier</a></div></td>
-<td>Jaewan Park et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13908">2409.13908</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14422.html">The route of random process to ultraslow aging phenomena</a></div></td>
-<td>Chunyan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14422">2409.14422</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13665.html">DiffFluid: Plain Diffusion Models are Effective Predictors of Flow Dynamics</a></div><div class="paper-tags"><a href="navier-stokes-equations-all.html">navier-stokes-equations</a></div></td>
-<td>Dongyu Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13665">2409.13665</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11601.html">DiffESM: Conditional Emulation of Temperature and Precipitation in Earth System Models with 3D Diffusion Models</a></div></td>
-<td>Seth Bassetti et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11601">2409.11601</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09477.html">Integrating Deep Unfolding with Direct Diffusion Bridges for Computed Tomography Reconstruction</a></div></td>
-<td>Herman Verinaz-Jadan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09477">2409.09477</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09149.html">Adaptive Multi-Modal Control of Digital Human Hand Synthesis Using a Region-Aware Cycle Loss</a></div></td>
-<td>Qifan Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09149">2409.09149</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07786.html">XMOL: Explainable Multi-property Optimization of Molecules</a></div></td>
-<td>Aye Phyu Phyu Aung et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07786">2409.07786</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08207.html">VI3DRM:Towards meticulous 3D Reconstruction from Sparse Views via Photo-Realistic Novel View Synthesis</a></div><div class="paper-tags"><a href="inductive-bias-all.html">inductive-bias</a></div></td>
-<td>Hao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08207">2409.08207</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07179.html">Phy124: Fast Physics-Driven 4D Content Generation from a Single Image</a></div></td>
-<td>Jiajing Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07179">2409.07179</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07454.html">DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation</a></div></td>
-<td>Haibo Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07454">2409.07454</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05832.html">Improving Antibody Design with Force-Guided Sampling in Diffusion Models</a></div></td>
-<td>Paulina Kulytė et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05832">2406.05832</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03455.html">Data-free Distillation with Degradation-prompt Diffusion for Multi-weather Image Restoration</a></div></td>
-<td>Pei Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03455">2409.03455</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10846.html">Harmonizing Attention: Training-free Texture-aware Geometry Transfer</a></div></td>
-<td>Eito Ikuta et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10846">2408.10846</a></td>
 </tr>
 </tbody></table>

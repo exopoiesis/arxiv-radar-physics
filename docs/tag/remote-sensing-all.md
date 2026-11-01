@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>remote-sensing — all</h1>
-  <span class="paper-count">1031 papers</span>
+  <span class="paper-count">1013 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -6092,113 +6092,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11848.html">A Robust Multisource Remote Sensing Image Matching Method Utilizing Attention and Feature Enhancement Against Noise Interference</a></div></td>
 <td>Yuan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2410.11848">2410.11848</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08448.html">Paving the way toward foundation models for irregular and unaligned Satellite Image Time Series</a></div></td>
-<td>Iris Dumeur et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08448">2407.08448</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17363.html">Improving satellite imagery segmentation using multiple Sentinel-2 revisits</a></div></td>
-<td>Kartik Jindgar et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17363">2409.17363</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09673.html">SITSMamba for Crop Classification based on Satellite Image Time Series</a></div></td>
-<td>Xiaolei Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09673">2409.09673</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19648.html">OrientedFormer: An End-to-End Transformer-Based Oriented Object Detector in Remote Sensing Images</a></div></td>
-<td>Jiaqi Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19648">2409.19648</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18815.html">Seeing the Invisible through Speckle Images</a></div></td>
-<td>Weiru Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18815">2409.18815</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18887.html">Deep Learning Enhanced Quantum Holography with Undetected Photons</a></div></td>
-<td>Weiru Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18887">2409.18887</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17453.html">AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing</a></div></td>
-<td>Hanbo Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17453">2409.17453</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14198.html">A Sinkhorn Regularized Adversarial Network for Image Guided DEM Super-resolution using Frequency Selective Hybrid Graph Transformer</a></div></td>
-<td>Subhajit Paul et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14198">2409.14198</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02963.html">Bushfire Severity Modelling and Future Trend Prediction Across Australia: Integrating Remote Sensing and Machine Learning</a></div></td>
-<td>Shouthiri Partheepan et al.</td>
-<td><a href="http://arxiv.org/abs/2410.02963">2410.02963</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11058.html">On-policy Actor-Critic Reinforcement Learning for Multi-UAV Exploration</a></div></td>
-<td>Ali Moltajaei Farid et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11058">2409.11058</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11227.html">Generalized Few-Shot Semantic Segmentation in Remote Sensing: Challenge and Benchmark</a></div></td>
-<td>Clifford Broni-Bediako et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11227">2409.11227</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09432.html">Detecting Looted Archaeological Sites from Satellite Image Time Series</a></div></td>
-<td>Elliot Vincent et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09432">2409.09432</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07048.html">Pushing the Limits of Vision-Language Models in Remote Sensing without Human Annotations</a></div></td>
-<td>Keumgang Cha et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07048">2409.07048</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06309.html">PPMamba: A Pyramid Pooling Local Auxiliary SSM-Based Model for Remote Sensing Image Semantic Segmentation</a></div></td>
-<td>Yin Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06309">2409.06309</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03431.html">UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images</a></div></td>
-<td>Lulin Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03431">2409.03431</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15331.html">Electrooptical Image Synthesis from SAR Imagery Using Generative Adversarial Networks</a></div></td>
-<td>Grant Rosario et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15331">2409.15331</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03938.html">Deep Clustering of Remote Sensing Scenes through Heterogeneous Transfer Learning</a></div></td>
-<td>Isaac Ray et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03938">2409.03938</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01988.html">Compressed learning based onboard semantic compression for remote sensing platforms</a></div></td>
-<td>Protim Bhattacharjee et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01988">2409.01988</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>symbolic-regression — all</h1>
-  <span class="paper-count">327 papers</span>
+  <span class="paper-count">324 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1958,23 +1958,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08137.html">Generalized Fixed-Depth Prefix and Postfix Symbolic Regression Grammars</a></div><div class="paper-tags"><a href="scientific-discovery-all.html">scientific-discovery</a></div></td>
 <td>Edward Finkelstein</td>
 <td><a href="http://arxiv.org/abs/2410.08137">2410.08137</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19209.html">Boosting SISSO Performance on Small Sample Datasets by Using Random Forests Prescreening for Complex Feature Selection</a></div></td>
-<td>Xiaolin Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19209">2409.19209</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14573.html">Decoding the hidden dynamics of super-Arrhenius hydrogen diffusion in multi-principal element alloys via machine learning</a></div></td>
-<td>Fei Shuang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14573">2409.14573</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08832.html">Can Kans (re)discover predictive models for Direct-Drive Laser Fusion?</a></div><div class="paper-tags"><a href="fusion-energy-all.html">fusion-energy</a></div></td>
-<td>Rahman Ejaz et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08832">2409.08832</a></td>
 </tr>
 </tbody></table>

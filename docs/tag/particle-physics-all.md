@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>particle-physics — all</h1>
-  <span class="paper-count">196 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <a href="particle-physics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1154,41 +1154,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06788.html">A unified machine learning approach for reconstructing hadronically decaying tau leptons</a></div><div class="paper-tags"><a href="detector-simulation-all.html">detector-simulation</a> · <a href="high-energy-physics-all.html">high-energy-physics</a> · <a href="jet-tagging-all.html">jet-tagging</a></div></td>
 <td>Laurits Tani et al.</td>
 <td><a href="http://arxiv.org/abs/2407.06788">2407.06788</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20413.html">Novel machine learning applications at the LHC</a></div><div class="paper-tags"><a href="anomaly-detection-all.html">anomaly-detection</a> · <a href="fast-simulation-all.html">fast-simulation</a></div></td>
-<td>Javier M. Duarte</td>
-<td><a href="http://arxiv.org/abs/2409.20413">2409.20413</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08682.html">Jet Tagging with More-Interaction Particle Transformer</a></div><div class="paper-tags"><a href="hep-all.html">hep</a> · <a href="jet-tagging-all.html">jet-tagging</a></div></td>
-<td>Yifan Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08682">2407.08682</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16336.html">Refereeing the Referees: Evaluating Two-Sample Tests for Validating Generators in Precision Sciences</a></div></td>
-<td>Samuele Grossi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16336">2409.16336</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01249.html">Anomaly-aware summary statistic from data batches</a></div></td>
-<td>Gaia Grosso</td>
-<td><a href="http://arxiv.org/abs/2407.01249">2407.01249</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09029.html">Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy</a></div><div class="paper-tags"><a href="bayesian-inference-all.html">bayesian-inference</a> · <a href="dark-energy-all.html">dark-energy</a> · <a href="normalizing-flows-all.html">normalizing-flows</a></div></td>
-<td>Michael W. Toomey et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09029">2409.09029</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04897.html">QCD Masterclass Lectures on Jet Physics and Machine Learning</a></div></td>
-<td>Andrew J. Larkoski</td>
-<td><a href="http://arxiv.org/abs/2407.04897">2407.04897</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>reduced-order-modeling — all</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="reduced-order-modeling-7d.html">7d</a> <a href="reduced-order-modeling-30d.html">30d</a> <a href="reduced-order-modeling-90d.html">90d</a> <a href="reduced-order-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -452,11 +452,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09920.html">Multi-Step Embed to Control: A Novel Deep Learning-based Approach for Surrogate Modelling in Reservoir Simulation</a></div><div class="paper-tags"><a href="koopman-operator-all.html">koopman-operator</a></div></td>
 <td>Jungang Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2409.09920">2409.09920</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06101.html">Bridging Autoencoders and Dynamic Mode Decomposition for Reduced-order Modeling and Control of PDEs</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
-<td>Priyabrata Saha et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06101">2409.06101</a></td>
 </tr>
 </tbody></table>

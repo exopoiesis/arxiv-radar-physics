@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transitions — all</h1>
-  <span class="paper-count">281 papers</span>
+  <span class="paper-count">278 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1682,23 +1682,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.15746.html">Dynamical Disorder in the Mesophase Ferroelectric HdabcoClO4: A Machine-Learned Force Field Study</a></div></td>
 <td>Elin Dypvik Sødahl et al.</td>
 <td><a href="http://arxiv.org/abs/2410.15746">2410.15746</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18480.html">Autoencoder-based learning of Quantum phase transitions in the two-component Bose-Hubbard model</a></div></td>
-<td>Iftekher S. Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18480">2409.18480</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19123.html">IceCoder: Identification of Ice phases in molecular simulation using variational autoencoder</a></div></td>
-<td>Dibyendu Maity et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19123">2409.19123</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03023.html">Machine learning of phases and structures for model systems in physics</a></div><div class="paper-tags"><a href="condensed-matter-physics-all.html">condensed-matter-physics</a></div></td>
-<td>Djenabou Bayo et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03023">2409.03023</a></td>
 </tr>
 </tbody></table>

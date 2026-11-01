@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>turbulence-modeling — all</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="turbulence-modeling-7d.html">7d</a> <a href="turbulence-modeling-30d.html">30d</a> <a href="turbulence-modeling-90d.html">90d</a> <a href="turbulence-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,11 +290,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10657.html">AutoTurb: Using Large Language Models for Automatic Algebraic Model Discovery of Turbulence Closure</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="rans-all.html">rans</a> · <a href="symbolic-regression-all.html">symbolic-regression</a></div></td>
 <td>Yu Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2410.10657">2410.10657</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11992.html">Additive-feature-attribution methods: a review on explainable artificial intelligence for fluid dynamics and heat transfer</a></div></td>
-<td>Andrés Cremades et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11992">2409.11992</a></td>
 </tr>
 </tbody></table>

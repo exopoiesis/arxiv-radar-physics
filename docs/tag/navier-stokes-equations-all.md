@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>navier-stokes-equations — all</h1>
-  <span class="paper-count">160 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <a href="navier-stokes-equations-30d.html">30d</a> <a href="navier-stokes-equations-90d.html">90d</a> <a href="navier-stokes-equations-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -938,41 +938,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11617.html">M$^{2}$M: Learning controllable Multi of experts and multi-scale operators are the Partial Differential Equations need</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a></div></td>
 <td>Aoming Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2410.11617">2410.11617</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17721.html">Improving the Vector Basis Neural Network for RANS Equations Using Separate Trainings</a></div></td>
-<td>Davide Oberto</td>
-<td><a href="http://arxiv.org/abs/2409.17721">2409.17721</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13665.html">DiffFluid: Plain Diffusion Models are Effective Predictors of Flow Dynamics</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
-<td>Dongyu Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13665">2409.13665</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09811.html">PROSE-FD: A Multimodal PDE Foundation Model for Learning Multiple Operators for Forecasting Fluid Dynamics</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
-<td>Yuxuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09811">2409.09811</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05709.html">Real-time optimal control of high-dimensional parametrized systems by deep learning-based reduced order models</a></div><div class="paper-tags"><a href="rom-all.html">rom</a></div></td>
-<td>Matteo Tomasetto et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05709">2409.05709</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04143.html">An efficient hp-Variational PINNs framework for incompressible Navier-Stokes equations</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="inverse-problems-all.html">inverse-problems</a> · <a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
-<td>Thivin Anandh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04143">2409.04143</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01626.html">AQ-PINNs: Attention-Enhanced Quantum Physics-Informed Neural Networks for Carbon-Efficient Climate Modeling</a></div><div class="paper-tags"><a href="climate-modeling-all.html">climate-modeling</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a> · <a href="tensor-networks-all.html">tensor-networks</a></div></td>
-<td>Siddhant Dutta et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01626">2409.01626</a></td>
 </tr>
 </tbody></table>

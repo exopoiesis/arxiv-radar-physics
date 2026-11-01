@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>fusion-energy — all</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="fusion-energy-7d.html">7d</a> <a href="fusion-energy-30d.html">30d</a> <a href="fusion-energy-90d.html">90d</a> <a href="fusion-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,17 +152,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11098.html">Inertial Confinement Fusion Forecasting via Large Language Models</a></div></td>
 <td>Mingkai Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2407.11098">2407.11098</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08832.html">Can Kans (re)discover predictive models for Direct-Drive Laser Fusion?</a></div><div class="paper-tags"><a href="symbolic-regression-all.html">symbolic-regression</a></div></td>
-<td>Rahman Ejaz et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08832">2409.08832</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06122.html">Case Study: Leveraging GenAI to Build AI-based Surrogates and Regressors for Modeling Radio Frequency Heating in Fusion Energy Science</a></div></td>
-<td>E. Wes Bethel et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06122">2409.06122</a></td>
 </tr>
 </tbody></table>

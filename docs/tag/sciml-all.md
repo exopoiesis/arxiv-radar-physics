@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>sciml — all</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">71 papers</span>
   <nav class="window-nav"><a href="sciml-7d.html">7d</a> <a href="sciml-30d.html">30d</a> <a href="sciml-90d.html">90d</a> <a href="sciml-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -440,11 +440,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06452.html">Modeling chaotic Lorenz ODE System using Scientific Machine Learning</a></div><div class="paper-tags"><a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
 <td>Sameera S Kashyap et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06452">2410.06452</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10777.html">Physics-Informed Neural Networks with Trust-Region Sequential Quadratic Programming</a></div><div class="paper-tags"><a href="partial-differential-equations-all.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a> · <a href="scientific-machine-learning-all.html">scientific-machine-learning</a></div></td>
-<td>Xiaoran Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10777">2409.10777</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>weather-forecasting — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <strong>30d</strong> <a href="weather-forecasting-90d.html">90d</a> <a href="weather-forecasting-360d.html">360d</a> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,17 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04338.html">S$^3$N: A Spherical Spiral Scanning Network for Weather Forecasting</a></div></td>
 <td>Fan Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2610.04338">2610.04338</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03172.html">Domain-Adaptive Data Assimilation for Global AI Weather Forecasting</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a></div></td>
-<td>Minseok Seo et al.</td>
-<td><a href="http://arxiv.org/abs/2610.03172">2610.03172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03313.html">SDECast: Probabilistic Weather Forecasting in Continuous Time with Neural SDEs</a></div></td>
-<td>Maria Marchenko et al.</td>
-<td><a href="http://arxiv.org/abs/2610.03313">2610.03313</a></td>
 </tr>
 </tbody></table>

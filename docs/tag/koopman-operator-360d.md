@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>koopman-operator — 360d</h1>
-  <span class="paper-count">82 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <strong>360d</strong> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -494,17 +494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07234.html">Shaping the Koopman dictionary by learning on the Grassmannian</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Roland Schurig et al.</td>
 <td><a href="http://arxiv.org/abs/2511.07234">2511.07234</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04437.html">Deep Koopman Economic Model Predictive Control of a Pasteurisation Unit</a></div></td>
-<td>Patrik Valábek et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04437">2511.04437</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04451.html">Deep Dictionary-Free Method for Identifying Linear Model of Nonlinear System with Input Delay</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Patrik Valábek et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04451">2511.04451</a></td>
 </tr>
 </tbody></table>

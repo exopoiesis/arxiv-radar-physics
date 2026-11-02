@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">548 papers</span>
+  <span class="paper-count">547 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3296,11 +3296,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05940.html">A PDE Perspective on Generative Diffusion Models</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Kang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05940">2511.05940</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16471.html">Progressive Inference-Time Annealing of Diffusion Models for Sampling from Boltzmann Densities</a></div></td>
-<td>Tara Akhound-Sadegh et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16471">2506.16471</a></td>
 </tr>
 </tbody></table>

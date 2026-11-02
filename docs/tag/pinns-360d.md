@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">592 papers</span>
+  <span class="paper-count">591 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3560,11 +3560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05261.html">Fuzzy Neural Network Performance and Interpretability of Quantum Wavefunction Probability Predictions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Pedro H. M. Zanineli et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05261">2511.05261</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04490.html">A Two-stage Adaptive Lifting PINN Framework for Solving Viscous Approximations to Hyperbolic Conservation Laws</a></div></td>
-<td>Yameng Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04490">2511.04490</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,17 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04723.html">Latent-Lagrangian Neural Networks for Reduced Order Modeling of Non-autonomous Nonlinear Dynamical Systems</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-30d.html">hamiltonian-neural-networks</a></div></td>
 <td>Anand Kumar Agrawal et al.</td>
 <td><a href="http://arxiv.org/abs/2610.04723">2610.04723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02960.html">Dirac-Interconnected Neural Elements: Discovering Modularity in Physical Systems Without Reduction</a></div></td>
-<td>Reiho Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.02960">2610.02960</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03314.html">DAWIS: Data Assimilation with Windowed Inverse Sampling via Multitask Interpolants</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a></div></td>
-<td>Erik Wikingsson et al.</td>
-<td><a href="http://arxiv.org/abs/2610.03314">2610.03314</a></td>
 </tr>
 </tbody></table>

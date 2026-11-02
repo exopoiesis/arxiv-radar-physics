@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">521 papers</span>
+  <span class="paper-count">520 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3134,11 +3134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04990.html">Uncertainty quantification and parameter optimization of plasma etching process using heteroscedastic Gaussian process</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Yongsu Jung et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04990">2511.04990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04567.html">Machine Learning for Electron-Scale Turbulence Modeling in W7-X</a></div></td>
-<td>Ionut-Gabriel Farcas et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04567">2511.04567</a></td>
 </tr>
 </tbody></table>

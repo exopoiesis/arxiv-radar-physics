@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">663 papers</span>
+  <span class="paper-count">662 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3986,11 +3986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02839.html">An overview of Koopman-based control: From error bounds to closed-loop guarantees</a></div></td>
 <td>Robin Strässer et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02839">2509.02839</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04451.html">Deep Dictionary-Free Method for Identifying Linear Model of Nonlinear System with Input Delay</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Patrik Valábek et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04451">2511.04451</a></td>
 </tr>
 </tbody></table>

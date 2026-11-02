@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39003.html">Agentic AI Reasoning and Learned Sampling for Task-Aware Projection Selection in Sparse-View CT: Predicting Hemodynamics</a></div></td>
 <td>Mahmoud Elhadidy et al.</td>
 <td><a href="http://arxiv.org/abs/2610.39003">2610.39003</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34559.html">A Product-Grassmann Tucker Surrogate for Parametric Field Prediction</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Melika Baghi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34559">2610.34559</a></td>
 </tr>
 </tbody></table>

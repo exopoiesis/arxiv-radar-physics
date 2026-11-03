@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,17 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07028.html">Identifiable World Models from Pretrained Diffusion Representations</a></div></td>
 <td>Ruchi Sandilya et al.</td>
 <td><a href="http://arxiv.org/abs/2610.07028">2610.07028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04350.html">Inference of Hamiltonian and Lie-Poisson structures from vector field samples</a></div></td>
-<td>Jason E. Frank et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04350">2610.04350</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04723.html">Latent-Lagrangian Neural Networks for Reduced Order Modeling of Non-autonomous Nonlinear Dynamical Systems</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-30d.html">hamiltonian-neural-networks</a></div></td>
-<td>Anand Kumar Agrawal et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04723">2610.04723</a></td>
 </tr>
 </tbody></table>

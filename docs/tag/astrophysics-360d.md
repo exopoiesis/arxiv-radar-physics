@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,11 +734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15893.html">Leveraging differentiable programming in the inverse problem of neutron stars</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Thibeau Wouters et al.</td>
 <td><a href="http://arxiv.org/abs/2504.15893">2504.15893</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17459.html">Estimating Orbital Parameters of Direct Imaging Exoplanet Using Neural Network</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="particle-physics-360d.html">particle-physics</a></div></td>
-<td>Bo Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17459">2510.17459</a></td>
 </tr>
 </tbody></table>

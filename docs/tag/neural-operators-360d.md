@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">415 papers</span>
+  <span class="paper-count">413 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2492,17 +2492,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07347.html">Walsh-Hadamard Neural Operators for Solving PDEs with Discontinuous Coefficients</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Giorrgio M. Cavallazzi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.07347">2511.07347</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05216.html">Neural Operators for Power Systems: A Physics-Informed Framework for Modeling Power System Components</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Ioannis Karampinis et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05216">2511.05216</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11627.html">SA-EMO: Structure-Aligned Encoder Mixture of Operators for Generalizable Full-waveform Inversion</a></div></td>
-<td>Wang Zhenyu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11627">2511.11627</a></td>
 </tr>
 </tbody></table>

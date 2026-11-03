@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">179 papers</span>
+  <span class="paper-count">175 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1064,29 +1064,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13912.html">Explaining Data Anomalies over the NMSSM Parameter Space with Deep Learning Techniques</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a></div></td>
 <td>A. Hammad et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13912">2508.13912</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04142.html">Renormalization-Free Galaxy Bias in Unified Lagrangian Perturbation Theory</a></div></td>
-<td>Naonori Sugiyama</td>
-<td><a href="http://arxiv.org/abs/2509.04142">2509.04142</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05093.html">Sym-EFT: Accelerating Effective Field Theory of Large Scale Structure with Symbolic Regression</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Despoina Farakou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05093">2511.05093</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05279.html">Focus Point on Tensions in Cosmology from Early to Late Universe: Part II: New Directions in the Light of Observations from the Most Modern Astronomical Facilities</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>S. Capozziello et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05279">2511.05279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05367.html">Linking Warm Dark Matter to Merger Tree Histories via Deep Learning Networks</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Ilem Leisher et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05367">2511.05367</a></td>
 </tr>
 </tbody></table>

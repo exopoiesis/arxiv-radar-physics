@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">94 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -578,11 +578,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13912.html">Explaining Data Anomalies over the NMSSM Parameter Space with Deep Learning Techniques</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>A. Hammad et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13912">2508.13912</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17459.html">Estimating Orbital Parameters of Direct Imaging Exoplanet Using Neural Network</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Bo Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17459">2510.17459</a></td>
 </tr>
 </tbody></table>

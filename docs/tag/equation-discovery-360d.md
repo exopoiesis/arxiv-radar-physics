@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>equation-discovery — 360d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <a href="equation-discovery-90d.html">90d</a> <strong>360d</strong> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,11 +290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10706.html">Differentiable Sparse Identification of Lagrangian Dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Zitong Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10706">2511.10706</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05486.html">Rediscovering shallow water equations from experimental data</a></div></td>
-<td>Kjell S. Heinrich et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05486">2511.05486</a></td>
 </tr>
 </tbody></table>

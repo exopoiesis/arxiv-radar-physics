@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>pinns — 90d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <strong>90d</strong> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -614,11 +614,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04778.html">Continual-Learning Physics-Informed Neural Networks for Parameterized Partial Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Xujia Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2608.04778">2608.04778</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04206.html">From Non-Convex Self-Concordant Regularization to Scalable Quasi-Newton Training of PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Chenhao Si et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04206">2608.04206</a></td>
 </tr>
 </tbody></table>

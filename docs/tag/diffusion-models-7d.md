@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-models — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37825.html">Probing Cosmology with Diffusion Models: Memorization, Generalization, and Parameter Estimation</a></div><div class="paper-tags"><a href="cosmological-simulations-7d.html">cosmological-simulations</a></div></td>
 <td>Jiaming Pan et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37825">2610.37825</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35123.html">Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a> · <a href="reduced-order-modeling-7d.html">reduced-order-modeling</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Luca Biferale et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35123">2610.35123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35627.html">Local Koopman modes of saddle-point diffusions: exact singular functions and a data-driven estimator</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a> · <a href="koopman-operator-7d.html">koopman-operator</a></div></td>
-<td>Xuehao Ding</td>
-<td><a href="http://arxiv.org/abs/2610.35627">2610.35627</a></td>
 </tr>
 </tbody></table>

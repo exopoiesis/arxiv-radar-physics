@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,17 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06847.html">S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation</a></div></td>
 <td>Jeffrey Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.06847">2610.06847</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04510.html">ManifoldCache: Training-Free Diffusion Acceleration via Constraint Manifold Caching</a></div><div class="paper-tags"><a href="crystal-structure-prediction-30d.html">crystal-structure-prediction</a></div></td>
-<td>Prashant Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04510">2610.04510</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04624.html">Backward-Consistent Diffusion Sampling for Sparsely Observed PDE Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
-<td>Yida Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04624">2610.04624</a></td>
 </tr>
 </tbody></table>

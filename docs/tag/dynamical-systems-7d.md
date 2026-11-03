@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,29 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37333.html">diff-soup: GPU-native Differentiable Simulation and Inference for Large-scale Stiff Dynamical Systems</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Samuel Degnan-Morgenstern et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37333">2610.37333</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34687.html">Machine Learning Applications in the Solar Interior and Atmosphere</a></div></td>
-<td>Vishal Upendran et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34687">2610.34687</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35617.html">Distilling neural networks into equations to predict planetary instability</a></div><div class="paper-tags"><a href="symbolic-regression-7d.html">symbolic-regression</a></div></td>
-<td>Simon Alford et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35617">2610.35617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35627.html">Local Koopman modes of saddle-point diffusions: exact singular functions and a data-driven estimator</a></div><div class="paper-tags"><a href="diffusion-models-7d.html">diffusion-models</a> · <a href="koopman-operator-7d.html">koopman-operator</a></div></td>
-<td>Xuehao Ding</td>
-<td><a href="http://arxiv.org/abs/2610.35627">2610.35627</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36342.html">Balanced Active Subspaces for Optimal Control via Trajectory Optimization</a></div></td>
-<td>Emmanuel S. Ameh et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36342">2610.36342</a></td>
 </tr>
 </tbody></table>

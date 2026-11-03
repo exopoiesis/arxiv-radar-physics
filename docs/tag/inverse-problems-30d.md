@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,23 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05371.html">Robust Ensemble Guidance for Scientific Inverse Problems</a></div></td>
 <td>Zixiang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2610.05371">2610.05371</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04326.html">LyapuFlow: Controlling Generative Flows with Lyapunov Feedback for Inverse Problems</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Minseon Gwak et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04326">2610.04326</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04619.html">MUTACO: Simulator-Efficient Response Matching in Stochastic Nonlinear Systems via Compatibility-Aware Sequential Design</a></div></td>
-<td>Ege Karadeniz et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04619">2610.04619</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04624.html">Backward-Consistent Diffusion Sampling for Sparsely Observed PDE Inverse Problems</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Yida Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04624">2610.04624</a></td>
 </tr>
 </tbody></table>

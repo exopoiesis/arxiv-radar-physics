@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">486 papers</span>
+  <span class="paper-count">484 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2918,17 +2918,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06012.html">Beyond Penrose tensor diagrams with the ZX calculus: Applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a></div></td>
 <td>Quanlong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06012">2511.06012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18954.html">Almost fault-tolerant quantum machine learning with drastic overhead reduction</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="quantum-error-correction-360d.html">quantum-error-correction</a></div></td>
-<td>Haiyue Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18954">2507.18954</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05237.html">A Triple-Hybrid Quantum Support Vector Machine Using Classical, Quantum Gate-based and Quantum Annealing-based Computing</a></div></td>
-<td>Juan C. Boschero et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05237">2511.05237</a></td>
 </tr>
 </tbody></table>

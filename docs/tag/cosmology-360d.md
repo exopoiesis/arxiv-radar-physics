@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">181 papers</span>
+  <span class="paper-count">178 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1082,23 +1082,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06332.html">Bayesian and Machine-Learning Analyses of Nonminimal $f(Q)$ Gravity and $H_0$ Tension</a></div></td>
 <td>Simran Arora et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06332">2511.06332</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17459.html">Estimating Orbital Parameters of Direct Imaging Exoplanet Using Neural Network</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="particle-physics-360d.html">particle-physics</a></div></td>
-<td>Bo Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17459">2510.17459</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05367.html">Linking Warm Dark Matter to Merger Tree Histories via Deep Learning Networks</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Ilem Leisher et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05367">2511.05367</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05470.html">$\texttt{unimpeded}$: A Public Nested Sampling Database for Bayesian Cosmology</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Dily Duan Yi Ong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05470">2511.05470</a></td>
 </tr>
 </tbody></table>

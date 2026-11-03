@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">606 papers</span>
+  <span class="paper-count">603 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3632,23 +3632,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06081.html">NeuroPINNs: Neuroscience Inspired Physics Informed Neural Networks</a></div><div class="paper-tags"><a href="pde-learning-360d.html">pde-learning</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Shailesh Garg et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06081">2511.06081</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05216.html">Neural Operators for Power Systems: A Physics-Informed Framework for Modeling Power System Components</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="pinns-360d.html">pinns</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Ioannis Karampinis et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05216">2511.05216</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05261.html">Fuzzy Neural Network Performance and Interpretability of Quantum Wavefunction Probability Predictions</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Pedro H. M. Zanineli et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05261">2511.05261</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05629.html">SSTODE: Ocean-Atmosphere Physics-Informed Neural ODEs for Sea Surface Temperature Prediction</a></div></td>
-<td>Zheng Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05629">2511.05629</a></td>
 </tr>
 </tbody></table>

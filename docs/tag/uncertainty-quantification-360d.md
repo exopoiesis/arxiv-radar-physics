@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">520 papers</span>
+  <span class="paper-count">518 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3122,17 +3122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05990.html">Learning solutions of parameterized stiff ODEs using Gaussian processes</a></div></td>
 <td>Idoia Cortes Garcia et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05990">2511.05990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06265.html">Large language models as uncertainty-calibrated optimizers for experimental discovery</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Bojana Ranković et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06265">2504.06265</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04990.html">Uncertainty quantification and parameter optimization of plasma etching process using heteroscedastic Gaussian process</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Yongsu Jung et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04990">2511.04990</a></td>
 </tr>
 </tbody></table>

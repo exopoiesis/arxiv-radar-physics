@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">162 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -986,17 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06083.html">Event-driven physics-informed operator learning for reliability analysis</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Shailesh Garg et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06083">2511.06083</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04990.html">Uncertainty quantification and parameter optimization of plasma etching process using heteroscedastic Gaussian process</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Yongsu Jung et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04990">2511.04990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05216.html">Neural Operators for Power Systems: A Physics-Informed Framework for Modeling Power System Components</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ioannis Karampinis et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05216">2511.05216</a></td>
 </tr>
 </tbody></table>

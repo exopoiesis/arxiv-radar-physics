@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>condensed-matter-physics — 360d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="condensed-matter-physics-7d.html">7d</a> <a href="condensed-matter-physics-30d.html">30d</a> <a href="condensed-matter-physics-90d.html">90d</a> <strong>360d</strong> <a href="condensed-matter-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05127.html">Bayesian Optimization and Convolutional Neural Networks for Zernike-Based Wavefront Correction in High Harmonic Generation</a></div></td>
 <td>Guilherme Grancho D. Fernandes et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05127">2512.05127</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06012.html">Beyond Penrose tensor diagrams with the ZX calculus: Applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Quanlong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06012">2511.06012</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>electronic-structure — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40561.html">Grow, Compress, and Perturb: A Hybrid Quantum-Classical Pathway to Scalable Quantum Chemistry on Quantum Computers</a></div><div class="paper-tags"><a href="vqe-7d.html">vqe</a></div></td>
 <td>Hugo D. Nogueira et al.</td>
 <td><a href="http://arxiv.org/abs/2610.40561">2610.40561</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37843.html">Where the Error Lives: Spectral Representations of Learned Kohn-Sham Hamiltonians</a></div></td>
-<td>Fang Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37843">2610.37843</a></td>
 </tr>
 </tbody></table>

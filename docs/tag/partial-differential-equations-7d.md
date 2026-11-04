@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38790.html">Safeguarded Neurally-Accelerated Preconditioning (SNAP) framework for Nonlinear Optimization</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
 <td>Youngkyu Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2610.38790">2610.38790</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36498.html">Learning Multiscale Dynamics of Nanoparticle Self-Assembly</a></div><div class="paper-tags"><a href="phase-transitions-7d.html">phase-transitions</a></div></td>
-<td>Shuaifeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36498">2610.36498</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37333.html">diff-soup: GPU-native Differentiable Simulation and Inference for Large-scale Stiff Dynamical Systems</a></div><div class="paper-tags"><a href="bayesian-inference-7d.html">bayesian-inference</a> · <a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
-<td>Samuel Degnan-Morgenstern et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37333">2610.37333</a></td>
 </tr>
 </tbody></table>

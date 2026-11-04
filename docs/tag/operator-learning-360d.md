@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">277 papers</span>
+  <span class="paper-count">276 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1670,11 +1670,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06451.html">A Risk-Neutral Neural Operator for Arbitrage-Free SPX-VIX Term Structures</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
 <td>Jian&#x27;an Zhang</td>
 <td><a href="http://arxiv.org/abs/2511.06451">2511.06451</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06083.html">Event-driven physics-informed operator learning for reliability analysis</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Shailesh Garg et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06083">2511.06083</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">286 papers</span>
+  <span class="paper-count">283 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1712,23 +1712,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11594.html">It&#x27;s not a FAD: first results in using Flows for unsupervised Anomaly Detection at 40 MHz at the Large Hadron Collider</a></div></td>
 <td>Francesco Vaselli et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11594">2508.11594</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05841.html">Understanding Cross Task Generalization in Handwriting-Based Alzheimer&#x27;s Screening via Vision Language Adaptation</a></div></td>
-<td>Changqing Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05841">2511.05841</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07471.html">Towards Personalized Quantum Federated Learning for Anomaly Detection</a></div></td>
-<td>Ratun Rahman et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07471">2511.07471</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11633.html">Psychological stress during Examination and its estimation by handwriting in answer script</a></div></td>
-<td>Abhijeet Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11633">2511.11633</a></td>
 </tr>
 </tbody></table>

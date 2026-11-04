@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,23 +296,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06612.html">Learning Low-Order Approximations of the Quark Propagator in Lattice QCD</a></div><div class="paper-tags"><a href="equivariant-neural-networks-30d.html">equivariant-neural-networks</a></div></td>
 <td>Simon Pfahler et al.</td>
 <td><a href="http://arxiv.org/abs/2610.06612">2610.06612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05197.html">From Scientific Observations to Mechanisms: Benchmarking Hypothesis Generation by AI Scientists</a></div></td>
-<td>Xiaxun Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05197">2610.05197</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05334.html">AgentDiscover: Autonomous Discovery with Minimal Search Scaffolding</a></div></td>
-<td>Mahdi Farahbakhsh et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05334">2610.05334</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05544.html">Soft Strategy Selection for Batch-Mode Active Learning</a></div></td>
-<td>Rushil Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05544">2610.05544</a></td>
 </tr>
 </tbody></table>

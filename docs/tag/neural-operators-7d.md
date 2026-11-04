@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,23 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38790.html">Safeguarded Neurally-Accelerated Preconditioning (SNAP) framework for Nonlinear Optimization</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Youngkyu Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2610.38790">2610.38790</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33771.html">An actively trained neural operator for near-explicit atmospheric chemistry</a></div></td>
-<td>Zhi-Song Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33771">2610.33771</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37863.html">DropFENO: A Data-Free, Physics-Based Operator-Learning Framework for Droplet Equilibria on Mixed-Wettability Patterned Surfaces</a></div></td>
-<td>Ganesh Sahadeo Meshram et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37863">2610.37863</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37986.html">Predicting Sparse Observables in Parameterized Unsteady Flows Using Coarse-Mesh Graph Neural Networks</a></div><div class="paper-tags"><a href="reduced-order-modeling-7d.html">reduced-order-modeling</a></div></td>
-<td>Brener Ramos et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37986">2610.37986</a></td>
 </tr>
 </tbody></table>

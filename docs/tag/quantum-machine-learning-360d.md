@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">484 papers</span>
+  <span class="paper-count">481 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2900,23 +2900,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05009.html">Seismic inversion using hybrid quantum neural networks</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="seismic-inversion-360d.html">seismic-inversion</a></div></td>
 <td>Divakar Vashisth et al.</td>
 <td><a href="http://arxiv.org/abs/2503.05009">2503.05009</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04799.html">Practical Few-Atom Quantum Reservoir Computing</a></div></td>
-<td>Chuanzhou Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04799">2405.04799</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05559.html">On the Design of Expressive and Trainable Pulse-based Quantum Machine Learning Models</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Han-Xiao Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05559">2508.05559</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06012.html">Beyond Penrose tensor diagrams with the ZX calculus: Applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity</a></div><div class="paper-tags"><a href="condensed-matter-physics-360d.html">condensed-matter-physics</a></div></td>
-<td>Quanlong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06012">2511.06012</a></td>
 </tr>
 </tbody></table>

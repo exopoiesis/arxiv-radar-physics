@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cfd — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <strong>30d</strong> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18886.html">Physics-Guided Multi-Fidelity Surrogate Modeling for Natural Supercavity Geometry of an Axisymmetric Conical Cavitator</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
 <td>Vinh Pham et al.</td>
 <td><a href="http://arxiv.org/abs/2610.18886">2610.18886</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05127.html">Component-Level Evaluation of Adaptive PINN Training for CFD-Oriented Crystal Growth Simulation</a></div></td>
-<td>Niruta Chapagain et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05127">2610.05127</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,11 +482,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06078.html">A space of inference spaces in the space sciences - Parametric Bayesian inference in astronomy, cosmology and particle physics</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="particle-physics-90d.html">particle-physics</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Johannes Buchner</td>
 <td><a href="http://arxiv.org/abs/2608.06078">2608.06078</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05456.html">Reconstructing Core-Collapse Supernova Gravitational-Wave Signals with Transdimensional Bayesian Inference</a></div><div class="paper-tags"><a href="gravitational-waves-90d.html">gravitational-waves</a> · <a href="ligo-90d.html">ligo</a></div></td>
-<td>Hayden Chapman et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05456">2608.05456</a></td>
 </tr>
 </tbody></table>

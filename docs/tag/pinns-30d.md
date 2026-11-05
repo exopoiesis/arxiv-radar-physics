@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>pinns — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <strong>30d</strong> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05130.html">Solving the Nonlinear Westervelt Equation in Ultrasound Propagation Using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Luke Oluwaseye Joel</td>
+<td><a href="http://arxiv.org/abs/2611.05130">2611.05130</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05276.html">De Rham cohomological architectures for PINNs and PDEs with topological holes</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Andrew Gracyk</td>
+<td><a href="http://arxiv.org/abs/2611.05276">2611.05276</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05659.html">Adaptive Domain Decomposition for Finite Basis Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Sarah Helfert et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05659">2611.05659</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02622.html">Derivation of Novel Isotropic Metamaterials at the Hashin Shtrikman Stiffness Limit Enabled by Physics Informed Neural Networks</a></div></td>
+<td>Manish Kumar Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02622">2611.02622</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02800.html">A Legendre-Based Modified Extreme Learning Machine for Convection-Diffusion Equations: Steady-State, Continuous-Time, and Discrete-Time Formulations</a></div></td>
+<td>Gadade Navnath Ankush et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02800">2611.02800</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01616.html">Mean Field Game Problem with Kantorovich Potential Coupling: An Attrition model</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Avetik Arakelyan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01616">2611.01616</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01723.html">A sensor-driven physics-informed neural network for real-time occupant-centric space heating control</a></div></td>
+<td>Yunfei Bai et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01723">2611.01723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02084.html">Black Hole Love Numbers with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="black-holes-30d.html">black-holes</a></div></td>
+<td>Maria J. Rodriguez et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02084">2611.02084</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38260.html">A Physics-Informed Neural Network for Geodesic Computation and Visualization of Geodesic Spheres on Riemannian Manifolds</a></div></td>
@@ -212,11 +260,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33000.html">Canonical residual physics-informed neural networks and algorithmic perturbation landscapes map cell-fate transitions in longitudinal H3K27M glioma</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Abicumaran Uthamacumaran</td>
 <td><a href="http://arxiv.org/abs/2610.33000">2610.33000</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06776.html">Puncture Evolution with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Estuti Shukla et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06776">2610.06776</a></td>
 </tr>
 </tbody></table>

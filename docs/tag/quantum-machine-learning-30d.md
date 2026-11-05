@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05442.html">Matched but Not Better: An Equivalence-Tested Benchmark of Quantum Machine Learning on Six Clinical Datasets and the QML-Health-READY Reporting Framework</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
+<td>Mohammed Siraj B et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05442">2611.05442</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39350.html">Provably efficient experimental classification of quantum data with quantum kernels</a></div></td>
 <td>Keitaro Anai et al.</td>
@@ -248,11 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08219.html">Post-Selection-Free Quantum Automated Learning</a></div></td>
 <td>Junkai Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08219">2610.08219</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07242.html">Quantum Machine Learning for Few-Shot Impersonation Detection in Digital Account Opening</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
-<td>Javiera Canales et al.</td>
-<td><a href="http://arxiv.org/abs/2610.07242">2610.07242</a></td>
 </tr>
 </tbody></table>

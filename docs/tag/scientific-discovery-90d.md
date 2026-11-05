@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06263.html">CLEAR: Structured Specifications for Controllable Long-Horizon ML Research Engineering</a></div></td>
+<td>Xin Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06263">2611.06263</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01449.html">CONFIRM: Governing Scientific Reporting for Trustworthy Agentic Neuroimaging</a></div></td>
+<td>Yuxiang Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01449">2611.01449</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05207.html">Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning</a></div></td>
+<td>Juan Guevara et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05207">2611.05207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05439.html">Learning Implicit Solves for Dynamic Simulations</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Chawit Kaewnuratchadasorn et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05439">2611.05439</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03327.html">From FAIR to AI-FAIR Metadata-First Infrastructure for AI-Enabled Science</a></div></td>
+<td>Elizabeth G. Campolongo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03327">2611.03327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03617.html">Tracing the Scientific Discovery Capacity of LLMs to Their Training Data</a></div></td>
+<td>Arda Uzunoglu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03617">2611.03617</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36511.html">Do AI Scientists Know What&#x27;s New?</a></div></td>
@@ -674,17 +710,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06931.html">Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery</a></div></td>
 <td>Taolin Han et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06931">2608.06931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04872.html">A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
-<td>Wenxiao Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04872">2608.04872</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05605.html">Enhancing Anomaly Resilience in Research Networks: A Large-Scale Forecasting Benchmark for Dynamic Security Baselining</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
-<td>Mohammad Arafath Uddin Shariff et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05605">2608.05605</a></td>
 </tr>
 </tbody></table>

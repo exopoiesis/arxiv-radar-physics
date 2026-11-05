@@ -16,6 +16,30 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05790.html">Unsupervised Neural Operators for Rotating Relativistic Stars: High-Fidelity Equation of State Inference and Pulsar Spin Evolution at Scale</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Anarya Ray</td>
+<td><a href="http://arxiv.org/abs/2611.05790">2611.05790</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05735.html">Self-Supervised Learning of Universal Latent Spaces for Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a></div></td>
+<td>Sepehr Mousavi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05735">2611.05735</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02787.html">POD-CNF: reduced order modeling of parametrized stochastic PDEs via normalizing flows and proper orthogonal decomposition</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="rom-30d.html">rom</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
+<td>Andrea Violante et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02787">2611.02787</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02832.html">Compressed Multiscale Kernel Collocation and Physics-Informed Kernel Learning for Elliptic BVPs</a></div></td>
+<td>Sara Avesani et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02832">2611.02832</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39855.html">Probabilistic Meshless Methods on Manifolds</a></div></td>
 <td>Federico Pavesi et al.</td>
@@ -236,29 +260,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09081.html">Nonlinear Spectral Computing</a></div><div class="paper-tags"><a href="schr-dinger-equation-30d.html">schr-dinger-equation</a></div></td>
 <td>Ludovica Falsi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.09081">2610.09081</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05767.html">Global error estimators for parametric monotone nonlinearities and neural approximations</a></div></td>
-<td>Pablo Cortés Castillo et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05767">2610.05767</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06294.html">Comparison of neural and spline representations for physics-informed learning</a></div></td>
-<td>R{é}gis Duvigneau</td>
-<td><a href="http://arxiv.org/abs/2610.06294">2610.06294</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06348.html">IGA-KAN: Isogeometric Analysis with Physics-Informed Closed-Form Kolmogorov-Arnold Networks for Forward and Inverse PDEs</a></div></td>
-<td>Sima Naraghi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06348">2610.06348</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07211.html">An overview of machine learning-enhanced iterative methods for systems of linear and nonlinear equations</a></div></td>
-<td>Yuhuang Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2610.07211">2610.07211</a></td>
 </tr>
 </tbody></table>

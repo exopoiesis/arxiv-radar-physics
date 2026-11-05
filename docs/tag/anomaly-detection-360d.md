@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">283 papers</span>
+  <span class="paper-count">282 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1706,11 +1706,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08072.html">Clustering-based Anomaly Detection in Multivariate Time Series Data</a></div></td>
 <td>Jinbo Li et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08072">2511.08072</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11594.html">It&#x27;s not a FAD: first results in using Flows for unsupervised Anomaly Detection at 40 MHz at the Large Hadron Collider</a></div></td>
-<td>Francesco Vaselli et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11594">2508.11594</a></td>
 </tr>
 </tbody></table>

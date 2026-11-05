@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">414 papers</span>
+  <span class="paper-count">412 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06154.html">Statistical mechanics and hierarchy of learnability in quantum codes: From generalized symmetries to non-Abelian topological orders</a></div></td>
+<td>Hiromi Ebisu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06154">2611.06154</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36770.html">Bayesian Treed Vecchia Gaussian Process Emulation via Sequential Monte Carlo</a></div></td>
@@ -2480,23 +2486,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07385.html">samsara: A Continuous-Time Markov Chain Monte Carlo Sampler for Trans-Dimensional Bayesian Analysis</a></div></td>
 <td>Gabriele Astorino et al.</td>
 <td><a href="http://arxiv.org/abs/2511.07385">2511.07385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15893.html">Leveraging differentiable programming in the inverse problem of neutron stars</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
-<td>Thibeau Wouters et al.</td>
-<td><a href="http://arxiv.org/abs/2504.15893">2504.15893</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03666.html">A Centrality-independent Framework for Revealing Genuine Higher-Order Cumulants in Heavy-Ion Collisions</a></div></td>
-<td>Zhaohui Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03666">2505.03666</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06276.html">Bayesian spatio-temporal disaggregation modeling using a diffusion-SPDE approach: a case study of Aerosol Optical Depth in India</a></div></td>
-<td>Fernando Rodriguez Avellaneda et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06276">2511.06276</a></td>
 </tr>
 </tbody></table>

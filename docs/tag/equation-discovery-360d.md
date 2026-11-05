@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>equation-discovery — 360d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="equation-discovery-7d.html">7d</a> <a href="equation-discovery-30d.html">30d</a> <a href="equation-discovery-90d.html">90d</a> <strong>360d</strong> <a href="equation-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05780.html">Discovering like a scientist: Literature-informed dimensionless learning for physical closure of data-driven equations</a></div></td>
+<td>Hao Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05780">2611.05780</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33465.html">LegoSR: A Unified Framework for Self-improving Agent-Guided Scientific Discovery</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>

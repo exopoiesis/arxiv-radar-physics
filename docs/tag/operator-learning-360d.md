@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">276 papers</span>
+  <span class="paper-count">277 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01861.html">Learning structural response operators across varying geometries and loads with global and local geometry encoding</a></div></td>
+<td>Xin Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01861">2611.01861</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05735.html">Self-Supervised Learning of Universal Latent Spaces for Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Sepehr Mousavi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05735">2611.05735</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39041.html">Exponential-Nemytskii Neural Operators: Learning Field Evolution Across Step Sizes</a></div></td>
@@ -1664,11 +1676,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06614.html">From LIF to QIF: Toward Differentiable Spiking Neurons for Scientific Machine Learning</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Ruyin Wan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06614">2511.06614</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06451.html">A Risk-Neutral Neural Operator for Arbitrage-Free SPX-VIX Term Structures</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a></div></td>
-<td>Jian&#x27;an Zhang</td>
-<td><a href="http://arxiv.org/abs/2511.06451">2511.06451</a></td>
 </tr>
 </tbody></table>

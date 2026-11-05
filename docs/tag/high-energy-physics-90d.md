@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>high-energy-physics — 90d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="high-energy-physics-7d.html">7d</a> <a href="high-energy-physics-30d.html">30d</a> <strong>90d</strong> <a href="high-energy-physics-360d.html">360d</a> <a href="high-energy-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12058.html">Optimising Geometric Deep Learning for Varied Reconstruction Tasks in High Granularity Calorimeters</a></div></td>
 <td>Matthieu Melennec et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12058">2610.12058</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06518.html">Gamma Neutron Radioactive Source Identification in Water Cherenkov Detectors</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="event-classification-90d.html">event-classification</a></div></td>
-<td>A. Núñez Selin et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06518">2608.06518</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06154.html">Statistical mechanics and hierarchy of learnability in quantum codes: From generalized symmetries to non-Abelian topological orders</a></div></td>
+<td>Hiromi Ebisu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06154">2611.06154</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36770.html">Bayesian Treed Vecchia Gaussian Process Emulation via Sequential Monte Carlo</a></div></td>
@@ -470,17 +476,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07648.html">Leveraging generative models to assist Monte Carlo sampling</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="normalizing-flows-90d.html">normalizing-flows</a></div></td>
 <td>Marylou Gabrié</td>
 <td><a href="http://arxiv.org/abs/2608.07648">2608.07648</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05103.html">Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Video Flow-matching</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
-<td>Dibyajyoti Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05103">2608.05103</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06078.html">A space of inference spaces in the space sciences - Parametric Bayesian inference in astronomy, cosmology and particle physics</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="cosmology-90d.html">cosmology</a> · <a href="particle-physics-90d.html">particle-physics</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Johannes Buchner</td>
-<td><a href="http://arxiv.org/abs/2608.06078">2608.06078</a></td>
 </tr>
 </tbody></table>

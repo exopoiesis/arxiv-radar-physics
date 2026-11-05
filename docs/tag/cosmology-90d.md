@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05157.html">Macrocanonical Generator Networks: Data-Efficient Neural Surrogates for Amortized Physics Simulation</a></div><div class="paper-tags"><a href="scientific-machine-learning-90d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Niall Jeffrey et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05157">2611.05157</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02627.html">Recovering Missing Degrees of Freedom in Simulation-Trained Field-Level Generative Models</a></div></td>
+<td>Masato Shirasaki et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02627">2611.02627</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39332.html">Tabular Foundation Models Dramatically Outperform Bespoke Photometric Redshift Estimators</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
@@ -200,11 +212,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18962.html">Towards end-to-end Bayesian forward models in global 21-cm cosmology: surrogate modelling and marginalisation of beam uncertainty</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Jacob L. Tutt et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18962">2608.18962</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06078.html">A space of inference spaces in the space sciences - Parametric Bayesian inference in astronomy, cosmology and particle physics</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a> · <a href="bayesian-inference-90d.html">bayesian-inference</a> · <a href="particle-physics-90d.html">particle-physics</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Johannes Buchner</td>
-<td><a href="http://arxiv.org/abs/2608.06078">2608.06078</a></td>
 </tr>
 </tbody></table>

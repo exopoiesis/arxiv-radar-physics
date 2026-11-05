@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01861.html">Learning structural response operators across varying geometries and loads with global and local geometry encoding</a></div></td>
+<td>Xin Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01861">2611.01861</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05735.html">Self-Supervised Learning of Universal Latent Spaces for Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Sepehr Mousavi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05735">2611.05735</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39041.html">Exponential-Nemytskii Neural Operators: Learning Field Evolution Across Step Sizes</a></div></td>
 <td>Jingye Li et al.</td>
@@ -308,17 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10234.html">The Kuramoto Neural Operator: Learning to Solve PDEs via Coupled Oscillator Dynamics</a></div></td>
 <td>Petr Badolia et al.</td>
 <td><a href="http://arxiv.org/abs/2608.10234">2608.10234</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05554.html">A Label-Free Physics-to-Data Acceleration Framework for Parametric Time-Dependent PDEs with Latent-Space Differential-Operator Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Hongjiang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05554">2608.05554</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05839.html">A neural operator view on U-Nets for inverse imaging problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Alexander Auras et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05839">2608.05839</a></td>
 </tr>
 </tbody></table>

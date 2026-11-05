@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-machine-learning — all</h1>
-  <span class="paper-count">332 papers</span>
+  <span class="paper-count">335 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <a href="scientific-machine-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05157.html">Macrocanonical Generator Networks: Data-Efficient Neural Surrogates for Amortized Physics Simulation</a></div><div class="paper-tags"><a href="cosmology-all.html">cosmology</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Niall Jeffrey et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05157">2611.05157</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02427.html">Architecture-Aware Mixed Precision for Replica-Exchange Training of Geometry-Aware Neural Operators with Uncertainty Quantification</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="uncertainty-quantification-all.html">uncertainty-quantification</a></div></td>
+<td>Ujin Jeon et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02427">2611.02427</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02458.html">Learning the Entropic Relaxation: Stable Coarse-Grid Emulation with Neural Discrete Equilibrium</a></div><div class="paper-tags"><a href="sciml-all.html">sciml</a></div></td>
+<td>Jose Antonio Lara Benitez et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02458">2611.02458</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33939.html">Stable and Calibrated Latent Force ODE Filters</a></div></td>

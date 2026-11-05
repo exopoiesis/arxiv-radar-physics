@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06652.html">Dynamical State-Space Diffusion for Spatiotemporal Prediction</a></div></td>
+<td>Woojun Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06652">2611.06652</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40383.html">Composing and Steering Diffusion Models with Generalized Feynman-Kac Correctors</a></div></td>
 <td>Wael Mattar et al.</td>
@@ -218,11 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08626.html">Feature Information Dynamics in Diffusion</a></div><div class="paper-tags"><a href="ai4science-30d.html">ai4science</a></div></td>
 <td>Jia-Shu Pan et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08626">2610.08626</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06847.html">S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation</a></div></td>
-<td>Jeffrey Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06847">2610.06847</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>sciml — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="sciml-7d.html">7d</a> <a href="sciml-30d.html">30d</a> <a href="sciml-90d.html">90d</a> <strong>360d</strong> <a href="sciml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02458.html">Learning the Entropic Relaxation: Stable Coarse-Grid Emulation with Neural Discrete Equilibrium</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Jose Antonio Lara Benitez et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02458">2611.02458</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25506.html">A Method for Linearization of Systems of Quadratic Equations</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>

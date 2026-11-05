@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05883.html">Hardware Demonstration of Neural-Surrogated Quantum-Enhanced MCMC for Large-Scale Constrained Boltzmann Sampling</a></div></td>
+<td>Yuya Kawamata et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05883">2611.05883</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35665.html">$κ$-Parametrized Boltzmann Distribution Sampling on Quantum Approximate Optimization Algorithm</a></div></td>
 <td>João Marcos Cavalcanti de Albuquerque Neto et al.</td>
@@ -44,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30256.html">Quantum Feature Selection for Biomedical Data Analysis</a></div></td>
 <td>Hongbin Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30256">2609.30256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05836.html">An End-to-End Threat Model for the Quantum-as-a-Service Pipeline</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="vqe-90d.html">vqe</a></div></td>
-<td>Badhon Rahman et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05836">2608.05836</a></td>
 </tr>
 </tbody></table>

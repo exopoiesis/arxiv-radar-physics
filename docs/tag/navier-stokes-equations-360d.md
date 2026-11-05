@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>navier-stokes-equations — 360d</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <a href="navier-stokes-equations-30d.html">30d</a> <a href="navier-stokes-equations-90d.html">90d</a> <strong>360d</strong> <a href="navier-stokes-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06711.html">Energy-Guided Transport for Projection-Free Physics-Informed Flow Matching</a></div></td>
+<td>Giuliano Galadini et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06711">2611.06711</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40384.html">Neural Network Approximation and Structural Complexity of Semilinear PDEs with Lower Bounds</a></div></td>

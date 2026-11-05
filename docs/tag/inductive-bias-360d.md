@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01680.html">Wave Physics as Representation: Tensor-Structured Neural Reconstruction for Ocean Acoustic Fields</a></div></td>
+<td>Yifan Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01680">2611.01680</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39679.html">PairWatch: Pair-Aware Anomaly Transformer for Detecting Adversarial Rendezvous in Public Satellite Catalogs</a></div></td>
 <td>Young Eun Kwon et al.</td>
@@ -1148,11 +1154,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06621.html">Spectrum and Physics-Informed Neural Networks (SaPINNs) for Input-State-Parameter Estimation in Dynamic Systems Subjected to Natural Hazards-Induced Excitation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Antonina Kosikova et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06621">2511.06621</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06551.html">Machine learning intermolecular transfer integrals with compact atomic cluster representations</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a></div></td>
-<td>Keerati Keeratikarn et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06551">2511.06551</a></td>
 </tr>
 </tbody></table>

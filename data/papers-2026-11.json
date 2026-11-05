@@ -1,0 +1,2022 @@
+{
+ "2611.01417": {
+  "abstract": "Spectroscopic observables encode rich information about material behavior across diverse, often high-dimensional domains of energy, momentum, and other experimental coordinates, providing critical insights into the physical properties underlying material functionalities and applications. However, learning these responses directly from atomic structures remains challenging due to the complexity of both structural configurations and spectroscopic observation spaces. Here, we develop a structure-conditioned neural-field framework that learns continuous spectroscopic response functions by coupling an equivariant structural encoder with a coordinate-conditioned network. The framework accurately predicts spectroscopic observables across diverse observation domains, ranging from one-dimensional densities of states to multidimensional scattering functions. We show that fine-tuning with limited spectral supervision captures strain- and composition-dependent spectral changes, with validated transfer to alloy configurations containing hundreds of atoms and computational scalability demonstrated for configurations exceeding $10^4$ atoms. Our work establishes a versatile and computationally scalable approach to learning structure-spectroscopy relationships, providing a foundation for spectroscopic analysis and future materials characterization, inverse problems, and experimental design.",
+  "authors": [
+   "Tianyu Zhang",
+   "Yuan Ni",
+   "Roy Liu",
+   "Garrett Granroth",
+   "Daniel M. Pajerowski",
+   "Joshua J. Turner",
+   "Yongqiang Cheng",
+   "Zhantao Chen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Tianyu Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.01417",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-01",
+  "tags": [
+   "inverse-problems"
+  ],
+  "title": "Learning materials spectra across modalities and scales with structure-conditioned neural fields",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-01"
+ },
+ "2611.01449": {
+  "abstract": "Large language model (LLM) agents can autonomously run neuroimaging analyses from research questions to reported findings. Existing agentic systems use tools to check that code runs and reported values match its output, but rely on LLM judgment to decide which results warrant scientific reporting. We show that LLM judges endorse site-confounded findings even when the confound is presented as evidence. We present \\textbf{CONFIRM}, a framework that separates running an analysis from deciding which findings to report. CONFIRM encodes each hypothesis as a machine-readable, pre-specified analysis plan that fixes the claim and its pass criteria before computing results. It then filters results through five deterministic gates (search history and multiplicity, confounds, power, analytic stability, and replication) under three configurable reporting standards, from least to most demanding: \\textit{Screen}, \\textit{Replicate}, and \\textit{Full}. Failed claims receive diagnoses that guide follow-up analyses. To evaluate reporting decisions at the claim level, we introduce \\textbf{NeuroClaimBench}, comprising 489 executable neuroimaging claims with frozen data, including literature-supported findings and 150 controls designed to violate individual methodological requirements. On NeuroClaimBench, CONFIRM falsely supports at most 3\\% of controls, compared with 23--38\\% for the baselines, while recovering up to 61\\% of literature-supported claims. When auditing an existing agent, CONFIRM reduces false support on controls from 23\\% to 0\\% while retaining the agent's literature-supported claims. Its diagnostic feedback also produces more supported revisions than Self-Refine with fewer LLM calls. Together, CONFIRM and NeuroClaimBench show that basing reporting decisions on pre-specified analysis plans and deterministic gates is essential for trustworthy autonomous scientific discovery.",
+  "authors": [
+   "Yuxiang Wei",
+   "Lijing Zhu",
+   "Qizhen Lan",
+   "Yanteng Zhang",
+   "Vince D. Calhoun"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.MA"
+  ],
+  "comment": null,
+  "first_author": "Yuxiang Wei",
+  "pdf_url": "http://arxiv.org/pdf/2611.01449",
+  "primary_category": "cs.AI",
+  "published": "2026-11-01",
+  "tags": [
+   "scientific-discovery"
+  ],
+  "title": "CONFIRM: Governing Scientific Reporting for Trustworthy Agentic Neuroimaging",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.01511": {
+  "abstract": "Ultra-low-field (ULF) Magnetic Resonance Imaging (MRI) offers a portable, low-cost alternative to conventional scanners by operating at field strengths below 10 mT. At these fields, two sensor technologies compete: quantum SQUID (Superconducting Quantum Interference Device) sensors, which provide high sensitivity but require cryogenic cooling, and classical induction coils, which are inexpensive and room-temperature but produce weaker signals. With conventional physics-based imaging, both suffer from low signal-to-noise ratios (SNR). Data-driven reconstruction has overcome similar limits in related inverse problems, but its use for ULF-MRI has been hindered by a lack of open datasets, benchmarks, and flexible simulators. To close this gap, we present OpenULF, a modular, open-source simulation toolkit that generates paired training data and supports end-to-end machine-learning (ML) reconstruction. OpenULF integrates a Bloch-equation-validated physics simulator, calibrated SQUID and coil receiver models, reconstruction ML networks, and an automated design-space exploration engine. Architecturally, a receiver abstract base class, a typed HDF5 contract that decouples physics from learning, and a resumable sweep engine make sensors, models, and datasets independently substitutable. Using OpenULF, we train 774 models across four anatomical datasets and conduct three design-space explorations. The effectiveness of ML reconstruction depends strongly on the dataset and the sensor. We identify a SQUID-to-coil crossover near 450 $μ$T and demonstrate that sensor hardware and ML model capacity can be traded off during system design. Sensor and reconstruction choices must therefore be co-designed: the best sensor is set by the dataset and field strength, not by SNR.",
+  "authors": [
+   "Hanhan Wu",
+   "Yuchen Yuan",
+   "Weiwen Jiang"
+  ],
+  "categories": [
+   "eess.IV",
+   "cs.CV",
+   "physics.med-ph"
+  ],
+  "comment": "8 pages, 6 figures, 3 tables. Accepted for publication in the 44th IEEE International Conference on Computer Design (ICCD 2026). Code available at https://github.com/Wu-Hanhan/OpenULF",
+  "first_author": "Hanhan Wu",
+  "pdf_url": "http://arxiv.org/pdf/2611.01511",
+  "primary_category": "eess.IV",
+  "published": "2026-11-01",
+  "tags": [
+   "inverse-problems"
+  ],
+  "title": "OpenULF: A Modular Toolkit Enables Data-Driven Ultra-Low-Field MRI with both Classical and Quantum Sensors",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-01"
+ },
+ "2611.01616": {
+  "abstract": "In this work we address a class of Mean-Field Game (MFG) systems on the flat torus $\\mathbb{T}^{d}$ in which individual agent incentives arise from macroscopic, distribution-dependent objectives governed by the Wasserstein-2 ($W_{2}$) distance. Taking the first variation (Lions derivative) of the Wasserstein-based macroscopic functional yields a coupled forward-backward system of Hamilton--Jacobi--Bellman (HJB) and Fokker--Planck (FP) equations featuring a nonlocal coupling driven by the Kantorovich optimal transport potential. As a primary case study, we formulate a large-scale attacker-defender attrition model aimed at protecting High-Value Units (HVUs). By defining population-wise attrition rates via the $W_{2}$ metric and casting the defense strategy as a Pareto-optimal McKean--Vlasov control problem, we derive a concrete HJB--FP system with a Kantorovich potential coupling. We prove the local-in-time existence of classical solutions for this system using Schauder's fixed-point theorem. Finally, we compute the MFG dynamics by combining the Sinkhorn algorithm with ResNet-based Physics-Informed Neural Networks (PINNs), and simulate two-dimensional attacker-defender engagements across diverse attrition parameters, control costs, and multi-HVU configurations.",
+  "authors": [
+   "Avetik Arakelyan",
+   "Davit Alaverdyan",
+   "Naira Hovakimyan",
+   "Isaac Kaminer",
+   "Tigran Bakaryan"
+  ],
+  "categories": [
+   "math.AP",
+   "math.OC"
+  ],
+  "comment": "43 pages, 12 Figures, Keywords: Mean-Field Games, Optimal Transport, Kantorovich Potential, Wasserstein Distance, Attrition Models, Physics-Informed Neural Networks",
+  "first_author": "Avetik Arakelyan",
+  "pdf_url": "http://arxiv.org/pdf/2611.01616",
+  "primary_category": "math.AP",
+  "published": "2026-11-01",
+  "tags": [
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "Mean Field Game Problem with Kantorovich Potential Coupling: An Attrition model",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-01"
+ },
+ "2611.01680": {
+  "abstract": "Reconstructing three-dimensional (3D) complex ocean acoustic fields from sparse measurements is challenging due to highly oscillatory wave structures and restricted sensing patterns/routes. Learning-based approaches fall into two categories. First, purely data-driven models can learn complex field patterns, but do not explicitly exploit wave physics that may enhance interpretability and reduce training costs. Second, physics-informed methods impose a specified physical equation as a reconstruction constraint, but often require environment-dependent parameters that are difficult to acquire. As a result, practical 3D acoustic field reconstruction that is both physically grounded and robust to uncertain environmental information remains largely unexplored. This work takes an alternative route: instead of solving a fully specified wave equation, it extracts a structured representation from wave physics and learns its components from data. From the Helmholtz equation and normal mode propagation, we derive a structured spatial-angular tensor representation, termed the S/c representation. Under a low-rank specialization, it takes the form of a rank-(L,L,1) block-term tensor decomposition, which connects structured sampling patterns/routes used in ocean sensing to sufficient conditions for field recovery. Building on this tensor representation, we propose TIDAL, a neural reconstructor that uses the S/c representation as an inductive bias for structured decoding and aligns information aggregation with the sampling geometry. The neural learner removes the need for known model parameters required by conventional physics-based recovery methods. Experiments across three structured sampling geometries show that TIDAL achieves the best reconstruction performance and fastest inference among baselines, with benefits from the physics-derived representation under limited data and model capacity.",
+  "authors": [
+   "Yifan Sun",
+   "Panqi Chen",
+   "Weifeng Shi",
+   "Xiao Fu",
+   "Lei Cheng"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.SD",
+   "eess.AS"
+  ],
+  "comment": null,
+  "first_author": "Yifan Sun",
+  "pdf_url": "http://arxiv.org/pdf/2611.01680",
+  "primary_category": "cs.LG",
+  "published": "2026-11-01",
+  "tags": [
+   "inductive-bias"
+  ],
+  "title": "Wave Physics as Representation: Tensor-Structured Neural Reconstruction for Ocean Acoustic Fields",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.01723": {
+  "abstract": "Conventional space heating systems typically rely on single or sparse fixed-point temperature measurements, overlooking non-uniform indoor temperature distributions, transient thermal dynamics, and occupant-specific comfort requirements. This study explores an occupant-centric control strategy that aims to maintain the desired temperature around the occupant location. Spatially and temporally varying temperature fields, together with occupant mobility, make real-time local temperature estimation challenging. To address this challenge, we propose a control-oriented Physics-Informed Neural Network (PINN) model for indoor temperature-field prediction. Conventional PINNs rely on explicit time inputs and assume consistent temporal patterns across samples, which limits adaptability under variable initial conditions and heating sequences. The proposed model infers temporal dynamics implicitly from spatial coordinates and limited sensor measurements, improving robustness to changes in initial conditions and external disturbances. The method was validated across nine horizontal sensing planes in three controlled room-scale configurations. Against a validated COMSOL Multiphysics simulation, the PINN predicted the evaluated temperature fields with a maximum relative error below 1.85% across validation cases. These predictions supported an occupant-centric space heating control scheme. Compared with COMSOL-based offline control, the PINN-based system achieved an average prediction error of around 0.67%, and its rapid inference supports real-time occupant-centric control implementation. This work represents a move away from reliance on fixed-point temperature measurements in space heating control to an occupant-centric control strategy informed by real-time environmental feedback.",
+  "authors": [
+   "Yunfei Bai",
+   "Chenghao Li",
+   "Sunku Prasad Jenne",
+   "Hao Wang",
+   "Sizhe Zhang",
+   "Jihong Wang"
+  ],
+  "categories": [
+   "cs.LG",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Yunfei Bai",
+  "pdf_url": "http://arxiv.org/pdf/2611.01723",
+  "primary_category": "cs.LG",
+  "published": "2026-11-01",
+  "tags": [
+   "pinns"
+  ],
+  "title": "A sensor-driven physics-informed neural network for real-time occupant-centric space heating control",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-01"
+ },
+ "2611.01861": {
+  "abstract": "Predicting mechanical responses across complex geometries and varying loading conditions is central to simulation-driven engineering, yet capturing the influence of geometric boundaries remains challenging for data-driven models. Here we propose a Load- and Geometry-adaptive Deep Operator Network (LG-DON) that integrates global geometric representations with local, boundary-aware information to predict structural responses. By distinguishing distances to different boundary categories rather than relying on the nearest boundary alone, the framework captures spatially varying geometric influences that conventional distance-based representations may overlook. Across benchmark problems involving diverse non-convex geometries, LG-DON reduces the mean relative L2 error from 12.17% for a modified MIONet baseline to 7.41%. Controlled ablation studies further demonstrate the advantages of category-resolved boundary distances and show that combining global and local geometric representations outperforms either representation alone in 15 of 18 evaluated configurations. These findings highlight the value of integrating complementary geometric information for accurate operator learning across complex structural domains.",
+  "authors": [
+   "Xin Liu",
+   "Wuwen Yao"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": "27 pages, 20 figures, 7 tables; v2: Removed the template footer; scientific content unchanged",
+  "first_author": "Xin Liu",
+  "pdf_url": "http://arxiv.org/pdf/2611.01861",
+  "primary_category": "cs.CE",
+  "published": "2026-11-01",
+  "tags": [
+   "operator-learning"
+  ],
+  "title": "Learning structural response operators across varying geometries and loads with global and local geometry encoding",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.01932": {
+  "abstract": "Geometry is the very form that connects space, time, and matter, serving as the fundamental fabric of the physical world, from continuous fields to discrete structures. Despite its importance, deep learning is inherently blind to geometry. Riemannian geometry stands as a well-established mathematical foundation for studying geometry, yet it remains largely incompatible with deep learning architectures. To bridge this gap, we establish a new learning framework--Geometric Morphology Learning--that learns geometric or topological structures, shapes or conformations for representation learning, reasoning and action modeling. Moving beyond early attempts limited to specific geometric priors, this theory centers on modeling the intrinsic geometry of objects and learning from such geometric or topological knowledge. Specifically, we construct a neural bundle, a unified scaffolding linking local and global structures, and formulate differentiable operators, including connection and curvature, thereby enabling the study of geometry with advanced geometric concepts such as holonomy and cohomology. Consequently, Geometric Morphology Learning opens new horizons in foundation models, reasoning and planning, graph modeling, physical simulation, PDE systems, and dynamics, marking a fundamental shift toward instilling systematic geometry in artificial intelligence.",
+  "authors": [
+   "Li Sun",
+   "Philip S. Yu"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "7 pages, 1 figure, TKDD 20th Anniversary",
+  "first_author": "Li Sun",
+  "pdf_url": "http://arxiv.org/pdf/2611.01932",
+  "primary_category": "cs.AI",
+  "published": "2026-11-01",
+  "tags": [],
+  "title": "Geometric Morphology Learning: Empowering Foundation Models from Structure to Spacetime Intelligence",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-01"
+ },
+ "2611.02084": {
+  "abstract": "We develop and validate a physics-informed neural network (PINN) framework for computing the tidal Love numbers of black holes directly from their perturbation equations. We consider static perturbations of the Kerr black hole, whose exact hypergeometric solutions provide a controlled benchmark for both the numerical solver and the extraction of the physical response. The framework combines exact enforcement of the horizon boundary conditions with an $H^2$-Sobolev loss that incorporates derivatives of the differential-equation residual. The Love number is then obtained by extracting the asymptotic coefficients of the learned solution, without using the analytic connection formula. Across the tested scalar, vector, and tensor perturbations, the method recovers the finite dissipative response with relative errors below $10^{-5}$. Controlled comparisons show that the higher-derivative loss terms improve solution accuracy by orders of magnitude, while independent tests of the extraction procedure distinguish solver errors from errors in recovering the response coefficients. The conservative response, which vanishes analytically, is constrained by the numerical error floor. These results demonstrate that PINNs can accurately compute black-hole tidal response and establish a validated framework for future extensions to frequency-dependent and non-separable perturbation problems.",
+  "authors": [
+   "Maria J. Rodriguez",
+   "Luis Fernando Temoche",
+   "Pavlos Protopapas"
+  ],
+  "categories": [
+   "gr-qc",
+   "cs.LG",
+   "hep-th",
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Maria J. Rodriguez",
+  "pdf_url": "http://arxiv.org/pdf/2611.02084",
+  "primary_category": "gr-qc",
+  "published": "2026-11-01",
+  "tags": [
+   "black-holes",
+   "pinns"
+  ],
+  "title": "Black Hole Love Numbers with Physics-Informed Neural Networks",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-01"
+ },
+ "2611.02127": {
+  "abstract": "Physics-driven design seeks high-performing geometries, which need not conform to a learned shape category. Parametric and latent-space approaches facilitate surrogate-based optimization, but restrict deformations to prescribed shape families or learned decoders. We introduce the Mesh-to-Shell Neural Operator (M2S-NO) as the mesh-to-shell component of a category-agnostic inverse shape optimization framework. We separate the explicit mesh used for design from the volumetric representation used for physics prediction. M2S-NO maps oriented surface samples to a surface-centered shell representation, such as TruncatedSDF or HeatSDF. A separate problem-specific PDE neural operator (PDE-NO) maps this representation to physical fields. Objective gradients update mesh vertices through both operators, without a latent shape decoder. Preconditioning and remeshing support free-form deformation, while fixed interfaces are controlled directly on the mesh. Optional shell-space proposals enable topology changes. We evaluate geometric matching, jet-engine brackets, and neutron moderators, with independent FEM and OpenMC evaluation. Relative to the best training designs, M2S-NO reduces maximum bracket displacement by 14.3% and increases neutron-sensor current by 13.8%. Optimization also succeeds from an out-of-distribution bracket initialization, demonstrating the framework's geometric flexibility.",
+  "authors": [
+   "Xinyi Li",
+   "Xi Deng",
+   "Yubo Cao",
+   "Hudson Liu",
+   "Anima Anandkumar"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Xinyi Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.02127",
+  "primary_category": "cs.LG",
+  "published": "2026-11-01",
+  "tags": [],
+  "title": "Mesh2Shell Neural Operator for Inverse Shape Optimization",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-01"
+ },
+ "2611.02400": {
+  "abstract": "Inspired by the optimization approach to biology, we formulate an inverse problem for communication with memory: construct a finite-state channel for which a given signaling behavior supports capacity-achieving codes. Dynamic measure matching is introduced to turn a directed-information converse into conditions on the channel dynamics. These conditions lead to a new notion of dynamic surprise: the log ratio of physical to test output probabilities with a continuation correction for future signaling opportunities. The matching inequalities bound its conditional mean. For fixed architecture, test law, and potential, channel row synthesis under convex physical restrictions is convex. For every signaling constraint represented by a finite irreducible constrained graph of positive entropy, we construct a channel law under which undesired inputs remain available and behaviorally distinct while incurring a strict information penalty. A noisy refractory family has an exact capacity plateau, followed by an interval in which Shannon and zero-error feedback capacities differ. Explicit zero-error codes attain capacity in the graph construction and on the plateau. In this family, a Gibbs choice maximizes the penalty and makes dynamic surprise equal its conditional mean on every transition, yielding an exact trajectory-wise likelihood identity, a finite-block bound on successful decoding with premature requests, and an exponential strong converse. An exact gap decomposition into action residuals and output-law divergence constrains every reliable capacity-approaching code. Within the strict plateau, positive discrimination exponents for unused dynamics require a positive rate loss, while sparse probing permits consistent estimation at asymptotic capacity. A chemical channel illustrates how premature stimulation can alter future responsiveness while leaving the immediate output law unchanged.",
+  "authors": [
+   "Lav R. Varshney"
+  ],
+  "categories": [
+   "cs.IT"
+  ],
+  "comment": null,
+  "first_author": "Lav R. Varshney",
+  "pdf_url": "http://arxiv.org/pdf/2611.02400",
+  "primary_category": "cs.IT",
+  "published": "2026-11-02",
+  "tags": [],
+  "title": "Inverse Design of Finite-State Channels by Dynamic Measure Matching",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02427": {
+  "abstract": "Geometry-aware neural operators face substantial computational and memory demands when learning across complex physical domains. We introduce Architecture-Aware Mixed Precision (AA-MP), a replica-exchange training strategy that allocates numerical precision according to replica roles and architecture-specific operations. By retaining FP32 for refinement while selectively employing BF16 for exploration, AA-MP preserves predictive accuracy while improving training efficiency. Across fluid dynamics and three-dimensional structural mechanics benchmarks, AA-MP achieves comparable accuracy to full-precision training over an ensemble of runs, while reducing hot-replica peak GPU memory by 46.9% and training time by up to 25.8%. It also outperforms naive Automatic Mixed Precision (AMP) in memory efficiency and computational cost, with increasing memory advantages at larger model and geometry scales. Ablation studies show that retaining FP32 in the cold-replica is important for predictive accuracy, while additional FP32 operations in the exploratory replica provide limited benefits relative to their computational cost. Finally, conformal prediction for uncertainty calibration shows that AA-MP achieves near-nominal coverage with narrower prediction intervals than the alternatives. These results advance the scalability of geometry-aware scientific machine learning by reducing computational costs without compromising predictive accuracy or uncertainty quantification.",
+  "authors": [
+   "Ujin Jeon",
+   "Michael Penwarden",
+   "Wenqian Chen",
+   "Guang Lin"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Ujin Jeon",
+  "pdf_url": "http://arxiv.org/pdf/2611.02427",
+  "primary_category": "cs.LG",
+  "published": "2026-11-02",
+  "tags": [
+   "neural-operators",
+   "scientific-machine-learning",
+   "uncertainty-quantification"
+  ],
+  "title": "Architecture-Aware Mixed Precision for Replica-Exchange Training of Geometry-Aware Neural Operators with Uncertainty Quantification",
+  "topics": [
+   "Generative Models & Discovery",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02458": {
+  "abstract": "The ability to emulate complicated and computationally-expensive physical systems in an efficient and stable manner is a popular motivation for scientific machine learning (SciML). Stable numerical solvers tend to be computationally expensive, as they attempt to resolve small (spatial and temporal) scales that receive and dissipate spectral energy. Learned coarse-grid forecasters remove the dissipative channel, allowing unresolved frequencies to re-emerge as grid-scale noise (aliasing). In this paper, we use the Neural Discrete Equilibrium (NeurDE) method to explore stable emulation at extremely coarse grids, demonstrating physically-principled control over entropy dynamics that reinforces the physical system's dissipative mechanism. Entropically-stabilized NeurDE produces stable long-time rollouts for thousands of forecasting steps on large Reynolds number turbulent flows ($\\mathrm{Re}=100{,}000$) with very coarse grids (down to $\\mathbb{R}^{16\\times16}$). At these very coarse grid scales, entropically-stabilized NeurDE can be more stable than even our stabilized data-generation numerical method.",
+  "authors": [
+   "Jose Antonio Lara Benitez",
+   "Kareem Hegazy",
+   "Anastasis Kratsios",
+   "Ivan Dokmanić",
+   "Maarten V. de Hoop",
+   "Michael W. Mahoney"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.comp-ph",
+   "physics.flu-dyn"
+  ],
+  "comment": "Accepted at NeurIPS 2026",
+  "first_author": "Jose Antonio Lara Benitez",
+  "pdf_url": "http://arxiv.org/pdf/2611.02458",
+  "primary_category": "cs.LG",
+  "published": "2026-11-02",
+  "tags": [
+   "scientific-machine-learning",
+   "sciml"
+  ],
+  "title": "Learning the Entropic Relaxation: Stable Coarse-Grid Emulation with Neural Discrete Equilibrium",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02622": {
+  "abstract": "Current methods of deriving ultrastiff isotropic metamaterials require heuristics or topology optimization, which are highly inefficient and limited by human input. To circumvent this, Physics Informed Neural Networks are applied to analytical equations to systematically solve for plate orientations in closed cell lattices. Following a standardized procedure, the plate orientations were modelled and assembled into geometries resembling quasi random foams for validation via finite element simulations. Closed cell 6-plate geometries were also additively manufactured using LAPIS and experimentally characterized. The results indicate that a minimum of 6 plates is required to constitute an ultrastiff isotropic lattice, 7 plates would return the established plate Cubic Octet structure while 8 to 10 plate geometries did not show significant differences in properties. Despite the introduction of some plate bending due to sub-optimal plate placement strategy, relative stiffness of the PINNs lattices adheres closely to the Hashin Shtrikman upper bound, 90 percent of Hashin Shtrikman upper bound at a relative density of 0.4, and the lattices maintain near isotropic behaviour, achieving a Zener ratio of 0.95 at a relative density of 0.1. Benchmarking results show that specific stiffness of PINNs lattices is higher than the majority of isotropic architectures reported in the literature.",
+  "authors": [
+   "Manish Kumar Singh",
+   "Dominic Kang Jueh Lim",
+   "Anson Wen Han Cheong",
+   "Adams Wai Kin Kong",
+   "Chang Quan Lai"
+  ],
+  "categories": [
+   "math-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "41 pages, 5 figures, 2 tables",
+  "first_author": "Manish Kumar Singh",
+  "pdf_url": "http://arxiv.org/pdf/2611.02622",
+  "primary_category": "math-ph",
+  "published": "2026-11-02",
+  "tags": [
+   "pinns"
+  ],
+  "title": "Derivation of Novel Isotropic Metamaterials at the Hashin Shtrikman Stiffness Limit Enabled by Physics Informed Neural Networks",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02627": {
+  "abstract": "Simulation-trained generative models are emerging as a powerful framework for field-level inference in cosmology, particularly in strongly nonlinear regimes where analytical approaches become intractable. However, the finite size of training datasets often leads to variance shrinkage, indicating that part of the realization-level variability of the underlying physical process is not captured by the learned generative dynamics. In this Letter, we interpret variance shrinkage as a diagnostic of missing effective degrees of freedom and introduce physics-informed latent modifications to the generative dynamics of a continuous normalizing flow. We show that these latent corrections recover a substantial fraction of the missing variability without requiring additional training simulations. Using weak-lensing field-level inference as a representative cosmological application, we further demonstrate through posterior analysis that the learned latent directions are actively exploited during inference and behave as effective nuisance parameters that absorb part of the mismatch between the training and target distributions. As a result, the model exhibits improved robustness to out-of-distribution shifts in field-level inference. Our work establishes variance shrinkage as a practical diagnostic for identifying missing degrees of freedom in simulation-trained generative models and provides a framework for recovering them through physics-informed modifications of generative dynamics.",
+  "authors": [
+   "Masato Shirasaki",
+   "Shiro Ikeda"
+  ],
+  "categories": [
+   "astro-ph.CO",
+   "cs.LG"
+  ],
+  "comment": "4+14 pages, 1+8 figures",
+  "first_author": "Masato Shirasaki",
+  "pdf_url": "http://arxiv.org/pdf/2611.02627",
+  "primary_category": "astro-ph.CO",
+  "published": "2026-11-02",
+  "tags": [
+   "cosmology"
+  ],
+  "title": "Recovering Missing Degrees of Freedom in Simulation-Trained Field-Level Generative Models",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02787": {
+  "abstract": "Reduced-order models (ROMs) learned from trusted numerical simulations enable the real-time simulation of complex physical systems, making computationally prohibitive tasks-such as uncertainty quantification and optimal control-tractable. In particular, data-driven ROMs are opening the opportunity to learn from both numerical simulations and experimental data. However, integrating these sources of information is far from straightforward. Real-world measurements often involve multiple sources of uncertainty, including non-Gaussian noise, latent heterogeneities, unknown or hidden system parameters, and multiscale phenomena occurring below the resolution of the data. Consequently, real-world data are better described by parametrized stochastic partial differential equations, for which the development of effective ROMs remains relatively unexplored. In this work, we introduce POD-CNF, a data-driven generative ROM for efficient uncertainty quantification of parametrized high-dimensional systems. The approach combines projection-based model reduction and deep generative modeling. First, Proper Orthogonal Decomposition (POD) is employed to obtain a low-dimensional representation of the solution manifold. A Conditional Normalizing Flow (CNF) is then trained to approximate the density of the reduced coefficients conditionally on the input parameters. This formulation allows the surrogate to capture complex, multimodal output distributions, going beyond standard regression-based ROMs and least-squares predictions. We assess the effectiveness of POD-CNF through numerical experiments, demonstrating its ability to accurately reproduce output distributions while substantially reducing computational costs. Finally, a proof-of-concept application illustrates how the generative paradigm facilitates integration into Bayesian inverse problems, highlighting promising directions for future research.",
+  "authors": [
+   "Andrea Violante",
+   "Nicola Rares Franco",
+   "Andrea Manzoni"
+  ],
+  "categories": [
+   "math.NA",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Andrea Violante",
+  "pdf_url": "http://arxiv.org/pdf/2611.02787",
+  "primary_category": "math.NA",
+  "published": "2026-11-02",
+  "tags": [
+   "inverse-problems",
+   "partial-differential-equations",
+   "rom",
+   "uncertainty-quantification"
+  ],
+  "title": "POD-CNF: reduced order modeling of parametrized stochastic PDEs via normalizing flows and proper orthogonal decomposition",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02800": {
+  "abstract": "Convection-diffusion equations are fundamental models for transport phenomena, but their numerical solution becomes challenging in convection-dominated regimes due to steep gradients and sharp boundary layers. This motivates the development of accurate approaches capable of effectively resolving such features while avoiding costly iterative optimization. In this study, a modified ELM framework based on shifted Legendre polynomials is developed for convection-diffusion equations in steady-state, continuous-time, and discrete-time formulations. The proposed approach is evaluated on steady and unsteady benchmark problems with relatively high Peclet numbers, including continuous and discontinuous boundary conditions. Finite element method solutions are used as independent solution references. By exploiting the linearity of the governing equations, MELM determines the output weights through a single least-squares solve, avoiding the iterative gradient-based training required by PINNs. The shifted Legendre polynomial basis provides an effective spectral representation for resolving steep gradients and sharp boundary layers. For the DT-MELM formulation, the coefficient matrix remains unchanged across successive time levels, allowing its LU or QR factorization to be computed once and reused. A systematic comparison with PINNs that incorporate advanced training strategies demonstrates that MELM provides higher accuracy and shorter solution times for steady-state and DT-MELM formulations across the benchmark problems considered. In contrast, CT-MELM exhibits scalability limitations as the size of the space--time basis increases. Overall, the results demonstrate the effectiveness of MELM for steady-state and discrete-time convection--diffusion problems, while also showing that PINNs provide better scalability for large space--time formulations where global CT-MELM becomes computationally demanding.",
+  "authors": [
+   "Gadade Navnath Ankush",
+   "Ram Shiromani",
+   "Tomas Gandara",
+   "Ramon Codina",
+   "Sivaram Ambikasaran"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Gadade Navnath Ankush",
+  "pdf_url": "http://arxiv.org/pdf/2611.02800",
+  "primary_category": "math.NA",
+  "published": "2026-11-02",
+  "tags": [
+   "pinns"
+  ],
+  "title": "A Legendre-Based Modified Extreme Learning Machine for Convection-Diffusion Equations: Steady-State, Continuous-Time, and Discrete-Time Formulations",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02832": {
+  "abstract": "Kernel collocation is a meshfree method for partial differential equations whose accuracy depends on the smoothness of the kernel and of the solution. For globally supported kernels, however, the collocation matrices are dense and severely ill-conditioned. We address both issues by combining a multiscale collocation scheme with samplets, a multiresolution basis of discrete signed measures with vanishing moments. In the samplet basis, the collocation matrix has only O(N log N) relevant entries, while the multiscale scheme adapts the kernel width to the spacing of the points on every level. Since the differential operator scales the equations at the interior points differently from those at the boundary points, the rescaling alone does not bound the condition number of the level systems. We therefore solve them by a Schur-complement reduction that is invariant under this scaling. For noisy data, we consider physics-informed kernel learning, which replaces the collocation system by a regularized least-squares fit. We show that it reduces to collocation as the regularization vanishes, and we solve it by a deflated conjugate gradient method that reuses the Schur-complement reduction. Numerical experiments in two and three dimensions, with exact and noisy boundary data, show that the method handles significantly more points than dense collocation.",
+  "authors": [
+   "Sara Avesani",
+   "Manel Babay",
+   "Angela Kunoth",
+   "Michael Multerer"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Sara Avesani",
+  "pdf_url": "http://arxiv.org/pdf/2611.02832",
+  "primary_category": "math.NA",
+  "published": "2026-11-02",
+  "tags": [
+   "partial-differential-equations"
+  ],
+  "title": "Compressed Multiscale Kernel Collocation and Physics-Informed Kernel Learning for Elliptic BVPs",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02900": {
+  "abstract": "In the prediction and control of physical systems, combining records from different experiments and operations is expected to supply information that no single experiment provides on its own. Time-series foundation models, which learn a shared predictor from diverse time series, offer a framework for treating such records as a common training resource. Moreover, query-based prediction models, which switch between known and target signals within the same time series, make it possible to handle response prediction and control-input generation in a unified manner. However, in control-experiment data, the connections between signals change with the experimental stage, such as system identification, filtering, and feedback control, which calls for a formulation that handles signal values and connection structures dynamically and in a unified way. We formulate a control foundation model that defines a data space of dynamic graphs containing connections, signal values, and missing values, together with an operation on this space that specifies the known signals and the prediction targets. This allows response prediction and control-input generation to be described as a common masked prediction problem, even for experimental data with different connections and recorded signals. The Block Diagram Transformer (BDT), which implements this formulation, combines attention along the time axis with a graph neural network that follows the block-diagram connections, and can be initialized with the pretrained parameters of existing time-series foundation models. Trained on control-experiment data that mix multiple experimental settings, the proposed model stabilized an unstable system through feedback control, which is difficult to achieve by fine-tuning existing time-series foundation models. Ongoing work applying this approach to a wide range of target systems is also yielding promising results.",
+  "authors": [
+   "Yuji Okamoto",
+   "Kenta Hoshino",
+   "Masaki Inoue"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Yuji Okamoto",
+  "pdf_url": "http://arxiv.org/pdf/2611.02900",
+  "primary_category": "eess.SY",
+  "published": "2026-11-02",
+  "tags": [],
+  "title": "Control Foundation Models across Changing Block Diagrams: Generalizing Time-Series Prediction to Dynamic Graphs",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03210": {
+  "abstract": "Laminar-turbulent transition governs skin friction, heat transfer and losses in turbomachinery, yet Reynolds-averaged Navier-Stokes (RANS) transition models rely on empirical correlations and hand-calibrated activation functions whose structural deficiencies cannot be resolved by recalibration. We propose a CFD-driven sparse symbolic regression framework to learn interpretable, closed-form corrections to the production and destruction activation functions in the intermittency equation of the local, Galilean-invariant $k$-$ω$-$γ$ model of Ge et al. Each correction combines a polynomial of a local pressure-gradient parameter, controlling amplitude and sign, with a bounded exponential of local flow features, controlling spatial support. This construction bounds the corrections without ad hoc limiters. Coefficients are identified by gradient-free optimization with the RANS solver in the loop, accelerated by POD-Kriging field surrogates, using mean-velocity data from wall-resolved large-eddy simulations (LES) of the ERCOFTAC T3 flat-plate cases. Elastic-net hyperparameters are selected automatically through bi-level optimization with leave-one-case-out cross-validation. The resulting model retains 11 of 21 candidate terms, compared with 20 under conventional grid-search tuning, while achieving comparable or slightly better accuracy on training and unseen cases. Both approaches recover the same leading-order correction. Applied without retraining to the transonic LS89 turbine cascade, far beyond the training envelope, the augmented model remains numerically robust and improves heat-transfer predictions at all four operating points, reducing errors by up to 70% where the baseline predicts premature transition under high freestream turbulence. Residual errors in transition onset and length highlight the limits of training on flat-plate data alone.",
+  "authors": [
+   "Louenas Zemmour",
+   "Xavier Gloerfelt",
+   "Paola Cinnella"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Louenas Zemmour",
+  "pdf_url": "http://arxiv.org/pdf/2611.03210",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-02",
+  "tags": [
+   "cfd",
+   "les",
+   "rans",
+   "symbolic-regression"
+  ],
+  "title": "CFD-driven symbolic regression of RANS transition models",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03264": {
+  "abstract": "Full Waveform Inversion (FWI) is a fundamental inverse problem in geophysics to estimate subsurface properties, such as velocity, from seismic measurements. Recently, self-supervised learning methods remove the need for ground-truth velocity maps during training by leveraging a forward operator to simulate seismic data from predictions and backpropagate the gradients of reconstruction loss through it. In this work, we consider a more challenging setting without accessing such gradients. To this end, we incorporate reinforcement learning into self-supervised FWI and propose a framework named DeepWaveRL. Specifically, we reformulate FWI as a policy learning problem, where the policy network predicts velocity maps as actions, and a forward operator is used solely for simulation. A global scalar reward is computed based on data misfit for each prediction and used to weight policy gradients. Thus, learning proceeds without accessing the gradients from the forward operator. Given the indirect and coarse supervision signals, we further identify key strategies to stabilize learning and mitigate the spatial credit assignment bottleneck. Experimental results show that, despite relying entirely on a single scalar reward, DeepWaveRL achieves competitive performance compared to supervised and self-supervised baselines. These findings suggest that our framework offers a flexible and complementary learning paradigm for the FWI research community.",
+  "authors": [
+   "Peng Jin",
+   "Yinan Feng",
+   "Yinpeng Chen",
+   "Youzuo Lin",
+   "Sharon Huang"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "Peng Jin",
+  "pdf_url": "http://arxiv.org/pdf/2611.03264",
+  "primary_category": "cs.LG",
+  "published": "2026-11-02",
+  "tags": [],
+  "title": "DeepWaveRL: Self-Supervised Full Waveform Inversion via Reinforcement Learning",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03281": {
+  "abstract": "In this paper we study quadrature perturbations and high-order time discretization for a prescribed-feature evolutionary generalized transferable neural network (Evo-GTransNet) Galerkin method for linear self-adjoint parabolic equations. Assembly quadrature, together with truncated singular value decomposition, is used to select a numerically resolved trial space and obtain coordinates with an identity mass matrix. Since this normalization depends on the assembly quadrature, the retained functions are also evaluated using a separate comparison quadrature, which is finer in the numerical experiments. For the two resulting semidiscrete systems, we derive an exact equation for the difference between their trajectories and an energy estimate that separates errors arising from the effective operator, load vector, and initial projection. The estimate is conditional on the trial space selected by the assembly quadrature. The retained rank, discarded mass, cross mass, and principal angles are used to assess this selection step. Refining the comparison quadrature yields stable retained spaces for the reported configurations, whereas deliberate underintegration leads to much larger perturbations. On the fixed retained systems, the temporal convergence of implicit midpoint, BDF, Radau IIA, and Gauss--Legendre methods is consistent with their classical orders over the resolved refinement ranges. The experiments distinguish the retained-coordinate error from the total solution error; the latter is measured against the PDE solution in the $L^2$ norm, with the error integrals evaluated by sufficiently fine quadrature. They also illustrate the importance of suitable starting values for BDF3 and show how the performance of IMEX-BDF schemes depends on the operator splitting and time step size.",
+  "authors": [
+   "Xi Zhang",
+   "Lili Ju",
+   "Jin Zhao"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Xi Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.03281",
+  "primary_category": "math.NA",
+  "published": "2026-11-02",
+  "tags": [],
+  "title": "Quadrature Perturbations and High-Order Time Discretization for Prescribed-Feature Evolutionary GTransNet Galerkin Systems",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03293": {
+  "abstract": "Zeroth-order (ZO) optimization enables memory-efficient large language model (LLM) fine-tuning, and recent methods incorporate curvature-aware strategies. However, in the high-dimensional parameter space of LLMs, these methods inherently suffer from exploding gradient variance and prohibitive costs. Conversely, confining updates to a low-dimensional subspace reduces variance but discards critical high-dimensional information, degrading performance. This creates a fundamental dilemma: full-space optimization is informative but has high variance, while subspace optimization has low variance but loses information. To break this trade-off, we propose ENGINE (Endogenous Variational MultiScale). Inspired by computational mechanics, we adapt static Variational MultiScale (VMS) theory to dynamic optimization, treating low- and high-dimensional spaces as resolved coarse and unresolved fine scales. Through a multigrid-style V-cycle, ENGINE alternates between spaces, dynamically probing fine-grained information in the high-dimensional space and injecting it to correct the efficient low-dimensional sampling process. Under appropriate assumptions, statistical analysis characterizes variance reduction and correction of curvature-induced bias, and convergence analysis establishes a stationarity bound for the corrected coarse updates. Evaluations on standard LLM benchmarks show that ENGINE achieves higher accuracy and faster convergence than existing ZO methods, achieving up to a $2.61\\times$ speed-up in forward passes with zero additional peak memory overhead. Code is available at https://github.com/AI4Science-WestlakeU/ENGINE.",
+  "authors": [
+   "Zhuoli Ouyang",
+   "Changxi Chi",
+   "Siyuan Li",
+   "Tailin Wu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "NeurIPS 2026, 32 pages, 9 figures",
+  "first_author": "Zhuoli Ouyang",
+  "pdf_url": "http://arxiv.org/pdf/2611.03293",
+  "primary_category": "cs.LG",
+  "published": "2026-11-02",
+  "tags": [
+   "ai4science"
+  ],
+  "title": "ENGINE: Endogenous Variational MultiScale Optimization for Zeroth-Order LLM Fine-Tuning",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03327": {
+  "abstract": "Artificial intelligence (AI) technologies and their capabilities have advanced rapidly over the past few years, leading to widespread interest and adoption in the biological and ecological sciences. However, the data infrastructure and computational resources that provide the foundation for AI workflows in ecology and biodiversity science remain fragmented. Moreover, the flow of value remains largely unidirectional: data move from collectors, through repositories and aggregators into models, and finally to research products or management actions. The derived value, such as corrected taxonomies, annotations, quality flags, and insights, rarely returns to source communities. We propose an extension of the original FAIR principles to address the needs of AI-ready infrastructure: the AI-FAIR metadata criteria, which place AI-enabled science in the context of a bidirectional Question-Data-Model triangle. This framework is designed to facilitate large-scale content-based analysis across diverse collections and ensure that the scientists generating the data benefit from the AI-enabled advances built on their data. Alongside these criteria, we introduce an agentic evaluation workflow that both rates existing datasets on the AI-FAIR and traditional FAIR criteria and provides actionable feedback where critical metadata is missing or incomplete. This modular dataset evaluation tool, paired with a domain-appropriate checklist, translates these principles into a reusable assessment of machine-learning readiness, AI-readiness for specified tasks, traceability, and ethical and CARE-aligned stewardship. Through this approach we aim to create a community-informed system to close the model data loop, so that AI also enriches data to further enable scientific discovery.",
+  "authors": [
+   "Elizabeth G. Campolongo",
+   "Eric R. Sokol",
+   "Marty Downs",
+   "Gina Glenne",
+   "Gregory E. Maurer",
+   "Sydne Record",
+   "Dustin R. Rubenstein",
+   "Matthew J. Thompson",
+   "Christine Laney",
+   "Hilmar Lapp",
+   "Max Tarjan",
+   "Tanya Berger-Wolf"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.DB",
+   "cs.HC",
+   "cs.IR",
+   "q-bio.QM"
+  ],
+  "comment": "8 pages, 3 figures, Code available at: https://github.com/FAIR4AI-Bio/evaluator",
+  "first_author": "Elizabeth G. Campolongo",
+  "pdf_url": "http://arxiv.org/pdf/2611.03327",
+  "primary_category": "cs.AI",
+  "published": "2026-11-02",
+  "tags": [
+   "scientific-discovery"
+  ],
+  "title": "From FAIR to AI-FAIR Metadata-First Infrastructure for AI-Enabled Science",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03329": {
+  "abstract": "Mapping a prescribed many-body Hamiltonian to a particular quantum hardware is generally an approximate process, resulting in both intended and unwanted quantum dynamics. We introduce an AI-agent-assisted workflow that uses Lean to establish whether an effective device Hamiltonian retains the intended low-energy subspace of the target many-body Hamiltonian. We demonstrate this approach with topological quantum error correction (QEC), providing, to our knowledge, the first Lean-verified pipeline connecting a code space to low-energy states of a device model. Starting from qubits and parity checks, the pipeline constructs the ideal Hamiltonian whose lowest energy states form the intended code space, and determines the excitation gap that protects that code space. It then tests if the device retains the required number of isolated low-energy states and quantifies how closely their subspace matches the intended code space. We compare three bounds on unwanted energy shifts obtained by: summing the interaction strengths, grouping the anticommuting Pauli interactions, and diagonalizing the Hamiltonian. Pauli grouping yields a bound that is tighter than the conventional sum and closer to the diagonalization result, avoiding overly conservative compensation requirements. The workflow also identifies the strongest unwanted interactions and the qubits they affect, providing specific targets for improving device couplings and controls. We demonstrate our framework using an eight-qubit toric-code array on a superconducting device, where the same driven device generates both the required four-qubit interactions as well as unwanted dynamics. An AI agent identifies viable device parameters within a prescribed leakage budget, and Lean verifies four isolated low-energy states close to the ideal code space. Our workflow supports predictive hardware engineering for analog implementations of QEC codes.",
+  "authors": [
+   "Arpit Arora",
+   "Adam Holmes",
+   "Krysta M. Svore",
+   "Taylor L. Patti"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Arpit Arora",
+  "pdf_url": "http://arxiv.org/pdf/2611.03329",
+  "primary_category": "quant-ph",
+  "published": "2026-11-02",
+  "tags": [
+   "quantum-error-correction"
+  ],
+  "title": "Agentic Pipelines for Mapping Topological Codes to Quantum Hardware",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03381": {
+  "abstract": "Physically based two-dimensional hydraulic models are too slow for real-time inundation forecasting and large ensembles. We present a time-dependent geometry-informed neural operator (GINO) surrogate of LISFLOOD-FP for the municipality of Forlì (Italy), severely affected by the May 2023 Emilia-Romagna floods. The surrogate is designed for an operational setting in which only river stage gauges and rain gauges are available. A reproducible pipeline turns public regional observations into a physically based training set: each river inflow is driven by the first stage gauge downstream of it through a calibrated water-surface boundary condition, and rain enters as SCS-CN effective rainfall. The surrogate is an autoregressive GINO trained on 216 simulations of 24 observed events with scaled forcing. It predicts volume-conserving polygon-mean depths on an exposure-based Voronoi mesh of 659 nodes, with a 20 min step over 72 h. The surrogate is tested on 38 independent observed events that it never saw during training. On these events it reaches a critical success index (CSI) of 0.934 at 0.05m and 0.844 at 0.3 m, a depth RMSE of 0.008m and an $R^2$ of 0.984 for maximum-depth maps. On one NVIDIA A10G GPU a 72-h forecast takes 1.7 s instead of 55 s with LISFLOOD-FP, and a 50-member ensemble, computed in a single batched rollout, takes 6.2 s instead of about 46 min, which makes probabilistic flood forecasting practical. These results show that neural-operator surrogates can deliver accurate pluvial-fluvial flood forecasts driven by river stage for operational early warning.",
+  "authors": [
+   "Samuele Maria Garofalo",
+   "Fabio Limardo",
+   "Simonetta Bodojra",
+   "Mohammad Amin Nabian",
+   "Mehdi Taghizadeh"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.geo-ph"
+  ],
+  "comment": "16 pages, 12 figures, 3 tables",
+  "first_author": "Samuele Maria Garofalo",
+  "pdf_url": "http://arxiv.org/pdf/2611.03381",
+  "primary_category": "cs.LG",
+  "published": "2026-11-02",
+  "tags": [],
+  "title": "A Geometry-Informed Neural Operator surrogate of LISFLOOD-FP for rapid pluvial-fluvial flood forecasting: the case of Forlì, Italy",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03411": {
+  "abstract": "Spherical-harmonic neural operators provide an efficient representation for global forecasting, but their discretized pointwise nonlinearities can break rotational equivariance through aliasing. Clebsch-Gordan (CG) tensor products provide exactly equivariant interactions between spherical-harmonic representations, but their computational cost grows rapidly with spectral bandwidth and has limited their use at forecasting scale. We introduce LCG-SFNO, which combines low-rank CG interactions within a controlled low-degree band with coefficient-space residual propagation and an exactly projected quadratic nonlinearity, preserving SO(3) equivariance throughout the learned operator. To make the CG interaction practical, we further develop SSHCG, a sparse GPU implementation with a factorized alternative for wider coupled bands. On spherical shallow-water dynamics and the ERA5-based WeatherBench benchmark, LCG-SFNO reduces rotational error to numerical precision (more than three orders of magnitude below SFNO on shallow water and five orders of magnitude below it on WeatherBench), while matching SFNO on shallow-water forecasting and substantially improving forecast skill relative to SFNO on WeatherBench. Matched ablations show that CG coupling accelerates convergence, while SSHCG keeps the coupling to about 10 percent of a training step at the operating bandwidth, making exact equivariant coupling practical at forecasting scale.",
+  "authors": [
+   "Yaojun Li",
+   "Zhixuan Zhao",
+   "Dongzhe Zheng",
+   "Christine Allen-Blanchette"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Yaojun Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.03411",
+  "primary_category": "cs.LG",
+  "published": "2026-11-02",
+  "tags": [
+   "neural-operators"
+  ],
+  "title": "Low-Rank Clebsch--Gordan Coupling for Equivariant Spherical Forecasting",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03450": {
+  "abstract": "Recent high-sensitivity and high-resolution surveys of the Third Galactic Quadrant [$219.75 \\leq l \\leq 229.75$ and $-5.25 \\leq b \\leq 5.25$], such as the Milky Way Imaging Scroll Painting ( MWISP) survey, have revealed a significant population of molecular clouds (MCs) that appear virially unbound ($α_{vir} > 2$) according to traditional isolated MC models. However, these apparently unstable cloud structures are actually found long-lived and actively undertaking star formation. This inconsistency presents a Virial Paradox. In the present work, we employ a Physics-Informed Neural Network (PINN) to address this discrepancy by re-evaluating the stability of 2,091 MCs . Unlike traditional machine learning, our PINN model embeds the complete Eulerian Virial Theorem including external surface pressure support ($P_{ext}$) directly into the network's loss function. This model autonomously discovers a global Galactic pressure field that scales inversely with vertical height ($|z|$) and Galactocentric radius ($R_{GC}$), consistent with the properties of the Galactic Flare. By incorporating this AI-derived pressure support, we demonstrate a dramatic shift in the stability census: 99.9\\% of previously thought unbound clouds are found to be in a state of pressure confined equilibrium ($α_{AI} \\leq 2$). Furthermore, we find a robust log-log correlation ($R = 0.64$) between our corrected stability parameter and the star formation rate (SFR). This correlation provides independent physical validation that environmental confinement is a primary regulator of star forming efficiency in the outer Galaxy.",
+  "authors": [
+   "Ashok Mondal"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": null,
+  "first_author": "Ashok Mondal",
+  "pdf_url": "http://arxiv.org/pdf/2611.03450",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-11-02",
+  "tags": [],
+  "title": "A Physics Informed Neural Network Approach to Decipher Environmental Confinement of Molecular Clouds in the Third Galactic Quadrant",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03451": {
+  "abstract": "Hamiltonian neural networks provide a principled framework for learning conservative dynamics. A scalar Hamiltonian is parameterized by a neural network and the vector field is derived using Hamilton's equations. However, preserving Hamiltonian structure does not guarantee that the energy function itself is represented accurately. When modeled by a conventional multilayer perceptron, the Hamiltonian inherits the spectral bias of coordinate-based neural representations, favoring smooth over fine-scale structure. These fine-scale errors can be amplified by differentiation when computing the dynamics. To address this limitation, we introduce Local Multiscale Hamiltonian Neural Network (LM-HNN), which restructures the Hamiltonian according to its physical interaction structure. LM-HNN decomposes the energy into kinetic and potential components and represents them as sums of shared local functions over multiple interaction neighborhoods. This replaces a single high-dimensional approximation problem with lower-dimensional, reusable interaction laws, making fine-scale energy structure easier to resolve while preserving Hamiltonian dynamics. Across low-dimensional, interacting, and fast--slow systems, LM-HNN consistently achieves more accurate Hamiltonian derivatives and long-horizon rollouts than competing structure-preserving models, while substantially extending the effective spectral range of the learned energy. The same structured representation also generalizes more reliably to energy levels not observed during training. These results show that accuracy depends on the Hamiltonian representation as well as its structure, and that incorporating locality, decomposition, and shared interaction laws provides a simple and effective route to more accurate and generalizable Hamiltonian learning.",
+  "authors": [
+   "Yaojun Li",
+   "Yulong Yang",
+   "Christine Allen-Blanchette"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Yaojun Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.03451",
+  "primary_category": "cs.LG",
+  "published": "2026-11-02",
+  "tags": [
+   "hamiltonian-learning",
+   "hamiltonian-neural-networks"
+  ],
+  "title": "Improving Hamiltonian Learning through Local Energy Decomposition",
+  "topics": [
+   "Quantum Physics & Information",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03461": {
+  "abstract": "Hybrid models and neural differential equations (NDEs) are becoming increasingly important for modelling physical systems; however, they often encounter stability and accuracy issues during long-term integration. Training on unrolled trajectories is known to limit these divergences but quickly becomes too computationally expensive due to the need to compute gradients over an iterative process, making this method impractical for large-scale physical systems (e.g. weather and climate forecasting). Two popular paradigms for improving the stability of learned dynamics are to train on interpolated or noisy samples or to regularize the Jacobian of the learned representation. In this work, we demonstrate that these paradigms can be understood under a common lens and that they both correspond to an approximation of the gradients obtained in an unrolled learning strategy. Building on this understanding, we derive a principled and complete approach to regularize training and demonstrate its impact on the stability of learned dynamical systems.",
+  "authors": [
+   "Maya Janvier",
+   "Etienne Meunier"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.NA"
+  ],
+  "comment": "Accepted at NeurIPS 2026",
+  "first_author": "Maya Janvier",
+  "pdf_url": "http://arxiv.org/pdf/2611.03461",
+  "primary_category": "cs.LG",
+  "published": "2026-11-02",
+  "tags": [
+   "dynamical-systems",
+   "neural-differential-equations"
+  ],
+  "title": "Unrolled gradients in disguise: bridging interpolation-based and Jacobian regularization for stable neural dynamics",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03473": {
+  "abstract": "Machine-learning surrogates are increasingly proposed to replace phase-field fracture simulations in many-query tasks such as uncertainty quantification, inverse analysis and design. Little controlled evidence shows which architectures are reliable, for which fracture problems and how far beyond their training data. We introduce Fracture-Bench, an open benchmark of two phase-field datasets with fixed splits, common test metrics and a description of each dataset's physical regime. Dataset~1 contains 1,000 AT2 simulations of multiple cracks growing from a notched hole in a hyperelastic plate under random non-uniform biaxial boundary displacements (44 load steps, $128\\times128$ grid). Dataset~2 contains 4,000 PF-CZM simulations of a pre-cracked plate with two inclusions, each ten times stiffer or more compliant than the matrix ($128\\times256$ grid). We train a Fourier neural operator (FNO), DeepONet, Latent DeepONet, a UNet and a conditional diffusion model on identical splits and compare one test metric per dataset, training time, inference time and model size. On Dataset~1, FNO and Latent DeepONet attain mean test errors of order $10^{-6}$, about ten times lower than UNet and DeepONet. On Dataset~2, the diffusion model is most accurate, with about one sixth of the UNet error, but requires \\SI{706}{s} per prediction versus \\SI{6}{ms} for UNet. For all architectures, most of the error occurs in the final load steps, after crack localization. Dataset~2 contains initial cracks less than one grid cell apart that produce qualitatively different paths. Architecture rankings therefore depend on the task, and errors averaged over densely sampled inputs reveal little about near-bifurcation cases. Data, codes, splits, regime descriptors and generalization splits are public, with a protocol for adding under-represented regimes such as mixed-mode, three-dimensional and experimentally paired fracture.",
+  "authors": [
+   "Meenu Krishnan U.",
+   "Maryam Hakimzadeh",
+   "Indrashish Saha",
+   "Meer Mehran Rashid",
+   "Lori Graham-Brady",
+   "Somdatta Goswami"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cs.CE"
+  ],
+  "comment": "38 pages, 15 Figues",
+  "first_author": "Meenu Krishnan U.",
+  "pdf_url": "http://arxiv.org/pdf/2611.03473",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-11-02",
+  "tags": [
+   "deeponet",
+   "uncertainty-quantification"
+  ],
+  "title": "Fracture-Bench: A Controlled Benchmark Suite for Machine Learning Surrogates in Phase-Field Fracture Mechanics",
+  "topics": [
+   "Generative Models & Discovery",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03485": {
+  "abstract": "The shear piezoelectric coefficient $e_{15}$ governs the shear-mode electromechanical coupling in piezoelectric micromachined ultrasonic transducers (PMUTs) and surface acoustic wave (SAW) devices, but measuring it typically requires destructive resonance testing on dedicated specimens. On simulated data, $e_{15}$ can instead be recovered non-destructively from sparse, noisy subsurface wavefield observations using a constrained physics-informed neural network (PINN). By building exact spatial distance functions and temporal multipliers directly into the network output, the clamped, grounded boundaries and resting initial state hold automatically, leaving the loss with only the interior equations of coupled electro-elastodynamics and the data misfit. Non-dimensional scaling brings all governing coefficients within one decade of O(1), and the setup removes the boundary and initial-condition penalty weights that soft-constraint methods must tune. In a six-way comparison (plane-strain PZT-5H, manufactured wavefield, 30 dB noise), a soft-penalty baseline with adaptive weights converges to an erroneous $e_{15}$ in four of the five runs (51.7% mean error), and fixed penalties reach an error of 0.85% only after a second-order optimization stage. The constrained formulations reach mean $e_{15}$ errors between 0.15% and 0.51% with held-out displacement errors below 1%. Within these variants, the spatial multiplier gives rapid first-order convergence, and the quadratic temporal multiplier lowers the early-time electrostatic residual by a factor of 6.8 versus a linear one. On finite-element data along one subsurface line, the full formulation recovers $e_{15}$ with 1.19% mean error at 30 dB and keeps it between 0.65% and 2.71% across a 40 to 0 dB noise sweep. Finally, training on displacements alone still recovers $e_{15}$ with mean errors of 0.45% on finite-element and 1.64% on manufactured data.",
+  "authors": [
+   "Suhas Suresh Bharadwaj"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.app-ph"
+  ],
+  "comment": "19 pages, 9 figures",
+  "first_author": "Suhas Suresh Bharadwaj",
+  "pdf_url": "http://arxiv.org/pdf/2611.03485",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-11-02",
+  "tags": [],
+  "title": "Identifying the Shear Piezoelectric Coefficient using Physics-Informed Neural Networks under Exact Boundary and Initial Constraints",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03542": {
+  "abstract": "We present a variational functional neural network (vfNN) algorithm that optimizes physically motivated continuum functionals in integral form (e.g., Lagrangian, Hamiltonian, or free energy) to find the states of a system. That way, vfNN bypasses solving the equations of motion (a.k.a. the Euler-Lagrange equations), which are in the form of differential equations. To this end, our approach is fundamentally different from conventional physics-informed neural networks (PINN) that solve differential equations by minimizing a phenomenological loss function involving higher order derivatives and ad hoc weight factors. In contrast, vfNN merely evaluates lower order derivatives of the generating functional and replaces the weight factors with rigorous physical scales. This also fundamentally changes the loss landscape, and the desired solutions may become unstable. For this emergent nonconvex optimization problem, we develop a quasi-Newton optimization algorithm with simulated annealing that converges to the solutions of the corresponding Euler-Lagrange equations of the functional regardless of their stability properties. Our simulations using vfNN give accurate results for benchmark systems governed by linear or nonlinear ordinary differential equations.",
+  "authors": [
+   "Chinmay Katke",
+   "C. Nadir Kaplan"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.soft"
+  ],
+  "comment": "11 pages, 4 figures. Version submitted for peer review",
+  "first_author": "Chinmay Katke",
+  "pdf_url": "http://arxiv.org/pdf/2611.03542",
+  "primary_category": "cs.LG",
+  "published": "2026-11-02",
+  "tags": [
+   "physics-informed-neural-networks"
+  ],
+  "title": "Variational Functional Neural Networks (vfNN)",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03595": {
+  "abstract": "Neural operators provide efficient surrogates for computational fluid dynamics (CFD), but most are designed for static geometries and are not equipped to model unsteady flows induced by continuously moving boundaries. We study dynamic-boundary 4D CFD prediction for articulated moving geometries and introduce RoboCFD-4D, a temporally resolved robotic CFD benchmark spanning diverse morphologies and flow conditions. To address the computational and autoregressive challenges of this setting, we propose DynaSolver, a neural operator that explicitly conditions on boundary evolution and causal flow history. DynaSolver employs an efficient physical-token formulation that amortizes point-to-token projection across the operator stack, substantially reducing repeated point-space spatio-temporal computation while retaining accurate point-level reconstruction. We further introduce Replay-Augmented Parallel Training, which exposes the model to autoregressively generated histories while preserving parallel dense supervision, narrowing the gap between ground-truth-conditioned training and autoregressive rollout. Experiments on RoboCFD-4D show that DynaSolver achieves the best full-rollout accuracy among a broad range of learned CFD surrogates, with its advantage increasing as rollout proceeds, indicating substantially reduced autoregressive error accumulation. Project page: https://made-gpt.github.io/DynaSolver-ProjectPage.",
+  "authors": [
+   "Rui Qian",
+   "Shibo Dai",
+   "Mengjun Lin",
+   "Yuk-Kit Hou",
+   "Saining Zhang",
+   "Bohan Li",
+   "Junhao Chen",
+   "Hao Zhao",
+   "Chaojian Li"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "29 pages, 12 figures",
+  "first_author": "Rui Qian",
+  "pdf_url": "http://arxiv.org/pdf/2611.03595",
+  "primary_category": "cs.LG",
+  "published": "2026-11-02",
+  "tags": [
+   "cfd",
+   "computational-fluid-dynamics",
+   "neural-operators"
+  ],
+  "title": "DynaSolver: A Neural Operator for Autoregressive 4D Flow Prediction with Dynamic Boundaries",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03612": {
+  "abstract": "Increased computing power has transformed computational science and improved predictive capabilities for complex systems, but many phenomena still exceed current simulation capabilities or require rapid evaluations for fast design iterations. Closure models address this challenge by approximating unresolved effects in reduced or incomplete dynamical systems. Data-driven closures offer a flexible mechanism for improving model accuracy and applicability, but approaches that embed the closure within a computational model for construction and training phases can be computationally expensive and cause numerical instabilities in the computational model during training. To avoid the challenges posed by embedded approaches, staged approaches to closure-model learning have been developed. The first stage uses data assimilation to infer state and closure trajectories from observations. The second stage trains a machine learning closure model offline using the assimilated data, thereby avoiding repeated simulator calls during training. In this work, we investigate the cost and accuracy tradeoffs between embedded and staged data-driven closure modeling approaches for a synthetic epidemiological SIQR model with a nonlinear state-dependent quarantine closure. The results illustrate a practical accuracy-efficiency trade-off: for this exemplar, embedded training provides the strongest average accuracy, while the staged approach yields comparable qualitative behavior with a moderate increase in error, substantially fewer model evaluations, and improved optimization robustness.",
+  "authors": [
+   "Rileigh Bandy",
+   "Teresa Portone",
+   "Mohammad Khalil",
+   "Eric Crislip",
+   "Kyle Neal"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.DS",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Rileigh Bandy",
+  "pdf_url": "http://arxiv.org/pdf/2611.03612",
+  "primary_category": "cs.LG",
+  "published": "2026-11-02",
+  "tags": [
+   "data-assimilation",
+   "dynamical-systems"
+  ],
+  "title": "Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03617": {
+  "abstract": "Large language models (LLMs) show growing promise for scientific discovery, yet basic questions remain about what enables reliable discovery. How can we trace the scientific discovery capacity of LLMs to their training data? We study this question as one of missing probability mass and develop a theoretical account in which monofacts-the facts observed once during training-set the discovery capacity. In materials science and regulatory genomics, we directly manipulate monofact rates in training sets and find that more monofacts consistently yield more discoveries across two open-weight model families, sampling strategies, and reasoning budgets. Further experiments show the relationship cannot be explained by training-set diversity alone and can transfer across scientific domains when paired with in-domain data. Together, our results identify monofact rate in training data as a key factor governing discoveries in language models.",
+  "authors": [
+   "Arda Uzunoglu",
+   "Mahler Revsine",
+   "Michael Schatz",
+   "Benjamin Van Durme",
+   "Mehrdad Farajtabar",
+   "Daniel Khashabi",
+   "Eric Nalisnick"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Arda Uzunoglu",
+  "pdf_url": "http://arxiv.org/pdf/2611.03617",
+  "primary_category": "cs.CL",
+  "published": "2026-11-02",
+  "tags": [
+   "scientific-discovery"
+  ],
+  "title": "Tracing the Scientific Discovery Capacity of LLMs to Their Training Data",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03851": {
+  "abstract": "We propose a physics-informed neural network (PINN) approach for high-fidelity quantum gate learning in both one- and two-qubit systems. We train a PINN using the time-dependent Schrödinger equation, where smooth control fields with fixed boundary conditions are obtained by minimizing a loss function that considers model dynamics, gate error, physical constraints, regularization terms, and multiple initial conditions. Training considers pairs of mutually unbiased bases, while independent validation combines Haar-random input states with the average gate fidelity. Unitary simulations yield an average gate infidelity of $8.49\\times10^{-8}$ for Hadamard and values between $3.39\\times10^{-7}$ and $4.96\\times10^{-6}$ for controlled-NOT under $XX$, $YY$, and $ZZ$ interactions. We examine how the learned control fields depend on the coupling, training configuration, and available local fields, including five exchange-type dipolar scenarios. We test the learned control fields under the Lindblad master equation with dephasing and amplitude damping, theoretically reproducing the expected first-order fidelity loss in the weak-dissipation regime. Finally, boundary-adapted Chebyshev expansions represent 139 learned controls with a minimum common count of $K_\\ast=24$ coefficients per control for all eleven family-averaged mean squared errors to fall below $10^{-6}$. Separately, square-pulse and Strang propagation at $K=30$ preserve all 31 continuous polynomial references within infidelity $10^{-5}$ at $N=128$ and all larger tested resolutions, under both sampling rules. These results connect multi-state gate synthesis, control-resource characterization, and compact square-pulse playback.",
+  "authors": [
+   "Luis Fabra",
+   "Cristian E. Susa",
+   "Alcides Montoya",
+   "Ariel Norambuena"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "22 pages, 18 figures",
+  "first_author": "Luis Fabra",
+  "pdf_url": "http://arxiv.org/pdf/2611.03851",
+  "primary_category": "quant-ph",
+  "published": "2026-11-02",
+  "tags": [
+   "schr-dinger-equation"
+  ],
+  "title": "High-fidelity quantum gate learning via physics-informed neural networks",
+  "topics": [
+   "Quantum Physics & Information",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03915": {
+  "abstract": "Score-learning methods generally lack pointwise supervision, which affects the training accuracy, particularly in regions where SDE trajectories are rare. To address this challenge, we introduce a novel method called \\emph{BEL anchors}, which uses Monte Carlo score estimates at user-selected space-time query points. By combining a Feynman--Kac representation of the Fokker--Planck equation with the Bismut--Elworthy--Li formula, our estimator requires neither closed-form transition densities, spatial discretization, nor derivatives of the initial density. We derive its asymptotic variance and use the anchors as sparse supervised targets for existing score-learning objectives. Experiments show that BEL anchors improve implicit score matching in poorly sampled regions, prevent score-PINN collapse, and enable accurate sample regeneration in several numerical examples.",
+  "authors": [
+   "Jiatong Sun",
+   "Long Nguyen",
+   "Ning Jiang",
+   "Weiqi Chu",
+   "Yao Li"
+  ],
+  "categories": [
+   "math.NA",
+   "math.PR"
+  ],
+  "comment": null,
+  "first_author": "Jiatong Sun",
+  "pdf_url": "http://arxiv.org/pdf/2611.03915",
+  "primary_category": "math.NA",
+  "published": "2026-11-02",
+  "tags": [],
+  "title": "A probabilistic score estimation using the Bismut--Elworthy--Li formula",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03964": {
+  "abstract": "Evolution equations with time-dependent coefficients force a neural solver to spend capacity on a scale that the equation already determines. We show that a single classical object, the Ermakov-Pinney scale function $ρ$, can be written into the input layer of a physics-informed neural network as a parameter-free embedding. One construction covers three problem families through the two signs of the Pinney constant $c$: linear diffusion ($c=-1$, $ω\\equiv0$), diffusion in a time-dependent confining trap ($c=-1$, $ω\\neq0$), and the quantum oscillator with time-dependent frequency ($c=+1$). An exact moment identity gives $ρ$ in closed form from the initial data alone, so no auxiliary network or knowledge of the solution is needed. Our central finding is comparative: each family requires a different component of the construction and has a different honest control. In family I, the diffusive-time reparametrisation alone reproduces most of the gain, so that family is a poor test of the idea and shows why an ablation is mandatory. In family II no time reparametrisation exists, the control degrades accuracy, and the amplitude prefactor becomes essential (40.8x). In family III the adiabatic approximation also fails, and the quadratic phase factor is what matters (5.7x). The method does not help when the reduced solution does not converge to a fixed point: its extrapolation advantage then disappears. The reduction itself is the classical scaling-variable change of the self-similar-asymptotics literature; what is new is the moment identity that makes it architectural for time-dependent coefficients, and the comparative anatomy above.",
+  "authors": [
+   "Roberto Bernal-Jaquez",
+   "Roberto Romero Huerta",
+   "Alexander Schaum"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "12 pages, 2 figures, 6 tables, 2 appendices",
+  "first_author": "Roberto Bernal-Jaquez",
+  "pdf_url": "http://arxiv.org/pdf/2611.03964",
+  "primary_category": "cs.LG",
+  "published": "2026-11-02",
+  "tags": [],
+  "title": "Ermakov--Based embeddings as a parameter-free layer for physics-informed neural networks",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.04007": {
+  "abstract": "Prestress governs the stability, stiffness, and dynamic behavior of tensegrity structures, but it is not directly observable from sparse structural measurements, and it may decrease during service life. Under strong excitation, the cables may slacken and the dynamics become nonsmooth. Existing identification methods are limited to the taut regime, and physics-informed networks for tensegrities solve only the forward problem of predicting the response from known member parameters. This study formulates the inverse problem. Neural networks are trained on the equation-of-motion residual in constrained Cartesian coordinates, where the mass matrix is constant and the force densities enter linearly. The force densities, damping, and axial stiffness are trainable parameters, and the tension-only cable law is kept. A Fisher-information analysis shows, before inversion, which member parameters a record can determine. The method is tested on simulated planar tensegrity frames with up to five modules and a three-dimensional prism, and on measured records of a biomimetic leg and a full-scale tensegrity simplex. On the one-module frame, the identifiable force densities are recovered within 1.5% from noisy accelerations at half the free coordinates, on records with and without taut-slack transitions. Records with transitions determine members that taut records leave undetermined. On the five-module frame, a 16-cable two-span bridge, the median force-density error rises moderately, to 4.2%. On measured records, an identified spring stiffness is within 0.1% of its independently measured value on average, and the identified simplex prestress at 13 levels agrees with its cable force transducers to 2.9% root-mean-square.",
+  "authors": [
+   "Sandesh Lamsal",
+   "Sumit Kumar",
+   "Rubi Bhandari",
+   "Subhamoy Sen",
+   "Andrzej Rutkiewicz",
+   "Leszek Małyszko",
+   "Landolf Rhode-Barbarigos"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CE",
+   "eess.SP",
+   "physics.flu-dyn"
+  ],
+  "comment": "44 pages, 15 figures, 15 tables; supplementary material included",
+  "first_author": "Sandesh Lamsal",
+  "pdf_url": "http://arxiv.org/pdf/2611.04007",
+  "primary_category": "cs.LG",
+  "published": "2026-11-02",
+  "tags": [],
+  "title": "Physics-Informed Identification of Tensegrity Prestress across Taut-Slack Transitions",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.04065": {
+  "abstract": "Port-Hamiltonian (pH) systems provide a general framework for modeling a broad class of physical dynamical systems, including systems with dissipation. Constructing accurate and robust data-driven reduced-order models for general pH systems is challenging. In this work, we focus on an important subclass of pH systems satisfying reciprocity, a property arising naturally in a variety of models. Rather than seeking to preserve the full pH structure, we exploit the additional symmetry provided by reciprocity to develop an efficient data-driven reduced-order modeling approach. We show that every minimal realization of a reciprocal system is self-adjoint with respect to a generally indefinite inner product and can, up to a similarity transformation preserving the pH structure, be represented in a Krein space with a signature inner product. This observation motivates a Galerkin projection onto a tangential rational Krylov subspace with respect to the corresponding indefinite inner product. Although the resulting projection involves full-order state solutions and the unknown inner product, we show that its reduced mass and stiffness matrices can be constructed directly from transfer-function data through a Loewner formulation. We then propose a greedy data-driven procedure that adaptively selects both interpolation frequencies and tangential directions. At every iteration, the frequency is chosen according to the largest transfer-function approximation error, while the tangential direction is selected from a dominant singular direction of the corresponding matrix-valued residual. Numerical experiments for wave propagation in lossy media demonstrate improved approximation efficiency compared with block adaptive interpolation. We further apply the method to spectral mass gauging of a three-dimensional propellant tank to provide an accurate estimate of the tank volume through Weyl's law.",
+  "authors": [
+   "Anarzhan Abilgazy",
+   "Mikhail Zaslavsky"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Anarzhan Abilgazy",
+  "pdf_url": "http://arxiv.org/pdf/2611.04065",
+  "primary_category": "math.NA",
+  "published": "2026-11-02",
+  "tags": [
+   "dynamical-systems",
+   "reduced-order-modeling"
+  ],
+  "title": "Adaptive data-driven reduced-order models for reciprocal MIMO port-Hamiltonian dynamical systems",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.04194": {
+  "abstract": "We present a two-dimensional axisymmetric physics-informed neural network (PINN) of the discharge channel of the P5 Hall thruster at 300 V and 5.4 A, which solves eleven coupled plasma fields and assimilates 145 internal probe measurements per field reconstructed from the data of Haas and Gallimore. The electric potential is obtained from Poisson's equation in charge-separation form, n_e = n_i(1+eta), with eta bounded by construction, which keeps the stiff electrostatic constraint active and trainable. The reference solution agrees with the training profiles to relative L2 errors of 0.017, 0.073 and 0.205 for the potential, electron temperature and ion density, and held-out tests show the potential to be far more robust than the ion density to the withdrawal of measurement lines. We then test the solution against requirements the data fit does not reveal: global particle and current balances, the electron current implied by the momentum equation, the field-aligned electron force balance and the axial ion momentum budget. These expose a neutral inflow six times the measured flow, a bound in the potential representation, and a momentum-implied electron current, more than 99% field-aligned, exceeding the discharge current by orders of magnitude. Correcting these, with a divergence-free magnetic field fitted to measured data, uncertainty-weighted data, the electron pressure gradient and progressively imposed field-aligned and current constraints, yields a solution that conserves particles to within 3%, holds the current between 5.1 and 5.4 A and places 97% of the potential and 88% of the temperature measurements within their uncertainties. Within the tested single-velocity fluid formulation, however, the ion density, potential and ion velocity could not be matched together, and the field-aligned electron balance remains the main obstacle to electron self-consistency.",
+  "authors": [
+   "Josh Adjedj",
+   "Subrata Roy"
+  ],
+  "categories": [
+   "physics.plasm-ph",
+   "physics.atm-clus"
+  ],
+  "comment": "38 pages, 16 figures, 9 tables",
+  "first_author": "Josh Adjedj",
+  "pdf_url": "http://arxiv.org/pdf/2611.04194",
+  "primary_category": "physics.plasm-ph",
+  "published": "2026-11-03",
+  "tags": [],
+  "title": "A Two-Dimensional Physics-Informed Neural Network Model of a Hall Effect Thruster Plasma: Self-Consistent Electrostatics and Physical-Consistency Diagnostics",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.04269": {
+  "abstract": "Digital Twins are evolving from passive virtual representations into closed-loop systems that continuously synchronize with physical assets and drive real-time decisions. Yet predictive modeling, machine learning (ML), uncertainty quantification (UQ), and decision-making have been studied as separate capabilities, leaving limited understanding of their integration and maintenance during online operation. This narrative review, scoped by the functional requirements of real-time decision-making rather than by Digital Twin terminology alone, examines how such decisions are generated and sustained in engineering Digital Twins. We first examine foundational decision-making architectures and representative engineering applications, followed by methods that address their limitations across the decision loop. We identify optimization-based, policy-based, and knowledge-based approaches as the major pathways from virtual representation to action. Across them, ML plays three roles in decision-making: enabling efficient surrogate modeling, transforming heterogeneous physical feedback into decision-relevant information, and accelerating or directly generating decisions. UQ supports uncertainty-aware decisions and model adaptation, while continual validation, drift detection, and adaptation help maintain reliable operation as the physical system evolves. Together, these findings underscore the need for a shift from a model-centric to a system-centric perspective on Digital Twins, where its performance depends on the interactions with sensing, state estimation, computation, decision-making, and adaptation rather than on their standalone performance. Therefore, future research should shift from isolated algorithm development toward system-level co-design, scalable decision-making, and approaches to design, and data-efficient continual adaptation and validation for AI-enabled autonomous systems.",
+  "authors": [
+   "Yi-Ping Chen",
+   "Ying-Kuan Tsai",
+   "Seul Lee",
+   "Vispi Karkaria",
+   "Dex Doksoo Lee",
+   "Wei Chen"
+  ],
+  "categories": [
+   "stat.AP",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Yi-Ping Chen",
+  "pdf_url": "http://arxiv.org/pdf/2611.04269",
+  "primary_category": "stat.AP",
+  "published": "2026-11-03",
+  "tags": [
+   "surrogate-modeling",
+   "uncertainty-quantification"
+  ],
+  "title": "Integrating Machine Learning and Uncertainty Quantification for Real-Time Decision-Making in Digital Twins: A System-Centric Review and Perspective",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.04371": {
+  "abstract": "Scientific experiments are increasingly selected, executed and interpreted by learned systems that act through physical interfaces. Robot learning builds physical competence, whereas AI for science chooses which experiment to run, each reporting different endpoints. This review treats their interface as one problem, embodied AI for science, where the experiment itself is partially observed: specimen state, apparatus state and measurement processes are latent, actions are costly and irreversible, and missingness depends on execution and outcome. We organize the literature by three closures operating at distinct levels: operational closure (the experiment realized is the one intended), epistemic closure (the result updates beliefs or selects subsequent experiments) and evidential closure (the record supports a claim). We analyze workflows through a record-linked evidence cycle - Record, Diagnose, Calibrate, Confirm - as analytic functions with feedback. A taxonomy crosses these closures with six delegated decisions and five embodiment classes. Our formulation separates commanded, realized and observed conditions and models diagnosis with explicit resource, risk and sample-change costs. We compare experiment-selection methods by terminal decision, review perception, protocol compilation, visuomotor policies, world models, recovery and transfer by evidence emission requirements, and compare chemistry, materials, biology, microscopy and field workflows by what their records establish. An appendix provides an evidence map of 28 workflows (26 physical, two software-boundary), characterizing validation pathways and claim confirmation requirements. We propose evaluation that separates actions, valid experiments, campaigns and confirmed claims, framing open challenges as controlled comparisons with measurable failure conditions.",
+  "authors": [
+   "Wenhao Xu",
+   "Changwei Wang",
+   "Shunpeng Chen",
+   "Yukun Song",
+   "Sifan Zhou",
+   "Kaize Luo",
+   "Shibiao Xu",
+   "Yuehua Zhao",
+   "Rongtao Xu"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "46 pages, 10 figures, 14 tables. Review article",
+  "first_author": "Wenhao Xu",
+  "pdf_url": "http://arxiv.org/pdf/2611.04371",
+  "primary_category": "cs.AI",
+  "published": "2026-11-03",
+  "tags": [],
+  "title": "Embodied AI for Scientific Discovery: From Physical Action to Scientific Evidence",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.04389": {
+  "abstract": "Many fields of physical interest on the sphere, such as wind, the polarisation of the cosmic microwave background and the shear of weak gravitational lensing, are spin fields, whose values change phase when the local frame rotates. We extend spherical Fourier neural operators (SFNOs) to fields of any spin, through lifted spherical convolutions that are exactly rotationally equivariant. Lifting spin fields to Mackey functions on the rotation group provides the conceptual framework, while computation is performed exactly and efficiently through their harmonic representation and by appealing to sampling theorems on the sphere and rotation group. We construct spin SFNOs (S$^2$FNOs) from these building blocks. We demonstrate empirically that rotational equivariance holds to machine precision for these layers. We achieve state-of-the-art performance on existing benchmarks, and introduce new benchmarks on which spin-aware models outperform their scalar counterparts.",
+  "authors": [
+   "Kevin Mulder",
+   "Matthew A. Price",
+   "Eirini Leftaki",
+   "Jason D. McEwen"
+  ],
+  "categories": [
+   "cs.CV",
+   "astro-ph.IM",
+   "cs.LG"
+  ],
+  "comment": "27 pages, 15 figures",
+  "first_author": "Kevin Mulder",
+  "pdf_url": "http://arxiv.org/pdf/2611.04389",
+  "primary_category": "cs.CV",
+  "published": "2026-11-03",
+  "tags": [
+   "neural-operators"
+  ],
+  "title": "Spin Spherical Fourier Neural Operators: Efficient Equivariant Learning for Vector and Spin Fields on the Sphere",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.04517": {
+  "abstract": "Learning reliable surrogates for geodynamic models requires benchmarks that resolve coupled fields and temporal stability. We present GeoSim, a benchmark of high-resolution two-dimensional mantle-plume simulations generated with I2VIS, comprising 237 trajectories across two parameter regimes, with six coupled fields, physical timestamps, and trajectory-level splits. GeoSim defines short-window prediction and autonomous rollout, and evaluates representative neural operators field by field. Across models, we observe a pronounced scalar--velocity gap: scalar fields are reconstructed accurately while velocity errors remain large, and short-window accuracy does not imply stable rollout. We also evaluate MFGNO (Multi-Field Graph Neural Operator), a joint multi-field graph baseline designed for this benchmark; on GeoSim-Plume1, under a fixed per-field objective, it reduces horizontal and vertical velocity errors by 58.4% and 38.5% relative to an independent-field graph baseline, while an explicit field-difference input shows no measurable benefit at this scale. GeoSim provides a reproducible benchmark for field-wise diagnosis and long-horizon evaluation of geodynamic surrogates.",
+  "authors": [
+   "Hailong Liu",
+   "Dinghui Yang",
+   "Mengxue Liu",
+   "Rui Qi",
+   "Meng Zhao",
+   "Yihang Tang",
+   "Jin Wen",
+   "Zhilong Fang"
+  ],
+  "categories": [
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "Hailong Liu",
+  "pdf_url": "http://arxiv.org/pdf/2611.04517",
+  "primary_category": "physics.geo-ph",
+  "published": "2026-11-03",
+  "tags": [
+   "neural-operators"
+  ],
+  "title": "GeoSim: Benchmarking Multi-Field Neural Operators for Geodynamics",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.04566": {
+  "abstract": "Decisions about the direction of research in power engineering determine which technologies mature and, through them, shape infrastructure that lasts decades, yet their consequences cannot be observed before they are taken, and existing forecasts of research fields extrapolate a single trajectory. Here we introduce research world models, which treat a research field as a dynamical system that can be acted upon, and establish one for power engineering from 1.1 million papers. A distilled language model reads each paper into role-typed concepts, two sophisticated, high-fidelity graph-temporal neural network cores learn how the resulting concept network evolves, and operators learned from natural experiments in the publication record estimate the effects of interventions. In temporally held-out tests, the model forecast years ahead which concepts would grow and which method-target pairs would be joined for the first time, outperforming tuned machine-learning baselines in most settings, and its estimated intervention effects tracked those realized in natural experiments it had not seen. Its training scheme and three of its operators replicated in two fields withheld from development. Questions posed in natural language are compiled by a domain-specialized 27-billion-parameter language model into executable actions and answered as paired simulations with and without the intervention. The answers were rated 4.1 of 5 for faithfulness by an independent language-model judge. By revealing the latent dynamics of a research field and its response to interventions, research world models offer a new way to simulate and test research decisions before they are made.",
+  "authors": [
+   "Fanping Sui",
+   "Ying Zhang",
+   "Liwei Lin"
+  ],
+  "categories": [
+   "cs.AI",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Fanping Sui",
+  "pdf_url": "http://arxiv.org/pdf/2611.04566",
+  "primary_category": "cs.AI",
+  "published": "2026-11-03",
+  "tags": [],
+  "title": "A research world model of power engineering learns its dynamics and reveals what-ifs",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.04571": {
+  "abstract": "This paper presents a CFD dataset of a highly parametrized 3D wing operating in ground effect, designed for benchmarking neural surrogate models for aerodynamic prediction, using a wing shape and flow conditions typically encountered in motorsport applications. The dataset comprises 770 RANS simulations of 194 unique wing configurations, sampled across 27 airfoil profile variants and 4 distances from the ground, spanning variations in wing sweep, chord, taper, angle of attack, and tip twist. Six neural network architectures representing distinct paradigms --- convolutional (DoMINO), graph-based (X-MeshGraphNet), transformer-based (AB-UPT, GeoTransolver, GAOT), and JEPA-based (AeroJEPA) --- are evaluated on their ability to predict surface pressure coefficient and wall shear stress distributions, from which integral drag and lift coefficients are recovered. The dataset is intended to be used as a challenging benchmark for surrogate CFD models, due to the uniqueness of the ground effect being absent from other wing and airfoil datasets.",
+  "authors": [
+   "Andrea Cenzato",
+   "Lukas Karch",
+   "Andre Luckow",
+   "Yoran Pichon",
+   "Francesco Pasqua",
+   "Abouzar Ghasemi",
+   "Rishikesh Ranade",
+   "Ira Shokar",
+   "Julia Kowalski"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Andrea Cenzato",
+  "pdf_url": "http://arxiv.org/pdf/2611.04571",
+  "primary_category": "cs.LG",
+  "published": "2026-11-03",
+  "tags": [
+   "cfd",
+   "rans"
+  ],
+  "title": "Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.04603": {
+  "abstract": "Training neural operators on million-cell meshes can exceed GPU memory limits. Models are therefore trained on subsamples and deployed on whole meshes or selected regions. However, subsampling can distort boundary information, degrading accuracy. We ask when boundary conditioning under sampling stays consistent with whole-mesh training, and how to aggregate and inject boundary data. Representing the solution as an integral of boundary data against type-dependent measures, we show that subsampling distorts this conditioning in three ways: incomplete boundary coverage or a sample-dependent global state, face weighting by count rather than area, and compression of boundary inputs into a low-dimensional vector. This analysis yields four measurable consistency conditions checkable before training. We satisfy them with two backbone-agnostic modules. Boundary Quadrature Attention (BQA) aggregates all boundary faces, typed and area-weighted, into slice tokens that every query point reads at every layer. Anchored Global State (AGS) estimates the global state from anchors independent of the sampled points. Adding both to a scalable message-passing and slice-attention backbone yields SCANO. We evaluate the approach on controlled and public benchmarks and a data-centre thermal simulation dataset (DCTS) containing million-cell meshes. On both benchmarks, BQA improves every backbone, reducing whole-mesh error up to 15-fold. On all three datasets, AGS aligns regional with whole-mesh predictions, cutting regional error at least tenfold for most backbones on the public benchmark. Together, the modules nearly halve the best original backbone's whole-mesh error on both benchmarks. SCANO predicts a room-scale field in under one second, over 100 times faster than whole-room anchor self-attention.",
+  "authors": [
+   "Tianyu Li",
+   "Zhiwei Cao",
+   "Qingang Zhang",
+   "Ruihang Wang",
+   "Binyang Song",
+   "Yonggang Wen"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": "88 pages (46 main text + 42 supplementary material)",
+  "first_author": "Tianyu Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.04603",
+  "primary_category": "cs.LG",
+  "published": "2026-11-03",
+  "tags": [
+   "neural-operators"
+  ],
+  "title": "SCANO: Restoring Boundary-Condition Completeness in Sampled Meshes with a Sliced-Cross-Attention Neural Operator for 3D Thermal Fields",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.04681": {
+  "abstract": "In this paper we propose an ensemble model based on a swarm of dense neural networks, able to predict Heisenberg exchange interactions within less than 1% error. The model uses the inputs of the ab-initio Schrödinger equation, i.e. the compound structure and chemical composition. In this first work, we trained the model on a few compounds of the hexagonal manganite family and were able to infer, with similar accuracy, the J values for other compounds of the same family at randomly chosen geometries, thus showing that we accurately learned the effect of the chemical composition and structure on effective magnetic integrals J.",
+  "authors": [
+   "Brice Kengni Zanguim",
+   "Thibaut Véry",
+   "Marie-Bernadette Lepetit"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "7 pages, 4 figures",
+  "first_author": "Brice Kengni Zanguim",
+  "pdf_url": "http://arxiv.org/pdf/2611.04681",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-11-03",
+  "tags": [
+   "schr-dinger-equation"
+  ],
+  "title": "Small-data physics-informed ML model for magnetic exchange based on chemical composition and structure",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.04955": {
+  "abstract": "In this paper, we establish a universal approximation theorem for solution operators of semilinear stochastic heat equations in spatial dimension \\(d\\ge2\\), extending deep neural operator approximation results to SPDEs with distribution-valued Gaussian forcing. A smooth Fourier cutoff reduces the forcing to finitely many measurements, while Besov and Schauder estimates control the resulting solution error. The finite-dimensional solution map is then approximated by ReLU branch networks together with grid-based trunk functions, yielding explicit bounds on the numbers of forcing measurements and trunk functions and approximation in every finite stochastic moment. For linear equations, the reduction coincides with truncation of the first Wiener chaos. Lastly, as an application, we prove a high-probability local-in-time approximation theorem for stochastic Navier--Stokes equations, with finite measurements of both the initial condition and forcing and an explicit sensing rate.",
+  "authors": [
+   "Hengrong Du",
+   "Qi Feng",
+   "Weinan Wang"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.AP",
+   "math.PR"
+  ],
+  "comment": null,
+  "first_author": "Hengrong Du",
+  "pdf_url": "http://arxiv.org/pdf/2611.04955",
+  "primary_category": "cs.LG",
+  "published": "2026-11-03",
+  "tags": [],
+  "title": "Deep Neural Operator Learning for stochastic heat equations and applications",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05130": {
+  "abstract": "Modeling the nonlinear acoustic wave propagation in biological tissues needs accuracy, especially in ultrasound imaging and therapeutic applications. The 1D Westervelt equation, \\( p_{xx} - p_{tt} + γ\\, p_{ttt} + η\\,(p^{2})_{tt}=0, \\) could be used to describe a finite-amplitude ultrasound propagation in these tissues. This equation accounts for nonlinearity, \\(η\\), and attenuation, \\(γ\\). To solve this equation, we observe that traditional solvers may struggle to do so correctly. This is due to the difficulties arising from the nonlinear nature of the equation. We solve the equation by defining three synthetic cases - linear (\\(η=0.001\\), \\(γ=10^{-6}\\)), shock-dominated (\\(η=0.02\\), \\(γ=10^{-6}\\)), and dissipation-dominated (\\(η=0.01\\), \\(γ=5\\times10^{-4}\\)) - and using Physics-Informed Neural Networks (PINNs) to showcase the solution. A sinusoidal activation function is used to capture the oscillatory behavior of the problem. The results of our study, with PDE residual converging to at least \\(10^{-6}\\), boundary condition loss to \\(10^{-5}\\), and the PINN loss converging to \\(10^{-5}\\) for each case at \\(30,000\\) epochs, show that \\(γ\\) scales the rate of amplitude decay, while \\(η\\) governs frequency-dependent phase speeds.",
+  "authors": [
+   "Luke Oluwaseye Joel"
+  ],
+  "categories": [
+   "math.AP",
+   "cs.LG",
+   "cs.NE"
+  ],
+  "comment": "17 pages, 21 figures",
+  "first_author": "Luke Oluwaseye Joel",
+  "pdf_url": "http://arxiv.org/pdf/2611.05130",
+  "primary_category": "math.AP",
+  "published": "2026-11-03",
+  "tags": [
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "Solving the Nonlinear Westervelt Equation in Ultrasound Propagation Using Physics-Informed Neural Networks",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05157": {
+  "abstract": "Many scientific simulations are computationally expensive, limiting their use in simulation-based inference, uncertainty quantification, and decision making. We introduce macrocanonical generator networks, a framework for learning fast, data-efficient neural surrogates for amortized simulation of stationary physical processes by matching multiscale statistics of a target process. Inspired by microcanonical maximum-entropy synthesis, which matches feature statistics per sample by inner-loop optimization, our approach instead trains a neural generator to satisfy the same constraints in expectation, preserving physically realistic sample-to-sample fluctuations. We prove that gradient-descent training induces preconditioned gradient-descent dynamics in sample space that inherit the symmetry-preservation properties of the microcanonical gradient descent of Bruna and Mallat, amortizing its per-sample inner-loop optimization into a single training run after which every sample is generated in one forward pass. We further show that residual generator parameterizations initialized near the identity, trained with a small learning rate, preserve entropy locally during early optimization and mitigate mode collapse. Experiments on cosmology and fluid simulations show that macrocanonical generators recover realistic samples from extremely small training sets, in some cases a single training example, while generating new realizations more than $10^6$ times faster per sample than the reference simulator and more than $10^3$ times faster than microcanonical gradient descent. The trained generators can be reused for downstream pretraining, including simulation-based inference, providing a data-efficient route to multi-fidelity scientific machine learning workflows.",
+  "authors": [
+   "Niall Jeffrey",
+   "Benjamin D. Wandelt"
+  ],
+  "categories": [
+   "cs.LG",
+   "astro-ph.CO",
+   "stat.ML"
+  ],
+  "comment": "Accepted at NeurIPS 2026. 20 pages total (inc. appendices), 4 figures",
+  "first_author": "Niall Jeffrey",
+  "pdf_url": "http://arxiv.org/pdf/2611.05157",
+  "primary_category": "cs.LG",
+  "published": "2026-11-03",
+  "tags": [
+   "cosmology",
+   "scientific-machine-learning",
+   "uncertainty-quantification"
+  ],
+  "title": "Macrocanonical Generator Networks: Data-Efficient Neural Surrogates for Amortized Physics Simulation",
+  "topics": [
+   "Generative Models & Discovery",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05207": {
+  "abstract": "Scientific discovery requires plausible designs spanning useful trade-offs among competing properties: a molecule with strong binding affinity, for example, may be difficult to synthesize. Pretrained generative models, e.g., flow and diffusion generators, provide a foundation for proposing such designs, but steering them toward high-quality, complementary trade-offs remains challenging. Inference-time search incurs high per-sample costs, while fine-tuning typically relies on fixed per-candidate rewards that do not capture how designs complement one another. We introduce Hypervolume Fine-Tuning (HVFT), which adapts a single pretrained generator to maximize the expected hypervolume of its samples while controlling departure from the pretrained distribution. Expected hypervolume jointly rewards candidate quality and collective trade-off coverage. Nonetheless, we show that it cannot be expressed as the expectation of a fixed per-candidate reward and therefore cannot be optimized directly with standard techniques. A key observation of this work is that its first variation corresponds to the expected marginal hypervolume contribution of a candidate, which yields a tractable adaptive reward via an unbiased estimator based on model samples. HVFT uses this reward to decompose the objective into a sequence of KL-proximal scalar-reward subproblems. We establish concavity, relative smoothness, and convergence guarantees for the resulting distributional procedure. Across therapeutic-peptide and molecular design tasks spanning discrete diffusion and continuous flow-matching models, HVFT achieves state-of-the-art expected hypervolume and trade-off coverage.",
+  "authors": [
+   "Juan Guevara",
+   "Riccardo De Santi",
+   "Andreas Krause",
+   "Raul Astudillo"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Juan Guevara",
+  "pdf_url": "http://arxiv.org/pdf/2611.05207",
+  "primary_category": "cs.LG",
+  "published": "2026-11-03",
+  "tags": [
+   "scientific-discovery"
+  ],
+  "title": "Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05211": {
+  "abstract": "Model reduction via the Mori-Zwanzig (MZ) formalism is well understood for coarse-grained representations constructed from standard basis functions such as Fourier functions. We show that the same formalism can be used to build reduced-order models in bases discovered by physics-informed machine learning. The fluctuation-dissipation theorem (FDT) is used to close the resulting non-Markovian evolution equations for the expansion coefficients of the learned basis. We further introduce a complementary, generative closure model. Relative to the Markovian dynamics alone, both the MZ and generative closures substantially improve predictions of the filtered states.",
+  "authors": [
+   "Emily Williams",
+   "Saad Qadeer",
+   "Amanda Howard",
+   "Panos Stinis"
+  ],
+  "categories": [
+   "math.NA",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Emily Williams",
+  "pdf_url": "http://arxiv.org/pdf/2611.05211",
+  "primary_category": "math.NA",
+  "published": "2026-11-03",
+  "tags": [],
+  "title": "Physics-informed traditional and generative Mori-Zwanzig-reduced models for multiscale systems",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05276": {
+  "abstract": "We attempt to alleviate failure modes of classical physics-informed neural networks (PINNs) in scenarios of topological pathologies corresponding to punctures, holes, poles, and voids by introducing de Rham cohomological augmentations, or Hodge-de Rham PINNs. Vanilla PINNs often encounter pitfalls in hole-based settings due to discontinuous interfaces, nonzero closed path integration, path dependence, correspondence to exact forms via the exterior derivative, etc., therefore we absolve traditional failures via parameterizing a 1-form by the Hodge-Morrey-Friedrichs (HMF) decomposition for manifolds with boundary, drawing a connection to de Rham cohomology such as through the HMF isomorphism theorem. 1-forms can act as representations of scalar-valued PDE solutions through integral operator mappings. We propose performing a PINN-based loss on the parameterized 1-form through an associated PDE, which subsequently solves the potential-based PINN problem and moreover remedies the failures of vanilla PINNs via the Sobolev-regular operator under a Fréchet differentiation interconnection. The operator relationship often has a nontrivial closed-form and often requires integration or a case-by-case analysis, which we address thoroughly in our experiments. When an integrability condition is not met on our losses, we can equip exhaustion functions to train the networks. We demonstrate our methods on the Aharonov-Bohm effect, which, to our understanding, is largely nonexistent in PINN literature. We develop theoretical guarantees of our methods and demonstrate our pathological safeguards on a broad selection of topologically-adverse problems, including scenarios of inexact forms, and those of nontrivial harmonics and coexact terms.",
+  "authors": [
+   "Andrew Gracyk"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.NA"
+  ],
+  "comment": "First version",
+  "first_author": "Andrew Gracyk",
+  "pdf_url": "http://arxiv.org/pdf/2611.05276",
+  "primary_category": "cs.LG",
+  "published": "2026-11-03",
+  "tags": [
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "De Rham cohomological architectures for PINNs and PDEs with topological holes",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05439": {
+  "abstract": "High-fidelity simulation of dynamical systems is central to scientific discovery and engineering design, yet remains computationally demanding. Here we introduce the Implicit Neural Operator Solver (INOS), which learns the implicit solve and encodes a time integrator. INOS pretrains a neural operator from static equilibrium solutions and reuses it within Newmark-$β$ integration. At each time increment, the integrator forms an effective equilibrium problem, the pretrained neural operator infers the next-step solution field, and the Newmark relations advance the dynamic state. Numerical examples in linear and nonlinear elastodynamics demonstrate accurate full-field predictions without dynamic trajectory supervision. Comparative results show that INOS, evaluated zero-shot, achieves higher predictive accuracy than neural solver baselines trained on dynamic simulations. In addition, INOS delivers over 4,600$\\times$ speedup in nonlinear simulations over sequential classical finite-element solvers. INOS natively accommodates changes in dynamic conditions and enables reuse of the pretrained operator across spatial and temporal discretizations. Further evaluation demonstrates a stable million-step rollout. These findings establish INOS as a reusable neural implicit solver for accurate, efficient, and robust dynamic modeling.",
+  "authors": [
+   "Chawit Kaewnuratchadasorn",
+   "Jiaji Wang",
+   "Xin Nie"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Chawit Kaewnuratchadasorn",
+  "pdf_url": "http://arxiv.org/pdf/2611.05439",
+  "primary_category": "cs.LG",
+  "published": "2026-11-03",
+  "tags": [
+   "dynamical-systems",
+   "scientific-discovery"
+  ],
+  "title": "Learning Implicit Solves for Dynamic Simulations",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Generative Models & Discovery",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05442": {
+  "abstract": "Background: Quantum machine learning (QML) is promoted for clinical prediction, but comparisons with classical models are rarely paired or tested for equivalence. Methods: We compared a quantum-kernel support vector machine (QSVM; 4 qubits, tuned bandwidth) and a variational quantum classifier (VQC) with five tuned classical models across six public clinical datasets. All models used identical four-component inputs and 25 cross-validation splits. Paired AUROC differences were assessed using a corrected resampled t-test, Holm-adjusted equivalence tests (margins: +/-0.02 and +/-0.05), and random-effects pooling. Ablation, noise, finite-shot, and implementation-fault analyses were conducted. We propose QML-Health-READY, an eight-domain reporting framework. Results: Neither quantum model significantly outperformed any classical comparator. Pooled across datasets, QSVM differed from the kernel-matched radial basis function (RBF) SVM by -0.006 AUROC (95% CI: -0.017 to +0.004), equivalent to +/-0.02. VQC differed from the best classical model by -0.007 (95% CI: -0.019 to +0.004). QSVM was equivalent to RBF SVM within +/-0.05 in four of six datasets but was significantly worse than the best classical model on NHANES 2017-18 (-0.076). A classically trivial product-state kernel performed as well as the entangling kernel. With depolarizing noise (p = 0.01) and 1,024 shots per kernel entry, QSVM AUROC decreased by 0.054 (95% CI: 0.036 to 0.071). Untuned bandwidth produced near-chance AUROC (0.48-0.59). Conclusions: Correctly configured quantum classifiers approached but did not exceed tuned classical models. Finite-shot estimation, rather than gate noise, was their main practical cost, while configuration errors could reverse conclusions. QML-Health-READY defines reporting requirements for credible claims.",
+  "authors": [
+   "Mohammed Siraj B",
+   "Gousia Habib",
+   "Ruban S"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Mohammed Siraj B",
+  "pdf_url": "http://arxiv.org/pdf/2611.05442",
+  "primary_category": "cs.LG",
+  "published": "2026-11-03",
+  "tags": [
+   "qml",
+   "quantum-machine-learning"
+  ],
+  "title": "Matched but Not Better: An Equivalence-Tested Benchmark of Quantum Machine Learning on Six Clinical Datasets and the QML-Health-READY Reporting Framework",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05659": {
+  "abstract": "In this work, we present adaptive domain decomposition finite basis physics-informed neural networks (ADD-FBPINNs). The proposed method integrates Partition of Unity Networks (POUNets), a data-driven approach for learning domain partitions, with finite Basis physics-informed neural networks (FBPINNs) to perform more efficient domain decomposition and achieve more accurate approximations. FBPINNs improve upon the accuracy of standard physics-informed neural networks (PINNs) through user-defined subdivisions of the computational domain. By adapting the domain decomposition based on the solution's features using a separable POUNet, the framework can automatically learn partitions that are stable and can be geometrically interpretable. We test this approach on the two-dimensional Helmholtz equation, two-dimensional Poisson equation with multiscale features, and viscous Burgers equation and observe improved accuracy compared with FBPINNs with fixed domain decomposition.",
+  "authors": [
+   "Sarah Helfert",
+   "Wanxin Chen",
+   "Amanda A. Howard",
+   "Panos Stinis",
+   "Alexander Heinlein"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Sarah Helfert",
+  "pdf_url": "http://arxiv.org/pdf/2611.05659",
+  "primary_category": "cs.LG",
+  "published": "2026-11-03",
+  "tags": [
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "Adaptive Domain Decomposition for Finite Basis Physics-Informed Neural Networks",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05684": {
+  "abstract": "Gaussian process regression is widely used for modeling responses in both physical and computer experiments. In practice, data from physical experiments may include replications and be subject to censoring due to equipment limitations or contextual constraints, and such datasets can be large, posing a scalability challenge for standard Gaussian process inference. Motivated by a real-world industrial research study, we develop a Gaussian process modeling framework that efficiently analyzes large replicated and censored data. Our approach integrates a Vecchia approximation for computational scalability with a likelihood-based formulation that fully exploits replication and rigorously incorporates information from censored observations, analogous to exact simulation from truncated distributions. Through experiments on synthetic data and a real case study from industrial research, we demonstrate that the proposed method yields improved predictive accuracy and reliable uncertainty quantification compared to existing approaches, making it well suited for large-scale applications with structured replication and incomplete data.",
+  "authors": [
+   "Ying Zhang",
+   "Emily L. Kang",
+   "Shuo Li"
+  ],
+  "categories": [
+   "stat.AP"
+  ],
+  "comment": null,
+  "first_author": "Ying Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.05684",
+  "primary_category": "stat.AP",
+  "published": "2026-11-03",
+  "tags": [
+   "uncertainty-quantification"
+  ],
+  "title": "Efficient Gaussian Process Modeling for Large Replicated and Censored Data in Industrial Research",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05691": {
+  "abstract": "We develop a physics-informed method for aerodynamic shape optimisation of turbine blades, treating the flow field and blade geometry as coupled unknowns. The method translates prescribed surface-pressure distributions into geometric modifications through pressure-target continuation and alternating flow-geometry updates. A differentiable representation of the blade surfaces allows their positions and orientations to be optimised within the current flow field, followed by flow re-adaptation to the modified boundaries. The inverse formulation uses the two-dimensional steady compressible Euler equations as physics constraints and is evaluated on the LS89 turbine cascade using 28 pressure-target points derived from experimental data. Starting from a modified profile and a warm-started flow network, the final pressure-side and suction-side root-mean-square fitting errors are 1.13% and 2.21% of inlet total pressure, respectively. Independent forward verification with SharC reproduces the principal surface-pressure trends of the experimental measurements, with remaining differences near the trailing edge. These results demonstrate the translation of experimental-origin loading data into geometric blade modifications through coordinated optimisation of the flow field and moving boundaries.",
+  "authors": [
+   "Yuan Huang",
+   "Francesca di Mare"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "18 pages. Submitted to Computers & Fluids",
+  "first_author": "Yuan Huang",
+  "pdf_url": "http://arxiv.org/pdf/2611.05691",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-03",
+  "tags": [],
+  "title": "A physics-informed neural network method for pressure-driven turbine-blade optimization",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05735": {
+  "abstract": "Neural operators fit their representation of functions to the task they are trained on, so every new task rebuilds a reduced space from labeled data. Following the self-supervised pre-training that made representations shareable in natural language processing and computer vision, we decouple representation learning from operator learning. A functional autoencoder is pre-trained on analytic functions synthesized on the fly, with no solver and no labels, to represent functions on arbitrary point clouds, and the latent space it induces is frozen and reused across tasks. The representation is exactly equivariant to translation, dilation, and amplitude, and reconstructs solutions of partial differential equations (PDEs) and natural images on geometries it never saw. Being task-agnostic, the latent space can be interpreted in its own right. The whole space is used and decodes to valid fields, it preserves the ordering of distances between physical fields, its geodesics interpolate physical evolutions, and edit directions transfer across fields. With frozen representation maps, a dataset is encoded once and a neural operator is trained entirely on cached embeddings, which saves memory and training time. On 28 tasks in fluid dynamics, solid mechanics, acoustics, and the Helmholtz and Poisson equations, this paradigm can exceed the accuracy of state-of-the-art end-to-end architectures, with up to an order of magnitude higher throughput and memory savings that fit models nearly two orders of magnitude larger on consumer-grade GPUs. At inference, latent rollouts run up to an order of magnitude faster than regular rollouts, and chunked inference processes functions of over half a billion points on a single consumer-grade GPU.",
+  "authors": [
+   "Sepehr Mousavi",
+   "Levi Lingsch",
+   "Siddhartha Mishra",
+   "Laura De Lorenzis"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Sepehr Mousavi",
+  "pdf_url": "http://arxiv.org/pdf/2611.05735",
+  "primary_category": "cs.LG",
+  "published": "2026-11-03",
+  "tags": [
+   "neural-operators",
+   "operator-learning",
+   "partial-differential-equations"
+  ],
+  "title": "Self-Supervised Learning of Universal Latent Spaces for Operator Learning",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05737": {
+  "abstract": "Multimodal brain MRI provides complementary anatomical, tissue, and pathological information to support downstream artificial intelligence (AI) applications. However, modality availability is uneven across public and pooled neuroimaging datasets: T1-weighted (T1w) MRI is widely represented, T2-weighted (T2w) and fluid-attenuated inversion recovery (FLAIR) MRI are less consistently available, and gadolinium-enhanced T1-weighted (T1Gd) MRI is relatively scarce. Pooled datasets therefore contain participants with different combinations of acquired MRI contrasts, reflecting variation in the study designs, acquisition protocols, and clinical or research objectives of the contributing studies. Many missing-modality benchmarks simulate incomplete MRI by withholding contrasts from complete four-modality cases, which may not represent the observed availability patterns in pooled datasets. To address this gap, we introduce C-WFDM, a ControlNet extension of our Wavelet-Fusion Diffusion Model (WFDM), for subject-specific missing-modality completion. C-WFDM is built on an earlier BrainScape snapshot comprising 157 public MRI datasets and 45,880 preprocessed scans. The pretrained WFDM backbone retains target-modality and metadata conditioning, while target-specific ControlNet adapters use MRI contrasts from the same participant to guide synthesis. C-WFDM synthesizes T2w from T1w, FLAIR from T1w and T2w, and T1Gd from T1w, T2w, and FLAIR. Acquired conditioning contrasts are used when available, and generated intermediate contrasts are used only when required. We compare C-WFDM with ALDM, cWDM, and Pix2Pix using paired structural similarity index (SSIM), peak signal-to-noise ratio (PSNR), and mean absolute error (MAE). In the BrainScape completion experiment, C-WFDM achieves the best T2w and FLAIR results among the evaluated models, with SSIM values of 0.9232 and 0.8904, respectively.",
+  "authors": [
+   "Muhammad Nabi Yasinzai",
+   "Remika Mito",
+   "Mangor Pedersen"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Muhammad Nabi Yasinzai",
+  "pdf_url": "http://arxiv.org/pdf/2611.05737",
+  "primary_category": "cs.CV",
+  "published": "2026-11-03",
+  "tags": [],
+  "title": "C-WFDM: A ControlNet-Guided Wavelet-Fusion Diffusion Model for Multimodal Brain MRI Completion",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05776": {
+  "abstract": "Adaptive sampling can substantially improve the value of sparse ocean observations by directing mobile robots toward measurements that are most informative for an evolving environment. Recent learned generative ocean models can produce high-resolution forecasts and ensembles at substantially lower computational cost than traditional numerical models, creating an opportunity to use rich predictive forecasts directly in closed-loop robotic sampling. However, these models do not natively provide the explicit uncertainty representations assumed by classical informative-planning methods, and their forecasts often evolve in learned latent spaces rather than directly in physical ocean variables. We develop a multi-robot closed-loop adaptive sampling framework that uses a single learned generative model for forecasting, uncertainty estimation, planning, and measurement assimilation. The model forecasts an ensemble in latent space, decodes it to physical ocean states, and uses ensemble statistics to construct A- or D-optimal sampling objectives. We select sampling locations subject to robot reachability under predicted currents. The collected measurements are assimilated back into the latent state using observation-conditioned diffusion sampling. Across 120 test scenarios A- and D-optimal sampling generally outperforms static, random, and systematic-coverage baselines while adding little planning overhead. Our experiments uncover several scenarios in which model uncertainty diverges from forecast error, motivating future work in uncertainty quantification.",
+  "authors": [
+   "Shayesteh Hafezi",
+   "Alan Papalia"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Shayesteh Hafezi",
+  "pdf_url": "http://arxiv.org/pdf/2611.05776",
+  "primary_category": "cs.RO",
+  "published": "2026-11-04",
+  "tags": [
+   "uncertainty-quantification"
+  ],
+  "title": "Closed-Loop Adaptive Sampling on a Generative Ocean Model",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.05780": {
+  "abstract": "Data-driven methods can recover compact equations, yet the physical dependence of their coefficients across operating conditions often remains unresolved. Dimensionless groups can explain this variation, but selecting relevant groups from the many dimensionally admissible combinations remains challenging. Here, we introduce a knowledge-guided framework for dimensionless learning, called π-former. It learns patterns of variable association and exponent assignment from a corpus of 1,288 established dimensionless groups. Under exact dimensional constraints, the model proposes interpretable basic groups whose combinations are optimized against observations. Across seven physical problems, the framework identifies predictive dimensionless coordinates within seconds. Integration with equation discovery further expresses condition-dependent coefficients through these coordinates, recovering established physical scalings in multi-condition simulations. Applied to experimental measurements of evaporation-driven wetting, the framework discovers dimensionless coordinates and uses them to construct a unified trajectory equation. The resulting model generalizes to held-out conditions across liquids and initial volumes, outperforming existing empirical models. These results establish dimensionless learning as a transferable bridge between accumulated scientific knowledge and data-driven equation discovery, enabling artificial intelligence to uncover physically meaningful laws from observations.",
+  "authors": [
+   "Hao Xu",
+   "Tianhao Wu",
+   "Dongxiao Zhang"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "math-ph",
+   "physics.flu-dyn",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Hao Xu",
+  "pdf_url": "http://arxiv.org/pdf/2611.05780",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-11-04",
+  "tags": [
+   "equation-discovery"
+  ],
+  "title": "Discovering like a scientist: Literature-informed dimensionless learning for physical closure of data-driven equations",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.05790": {
+  "abstract": "Observed populations of rotating neutron stars~(NSs) with millisecond-order periods are powerful probes of fundamental physics. Mass-radius measurements inform poorly constrained properties of degenerate nuclear matter, whereas high-fidelity population synthesis connects unknowns in NS formation and binary evolution to large radio-timing surveys. However, repeated structure calculations are prohibitive due to the computational cost of solving the highly coupled partial differential equations of axisymmetric general relativistic hydrostatic equilibrium that govern rotating NS interiors. Non-rotating calculations or approximate rotational corrections can bias equation of state inference and limit the fidelity of population synthesis in tracing the evolutionary history of progenitors and propagating equation of state uncertainties. In this \\textit{Letter}, we develop physics-informed neural operators that can solve the axisymmetric problem with high accuracy and negligible computational cost. \\textit{Our solvers are trained in a fully unsupervised setting, with the training objective informed solely by the partial differential equations, and achieve a $10^3\\times$ speed-up with negligible accuracy loss}. These solvers enable scalable EoS inference that self-consistently accounts for rotation and repeated stellar-structure calculations during binary evolution, making spin predictions that account for rotational structure and EoS uncertainties computationally accessible to population synthesis.",
+  "authors": [
+   "Anarya Ray"
+  ],
+  "categories": [
+   "astro-ph.HE",
+   "cs.AI",
+   "cs.LG",
+   "gr-qc"
+  ],
+  "comment": null,
+  "first_author": "Anarya Ray",
+  "pdf_url": "http://arxiv.org/pdf/2611.05790",
+  "primary_category": "astro-ph.HE",
+  "published": "2026-11-04",
+  "tags": [
+   "neural-operators",
+   "partial-differential-equations"
+  ],
+  "title": "Unsupervised Neural Operators for Rotating Relativistic Stars: High-Fidelity Equation of State Inference and Pulsar Spin Evolution at Scale",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.05876": {
+  "abstract": "Surrogate modeling of transport requires operators that capture the combined influence of spatially distributed sources and Dirichlet and Neumann boundary conditions, together with training datasets that can be generated at low computational cost. This work presents MIGONet, a multiple-input graph neural operator, and a discrete method of manufactured solutions (MMS) that trains it without solving a partial differential equation, using steady heat conduction as the model problem. In the discrete MMS procedure, temperature fields are prescribed a priori, and the source terms and Dirichlet or Neumann boundary data are evaluated with the same discrete operators as the reference finite-difference method (FDM), so every training sample satisfies the discrete governing equations by construction. Because the boundary data are derived from each field, a Dirichlet or Neumann condition can be assigned to every boundary segment of every sample, and the boundary specification becomes an operator input. MIGONet supplies representations of the complete source field and boundary data to every node before local message passing. On the rectangular domain, it is compared with a version without the complete-source encoder (MIGONet-local) and with the multiple-input operator network MIONet, using the same training data. MIGONet achieves mean relative temperature errors of 10.31% and 10.64% for curved-wire and Gaussian-spot heating, compared with 45.97% and 48.34% for MIONet and 72.25% and 67.82% for MIGONet-local. For 10,000 samples, discrete MMS reduces data-generation time from 486.65 s to 3.15 s relative to matched iterative FDM labeling. Separately trained MIGONet models are also evaluated on L-shaped, disc-shaped, and ring-shaped domains.",
+  "authors": [
+   "Muhammad Hasnain",
+   "N. K. Anand",
+   "Arun Srinivasa"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Accepted for publication in Transport Phenomena by De Gruyter Brill. 35 pages, 16 figures, 13 tables",
+  "first_author": "Muhammad Hasnain",
+  "pdf_url": "http://arxiv.org/pdf/2611.05876",
+  "primary_category": "cs.LG",
+  "published": "2026-11-04",
+  "tags": [
+   "surrogate-modeling"
+  ],
+  "title": "MIGONet: a multiple-input graph neural operator with solver-free discrete manufactured-solution training",
+  "topics": [
+   "Dynamical Systems & PDE Learning",
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.05883": {
+  "abstract": "Neural-surrogated quantum-enhanced Markov chain Monte Carlo (QeMCMC) uses neural networks trained on samples from the quantum approximate optimization algorithm (QAOA) to accelerate Boltzmann sampling. A divide-and-conquer strategy extends this approach to larger systems, but independently optimizing QAOA parameters for each subproblem is costly. In this paper, we develop a hardware-efficient implementation of neural-surrogated QeMCMC and demonstrate it using an IBM Quantum Heron r2 processor. Experiments with $N=144$ binary variables reveal faster autocorrelation decay for appropriate subproblem sizes while exposing challenges in neural-surrogate learning for larger blocks. We then extend the demonstration to a system with $N=1064$, where the autocorrelation decay rate per MCMC step is approximately $5.2$ and $12.3$ times those of global and local Kawasaki dynamics, respectively. These results demonstrate faster autocorrelation decay in a system exceeding one thousand variables using samples generated on quantum hardware.",
+  "authors": [
+   "Yuya Kawamata",
+   "Keisuke Fujii"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "13 pages, 9 figures",
+  "first_author": "Yuya Kawamata",
+  "pdf_url": "http://arxiv.org/pdf/2611.05883",
+  "primary_category": "quant-ph",
+  "published": "2026-11-04",
+  "tags": [
+   "qaoa"
+  ],
+  "title": "Hardware Demonstration of Neural-Surrogated Quantum-Enhanced MCMC for Large-Scale Constrained Boltzmann Sampling",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.05974": {
+  "abstract": "For decades, diagnostic pathology has relied on thin two-dimensional (2D) tissue sections, despite biological tissues exhibiting inherently three-dimensional (3D) morphological organization. Because a single section captures only one focal plane, important morphological cues along the z-axis are inevitably discarded, limiting tissue representation for both human interpretation and computational analysis. In this work, we propose a generative framework that learns z-axis morphological priors from pathology z-stack data, offering a cost-effective alternative to dedicated volumetric imaging, and transfers this knowledge to conventional single-plane histopathology. Specifically, an image-to-video (I2V) latent diffusion model (LDM) is trained to synthesize a pseudo z-stack from a single 2D image, capturing plausible morphological variations across adjacent focal planes rather than reconstructing physical tissue volumes. To enable deployment on large-scale clinical datasets without native z-stack acquisition, we further introduce a prior-preserving mixture fine-tuning strategy that adapts the model to new domains while retaining the learned z-axis morphological prior. Extensive experiments demonstrate that the synthesized pseudo z-stacks exhibit realistic cross-plane morphological continuity and consistently improve downstream prostate cancer classification compared with conventional 2D representations. Our results suggest that learning transferable z-axis priors from limited z-stack data provides a practical way to enrich routine pathology images with complementary morphological information. Code: https://github.com/QuIIL/PathoS2VD.",
+  "authors": [
+   "Jiamu Wang",
+   "Keunho Byeon",
+   "Ji-Uk Kim",
+   "Jin Tae Kwak",
+   "Heounjeong Go"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "Pre-review version. Accepted at ACCV 2026",
+  "first_author": "Jiamu Wang",
+  "pdf_url": "http://arxiv.org/pdf/2611.05974",
+  "primary_category": "cs.CV",
+  "published": "2026-11-04",
+  "tags": [],
+  "title": "PathoS2VD: From 2D Histopathology to Pseudo Z-Stack Representations",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.06154": {
+  "abstract": "Local weak measurements provide noisy information about observables encoded in a quantum code. We formulate the corresponding Bayesian inference problem for a broad class of topological stabilizer codes by mapping it to classical spin models with generalized symmetries. When the wavefunction deformation and Gaussian measurement strengths coincide, the replicated model acquires an enlarged symmetry. We use this symmetry to derive exact identities among correlators averaged over measurement records that quantify the learnability of nonlocal observables associated with fractionalized excitations. Together with correlation inequalities in the associated clean ferromagnetic models, these identities establish hierarchies of learnability: if two observables remain learnable at long distances, their product must also remain learnable. We demonstrate these relations in the rank-2 toric code and the X-cube model, whose classical descriptions exhibit modulated and subsystem symmetries, respectively. We further extend the analysis to finite group quantum double models, including non-Abelian ones. We derive exact relations between learnability and correlations in the corresponding classical models, and show that the representation structure and fusion rules of anyons impose further constraints under suitable positivity conditions. These results constrain which types of nonlocal information can be learned simultaneously, providing a guide to learning phase diagrams in quantum codes under local weak measurements.",
+  "authors": [
+   "Hiromi Ebisu",
+   "Masazumi Honda"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.str-el",
+   "hep-lat",
+   "quant-ph"
+  ],
+  "comment": "46 pages, 2 figures",
+  "first_author": "Hiromi Ebisu",
+  "pdf_url": "http://arxiv.org/pdf/2611.06154",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-11-04",
+  "tags": [
+   "bayesian-inference"
+  ],
+  "title": "Statistical mechanics and hierarchy of learnability in quantum codes: From generalized symmetries to non-Abelian topological orders",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.06263": {
+  "abstract": "Large language model (LLM) agents are increasingly being used to automate machine learning (ML) research workflows, ranging from code development and experiment execution to research reproduction and scientific discovery. Recent systems demonstrate that LLMs can perform substantial portions of ML research engineering with limited human intervention. These advances suggest a shift from automating individual research tasks toward automating long-horizon workflows that transform research artifacts into executable ML systems. However, ML research engineering remains substantially more difficult than isolated code generation. A research artifact typically specifies a system only implicitly through a mixture of natural-language descriptions, equations, pseudo-code, implementation details, datasets, and evaluation protocols. An agent must first infer the intended computational structure, translate it into executable components, coordinate their dependencies, and repeatedly diagnose and repair failures during execution. Consequently, the quality of the final system depends not only on code generation, but also on whether the agent can maintain a consistent representation of what should be implemented throughout this long-horizon process.",
+  "authors": [
+   "Xin Liu",
+   "Hongru Song",
+   "Ruqing Zhang",
+   "Jiafeng Guo",
+   "Xueqi Cheng"
+  ],
+  "categories": [
+   "cs.SE"
+  ],
+  "comment": "11 pages, 4 figures",
+  "first_author": "Xin Liu",
+  "pdf_url": "http://arxiv.org/pdf/2611.06263",
+  "primary_category": "cs.SE",
+  "published": "2026-11-04",
+  "tags": [
+   "scientific-discovery"
+  ],
+  "title": "CLEAR: Structured Specifications for Controllable Long-Horizon ML Research Engineering",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.06280": {
+  "abstract": "Physics sensing in evolving environments requires reconstructing dense spatiotemporal fields from sparse observations while adapting where future observations should be collected. Existing reconstruction and sensor-placement methods have made substantial progress, but they typically rely on static sensing assumptions: they either use a single layout across all frames or optimize placements independently at each frame, which limits their ability to produce temporally coherent sensing trajectories. We introduce DyPSI, a dynamic physics sensing framework that formulates this problem as the joint generation of future fields and sensor trajectories conditioned on historical observations. DyPSI lifts discrete sensor coordinates into continuous Sensor Position Fields, encodes fields and sensing configurations with a shared Functional Tucker representation, and trains a joint diffusion model to generate future fields and sensing trajectories simultaneously in the resulting latent space. A Gaussian-process temporal kernel correlates the perturbation injected during diffusion training, biasing the denoiser toward temporally smooth recoveries, and we further provide an analysis linking the EDM training objective to a sequence-aggregated A-optimality criterion and a kernel-induced bound on discrete trajectory variation. Experiments on turbulent flow, GLORYS12 sea-surface temperature, and 3D car aerodynamics show that DyPSI consistently outperforms static and frame-wise placement strategies, with substantial error reduction under tight sensor budgets. The code is available at https://github.com/mengqi132/DyPSI.",
+  "authors": [
+   "Yizhou Zhang",
+   "Panqi Chen",
+   "Lei Cheng",
+   "Ting Zhang",
+   "Jianlong Li",
+   "Jianfeng Shi",
+   "Shikai Fang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "Accepted at NeurIPS 2026. 35 pages, 4 figures",
+  "first_author": "Yizhou Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.06280",
+  "primary_category": "cs.AI",
+  "published": "2026-11-04",
+  "tags": [],
+  "title": "DyPSI: Dynamic Physics Sensing via Joint Field and Sensor-Trajectory Generation",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.06382": {
+  "abstract": "Dooge asked whether hydrology has laws at the catchment scale. We ask whether a low-dimensional system built under physical laws can match the accuracy of neural networks that outperform process-based models on the same inputs. Three laws constrain a lumped catchment model. Conservation makes it a flux-connected storage network, dissipation fixes the sign of every flux and aggregation determines how the unresolved composition enters the fluxes, through effective laws over threshold distributions and a memory of the forcing. These laws admit four kinds of refinement. A parsimonious model under them, CaRT (11 parameters per catchment), is refined in a loop assisted by AI agents. Each refinement addresses an observed deficit through a hypothesis from the literature. The result, CaRT+, has fourteen states, 35 parameters per catchment and no daily neural network. Most refinements follow from aggregation over thresholds or from variables that carry no water but modulate fluxes. On 602 British and 593 US gauged catchments, single CaRT+ models reach median Nash-Sutcliffe efficiencies of 0.863 and 0.765 in held-out years. A stateful LSTM reaches 0.869 and 0.751 and an entity-aware LSTM 0.862 and 0.754, while three-seed LSTM ensembles remain ahead of the CaRT+ ensemble by 0.003-0.012 in median paired NSE. On 505 drier Australian gauged catchments unused in development, single CaRT+ models reach 0.778 against 0.762 and 0.753 for the two LSTMs. The results suggest that catchment-scale laws exist as laws of form, with the constitutive families shared and only their parameters learned.",
+  "authors": [
+   "Xilin Xia"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "math.DS",
+   "physics.geo-ph"
+  ],
+  "comment": "61 pages, 12 figures, 13 tables, plus 19 pages of Supporting Information",
+  "first_author": "Xilin Xia",
+  "pdf_url": "http://arxiv.org/pdf/2611.06382",
+  "primary_category": "cs.LG",
+  "published": "2026-11-04",
+  "tags": [
+   "hydrology"
+  ],
+  "title": "From hydrological laws to catchment models: A process-based model matches deep-learning accuracy on three continents",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.06464": {
+  "abstract": "Microfluidic droplet generation is critical for many applications, yet efficient device design in high-dimensional parameter spaces remains computationally prohibitive due to complex multiphase flow dynamics. This work presents a unified methodology that couples adaptive surrogate enhancement with simulation-driven inverse design. High-fidelity Volume-of-Fluid simulations provide ground-truth data, while neural network ensembles predict flow regimes and droplet diameters. Ensemble-based uncertainty quantification identifies epistemic uncertainty using consensus levels for regime classification and the coefficient of variation for diameter prediction, revealing that uncertainty concentrates near regime transition boundaries where physics is highly sensitive to parameter perturbations. A physics-informed enrichment strategy targets these critical zones and addresses class imbalances by deploying additional targeted simulations and retraining the surrogates forming the ensembles. A framework that integrates Particle Swarm Optimization for constrained inverse design, balancing accuracy with predictive confidence and physical consistency is therefore proposed. Validation on independent test datasets demonstrates that the enriched ensembles achieve higher accuracy, with the fraction of predictions within the 0-3% error range on droplet diameter nearly doubling, and high-error cases (above 10%) dropping substantially. The inverse design procedure reliably identifies physically realizable configurations meeting target droplet sizes. This approach significantly reduces computational costs while ensuring reliable predictions, offering a framework with potential applicability to the optimization of a broad range of microfluidic systems.",
+  "authors": [
+   "David Gabriel Harispe",
+   "Matías Gerard",
+   "Pablo A. Kler"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "David Gabriel Harispe",
+  "pdf_url": "http://arxiv.org/pdf/2611.06464",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-04",
+  "tags": [
+   "uncertainty-quantification"
+  ],
+  "title": "Microdroplet Generator Surrogate Enhancement and Inverse Design Through an Uncertainty-Guided Framework",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.06605": {
+  "abstract": "Accurate decoder priors are essential for high-performance quantum error correction. Theoretical noise models inevitably omit physically relevant error mechanisms, most notably correlated errors, which appear consistently in experimental error budgets yet are absent from standard models. We introduce a data-driven method for augmenting detector error models (DEMs) by discovering entirely new error mechanisms directly from experimental detector-firing statistics, going beyond most existing approaches that merely refine the probabilities of already-known mechanisms. Our method generates candidates by combining pairs of existing mechanisms as building blocks, then filters and validates them using pairwise and higher-order detector correlations. Crucially, this construction provides each newly discovered mechanism with a well-defined logical effect derived from the constituent error mechanisms, enabling its direct use in decoding. Furthermore, each mechanism is accompanied by a natural decomposition into lower-order components, preserving compatibility with the original decoder. This is particularly valuable in settings that rely on correlated graph-based decoders such as correlated matching. We evaluate the method on surface-code simulations with correlated noise and correlated-matching decoding, demonstrating that, in a realistic near-term noise scenario, DEM augmentation increases the Lambda parameter by 20% across code distances 7-15 and reduces the logical error rate by 75% at code distance 15 relative to the unaugmented DEM. On experimental data from Google's superconducting device, the augmented DEM increases the Lambda parameter by 9% across code distances 5-7 and yields a reduction of 14% in logical error rate over the baseline for distance 7. To our knowledge, this is the first data-driven DEM augmentation method that produces decomposed hyperedges with assigned logical effects.",
+  "authors": [
+   "Zohar Schwartzman-Nowik",
+   "Matthew P. Stafford",
+   "Boris M. Varbanov",
+   "Joan Camps"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "20 pages, 16 figures",
+  "first_author": "Zohar Schwartzman-Nowik",
+  "pdf_url": "http://arxiv.org/pdf/2611.06605",
+  "primary_category": "quant-ph",
+  "published": "2026-11-04",
+  "tags": [
+   "quantum-error-correction"
+  ],
+  "title": "Discovering correlated error mechanisms: data-driven augmentation of detector error models improving decoding",
+  "topics": [
+   "Quantum Physics & Information"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.06652": {
+  "abstract": "Diffusion models for temporal prediction typically corrupt each future frame with independent noise, leaving temporal dependence entirely to the denoiser. We propose Dynamical State-Space Diffusion (DSSD), which learns the temporal structure of the corruption process itself. DSSD builds a temporal kernel from the damped oscillatory modes of a stable diagonal state-space model, whose learned decay rates and frequencies let the corruption capture multiple timescales and oscillatory correlations, while the denoiser architecture remains unchanged. Running this model on a finite clip, however, requires the state before the first frame, which is unobserved; starting from a zero state leaves the early frames with less noise than the diffusion schedule prescribes. We avoid this by using the Cholesky factor of the model's stationary covariance as the temporal operator. We prove that this operator is causal, exactly invertible, keeps each frame's noise variance equal to that of standard diffusion, and reduces to the identity at the clean end of the process, and that it is exactly the Kalman innovations form of the state-space model. The denoiser is trained to predict the temporally correlated noise, and sampling removes and reapplies the temporal mixing at each step. On scientific-field and robot-video datasets, DSSD outperforms diffusion baselines that share its denoiser, and the evolution of its learned modes during training shows that the temporal operator adapts to each dataset.",
+  "authors": [
+   "Woojun Lee",
+   "Hankyeol Kim",
+   "Pilsung Kang"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Woojun Lee",
+  "pdf_url": "http://arxiv.org/pdf/2611.06652",
+  "primary_category": "cs.CV",
+  "published": "2026-11-04",
+  "tags": [
+   "diffusion-models"
+  ],
+  "title": "Dynamical State-Space Diffusion for Spatiotemporal Prediction",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.06711": {
+  "abstract": "Deep generative models, particularly Flow Matching frameworks, have emerged as powerful tools for synthesizing complex physical systems. However, standard architectures remain purely statistically driven and agnostic to the underlying governing equations, often violating fundamental physical constraints during inference. Existing zero-shot approaches designed to enforce these constraints typically rely on rigid algebraic projections. While effective for sparse boundary conditions, applying such discrete geometric corrections to dense, full-domain PDEs may disrupt the probability path, \\rev{potentially deviating from the learned manifold and introducing substantial computational overhead}. To address these challenges, we introduce Energy-Guided Transport, a novel training-free framework that formulates non-linear physical constraints as a smooth potential energy landscape. Rather than interrupting the ODE integration, our method applies a continuous dissipative force directly to the intermediate generative states, steering them toward the physical manifold. By evaluating this force implicitly via reverse-mode automatic differentiation, our framework preserves the natural dynamics of the flow while maintaining an efficient $\\mathcal{O}(N)$ algorithmic complexity. We extensively evaluate our framework across various 1D and 2D physical systems, including the chaotic Navier-Stokes equations. Our method achieves stable generation without structural divergence, significantly improves the stability-accuracy trade-off compared to state-of-the-art methods, and substantially accelerates inference with respect to exact projection strategies. Code available at: https://github.com/ispamm/Projection-free-energy-guided-flow-matching.",
+  "authors": [
+   "Giuliano Galadini",
+   "Aurelio Uncini",
+   "Danilo Comminiello"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": "Accepted to NeurIPS 2026",
+  "first_author": "Giuliano Galadini",
+  "pdf_url": "http://arxiv.org/pdf/2611.06711",
+  "primary_category": "cs.LG",
+  "published": "2026-11-04",
+  "tags": [
+   "navier-stokes-equations"
+  ],
+  "title": "Energy-Guided Transport for Projection-Free Physics-Informed Flow Matching",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.06843": {
+  "abstract": "Grain growth during heat treatment strongly affects the microstructure of polycrystalline materials and, consequently, their mechanical properties. Although numerical methods such as front-tracking or front-capturing simulations can accurately describe grain growth, their high computational cost limits their use for long or non-isothermal thermal cycles. In previous work, grain growth was successfully predicted under isothermal conditions by treating grain size distributions as time series and forecasting their evolution using recurrent neural networks, allowing complete grain growth trajectories to be generated in seconds rather than through costly PDE-based simulations. In the present work, this forecasting framework is reformulated to handle non-isothermal conditions by explicitly incorporating thermal information into the model architecture. Grain size distributions are encoded using a convolutional neural network, thermal descriptors are embedded through a dedicated multilayer perceptron, and temporal evolution is predicted using a recurrent network. Instantaneous temperature and thermal rate are provided at each time step, allowing the model to adapt its predictions to changing thermal conditions. The framework is trained and evaluated on datasets generated from validated front-tracking simulations across a wide range of non-isothermal thermal paths. The results show that the thermally conditioned model accurately reproduces grain growth dynamics under complex thermal histories, achieving, in k-fold cross-validation over all simulations, mean relative errors of 2.99% (one-hour cycles) and 4.51% (four-hour cycles) with coefficients of determination exceeding 0.99, and mean relative errors between 1.91% and 14.66% on ten simulations following four unseen thermal histories of increasing complexity.",
+  "authors": [
+   "Eliane Younes",
+   "Elie Hachem",
+   "Marc Bernacki"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Eliane Younes",
+  "pdf_url": "http://arxiv.org/pdf/2611.06843",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-04",
+  "tags": [],
+  "title": "Thermally Conditioned Time-Series Forecasting of Grain Growth in Polycrystalline Materials",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-04"
+ }
+}

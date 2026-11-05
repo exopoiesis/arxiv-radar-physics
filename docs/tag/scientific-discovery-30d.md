@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06263.html">CLEAR: Structured Specifications for Controllable Long-Horizon ML Research Engineering</a></div></td>
+<td>Xin Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06263">2611.06263</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01449.html">CONFIRM: Governing Scientific Reporting for Trustworthy Agentic Neuroimaging</a></div></td>
+<td>Yuxiang Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01449">2611.01449</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05207.html">Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning</a></div></td>
+<td>Juan Guevara et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05207">2611.05207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05439.html">Learning Implicit Solves for Dynamic Simulations</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Chawit Kaewnuratchadasorn et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05439">2611.05439</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03327.html">From FAIR to AI-FAIR Metadata-First Infrastructure for AI-Enabled Science</a></div></td>
+<td>Elizabeth G. Campolongo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03327">2611.03327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03617.html">Tracing the Scientific Discovery Capacity of LLMs to Their Training Data</a></div></td>
+<td>Arda Uzunoglu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03617">2611.03617</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36511.html">Do AI Scientists Know What&#x27;s New?</a></div></td>
@@ -290,11 +326,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08927.html">Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station</a></div></td>
 <td>Wenyu Du et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08927">2610.08927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06612.html">Learning Low-Order Approximations of the Quark Propagator in Lattice QCD</a></div><div class="paper-tags"><a href="equivariant-neural-networks-30d.html">equivariant-neural-networks</a></div></td>
-<td>Simon Pfahler et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06612">2610.06612</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">105 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05439.html">Learning Implicit Solves for Dynamic Simulations</a></div><div class="paper-tags"><a href="scientific-discovery-90d.html">scientific-discovery</a></div></td>
+<td>Chawit Kaewnuratchadasorn et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05439">2611.05439</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03461.html">Unrolled gradients in disguise: bridging interpolation-based and Jacobian regularization for stable neural dynamics</a></div><div class="paper-tags"><a href="neural-differential-equations-90d.html">neural-differential-equations</a></div></td>
+<td>Maya Janvier et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03461">2611.03461</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03612.html">Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a></div></td>
+<td>Rileigh Bandy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03612">2611.03612</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04065.html">Adaptive data-driven reduced-order models for reciprocal MIMO port-Hamiltonian dynamical systems</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
+<td>Anarzhan Abilgazy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04065">2611.04065</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39522.html">Causality-informed dynamic mode decomposition for unsteady flow analysis</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
@@ -620,11 +644,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10235.html">A matched-integrator evaluation of Hamiltonian neural networks on pendulum and Kepler dynamics</a></div><div class="paper-tags"><a href="hamiltonian-neural-networks-90d.html">hamiltonian-neural-networks</a></div></td>
 <td>Lenick Kemunto Nyabuto et al.</td>
 <td><a href="http://arxiv.org/abs/2608.10235">2608.10235</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06155.html">Verifiable Regularity Criterion for Conditional Expectation Operators and Conditional Mean Embeddings with Applications to Nonparametric Regression, Bayesian Inverse Problems, and Koopman Operators</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="koopman-operator-90d.html">koopman-operator</a></div></td>
-<td>Maximiliano Hertel et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06155">2608.06155</a></td>
 </tr>
 </tbody></table>

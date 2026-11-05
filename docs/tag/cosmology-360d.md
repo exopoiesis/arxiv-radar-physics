@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05157.html">Macrocanonical Generator Networks: Data-Efficient Neural Surrogates for Amortized Physics Simulation</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Niall Jeffrey et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05157">2611.05157</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02627.html">Recovering Missing Degrees of Freedom in Simulation-Trained Field-Level Generative Models</a></div></td>
+<td>Masato Shirasaki et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02627">2611.02627</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39332.html">Tabular Foundation Models Dramatically Outperform Bespoke Photometric Redshift Estimators</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
 <td>Biprateep Dey et al.</td>
@@ -1070,17 +1082,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10299.html">Nature-inspired optimization, the Philippine Eagle, and cosmological parameter estimation</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Reginald Christian Bernardo et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10299">2505.10299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22979.html">A test of Amati relation using HII galaxy distances</a></div></td>
-<td>Rikiya Okazaki et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22979">2510.22979</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06332.html">Bayesian and Machine-Learning Analyses of Nonminimal $f(Q)$ Gravity and $H_0$ Tension</a></div></td>
-<td>Simran Arora et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06332">2511.06332</a></td>
 </tr>
 </tbody></table>

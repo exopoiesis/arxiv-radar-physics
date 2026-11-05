@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03612.html">Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Rileigh Bandy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03612">2611.03612</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35123.html">Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a> · <a href="reduced-order-modeling-30d.html">reduced-order-modeling</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Luca Biferale et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11883.html">legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents</a></div></td>
 <td>Pierre Gentine et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11883">2610.11883</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07496.html">The interface of data assimilation and machine learning</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a></div></td>
-<td>Eviatar Bach</td>
-<td><a href="http://arxiv.org/abs/2610.07496">2610.07496</a></td>
 </tr>
 </tbody></table>

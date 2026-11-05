@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03473.html">Fracture-Bench: A Controlled Benchmark Suite for Machine Learning Surrogates in Phase-Field Fracture Mechanics</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Meenu Krishnan U. et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03473">2611.03473</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33668.html">Beyond Affine Reconstruction: Multi-Resolution Transformer DeepONets for the Radiative Transfer Equation</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Tanguy Azéma et al.</td>
@@ -884,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14925.html">PAS-Net: Physics-informed Adaptive Scale Deep Operator Network</a></div></td>
 <td>Changhong Mou et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14925">2511.14925</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06451.html">A Risk-Neutral Neural Operator for Arbitrage-Free SPX-VIX Term Structures</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Jian&#x27;an Zhang</td>
-<td><a href="http://arxiv.org/abs/2511.06451">2511.06451</a></td>
 </tr>
 </tbody></table>

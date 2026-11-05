@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06154.html">Statistical mechanics and hierarchy of learnability in quantum codes: From generalized symmetries to non-Abelian topological orders</a></div></td>
+<td>Hiromi Ebisu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06154">2611.06154</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36770.html">Bayesian Treed Vecchia Gaussian Process Emulation via Sequential Monte Carlo</a></div></td>
 <td>Cong Ye et al.</td>
@@ -170,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08021.html">Spectra: Exact Component Transport for Test-Time Prior Adaptation in Simulation-Based Inference</a></div></td>
 <td>Xin Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08021">2610.08021</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07364.html">SPECULATE: A synthetic spectral library, emulator and fitting package for accretion disc winds -- Infrastructure and application to CVs</a></div></td>
-<td>Austen G. W. Wallis et al.</td>
-<td><a href="http://arxiv.org/abs/2610.07364">2610.07364</a></td>
 </tr>
 </tbody></table>

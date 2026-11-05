@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03612.html">Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Rileigh Bandy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03612">2611.03612</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35123.html">Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Luca Biferale et al.</td>
@@ -242,11 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07469.html">Efficient three-dimensional variational data assimilation of multi-plane PIV data</a></div></td>
 <td>Uttam Cadambi Padmanaban et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07469">2608.07469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05103.html">Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Video Flow-matching</a></div><div class="paper-tags"><a href="bayesian-inference-90d.html">bayesian-inference</a></div></td>
-<td>Dibyajyoti Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05103">2608.05103</a></td>
 </tr>
 </tbody></table>

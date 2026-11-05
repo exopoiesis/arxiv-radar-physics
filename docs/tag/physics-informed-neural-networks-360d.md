@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">602 papers</span>
+  <span class="paper-count">607 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05130.html">Solving the Nonlinear Westervelt Equation in Ultrasound Propagation Using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Luke Oluwaseye Joel</td>
+<td><a href="http://arxiv.org/abs/2611.05130">2611.05130</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05276.html">De Rham cohomological architectures for PINNs and PDEs with topological holes</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Andrew Gracyk</td>
+<td><a href="http://arxiv.org/abs/2611.05276">2611.05276</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05659.html">Adaptive Domain Decomposition for Finite Basis Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Sarah Helfert et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05659">2611.05659</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03542.html">Variational Functional Neural Networks (vfNN)</a></div></td>
+<td>Chinmay Katke et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03542">2611.03542</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01616.html">Mean Field Game Problem with Kantorovich Potential Coupling: An Attrition model</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
+<td>Avetik Arakelyan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01616">2611.01616</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38814.html">Regional accuracy of physics-informed neural networks (PINNs) for recirculation in a deep lid-driven cavity</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>

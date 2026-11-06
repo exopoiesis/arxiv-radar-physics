@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">770 papers</span>
+  <span class="paper-count">767 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07395.html">Rigorously Certified Neural-Network Computation of Nonlinear Water Waves at Near-Machine Precision</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Michal Shavit et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07395">2611.07395</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08409.html">Conformal Prediction for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Joshua Stiller et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08409">2611.08409</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05790.html">Unsupervised Neural Operators for Rotating Relativistic Stars: High-Fidelity Equation of State Inference and Pulsar Spin Evolution at Scale</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
@@ -4604,35 +4616,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08697.html">PEGNet: A Physics-Embedded Graph Network for Long-Term Stable Multiphysics Simulation</a></div></td>
 <td>Can Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08697">2511.08697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01539.html">Physics-informed deep learning and compressive collocation for high-dimensional diffusion-reaction equations: practical existence theory and numerics</a></div></td>
-<td>Simone Brugiapaglia et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01539">2406.01539</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06151.html">Automated machine learning for physics-informed convolutional neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Wanyun Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06151">2407.06151</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02481.html">NOWS: Neural Operator Warm Starts for Accelerating Iterative Solvers</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Mohammad Sadegh Eshaghi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02481">2511.02481</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06655.html">A kernel method for the learning of Wasserstein geometric flows</a></div></td>
-<td>Jianyu Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06655">2511.06655</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07347.html">Walsh-Hadamard Neural Operators for Solving PDEs with Discontinuous Coefficients</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Giorrgio M. Cavallazzi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07347">2511.07347</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05474.html">Dynamics of self-gravitating halos with decaying dark matter</a></div></td>
+<td>Anna Bencke et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05474">2611.05474</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33140.html">Search for nonresonant production of strongly coupled dark matter in proton-proton collisions at $\sqrt{s}$ = 13 TeV</a></div></td>
 <td> CMS Collaboration</td>
@@ -158,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21253.html">Model independent lensing sub-structure detection with multiply-imaged star clusters constellations</a></div></td>
 <td>Leo W. H. Fung et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21253">2608.21253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06957.html">Probing dark matter through charged Higgs pair production at future multi-TeV muon colliders: A machine-learning analysis</a></div></td>
-<td>Khiem Hong Phan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06957">2608.06957</a></td>
 </tr>
 </tbody></table>

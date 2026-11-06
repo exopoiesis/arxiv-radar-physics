@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>koopman-operator — 360d</h1>
-  <span class="paper-count">80 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <strong>360d</strong> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,17 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09074.html">KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Alice Kate Li et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09074">2509.09074</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00304.html">Inverted Gaussian Process Optimization for Probabilistic Koopman Operator Discovery</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Abhigyan Majumdar et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00304">2504.00304</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07234.html">Shaping the Koopman dictionary by learning on the Grassmannian</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Roland Schurig et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07234">2511.07234</a></td>
 </tr>
 </tbody></table>

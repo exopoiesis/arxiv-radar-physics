@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>cfd — all</h1>
-  <span class="paper-count">359 papers</span>
+  <span class="paper-count">363 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -22,6 +22,18 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2611.04571">2611.04571</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05171.html">AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed Fusion</a></div></td>
+<td>Olabode T. Ajenifujah et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05171">2611.05171</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05758.html">Mechanical Engineering Skills: An Open Library of Agent Skills for Design, Analysis and Manufacturing</a></div><div class="paper-tags"><a href="equation-discovery-all.html">equation-discovery</a></div></td>
+<td>Achuth Chandrasekhar et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05758">2611.05758</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03210.html">CFD-driven symbolic regression of RANS transition models</a></div><div class="paper-tags"><a href="les-all.html">les</a> · <a href="rans-all.html">rans</a> · <a href="symbolic-regression-all.html">symbolic-regression</a></div></td>
 <td>Louenas Zemmour et al.</td>
@@ -32,6 +44,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03595.html">DynaSolver: A Neural Operator for Autoregressive 4D Flow Prediction with Dynamic Boundaries</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a> · <a href="neural-operators-all.html">neural-operators</a></div></td>
 <td>Rui Qian et al.</td>
 <td><a href="http://arxiv.org/abs/2611.03595">2611.03595</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04053.html">Spatial and Temporal Super-Resolution and Denoising of Intracardiac 4D Flow MRI</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
+<td>Yusuf A. Ozturk et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04053">2611.04053</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02226.html">Modeling and Experimental Validation of Bubble-Induced Performance Losses in Microstructured Copper Electrodes for Alkaline Water Electrolysis</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-all.html">computational-fluid-dynamics</a></div></td>
+<td>Auronno Ovid Hussain et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02226">2611.02226</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-26</td>

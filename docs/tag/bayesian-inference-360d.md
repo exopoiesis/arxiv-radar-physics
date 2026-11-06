@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">412 papers</span>
+  <span class="paper-count">411 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2480,11 +2480,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13807.html">Efficient Bayesian analysis of kilonovae and gamma ray burst afterglows with fiesta</a></div></td>
 <td>Hauke Koehn et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13807">2507.13807</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07385.html">samsara: A Continuous-Time Markov Chain Monte Carlo Sampler for Trans-Dimensional Bayesian Analysis</a></div></td>
-<td>Gabriele Astorino et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07385">2511.07385</a></td>
 </tr>
 </tbody></table>

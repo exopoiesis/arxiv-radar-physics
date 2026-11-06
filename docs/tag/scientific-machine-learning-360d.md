@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08409.html">Conformal Prediction for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Joshua Stiller et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08409">2611.08409</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08421.html">Data-driven discovery of intrinsic Lie point symmetries of differential equation systems</a></div></td>
+<td>Ilker Gurcan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08421">2611.08421</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05157.html">Macrocanonical Generator Networks: Data-Efficient Neural Surrogates for Amortized Physics Simulation</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Niall Jeffrey et al.</td>
@@ -1274,17 +1286,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09660.html">Measuring the Dark Matter Self-Interaction Cross-Section with Deep Compact Clustering for Robust Machine Learning Inference</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Ethan Tregidga et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09660">2511.09660</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06614.html">From LIF to QIF: Toward Differentiable Spiking Neurons for Scientific Machine Learning</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ruyin Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06614">2511.06614</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07702.html">Intelligent Optimization of Multi-Parameter Micromixers Using a Scientific Machine Learning Framework</a></div></td>
-<td>Meraj Hassanzadeh et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07702">2511.07702</a></td>
 </tr>
 </tbody></table>

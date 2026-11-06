@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <strong>30d</strong> <a href="surrogate-modeling-90d.html">90d</a> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13317.html">SBNO : Schrödinger Bridge Neural Operator for the Forward and Inverse Problems under Missing Information</a></div></td>
 <td>Jaehyeon Park et al.</td>
 <td><a href="http://arxiv.org/abs/2610.13317">2610.13317</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08475.html">Learning PDE solution operators with variable initial conditions via Latent Dynamics Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Stefano Maria Pizzamiglio et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08475">2610.08475</a></td>
 </tr>
 </tbody></table>

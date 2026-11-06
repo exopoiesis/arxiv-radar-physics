@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07894.html">A Passive Intelligent Metasurface: A Network Model</a></div></td>
+<td>Tristan Lawrie et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07894">2611.07894</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02787.html">POD-CNF: reduced order modeling of parametrized stochastic PDEs via normalizing flows and proper orthogonal decomposition</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="rom-360d.html">rom</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Andrea Violante et al.</td>
@@ -2588,11 +2594,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08701.html">Inverse problems for time-fractional Schrödinger equations</a></div></td>
 <td>S. E. Chorfi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08701">2511.08701</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07489.html">Toward fast, accurate and robust AI prediction of ground states in rotating BEC</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Zhizhong Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07489">2511.07489</a></td>
 </tr>
 </tbody></table>

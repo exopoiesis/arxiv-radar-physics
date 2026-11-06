@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">547 papers</span>
+  <span class="paper-count">546 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07845.html">Masked diffusion as random sequential adsorption: an exactly solvable model for parallel decoding</a></div></td>
+<td>Adrian Baule</td>
+<td><a href="http://arxiv.org/abs/2611.07845">2611.07845</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06652.html">Dynamical State-Space Diffusion for Spatiotemporal Prediction</a></div></td>
@@ -3284,17 +3290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16738.html">MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning</a></div></td>
 <td>Itamar Mishani et al.</td>
 <td><a href="http://arxiv.org/abs/2504.16738">2504.16738</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07103.html">GEWDiff: Geometric Enhanced Wavelet-based Diffusion Model for Hyperspectral Image Super-resolution</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Sirui Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07103">2511.07103</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07158.html">Guiding Generative Models to Uncover Diverse and Novel Crystals via Reinforcement Learning</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Hyunsoo Park et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07158">2511.07158</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">277 papers</span>
+  <span class="paper-count">275 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08001.html">LithoSAGE: Spatially Adaptive and Geometrically Equivariant Neural Operators for Computational Lithography</a></div></td>
+<td>Ke Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08001">2611.08001</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01861.html">Learning structural response operators across varying geometries and loads with global and local geometry encoding</a></div></td>
@@ -1658,23 +1664,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12890.html">Method of Manufactured Learning for Solver-free Training of Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Arth Sojitra et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12890">2511.12890</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00304.html">Inverted Gaussian Process Optimization for Probabilistic Koopman Operator Discovery</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Abhigyan Majumdar et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00304">2504.00304</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06585.html">Learning Biomolecular Motion: The Physics-Informed Machine Learning Paradigm</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Aaryesh Deshpande</td>
-<td><a href="http://arxiv.org/abs/2511.06585">2511.06585</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06614.html">From LIF to QIF: Toward Differentiable Spiking Neurons for Scientific Machine Learning</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Ruyin Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06614">2511.06614</a></td>
 </tr>
 </tbody></table>

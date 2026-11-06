@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07291.html">How do Transformers Perform Low-Level Control In-Context?</a></div></td>
+<td>Ebonye Smith et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07291">2611.07291</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07860.html">Extending graph metrics to hyperspaces of vertex sets: optimization and reinforcement learning applications</a></div></td>
+<td>Natalia Jonard-Pérez et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07860">2611.07860</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06990.html">ToroFit: Fitting Wedge Sums of Tori to High-Dimensional Data</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
+<td>Tanishq Bhatia et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06990">2611.06990</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07160.html">A Survey of Nonlinear Filtering Methods for Data Assimilation and Recent Advances in Generative AI-Enabled Score Filters</a></div><div class="paper-tags"><a href="chaotic-systems-30d.html">chaotic-systems</a> · <a href="data-assimilation-30d.html">data-assimilation</a></div></td>
+<td>Cath Pham et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07160">2611.07160</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05439.html">Learning Implicit Solves for Dynamic Simulations</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
@@ -242,11 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10054.html">Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control</a></div></td>
 <td>Boya Hou et al.</td>
 <td><a href="http://arxiv.org/abs/2610.10054">2610.10054</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33000.html">Canonical residual physics-informed neural networks and algorithmic perturbation landscapes map cell-fate transitions in longitudinal H3K27M glioma</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Abicumaran Uthamacumaran</td>
-<td><a href="http://arxiv.org/abs/2610.33000">2610.33000</a></td>
 </tr>
 </tbody></table>

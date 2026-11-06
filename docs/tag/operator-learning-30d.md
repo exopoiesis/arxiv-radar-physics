@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08001.html">LithoSAGE: Spatially Adaptive and Geometrically Equivariant Neural Operators for Computational Lithography</a></div></td>
+<td>Ke Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08001">2611.08001</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01861.html">Learning structural response operators across varying geometries and loads with global and local geometry encoding</a></div></td>
 <td>Xin Liu et al.</td>
@@ -116,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11709.html">Uniform Approximation for Operator Learning on Compact Sets</a></div></td>
 <td>Rui Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11709">2610.11709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09101.html">Improving Learning of Green&#x27;s Functions Through Kernel Decomposition</a></div></td>
-<td>Beiji Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09101">2610.09101</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05474.html">Dynamics of self-gravitating halos with decaying dark matter</a></div></td>
+<td>Anna Bencke et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05474">2611.05474</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33140.html">Search for nonresonant production of strongly coupled dark matter in proton-proton collisions at $\sqrt{s}$ = 13 TeV</a></div></td>
 <td> CMS Collaboration</td>
@@ -1046,11 +1052,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08438.html">Galactification: painting galaxies onto dark matter only simulations using a transformer-based model</a></div></td>
 <td>Shivam Pandey et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08438">2511.08438</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10678.html">The Light Dark Matter eXperiment</a></div></td>
-<td>Tamas Almos Vami</td>
-<td><a href="http://arxiv.org/abs/2511.10678">2511.10678</a></td>
 </tr>
 </tbody></table>

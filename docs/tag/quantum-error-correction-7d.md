@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-error-correction — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-error-correction-30d.html">30d</a> <a href="quantum-error-correction-90d.html">90d</a> <a href="quantum-error-correction-360d.html">360d</a> <a href="quantum-error-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03329.html">Agentic Pipelines for Mapping Topological Codes to Quantum Hardware</a></div></td>
 <td>Arpit Arora et al.</td>
 <td><a href="http://arxiv.org/abs/2611.03329">2611.03329</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40490.html">Fast and accurate neural triage decoding of ultra-high-rate quantum LDPC codes</a></div></td>
-<td>Hong-Ye Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.40490">2610.40490</a></td>
 </tr>
 </tbody></table>

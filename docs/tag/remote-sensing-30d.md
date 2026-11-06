@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07433.html">MP-DualNet: A Dual-Branch Deep Learning Approach for Magnetopause Boundary Detection Using Simulated SXI Images</a></div></td>
+<td>Cheng Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07433">2611.07433</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08003.html">When GeoFMs Meet VHR: Benchmarking Foundation Models on Very High Resolution Earth Observation Imagery</a></div></td>
+<td>Kshitij Raj Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08003">2611.08003</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06015.html">ChanSFormer: A Channel Agnostic Vision Transformer for Multi-Channel Cell Painting Images</a></div></td>
+<td>Jingwei Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06015">2611.06015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05569.html">Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds</a></div></td>
+<td>Krishnakumar N et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05569">2611.05569</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03382.html">ASCoR: Asymmetric Semantic-Spatial Learning for Remote Sensing Domain Generalization</a></div></td>
+<td>Zitong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03382">2611.03382</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02211.html">Forecasting Earth Surface Change in Embedding Space</a></div></td>
+<td>Jingtao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02211">2611.02211</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37178.html">INTR++: INterpretable TRansformer with better Accuracy, Interpretability, and Adaptability</a></div></td>
@@ -110,23 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09275.html">EM-SNN: Efficiently Modulated Spiking Neural Network for Remote Sensing Image Dehazing</a></div></td>
 <td>Jie Shao et al.</td>
 <td><a href="http://arxiv.org/abs/2610.09275">2610.09275</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08227.html">How Many Independent Samples Does a Satellite Image Contain? Generalization Bounds for Spatially Dependent Data</a></div></td>
-<td>Robin Young</td>
-<td><a href="http://arxiv.org/abs/2610.08227">2610.08227</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08539.html">RSJEV: Discriminative Remote Sensing Scene Classification with Multimodal Large Language Models</a></div></td>
-<td>Dongchen Si et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08539">2610.08539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09085.html">Anaximander: Interactively Running Geospatial Deep Learning Models on Any Compute Backend</a></div></td>
-<td>Satej S. Soman et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09085">2610.09085</a></td>
 </tr>
 </tbody></table>

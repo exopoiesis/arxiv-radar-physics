@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,11 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10698.html">A &quot;universal&quot; supernova efficiency to drive the HI turbulence in nearby star-forming galaxies</a></div></td>
 <td>Lauri Sassali et al.</td>
 <td><a href="http://arxiv.org/abs/2610.10698">2610.10698</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08021.html">Spectra: Exact Component Transport for Test-Time Prior Adaptation in Simulation-Based Inference</a></div></td>
-<td>Xin Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08021">2610.08021</a></td>
 </tr>
 </tbody></table>

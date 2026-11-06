@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">663 papers</span>
+  <span class="paper-count">664 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07291.html">How do Transformers Perform Low-Level Control In-Context?</a></div></td>
+<td>Ebonye Smith et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07291">2611.07291</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07860.html">Extending graph metrics to hyperspaces of vertex sets: optimization and reinforcement learning applications</a></div></td>
+<td>Natalia Jonard-Pérez et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07860">2611.07860</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06990.html">ToroFit: Fitting Wedge Sums of Tori to High-Dimensional Data</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
+<td>Tanishq Bhatia et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06990">2611.06990</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07160.html">A Survey of Nonlinear Filtering Methods for Data Assimilation and Recent Advances in Generative AI-Enabled Score Filters</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="data-assimilation-360d.html">data-assimilation</a></div></td>
+<td>Cath Pham et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07160">2611.07160</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05439.html">Learning Implicit Solves for Dynamic Simulations</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
@@ -3974,23 +3998,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08831.html">Physics-Informed Machine Learning for Characterizing System Stability</a></div></td>
 <td>Tomoki Koike et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08831">2511.08831</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05050.html">Sparse identification of quasipotentials via a combined data-driven method</a></div><div class="paper-tags"><a href="symbolic-regression-360d.html">symbolic-regression</a></div></td>
-<td>Bo Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05050">2407.05050</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07197.html">Simulation-based Methods for Optimal Sampling Design in Systems Biology</a></div></td>
-<td>Tuan Minh Ha et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07197">2511.07197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07234.html">Shaping the Koopman dictionary by learning on the Grassmannian</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Roland Schurig et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07234">2511.07234</a></td>
 </tr>
 </tbody></table>

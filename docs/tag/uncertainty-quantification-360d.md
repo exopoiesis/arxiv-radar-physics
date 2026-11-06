@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">525 papers</span>
+  <span class="paper-count">526 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08068.html">Intensity-Based Estimation of Extreme Value Models for Highly Censored Data via a Latent Poisson Process</a></div></td>
+<td>Eduardo Janotti et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08068">2611.08068</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08409.html">Conformal Prediction for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Joshua Stiller et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08409">2611.08409</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05776.html">Closed-Loop Adaptive Sampling on a Generative Ocean Model</a></div></td>
@@ -3158,11 +3170,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11697.html">Benchmarking GNNs for OOD Materials Property Prediction with Uncertainty Quantification</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Liqin Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11697">2511.11697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00304.html">Inverted Gaussian Process Optimization for Probabilistic Koopman Operator Discovery</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Abhigyan Majumdar et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00304">2504.00304</a></td>
 </tr>
 </tbody></table>

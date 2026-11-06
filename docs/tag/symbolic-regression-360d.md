@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07215.html">Fractional physics-informed neural networks to model social media virality</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a></div></td>
+<td>Alex Koong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07215">2611.07215</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03210.html">CFD-driven symbolic regression of RANS transition models</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="les-360d.html">les</a> · <a href="rans-360d.html">rans</a></div></td>
 <td>Louenas Zemmour et al.</td>
@@ -1238,11 +1244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08784.html">Symbolic Regression Is All You Need: From Simulations to Scaling Laws in Binary Neutron Star Mergers</a></div></td>
 <td>P. Darc et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08784">2511.08784</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05050.html">Sparse identification of quasipotentials via a combined data-driven method</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Bo Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05050">2407.05050</a></td>
 </tr>
 </tbody></table>

@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07845.html">Masked diffusion as random sequential adsorption: an exactly solvable model for parallel decoding</a></div></td>
+<td>Adrian Baule</td>
+<td><a href="http://arxiv.org/abs/2611.07845">2611.07845</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06652.html">Dynamical State-Space Diffusion for Spatiotemporal Prediction</a></div></td>
 <td>Woojun Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2611.06652">2611.06652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40383.html">Composing and Steering Diffusion Models with Generalized Feynman-Kac Correctors</a></div></td>
-<td>Wael Mattar et al.</td>
-<td><a href="http://arxiv.org/abs/2610.40383">2610.40383</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>rans — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="rans-7d.html">7d</a> <strong>30d</strong> <a href="rans-90d.html">90d</a> <a href="rans-360d.html">360d</a> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07582.html">Bayesian Kolmogorov-Arnold networks for trustworthy Reynolds-stress closures</a></div></td>
+<td>Ali Eidi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07582">2611.07582</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04571.html">Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
@@ -26,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03210.html">CFD-driven symbolic regression of RANS transition models</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="les-30d.html">les</a> · <a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
 <td>Louenas Zemmour et al.</td>
 <td><a href="http://arxiv.org/abs/2611.03210">2611.03210</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01862.html">Interoperability Assessment of Fronthaul and E2 Interfaces for Multi-Vendor Open RAN Systems</a></div></td>
+<td>Farhad Mehran et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01862">2611.01862</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-23</td>
@@ -56,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14355.html">AI Meets Turbulence Modeling: Complex Systems Perspective</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a> · <a href="turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
 <td>Sharath S. Girimaji</td>
 <td><a href="http://arxiv.org/abs/2610.14355">2610.14355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07829.html">Agentic Semantic Sensing for Resource-Adaptive AI-RAN</a></div></td>
-<td>Zhongqin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.07829">2610.07829</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07845.html">Masked diffusion as random sequential adsorption: an exactly solvable model for parallel decoding</a></div></td>
+<td>Adrian Baule</td>
+<td><a href="http://arxiv.org/abs/2611.07845">2611.07845</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06652.html">Dynamical State-Space Diffusion for Spatiotemporal Prediction</a></div></td>
@@ -212,17 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09859.html">Generative and deterministic deep learning models comparison for fine-scale precipitation retrievals from infrared brightness temperature</a></div><div class="paper-tags"><a href="hydrology-30d.html">hydrology</a></div></td>
 <td>Matthieu Meignin et al.</td>
 <td><a href="http://arxiv.org/abs/2610.09859">2610.09859</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07655.html">Uniform Discrete Diffusion Models are Minimax Optimal for Estimating Distributions with Small Effective Support Size</a></div></td>
-<td>Dongsun Yoon et al.</td>
-<td><a href="http://arxiv.org/abs/2610.07655">2610.07655</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08626.html">Feature Information Dynamics in Diffusion</a></div><div class="paper-tags"><a href="ai4science-30d.html">ai4science</a></div></td>
-<td>Jia-Shu Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08626">2610.08626</a></td>
 </tr>
 </tbody></table>

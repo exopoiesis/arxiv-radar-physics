@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07894.html">A Passive Intelligent Metasurface: A Network Model</a></div></td>
+<td>Tristan Lawrie et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07894">2611.07894</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02787.html">POD-CNF: reduced order modeling of parametrized stochastic PDEs via normalizing flows and proper orthogonal decomposition</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="rom-30d.html">rom</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Andrea Violante et al.</td>
@@ -182,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10213.html">Edge Accuracy Is Not Enough: Why Dynamics-Learned Structure Fails to Transfer to Inverse Problems</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
 <td>Nicholas Tan Jerome et al.</td>
 <td><a href="http://arxiv.org/abs/2610.10213">2610.10213</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09192.html">Physics-Derived Natural Coordinates for Fast Uncertainty Propagation in Multilayer Thermoreflectance</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Tao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09192">2610.09192</a></td>
 </tr>
 </tbody></table>

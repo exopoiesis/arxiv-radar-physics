@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">528 papers</span>
+  <span class="paper-count">524 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3158,29 +3158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01386.html">CATransformers: Carbon Aware Transformers Through Joint Model-Hardware Optimization</a></div></td>
 <td>Irene Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.01386">2505.01386</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09667.html">BLADE: Benchmarking Language Model Agents for Data-Driven Science</a></div></td>
-<td>Ken Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09667">2408.09667</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08736.html">ChemBOMAS: Accelerated BO in Chemistry with LLM-Enhanced Multi-Agent System</a></div></td>
-<td>Dong Han et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08736">2509.08736</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07158.html">Guiding Generative Models to Uncover Diverse and Novel Crystals via Reinforcement Learning</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Hyunsoo Park et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07158">2511.07158</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10673.html">Large language models in materials science and the need for open-source approaches</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Fengxu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10673">2511.10673</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-assimilation — 360d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <strong>360d</strong> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07160.html">A Survey of Nonlinear Filtering Methods for Data Assimilation and Recent Advances in Generative AI-Enabled Score Filters</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
+<td>Cath Pham et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07160">2611.07160</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03612.html">Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Rileigh Bandy et al.</td>
 <td><a href="http://arxiv.org/abs/2611.03612">2611.03612</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03916.html">When Latent Dynamics Meet Data Assimilation: A Benchmark of Koopman-Type Representations</a></div></td>
+<td>Zhiwei Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03916">2611.03916</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-26</td>
@@ -920,11 +932,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12620.html">Exploring Ultra Rapid Data Assimilation Based on Ensemble Transform Kalman Filter with the Lorenz 96 Model</a></div></td>
 <td>Fumitoshi Kawasaki et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12620">2511.12620</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01755.html">Data-assimilated model-informed reinforcement learning</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a></div></td>
-<td>Defne E. Ozan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01755">2506.01755</a></td>
 </tr>
 </tbody></table>

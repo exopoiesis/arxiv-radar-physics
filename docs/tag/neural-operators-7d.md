@@ -16,10 +16,22 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07646.html">WaSP: Wasserstein Data Synthesis Pipeline for Solver-Free Operator Learning</a></div><div class="paper-tags"><a href="chaotic-systems-7d.html">chaotic-systems</a></div></td>
+<td>Ryan Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07646">2611.07646</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05790.html">Unsupervised Neural Operators for Rotating Relativistic Stars: High-Fidelity Equation of State Inference and Pulsar Spin Evolution at Scale</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Anarya Ray</td>
 <td><a href="http://arxiv.org/abs/2611.05790">2611.05790</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07059.html">A hierarchy of physics-embedded neural operators for structural dynamic surrogate modelingA hierarchy of physics-embedded neural operators for structural dynamic surrogate modeling</a></div></td>
+<td>Amir Ansrollahi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07059">2611.07059</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-03</td>
@@ -62,17 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03595.html">DynaSolver: A Neural Operator for Autoregressive 4D Flow Prediction with Dynamic Boundaries</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a></div></td>
 <td>Rui Qian et al.</td>
 <td><a href="http://arxiv.org/abs/2611.03595">2611.03595</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39580.html">Learning Kolmogorov Backward Operators for Spectral Analysis and Forecasting: A Data-Driven Variational Galerkin Framework</a></div></td>
-<td>Yuanchao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.39580">2610.39580</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40528.html">NEOPIC: A Neural Operator Framework for Particle-based Kinetic Plasma Simulations</a></div></td>
-<td>Sriramkrishnan Muralikrishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.40528">2610.40528</a></td>
 </tr>
 </tbody></table>

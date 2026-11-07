@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>force-fields — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <strong>30d</strong> <a href="force-fields-90d.html">90d</a> <a href="force-fields-360d.html">360d</a> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12151.html">Specialized machine learning force fields for materials dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Yue Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12151">2610.12151</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09388.html">Bottom-Up Prediction of Amorphous Poly(1,3-dioxolane) using Ab Initio Reactive Machine-Learning Force Fields</a></div></td>
-<td>Yizhi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09388">2610.09388</a></td>
 </tr>
 </tbody></table>

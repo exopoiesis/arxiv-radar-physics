@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">479 papers</span>
+  <span class="paper-count">478 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2882,11 +2882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21389.html">Towards Adapting Federated &amp; Quantum Machine Learning for Network Intrusion Detection: A Survey</a></div></td>
 <td>Devashish Chaudhary et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21389">2509.21389</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18530.html">Re-uploading quantum data: A universal function approximator for quantum inputs</a></div></td>
-<td>Hyunho Cha et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18530">2509.18530</a></td>
 </tr>
 </tbody></table>

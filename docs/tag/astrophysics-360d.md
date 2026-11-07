@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -722,11 +722,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09389.html">Ray-trax: Fast, Time-Dependent, and Differentiable Ray Tracing for On-the-fly Radiative Transfer in Turbulent Astrophysical Flows</a></div></td>
 <td>Lorenzo Branca et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09389">2511.09389</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08219.html">Emulating Radiative Transfer in Astrophysical Environments</a></div></td>
-<td>Rune Rost et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08219">2511.08219</a></td>
 </tr>
 </tbody></table>

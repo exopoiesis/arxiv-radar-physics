@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">524 papers</span>
+  <span class="paper-count">523 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3152,11 +3152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09325.html">Not Everything That Counts Can Be Counted: A Case for Safe Qualitative AI</a></div></td>
 <td>Stine Beltoft et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09325">2511.09325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01386.html">CATransformers: Carbon Aware Transformers Through Joint Model-Hardware Optimization</a></div></td>
-<td>Irene Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01386">2505.01386</a></td>
 </tr>
 </tbody></table>

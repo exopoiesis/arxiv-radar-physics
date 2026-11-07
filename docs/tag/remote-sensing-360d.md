@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">490 papers</span>
+  <span class="paper-count">487 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2936,23 +2936,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10774.html">Frequency-Aware Vision-Language Multimodality Generalization Network for Remote Sensing Image Classification</a></div></td>
 <td>Junjie Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10774">2511.10774</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00598.html">DGL-RSIS: Decoupling Global Spatial Context and Local Class Semantics for Training-Free Remote Sensing Image Segmentation</a></div></td>
-<td>Boyi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00598">2509.00598</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18711.html">RSVG-ZeroOV: Exploring a Training-Free Framework for Zero-Shot Open-Vocabulary Visual Grounding in Remote Sensing Images</a></div></td>
-<td>Ke Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18711">2509.18711</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07976.html">Morphing Through Time: Diffusion-Based Bridging of Temporal Gaps for Robust Alignment in Change Detection</a></div></td>
-<td>Seyedehanita Madani et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07976">2511.07976</a></td>
 </tr>
 </tbody></table>

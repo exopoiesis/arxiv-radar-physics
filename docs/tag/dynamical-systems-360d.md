@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">664 papers</span>
+  <span class="paper-count">661 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3980,23 +3980,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09792.html">Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning</a></div></td>
 <td>Tianmeng Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09792">2511.09792</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.06819.html">A Physics-Constrained Neural Differential Equation Framework for Data-Driven Snowpack Simulation</a></div><div class="paper-tags"><a href="climate-modeling-360d.html">climate-modeling</a></div></td>
-<td>Andrew Charbonneau et al.</td>
-<td><a href="http://arxiv.org/abs/2412.06819">2412.06819</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05672.html">On the Convergence and Stability of Upside-Down Reinforcement Learning, Goal-Conditioned Supervised Learning, and Online Decision Transformers</a></div></td>
-<td>Miroslav Štrupl et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05672">2502.05672</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08831.html">Physics-Informed Machine Learning for Characterizing System Stability</a></div></td>
-<td>Tomoki Koike et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08831">2511.08831</a></td>
 </tr>
 </tbody></table>

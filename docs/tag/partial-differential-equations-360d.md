@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">767 papers</span>
+  <span class="paper-count">764 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4598,23 +4598,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09779.html">A model-free method for discovering symmetry in differential equations</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Max Kreider et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09779">2511.09779</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03895.html">A Machine Learning and Finite Element Framework for Inverse Elliptic PDEs via Dirichlet-to-Neumann Mapping</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Dabin Park et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03895">2504.03895</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05452.html">Self-adaptive weighting and sampling for physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Wenqian Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05452">2511.05452</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08697.html">PEGNet: A Physics-Embedded Graph Network for Long-Term Stable Multiphysics Simulation</a></div></td>
-<td>Can Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08697">2511.08697</a></td>
 </tr>
 </tbody></table>

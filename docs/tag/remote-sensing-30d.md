@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>remote-sensing — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <strong>30d</strong> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11176.html">Multimodal Remote Sensing Image Registration: A Comprehensive Review, Challenges and Prospects</a></div></td>
 <td>Zhiqiang Han et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11176">2610.11176</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09275.html">EM-SNN: Efficiently Modulated Spiking Neural Network for Remote Sensing Image Dehazing</a></div></td>
-<td>Jie Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09275">2610.09275</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,29 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12148.html">Large-Scale Benchmarking of Quantum Neural Network Configurations for Financial Time Series Forecasting</a></div></td>
 <td>Jack Waller et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12148">2610.12148</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09623.html">Divide et Impera quantum neural networks for modular hybrid computing architectures</a></div></td>
-<td>Emanuele Casciaro et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09623">2610.09623</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09635.html">Quantum anomaly detection in real scarce data</a></div><div class="paper-tags"><a href="anomaly-detection-30d.html">anomaly-detection</a></div></td>
-<td>Emanuele Casciaro et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09635">2610.09635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09641.html">Q-PhotoMarket: A Design Space Exploration Framework for Photonic Hybrid Quantum Neural Networks in Financial Market Prediction</a></div></td>
-<td>Alberto Marchisio et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09641">2610.09641</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10254.html">Benchmarking Modular Optimization Strategies for Parameterized Quantum Circuits</a></div><div class="paper-tags"><a href="qaoa-30d.html">qaoa</a> · <a href="vqe-30d.html">vqe</a></div></td>
-<td>Carla Cotea et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10254">2610.10254</a></td>
 </tr>
 </tbody></table>

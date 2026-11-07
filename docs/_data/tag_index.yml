@@ -3,110 +3,102 @@
   count: 51
   total: 806
   group: generative-models
-- name: neural-operators
-  count: 43
-  total: 667
-  group: scientific-machine-learning
 - name: dynamical-systems
-  count: 42
+  count: 41
   total: 1180
   group: dynamical-systems
-- name: partial-differential-equations
-  count: 41
-  total: 1410
-  group: dynamical-systems
+- name: neural-operators
+  count: 40
+  total: 667
+  group: scientific-machine-learning
 - name: uncertainty-quantification
-  count: 41
+  count: 40
   total: 919
   group: generative-models
 - name: pinns
-  count: 40
+  count: 38
   total: 1034
   group: scientific-machine-learning
+- name: partial-differential-equations
+  count: 37
+  total: 1410
+  group: dynamical-systems
 - name: quantum-machine-learning
-  count: 40
+  count: 36
   total: 927
   group: quantum-physics
-- name: physics-informed-neural-networks
-  count: 36
-  total: 1075
-  group: scientific-machine-learning
 - name: diffusion-models
-  count: 34
+  count: 33
   total: 1023
   group: generative-models
+- name: physics-informed-neural-networks
+  count: 32
+  total: 1075
+  group: scientific-machine-learning
 - name: inverse-problems
-  count: 29
+  count: 27
   total: 715
   group: generative-models
 - name: bayesian-inference
-  count: 26
+  count: 25
   total: 719
   group: generative-models
-- name: anomaly-detection
-  count: 23
-  total: 538
-  group: particle
 - name: remote-sensing
-  count: 22
+  count: 21
   total: 1019
   group: climate
-- name: cfd
-  count: 18
-  total: 363
-  group: fluid-dynamics
+- name: anomaly-detection
+  count: 20
+  total: 538
+  group: particle
 - name: operator-learning
   count: 18
   total: 439
   group: scientific-machine-learning
+- name: cfd
+  count: 17
+  total: 363
+  group: fluid-dynamics
 - name: materials-discovery
   count: 15
   total: 405
   group: materials-science
-- name: symbolic-regression
-  count: 15
-  total: 326
-  group: generative-models
-- name: cosmology
-  count: 14
-  total: 339
-  group: astrophysics
 - name: qml
   count: 14
   total: 340
   group: quantum-physics
+- name: symbolic-regression
+  count: 14
+  total: 326
+  group: generative-models
 - name: computational-fluid-dynamics
   count: 13
   total: 308
   group: fluid-dynamics
-- name: electronic-structure
+- name: cosmology
   count: 13
-  total: 208
-  group: materials-science
+  total: 339
+  group: astrophysics
 - name: data-assimilation
   count: 12
   total: 268
   group: climate
-- name: mlip
+- name: electronic-structure
   count: 12
-  total: 226
+  total: 208
   group: materials-science
-- name: weather-forecasting
-  count: 12
-  total: 317
-  group: climate
 - name: dark-energy
   count: 11
   total: 206
   group: astrophysics
+- name: mlip
+  count: 11
+  total: 226
+  group: materials-science
 - name: scientific-machine-learning
   count: 11
   total: 337
   group: scientific-machine-learning
-- name: dark-matter
-  count: 10
-  total: 365
-  group: astrophysics
 - name: inductive-bias
   count: 10
   total: 249
@@ -115,6 +107,14 @@
   count: 10
   total: 251
   group: dynamical-systems
+- name: weather-forecasting
+  count: 10
+  total: 317
+  group: climate
+- name: dark-matter
+  count: 9
+  total: 365
+  group: astrophysics
 - name: rans
   count: 9
   total: 132
@@ -123,42 +123,38 @@
   count: 8
   total: 229
   group: astrophysics
-- name: black-holes
-  count: 8
-  total: 166
-  group: astrophysics
 - name: navier-stokes-equations
   count: 8
   total: 155
   group: fluid-dynamics
+- name: black-holes
+  count: 7
+  total: 166
+  group: astrophysics
 - name: chaotic-systems
   count: 7
   total: 112
   group: dynamical-systems
 - name: deeponet
-  count: 7
+  count: 6
   total: 257
   group: scientific-machine-learning
-- name: force-fields
-  count: 7
-  total: 180
-  group: materials-science
-- name: les
-  count: 7
-  total: 102
-  group: fluid-dynamics
 - name: equation-discovery
   count: 6
   total: 71
   group: generative-models
+- name: force-fields
+  count: 6
+  total: 180
+  group: materials-science
+- name: les
+  count: 6
+  total: 102
+  group: fluid-dynamics
 - name: machine-learning-interatomic-potentials
   count: 6
   total: 244
   group: materials-science
-- name: schr-dinger-equation
-  count: 6
-  total: 100
-  group: quantum-physics
 - name: variational-quantum-algorithms
   count: 6
   total: 100
@@ -183,6 +179,10 @@
   count: 5
   total: 97
   group: dynamical-systems
+- name: schr-dinger-equation
+  count: 5
+  total: 100
+  group: quantum-physics
 - name: crystal-structure-prediction
   count: 4
   total: 77
@@ -203,10 +203,6 @@
   count: 4
   total: 70
   group: particle
-- name: hydrology
-  count: 4
-  total: 45
-  group: climate
 - name: koopman-operator
   count: 4
   total: 148
@@ -219,10 +215,6 @@
   count: 4
   total: 278
   group: materials-science
-- name: qaoa
-  count: 4
-  total: 55
-  group: quantum-physics
 - name: reduced-order-modeling
   count: 4
   total: 74
@@ -239,10 +231,18 @@
   count: 3
   total: 50
   group: fluid-dynamics
+- name: hydrology
+  count: 3
+  total: 45
+  group: climate
 - name: plasma-physics
   count: 3
   total: 27
   group: fluid-dynamics
+- name: qaoa
+  count: 3
+  total: 55
+  group: quantum-physics
 - name: galaxy-formation
   count: 2
   total: 78
@@ -267,26 +267,14 @@
   count: 2
   total: 72
   group: scientific-machine-learning
-- name: vqe
-  count: 2
-  total: 57
-  group: quantum-physics
 - name: ai4science
   count: 1
   total: 39
   group: generative-models
-- name: climate-modeling
-  count: 1
-  total: 65
-  group: climate
 - name: collider-physics
   count: 1
   total: 26
   group: particle
-- name: condensed-matter-physics
-  count: 1
-  total: 60
-  group: materials-science
 - name: detector-simulation
   count: 1
   total: 29
@@ -335,6 +323,10 @@
   count: 1
   total: 46
   group: fluid-dynamics
+- name: vqe
+  count: 1
+  total: 57
+  group: quantum-physics
 - name: astrostatistics
   count: 0
   total: 0
@@ -346,6 +338,14 @@
 - name: battery-materials
   count: 0
   total: 23
+  group: materials-science
+- name: climate-modeling
+  count: 0
+  total: 65
+  group: climate
+- name: condensed-matter-physics
+  count: 0
+  total: 60
   group: materials-science
 - name: data-driven-physics
   count: 0

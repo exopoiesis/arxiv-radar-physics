@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>symbolic-regression — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <strong>30d</strong> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11387.html">RISR: Residual-Informed Scientific Equation Discovery with Large Language Models</a></div></td>
 <td>Haobo Li et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11387">2610.11387</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10807.html">Symbolic Density Estimators for Unnormalized Distributions</a></div></td>
-<td>Vikas Kanaujia et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10807">2610.10807</a></td>
 </tr>
 </tbody></table>

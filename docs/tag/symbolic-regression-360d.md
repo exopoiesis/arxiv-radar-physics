@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">205 papers</span>
+  <span class="paper-count">203 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1232,17 +1232,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10079.html">Physics-informed Machine Learning for Static Friction Modeling in Robotic Manipulators Based on Kolmogorov-Arnold Networks</a></div></td>
 <td>Yizheng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10079">2511.10079</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08424.html">Identification of Empirical Constitutive Models for Age-Hardenable Aluminium Alloy and High-Chromium Martensitic Steel Using Symbolic Regression</a></div></td>
-<td>Evgeniya Kabliman et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08424">2511.08424</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08784.html">Symbolic Regression Is All You Need: From Simulations to Scaling Laws in Binary Neutron Star Mergers</a></div></td>
-<td>P. Darc et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08784">2511.08784</a></td>
 </tr>
 </tbody></table>

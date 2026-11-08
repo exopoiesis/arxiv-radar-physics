@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">601 papers</span>
+  <span class="paper-count">596 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3590,35 +3590,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11137.html">One-Shot Transfer Learning for Nonlinear PDEs with Perturbative PINNs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Samuel Auroy et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11137">2511.11137</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12244.html">Quantum physics informed neural networks for multi-variable partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Giorgio Panichi et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12244">2503.12244</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19333.html">E-PINNs: Epistemic Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Bruno Jacob et al.</td>
-<td><a href="http://arxiv.org/abs/2503.19333">2503.19333</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09048.html">Guaranteeing Conservation of Integrals with Projection in Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Anthony Baez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09048">2511.09048</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09463.html">Physics-Informed Neural Networks for Gate Design using Quantum Optimal Control</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a> · <a href="schr-dinger-equation-360d.html">schr-dinger-equation</a></div></td>
-<td>Sofiia Lauten et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09463">2511.09463</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09728.html">Regularity and error estimates in physics-informed neural networks for the Kuramoto-Sivashinsky equation</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Mohammad Mahabubur Rahman et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09728">2511.09728</a></td>
 </tr>
 </tbody></table>

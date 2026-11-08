@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>operator-learning — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <strong>30d</strong> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,17 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20643.html">Thermochemically Constrained Multiscale Laplace Neural Operator to Learn Stiff Chemical Kinetics with Conditional Diffusion Model Sampling</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a></div></td>
 <td>Dong Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20643">2610.20643</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11120.html">Numerical Neural Operator: Connection Between Numerical Analysis and the Operator Learning and Building Discretized Neural Operators from Finite Element Methods</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Zecheng Zhang</td>
-<td><a href="http://arxiv.org/abs/2610.11120">2610.11120</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11709.html">Uniform Approximation for Operator Learning on Compact Sets</a></div></td>
-<td>Rui Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11709">2610.11709</a></td>
 </tr>
 </tbody></table>

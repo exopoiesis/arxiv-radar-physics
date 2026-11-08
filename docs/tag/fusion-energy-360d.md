@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fusion-energy — 360d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="fusion-energy-7d.html">7d</a> <a href="fusion-energy-30d.html">30d</a> <a href="fusion-energy-90d.html">90d</a> <strong>360d</strong> <a href="fusion-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19583.html">ConStellaration: A dataset of QI-like stellarator plasma boundaries and optimization benchmarks</a></div><div class="paper-tags"><a href="mhd-360d.html">mhd</a> · <a href="plasma-physics-360d.html">plasma-physics</a></div></td>
 <td>Santiago A. Cadena et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19583">2506.19583</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09725.html">The Data Fusion Labeler (dFL): Challenges and Solutions to Data Harmonization, Labeling, and Provenance in Fusion Energy</a></div></td>
-<td>Craig Michoski et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09725">2511.09725</a></td>
 </tr>
 </tbody></table>

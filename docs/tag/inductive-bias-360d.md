@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inductive-bias — 360d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">187 papers</span>
   <nav class="window-nav"><a href="inductive-bias-7d.html">7d</a> <a href="inductive-bias-30d.html">30d</a> <a href="inductive-bias-90d.html">90d</a> <strong>360d</strong> <a href="inductive-bias-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1136,11 +1136,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17675.html">Lane-Frame Quantum Multimodal Driving Forecasts for the Trajectory of Autonomous Vehicles</a></div></td>
 <td>Navneet Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17675">2511.17675</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09774.html">Solvaformer: an SE(3)-equivariant graph transformer for small molecule solubility prediction</a></div></td>
-<td>Jonathan Broadbent et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09774">2511.09774</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">103 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -632,17 +632,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09903.html">From Nonlinear Stochastic Differential Equations to Quantum Channels: The Kolmogorov--Lindblad Mapping</a></div><div class="paper-tags"><a href="schr-dinger-equation-90d.html">schr-dinger-equation</a></div></td>
 <td>Hsuan-Cheng Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.09903">2608.09903</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08398.html">Estimating Uncertainty in Galaxy Morphology Classification</a></div></td>
-<td>Kai Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08398">2608.08398</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08495.html">Bayesian Localization and Uncertainty Quantification of Trace Species in Two-Dimensional SIMS Imaging</a></div></td>
-<td>Mengchi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08495">2608.08495</a></td>
 </tr>
 </tbody></table>

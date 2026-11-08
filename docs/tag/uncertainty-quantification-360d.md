@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">526 papers</span>
+  <span class="paper-count">523 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3152,23 +3152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09884.html">Quantum Artificial Intelligence (QAI): Foundations, Architectural Elements, and Future Directions</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Siva Sai et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09884">2511.09884</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02927.html">P-DRUM: Post-hoc Descriptor-based Residual Uncertainty Modeling for Machine Learning Potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Shih-Peng Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02927">2509.02927</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09706.html">Towards a Machine Learning Solution for Hubble Tension: Physics-Informed Neural Network (PINN) Analysis of Tsallis Holographic Dark Energy in Presence of Neutrinos</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Muhammad Yarahmadi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09706">2511.09706</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11697.html">Benchmarking GNNs for OOD Materials Property Prediction with Uncertainty Quantification</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Liqin Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11697">2511.11697</a></td>
 </tr>
 </tbody></table>

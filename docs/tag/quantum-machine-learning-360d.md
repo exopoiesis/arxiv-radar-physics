@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">478 papers</span>
+  <span class="paper-count">476 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2870,17 +2870,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14786.html">Hybrid Quantum-Classical Machine Learning with PennyLane: A Comprehensive Guide for Computational Research</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
 <td>Sidney Shapiro</td>
 <td><a href="http://arxiv.org/abs/2511.14786">2511.14786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12244.html">Quantum physics informed neural networks for multi-variable partial differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Giorgio Panichi et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12244">2503.12244</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21389.html">Towards Adapting Federated &amp; Quantum Machine Learning for Network Intrusion Detection: A Survey</a></div></td>
-<td>Devashish Chaudhary et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21389">2509.21389</a></td>
 </tr>
 </tbody></table>

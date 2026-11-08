@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">661 papers</span>
+  <span class="paper-count">656 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3950,35 +3950,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10706.html">Differentiable Sparse Identification of Lagrangian Dynamics</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a></div></td>
 <td>Zitong Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10706">2511.10706</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09074.html">KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a></div></td>
-<td>Alice Kate Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09074">2509.09074</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08860.html">When is a System Discoverable from Data? Discovery Requires Chaos</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Zakhar Shumaylov et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08860">2511.08860</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09233.html">Tensor Network Framework for Forecasting Nonlinear and Chaotic Dynamics</a></div><div class="paper-tags"><a href="tensor-networks-360d.html">tensor-networks</a></div></td>
-<td>Jia-Bin You et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09233">2511.09233</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09779.html">A model-free method for discovering symmetry in differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Max Kreider et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09779">2511.09779</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09792.html">Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning</a></div></td>
-<td>Tianmeng Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09792">2511.09792</a></td>
 </tr>
 </tbody></table>

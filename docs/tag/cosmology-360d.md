@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">178 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1076,11 +1076,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13826.html">Aletheia: Emulating the non-linear matter power spectrum in the context of evolution mapping</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
 <td>Ariel G. Sanchez et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13826">2511.13826</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10299.html">Nature-inspired optimization, the Philippine Eagle, and cosmological parameter estimation</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Reginald Christian Bernardo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10299">2505.10299</a></td>
 </tr>
 </tbody></table>

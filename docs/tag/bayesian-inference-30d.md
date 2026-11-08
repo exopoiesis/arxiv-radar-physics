@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,23 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15183.html">Game-Theoretic Reinforcement Learning based Topology-Agnostic Defense for Virtual Power Plants</a></div></td>
 <td>Pooja Algikar et al.</td>
 <td><a href="http://arxiv.org/abs/2610.15183">2610.15183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11630.html">Physics-informed interpretable forms for dipole resonances and quantities relevant for astrophysics</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a></div></td>
-<td>Gourab Banerjee et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11630">2610.11630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11738.html">Scalable AI Uncertainty Quantification via Generalized Laplace Active Subspaces</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Wouter N. Edeling et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11738">2610.11738</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12632.html">The Fast &amp; Fourier: Using neural operators to speed up radiative modeling of protoplanetary disks</a></div></td>
-<td>Lukas Welzel et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12632">2610.12632</a></td>
 </tr>
 </tbody></table>

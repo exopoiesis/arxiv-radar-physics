@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>schr-dinger-equation — 360d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <a href="schr-dinger-equation-30d.html">30d</a> <a href="schr-dinger-equation-90d.html">90d</a> <strong>360d</strong> <a href="schr-dinger-equation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,11 +350,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18574.html">Tunable Bands in 1D Fractional Quantum Media</a></div></td>
 <td>Brenden R. Guyette et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18574">2511.18574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09463.html">Physics-Informed Neural Networks for Gate Design using Quantum Optimal Control</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Sofiia Lauten et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09463">2511.09463</a></td>
 </tr>
 </tbody></table>

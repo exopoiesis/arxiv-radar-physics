@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">212 papers</span>
+  <span class="paper-count">211 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1280,11 +1280,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10558.html">Carbox: an end-to-end differentiable astrochemical simulation framework</a></div></td>
 <td>Gijs Vermariën et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10558">2511.10558</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09660.html">Measuring the Dark Matter Self-Interaction Cross-Section with Deep Compact Clustering for Robust Machine Learning Inference</a></div><div class="paper-tags"><a href="cosmological-simulations-360d.html">cosmological-simulations</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Ethan Tregidga et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09660">2511.09660</a></td>
 </tr>
 </tbody></table>

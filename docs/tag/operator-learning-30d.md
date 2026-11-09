@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>operator-learning — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <strong>30d</strong> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09038.html">Function-Space Certification for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Ryan Hsiang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09038">2611.09038</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08001.html">LithoSAGE: Spatially Adaptive and Geometrically Equivariant Neural Operators for Computational Lithography</a></div></td>
@@ -98,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15931.html">Mesh-Free Convolution: Learned Spectral Attenuation and Transport</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Niloufar Zakariaei et al.</td>
 <td><a href="http://arxiv.org/abs/2610.15931">2610.15931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13690.html">Transformer-based In-Context Score Operator Learning for Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Wuzhe Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13690">2610.13690</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20643.html">Thermochemically Constrained Multiscale Laplace Neural Operator to Learn Stiff Chemical Kinetics with Conditional Diffusion Model Sampling</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a></div></td>
-<td>Dong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20643">2610.20643</a></td>
 </tr>
 </tbody></table>

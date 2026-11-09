@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09038.html">Function-Space Certification for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
+<td>Ryan Hsiang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09038">2611.09038</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08001.html">LithoSAGE: Spatially Adaptive and Geometrically Equivariant Neural Operators for Computational Lithography</a></div></td>
 <td>Ke Jin et al.</td>
@@ -320,11 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11019.html">DEFT: Data-Efficient Frequency-domain Top-k Sampling via Inverse Discrete Fourier Transform for Spatiotemporal Dynamical Systems Modeling</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Hengbo Xiao et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11019">2608.11019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10234.html">The Kuramoto Neural Operator: Learning to Solve PDEs via Coupled Oscillator Dynamics</a></div></td>
-<td>Petr Badolia et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10234">2608.10234</a></td>
 </tr>
 </tbody></table>

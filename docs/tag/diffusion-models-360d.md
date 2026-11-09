@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">544 papers</span>
+  <span class="paper-count">542 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3266,17 +3266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05178.html">Associative Memory and Generative Diffusion in the Zero-noise Limit</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Joshua Hess et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05178">2506.05178</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.11343.html">Latent Knowledge-Guided Video Diffusion for Scientific Phenomena Generation from a Single Initial Frame</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Qinglong Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2411.11343">2411.11343</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11942.html">DRUM: Diffusion-based runoff model for probabilistic flood forecasting</a></div><div class="paper-tags"><a href="hydrology-360d.html">hydrology</a></div></td>
-<td>Zhigang Ou et al.</td>
-<td><a href="http://arxiv.org/abs/2412.11942">2412.11942</a></td>
 </tr>
 </tbody></table>

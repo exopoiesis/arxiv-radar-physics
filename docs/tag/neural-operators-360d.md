@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">418 papers</span>
+  <span class="paper-count">417 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09038.html">Function-Space Certification for Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
+<td>Ryan Hsiang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09038">2611.09038</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07646.html">WaSP: Wasserstein Data Synthesis Pipeline for Solver-Free Operator Learning</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a></div></td>
@@ -2510,17 +2516,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12890.html">Method of Manufactured Learning for Solver-free Training of Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Arth Sojitra et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12890">2511.12890</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10025.html">SVD-NO: Learning PDE Solution Operators with SVD Integral Kernels</a></div></td>
-<td>Noam Koren et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10025">2511.10025</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10829.html">Towards Universal Neural Operators through Multiphysics Pretraining</a></div></td>
-<td>Mikhail Masliaev et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10829">2511.10829</a></td>
 </tr>
 </tbody></table>

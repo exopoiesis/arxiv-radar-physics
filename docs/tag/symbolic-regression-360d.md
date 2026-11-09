@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">203 papers</span>
+  <span class="paper-count">201 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1220,17 +1220,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11887.html">Disk mass predictions for binary neutron star mergers: limitations of proposed symbolic regression models</a></div></td>
 <td>Francois Foucart</td>
 <td><a href="http://arxiv.org/abs/2511.11887">2511.11887</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09979.html">Rediscovering the Lunar Equation of the Centre with AI Feynman via Embedded Physical Biases</a></div></td>
-<td>Saumya Shah et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09979">2511.09979</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10079.html">Physics-informed Machine Learning for Static Friction Modeling in Robotic Manipulators Based on Kolmogorov-Arnold Networks</a></div></td>
-<td>Yizheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10079">2511.10079</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,29 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15110.html">Generative Quantum Machine Learning Methods for Cancer Detection using Augmented Datasets</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
 <td>Sophia Knutson et al.</td>
 <td><a href="http://arxiv.org/abs/2610.15110">2610.15110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13694.html">QTN-RQNN: Quantum Tensor Network-Based Recurrent Quantum Neural Network</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
-<td>Amit S. Patel et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13694">2610.13694</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13709.html">Dynamical Lie Algebras for Fixed-Gate Quantum Ansätze</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a> · <a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
-<td>Orlane Zang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13709">2610.13709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13808.html">Diversity-Aware Ensemble of Quantum-Classical Models via Combinatorial Fusion</a></div></td>
-<td>Jingyan Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13808">2610.13808</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13882.html">An Annealing-based Quantum Neural Network with Discrete Wavelet Transforms for Enhanced Air Pollution Nowcasting</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
-<td>Otto Menegasso Pires et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13882">2610.13882</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09053.html">Equidistribution of Solution Gradients in Physics-Informed Neural Networks via Coordinate Transformations</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Tianchi Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09053">2611.09053</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07387.html">Projection-based segregated, iterative, and multi-stage physics-informed neural network for incompressible Navier-stokes equations</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Zhenyu Zhang et al.</td>
@@ -632,11 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11480.html">Forward Trajectory Steering for Hamilton-Jacobi Reachability Analysis</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="pinns-90d.html">pinns</a></div></td>
 <td>Sungje Park et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11480">2608.11480</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09483.html">Hierarchical rank-evolving representation for physics-informed neural networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
-<td>Ruoyang Su et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09483">2608.09483</a></td>
 </tr>
 </tbody></table>

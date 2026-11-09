@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>schr-dinger-equation — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="schr-dinger-equation-7d.html">7d</a> <strong>30d</strong> <a href="schr-dinger-equation-90d.html">90d</a> <a href="schr-dinger-equation-360d.html">360d</a> <a href="schr-dinger-equation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31855.html">Cautious Conflict-Free Inverse Gradient Methods</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
 <td>Damian Hattler et al.</td>
 <td><a href="http://arxiv.org/abs/2610.31855">2610.31855</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13663.html">A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Ivan Moloshnikov et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13663">2610.13663</a></td>
 </tr>
 </tbody></table>

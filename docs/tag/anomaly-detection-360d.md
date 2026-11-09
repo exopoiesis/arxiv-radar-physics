@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">283 papers</span>
+  <span class="paper-count">282 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1706,11 +1706,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12592.html">Knowledge is Overrated: A zero-knowledge machine learning and cryptographic hashing-based framework for verifiable, low latency inference at the LHC</a></div></td>
 <td>Pratik Jawahar et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12592">2511.12592</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08132.html">National Institute on Aging PREPARE Challenge: Early Detection of Cognitive Impairment Using Speech -- The SpeechCARE Solution</a></div></td>
-<td>Maryam Zolnoori et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08132">2511.08132</a></td>
 </tr>
 </tbody></table>

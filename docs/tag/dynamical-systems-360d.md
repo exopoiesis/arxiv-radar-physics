@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">656 papers</span>
+  <span class="paper-count">654 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09317.html">Stable probabilistic emulation of partially observed dynamical systems</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
+<td>Mario Massy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09317">2611.09317</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07291.html">How do Transformers Perform Low-Level Control In-Context?</a></div></td>
@@ -3932,23 +3938,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11150.html">Nonequilibrium Thermodynamics of Associative Memory Continuous-Time Recurrent Neural Networks</a></div></td>
 <td>Miguel Aguilera et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11150">2511.11150</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15231.html">Finding separatrices of dynamical flows with Deep Koopman Eigenfunctions</a></div></td>
-<td>Kabir V. Dabholkar et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15231">2505.15231</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10208.html">Fractional neural attention for efficient multiscale sequence processing</a></div></td>
-<td>Cheng Kevin Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10208">2511.10208</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10706.html">Differentiable Sparse Identification of Lagrangian Dynamics</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a></div></td>
-<td>Zitong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10706">2511.10706</a></td>
 </tr>
 </tbody></table>

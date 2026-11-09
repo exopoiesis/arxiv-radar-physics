@@ -4170,5 +4170,135 @@
    "Quantum Physics & Information"
   ],
   "updated": "2026-11-05"
+ },
+ "2611.08912": {
+  "abstract": "Machine learning methods for solving partial differential equations (PDEs) significantly improve computational efficiency over traditional numerical solvers such as finite element method (FEM). However, PDE dynamics inherently span both local and global dynamics: disturbances propagate and decay gradually through the domain, while global coupling effects can influence the whole system simultaneously. Capturing both types of dynamics with a low complexity model remains a key challenge. To address this, we propose the Spatial-Spectral Fusion Network (SSF-Net), built around a dual-branch Spatial-Spectral Fusion (SSF) block comprising a spatial branch and a spectral branch. The spatial branch employs a multi-directional Mamba, which mitigates its inherent causal, single-direction scanning bias and capture local interactions with reduced directional bias at linear complexity. The spectral branch leverages a Fourier transform with a block-diagonal MLP to efficiently capture global spectral features with reduced parameter count and complexity. The SSF block is embedded in a multiresolution convolutional encoder-decoder, which extracts multi-scale features. We evaluate SSF-Net on a comprehensive PDE benchmark spanning multiple task types and assess its long-horizon stability. Compared with attention-based and convolution-based baselines, SSF-Net achieves lower prediction error with fewer parameters while retaining near-linear asymptotic complexity in the number of spatial tokens.",
+  "authors": [
+   "Siqi Zhao",
+   "Flora D. Salim"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Siqi Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2611.08912",
+  "primary_category": "cs.LG",
+  "published": "2026-11-06",
+  "tags": [
+   "partial-differential-equations"
+  ],
+  "title": "SSF-Net: A Spatial-Spectral Fusion Network for Accurate PDE Operator Learning",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09003": {
+  "abstract": "Designing RF/mmWave passive components is a time-consuming process that relies heavily on expert knowledge and iterative EM simulations. Although recent ML surrogate models have shown great promise in accelerating passive design, they remain task-specific and lack generalization. This paper presents FoundaRF, a foundation model framework that unifies passive layout modeling across diverse layout structures and technologies. It combines a self-supervised encoder with adaptive layout processing and physics-aware decoders to enable few-shot transfer. Experiments across four semiconductor technologies show strong generalization to unseen structures, outperforming baselines with up to a 3.3x reduction in prediction error, reducing labeled-data requirements by up to fourfold, and substantially shortening design turnaround. FoundaRF establishes a scalable and data-efficient solution for RF/mmWave passive design automation.",
+  "authors": [
+   "Houbo He",
+   "Chris Han",
+   "Hyunsu Chae",
+   "Lei Xia",
+   "Qiang Zhou",
+   "Lawrence Liu",
+   "Sensen Li",
+   "David Z. Pan",
+   "Taiyun Chi"
+  ],
+  "categories": [
+   "eess.SP",
+   "cs.AI"
+  ],
+  "comment": "Accepted for publication in the proceedings of the 2026 IEEE/ACM International Conference on Computer-Aided Design (ICCAD 2026)",
+  "first_author": "Houbo He",
+  "pdf_url": "http://arxiv.org/pdf/2611.09003",
+  "primary_category": "eess.SP",
+  "published": "2026-11-06",
+  "tags": [],
+  "title": "FoundaRF: A Physics-Informed Foundation Model Framework for Radio-Frequency Passive Components",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09038": {
+  "abstract": "Certifying the robustness and physical consistency of scientific machine-learning models ensures that their predictions remain reliable beyond the test set. For neural operators, which learn PDE solution operators by mapping infinite-dimensional function spaces, certification means establishing rigorous, domain-wide guarantees for their output functions. However, standard neural network (NN) verification methods are fundamentally designed for vector-to-vector mappings, and they can only certify neural operators at fixed grid resolutions and provide no guarantees over the entire domain or across another resolution. We close this gap by introducing a function-space certification framework that verifies neural operators across the entire continuous domain. We formulate interval bound propagation (IBP) and CROWN in function space, propagating upper and lower bound functions through each layer using rigorous numerical integration. In addition, we extend bound propagation to higher-order derivatives to certify PDE residuals and solution error bounds. Experiments across several neural operator architectures and scientific problems, including the 572.5-million-parameter spherical Fourier neural operator for global weather forecasting, show that our method produces tight, domain-wide guarantees efficiently, providing a foundation for trustworthy operator learning.",
+  "authors": [
+   "Ryan Hsiang",
+   "Robert Joseph George",
+   "Anima Anandkumar"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "45 pages, 6 figures",
+  "first_author": "Ryan Hsiang",
+  "pdf_url": "http://arxiv.org/pdf/2611.09038",
+  "primary_category": "cs.LG",
+  "published": "2026-11-06",
+  "tags": [
+   "neural-operators",
+   "operator-learning",
+   "weather-forecasting"
+  ],
+  "title": "Function-Space Certification for Neural Operators",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09053": {
+  "abstract": "Physics-Informed Neural Networks (PINNs) often struggle to approximate solutions with sharp gradients due to optimization difficulties and spectral bias. Motivated by the principle of gradient equidistribution from the stretching approach in grid generation, which redistributes solution gradients to reduce functional complexity, we propose Coordinate Transformation PINNs (CTPINNs), which incorporate learnable coordinate transformations to map the physical domain into a computational domain where the physical solutions become approximately affine, making them easier for neural networks to learn. We propose two constructions of the transformation: an explicit construction based on Majorants and an implicit construction based on invertable neural networks. Experimentally, the explicit construction can improve accuracy for PDEs with available explicit coordinate transformations, and the implicit construction can be combined with other advanced PINN models as an efficient plug-in module to improve performance across a range of challenging PDE benchmarks.",
+  "authors": [
+   "Tianchi Yu",
+   "Ivan Oseledets"
+  ],
+  "categories": [
+   "math.NA",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Tianchi Yu",
+  "pdf_url": "http://arxiv.org/pdf/2611.09053",
+  "primary_category": "math.NA",
+  "published": "2026-11-06",
+  "tags": [
+   "physics-informed-neural-networks",
+   "pinns"
+  ],
+  "title": "Equidistribution of Solution Gradients in Physics-Informed Neural Networks via Coordinate Transformations",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09317": {
+  "abstract": "Predicting the long-term behavior of partially observed dynamical systems such as the coupled atmosphere-ocean system is central to societal decision-making. Motivated by the success of deep learning emulators in weather forecasting, data-driven climate models represent a promising approach. However, climate emulation poses distinct challenges: models must account for unresolved fast variables introduced by unavoidable coarse-graining, reproduce long-term statistics, and remain stable over arbitrarily long rollouts and under external perturbations. These requirements motivate stochastic data-driven emulators, but modern generative models lack stability guarantees. We introduce forced-dissipative stochastic interpolants, a generative framework for learning stochastic reduced dynamics. Its architecture uses structural constraints inspired by turbulent dynamics, which provide stability by design while retaining the flexibility of stochastic interpolants to represent complex probabilistic dynamics. Building on the theory of Markov-chain stability, we establish a Foster--Lyapunov drift condition and prove geometric ergodicity for our emulator, together with stability under steady external forcing. We evaluate the framework on the two-timescale Lorenz-96 system, a prototype of partially observed multiscale turbulence. The resulting emulator remains stable over long integrations and under finite-amplitude forcing, with accurate prediction of forced responses of both the mean and variance.",
+  "authors": [
+   "Mario Massy",
+   "Sara Shamekh",
+   "Fabrizio Falasca",
+   "Matthieu Blanke"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Mario Massy",
+  "pdf_url": "http://arxiv.org/pdf/2611.09317",
+  "primary_category": "cs.LG",
+  "published": "2026-11-06",
+  "tags": [
+   "dynamical-systems",
+   "weather-forecasting"
+  ],
+  "title": "Stable probabilistic emulation of partially observed dynamical systems",
+  "topics": [
+   "Dynamical Systems & PDE Learning"
+  ],
+  "updated": "2026-11-06"
  }
 }

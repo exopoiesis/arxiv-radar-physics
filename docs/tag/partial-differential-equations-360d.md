@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08912.html">SSF-Net: A Spatial-Spectral Fusion Network for Accurate PDE Operator Learning</a></div></td>
+<td>Siqi Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08912">2611.08912</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07395.html">Rigorously Certified Neural-Network Computation of Nonlinear Water Waves at Near-Machine Precision</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Michal Shavit et al.</td>
@@ -4562,11 +4568,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11137.html">One-Shot Transfer Learning for Nonlinear PDEs with Perturbative PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Samuel Auroy et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11137">2511.11137</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15326.html">LeapFrog: Getting the Jump on Multi-Scale Materials Simulations Using Machine Learning</a></div></td>
-<td>Damien Pinto et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15326">2406.15326</a></td>
 </tr>
 </tbody></table>

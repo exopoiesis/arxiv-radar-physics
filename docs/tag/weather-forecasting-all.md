@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>weather-forecasting — all</h1>
-  <span class="paper-count">317 papers</span>
+  <span class="paper-count">319 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <a href="weather-forecasting-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09038.html">Function-Space Certification for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-all.html">neural-operators</a> · <a href="operator-learning-all.html">operator-learning</a></div></td>
+<td>Ryan Hsiang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09038">2611.09038</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09317.html">Stable probabilistic emulation of partially observed dynamical systems</a></div><div class="paper-tags"><a href="dynamical-systems-all.html">dynamical-systems</a></div></td>
+<td>Mario Massy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09317">2611.09317</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37927.html">Machine learning applications in the heliosphere</a></div></td>

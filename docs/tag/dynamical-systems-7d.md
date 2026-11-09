@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09317.html">Stable probabilistic emulation of partially observed dynamical systems</a></div><div class="paper-tags"><a href="weather-forecasting-7d.html">weather-forecasting</a></div></td>
+<td>Mario Massy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09317">2611.09317</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07291.html">How do Transformers Perform Low-Level Control In-Context?</a></div></td>

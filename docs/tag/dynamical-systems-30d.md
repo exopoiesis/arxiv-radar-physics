@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09317.html">Stable probabilistic emulation of partially observed dynamical systems</a></div><div class="paper-tags"><a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Mario Massy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09317">2611.09317</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07291.html">How do Transformers Perform Low-Level Control In-Context?</a></div></td>
@@ -230,23 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15111.html">Energy-Guided Learning for Heat Equation with Noisy Source: Optimal Estimation and Generalization Bounds</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
 <td>Zixiang Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2610.15111">2610.15111</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12151.html">Specialized machine learning force fields for materials dynamics</a></div><div class="paper-tags"><a href="force-fields-30d.html">force-fields</a> · <a href="machine-learning-interatomic-potentials-30d.html">machine-learning-interatomic-potentials</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Yue Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12151">2610.12151</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12915.html">Controlled-Minimax: Stabilizing Adversarial Optimization via Control Theory</a></div></td>
-<td>Tianjiao Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12915">2610.12915</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13430.html">One Thing Leads to Another: The Essentials of Time Series Causal Discovery</a></div></td>
-<td>Kurt Butler et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13430">2610.13430</a></td>
 </tr>
 </tbody></table>

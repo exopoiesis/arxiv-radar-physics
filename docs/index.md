@@ -5,15 +5,45 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-11-08._
+_Updated 2026-11-09._
 
-**21137** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**21142** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.08912.html">SSF-Net: A Spatial-Spectral Fusion Network for Accurate PDE Operator Learning</a></div><div class="paper-tags"><a href="tag/partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Siqi Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08912">2611.08912</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09003.html">FoundaRF: A Physics-Informed Foundation Model Framework for Radio-Frequency Passive Components</a></div></td>
+<td>Houbo He et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09003">2611.09003</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09038.html">Function-Space Certification for Neural Operators</a></div><div class="paper-tags"><a href="tag/neural-operators-30d.html">neural-operators</a> · <a href="tag/operator-learning-30d.html">operator-learning</a> · <a href="tag/weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Ryan Hsiang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09038">2611.09038</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09053.html">Equidistribution of Solution Gradients in Physics-Informed Neural Networks via Coordinate Transformations</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="tag/pinns-30d.html">pinns</a></div></td>
+<td>Tianchi Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09053">2611.09053</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09317.html">Stable probabilistic emulation of partially observed dynamical systems</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a> · <a href="tag/weather-forecasting-30d.html">weather-forecasting</a></div></td>
+<td>Mario Massy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09317">2611.09317</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04802.html">Study of enhancing the signal-background separation for the Higgs boson production in association with a single top-quark in $pp$ collisions at the LHC</a></div></td>
@@ -163,35 +193,5 @@ _Updated 2026-11-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.08434.html">DiffSequence-Q: Diffusion Design with Quantum Assistance for Biologically Active Proteins</a></div></td>
 <td>Ke-Xin Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.08434">2611.08434</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.08437.html">Deep-learning surrogate model for rapid quantum-noise computation in dual-pump fiber-optic phase-sensitive amplifiers</a></div></td>
-<td>Yousra Bouasria et al.</td>
-<td><a href="http://arxiv.org/abs/2611.08437">2611.08437</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.08461.html">Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems</a></div><div class="paper-tags"><a href="tag/quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Aldana Al-Sulaiti et al.</td>
-<td><a href="http://arxiv.org/abs/2611.08461">2611.08461</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.01680.html">Wave Physics as Representation: Tensor-Structured Neural Reconstruction for Ocean Acoustic Fields</a></div><div class="paper-tags"><a href="tag/inductive-bias-30d.html">inductive-bias</a></div></td>
-<td>Yifan Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2611.01680">2611.01680</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.01861.html">Learning structural response operators across varying geometries and loads with global and local geometry encoding</a></div><div class="paper-tags"><a href="tag/operator-learning-30d.html">operator-learning</a></div></td>
-<td>Xin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.01861">2611.01861</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02987.html">Machine-learning discovery potential for a heavy Higgs boson in $e^+e^-\to ZH$ at a future lepton collider</a></div></td>
-<td>Majid Hashemi</td>
-<td><a href="http://arxiv.org/abs/2611.02987">2611.02987</a></td>
 </tr>
 </tbody></table>

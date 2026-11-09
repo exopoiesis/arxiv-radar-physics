@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -938,11 +938,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02447.html">Hydrogen liquid-liquid transition from first principles and machine learning</a></div></td>
 <td>Giacomo Tenti et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02447">2502.02447</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10561.html">Maximizing Efficiency of Dataset Compression for Machine Learning Potentials With Information Theory</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Benjamin Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10561">2511.10561</a></td>
 </tr>
 </tbody></table>

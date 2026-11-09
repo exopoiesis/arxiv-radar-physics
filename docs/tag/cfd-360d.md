@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">215 papers</span>
+  <span class="paper-count">214 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1298,11 +1298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14497.html">Solving Navier-Stokes Equations Using Data-free Physics-Informed Neural Networks With Hard Boundary Conditions</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Ritik Pal et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14497">2511.14497</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10158.html">Closed Form Modelling and Identification of Banking Effects in Confined Waters</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Jeppe H. Mikkelsen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10158">2511.10158</a></td>
 </tr>
 </tbody></table>

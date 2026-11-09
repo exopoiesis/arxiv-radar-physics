@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 360d</h1>
-  <span class="paper-count">141 papers</span>
+  <span class="paper-count">139 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <strong>360d</strong> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -848,17 +848,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22824.html">Machine Learning Potentials for Hydrogen Absorption in TiCr$_2$ Laves Phases</a></div></td>
 <td>Pranav Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2503.22824">2503.22824</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15190.html">Energy Underprediction from Symmetry in Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Wei Nong et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15190">2507.15190</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10561.html">Maximizing Efficiency of Dataset Compression for Machine Learning Potentials With Information Theory</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Benjamin Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10561">2511.10561</a></td>
 </tr>
 </tbody></table>

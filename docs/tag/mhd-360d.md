@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mhd — 360d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <a href="mhd-90d.html">90d</a> <strong>360d</strong> <a href="mhd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13862.html">Dual Origins of Rapid Flare Ribbon Downflows in an X9-class Solar Flare</a></div></td>
 <td>Ryan J. French et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13862">2511.13862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10350.html">A predictive framework for realistic star planet radio emission in compact systems</a></div></td>
-<td>J. J. Chebly et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10350">2511.10350</a></td>
 </tr>
 </tbody></table>

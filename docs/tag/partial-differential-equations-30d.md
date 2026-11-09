@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08912.html">SSF-Net: A Spatial-Spectral Fusion Network for Accurate PDE Operator Learning</a></div></td>
+<td>Siqi Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08912">2611.08912</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07395.html">Rigorously Certified Neural-Network Computation of Nonlinear Water Waves at Near-Machine Precision</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Michal Shavit et al.</td>
@@ -230,11 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15111.html">Energy-Guided Learning for Heat Equation with Noisy Source: Optimal Estimation and Generalization Bounds</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
 <td>Zixiang Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2610.15111">2610.15111</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13804.html">Constrained Probabilistic Numerics: Gaussian Process Solvers for Linear PDEs under Linear Inequality Constraints</a></div></td>
-<td>Boyuan Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13804">2610.13804</a></td>
 </tr>
 </tbody></table>

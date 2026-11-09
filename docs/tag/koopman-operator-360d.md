@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>koopman-operator — 360d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <strong>360d</strong> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,11 +470,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18754.html">Reduced-order modeling of large-scale turbulence using Koopman $β$-variational autoencoders</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="les-360d.html">les</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a> · <a href="rom-360d.html">rom</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Rakesh Halder et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18754">2507.18754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10852.html">Adaptive Digital Twin of Sheet Metal Forming via Proper Orthogonal Decomposition-Based Koopman Operator with Model Predictive Control</a></div></td>
-<td>Yi-Ping Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10852">2511.10852</a></td>
 </tr>
 </tbody></table>

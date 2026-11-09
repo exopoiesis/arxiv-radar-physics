@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09053.html">Equidistribution of Solution Gradients in Physics-Informed Neural Networks via Coordinate Transformations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Tianchi Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09053">2611.09053</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07387.html">Projection-based segregated, iterative, and multi-stage physics-informed neural network for incompressible Navier-stokes equations</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Zhenyu Zhang et al.</td>
@@ -3518,11 +3524,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11137.html">One-Shot Transfer Learning for Nonlinear PDEs with Perturbative PINNs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Samuel Auroy et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11137">2511.11137</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11734.html">Physics-Informed Neural ODEs with Scale-Aware Residuals for Learning Stiff Biophysical Dynamics</a></div><div class="paper-tags"><a href="neural-differential-equations-360d.html">neural-differential-equations</a></div></td>
-<td>Kamalpreet Singh Kainth et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11734">2511.11734</a></td>
 </tr>
 </tbody></table>

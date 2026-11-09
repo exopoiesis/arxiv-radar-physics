@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>pinns — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09053.html">Equidistribution of Solution Gradients in Physics-Informed Neural Networks via Coordinate Transformations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
+<td>Tianchi Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09053">2611.09053</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07387.html">Projection-based segregated, iterative, and multi-stage physics-informed neural network for incompressible Navier-stokes equations</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
@@ -50,23 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02800.html">A Legendre-Based Modified Extreme Learning Machine for Convection-Diffusion Equations: Steady-State, Continuous-Time, and Discrete-Time Formulations</a></div></td>
 <td>Gadade Navnath Ankush et al.</td>
 <td><a href="http://arxiv.org/abs/2611.02800">2611.02800</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01616.html">Mean Field Game Problem with Kantorovich Potential Coupling: An Attrition model</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>Avetik Arakelyan et al.</td>
-<td><a href="http://arxiv.org/abs/2611.01616">2611.01616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01723.html">A sensor-driven physics-informed neural network for real-time occupant-centric space heating control</a></div></td>
-<td>Yunfei Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2611.01723">2611.01723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02084.html">Black Hole Love Numbers with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="black-holes-7d.html">black-holes</a></div></td>
-<td>Maria J. Rodriguez et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02084">2611.02084</a></td>
 </tr>
 </tbody></table>

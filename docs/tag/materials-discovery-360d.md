@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">237 papers</span>
+  <span class="paper-count">236 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1430,11 +1430,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11524.html">The Interoperability Challenge in DFT Workflows Across Implementations</a></div></td>
 <td>S. K. Steensen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11524">2511.11524</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15190.html">Energy Underprediction from Symmetry in Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
-<td>Wei Nong et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15190">2507.15190</a></td>
 </tr>
 </tbody></table>

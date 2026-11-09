@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">487 papers</span>
+  <span class="paper-count">482 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2906,35 +2906,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11880.html">Transformers vs. Recurrent Models for Estimating Forest Gross Primary Production</a></div></td>
 <td>David Montero et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11880">2511.11880</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14795.html">A Bayesian Approach to Segmentation with Noisy Labels via Spatially Correlated Distributions</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Ryu Tadokoro et al.</td>
-<td><a href="http://arxiv.org/abs/2504.14795">2504.14795</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06456.html">EIDSeg: A Pixel-Level Semantic Segmentation Dataset for Post-Earthquake Damage Assessment from Social Media Images</a></div></td>
-<td>Huili Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06456">2511.06456</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09843.html">CORONA-Fields: Leveraging Foundation Models for Classification of Solar Wind Phenomena</a></div></td>
-<td>Daniela Martin et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09843">2511.09843</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10461.html">OpenSR-SRGAN: A Flexible Super-Resolution Framework for Multispectral Earth Observation Data</a></div></td>
-<td>Simon Donike et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10461">2511.10461</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10774.html">Frequency-Aware Vision-Language Multimodality Generalization Network for Remote Sensing Image Classification</a></div></td>
-<td>Junjie Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10774">2511.10774</a></td>
 </tr>
 </tbody></table>

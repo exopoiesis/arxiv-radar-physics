@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>pinns — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <strong>30d</strong> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09053.html">Equidistribution of Solution Gradients in Physics-Informed Neural Networks via Coordinate Transformations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Tianchi Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09053">2611.09053</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07387.html">Projection-based segregated, iterative, and multi-stage physics-informed neural network for incompressible Navier-stokes equations</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
@@ -206,23 +212,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22390.html">Physics-informed Neural Networks Based on the Fokker-Planck Model for Rarefied Gas Flows</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Joonbeom Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22390">2610.22390</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13754.html">Utilizing Neural Networks for Solving Functional Renormalization Group Flow Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>J. Gurzó et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13754">2610.13754</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14355.html">AI Meets Turbulence Modeling: Complex Systems Perspective</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="rans-30d.html">rans</a> · <a href="turbulence-modeling-30d.html">turbulence-modeling</a></div></td>
-<td>Sharath S. Girimaji</td>
-<td><a href="http://arxiv.org/abs/2610.14355">2610.14355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23948.html">Parameter misspecification in physics-informed neural networks: A closed-form audit and its limits</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>David McShannon et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23948">2610.23948</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,11 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10427.html">Causality Sum Rules in Conventional Scattering Matrices</a></div></td>
 <td>Ning Han et al.</td>
 <td><a href="http://arxiv.org/abs/2608.10427">2608.10427</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09303.html">SAFE-CHEM: Uncertainty-Aware Policy Switching for Robust Robotic Chemistry</a></div></td>
-<td>Laura Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09303">2608.09303</a></td>
 </tr>
 </tbody></table>

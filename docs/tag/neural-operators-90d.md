@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09038.html">Function-Space Certification for Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
+<td>Ryan Hsiang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09038">2611.09038</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07646.html">WaSP: Wasserstein Data Synthesis Pipeline for Solver-Free Operator Learning</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
 <td>Ryan Liu et al.</td>
@@ -620,11 +626,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12286.html">PatternFormer: Learning Multiple Solution Patterns in Reaction--Diffusion Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Zhipeng Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12286">2608.12286</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09764.html">MoNo: Multiscale Optimal Transport Neural Operator for Solving PDEs on General Geometries</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Zijiang Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09764">2608.09764</a></td>
 </tr>
 </tbody></table>

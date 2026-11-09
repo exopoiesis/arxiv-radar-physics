@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>remote-sensing — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03382.html">ASCoR: Asymmetric Semantic-Spatial Learning for Remote Sensing Domain Generalization</a></div></td>
 <td>Zitong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.03382">2611.03382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02211.html">Forecasting Earth Surface Change in Embedding Space</a></div></td>
-<td>Jingtao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02211">2611.02211</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">406 papers</span>
+  <span class="paper-count">404 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2438,17 +2438,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22573.html">FNOPE: Simulation-based inference on function spaces with Fourier Neural Operators</a></div></td>
 <td>Guy Moss et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22573">2505.22573</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14795.html">A Bayesian Approach to Segmentation with Noisy Labels via Spatially Correlated Distributions</a></div><div class="paper-tags"><a href="remote-sensing-360d.html">remote-sensing</a></div></td>
-<td>Ryu Tadokoro et al.</td>
-<td><a href="http://arxiv.org/abs/2504.14795">2504.14795</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.21087.html">Fast and accurate parameter estimation of high-redshift sources with the Einstein Telescope</a></div><div class="paper-tags"><a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Filippo Santoliquido et al.</td>
-<td><a href="http://arxiv.org/abs/2504.21087">2504.21087</a></td>
 </tr>
 </tbody></table>

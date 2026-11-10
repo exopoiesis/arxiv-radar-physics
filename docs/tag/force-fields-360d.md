@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>force-fields — 360d</h1>
-  <span class="paper-count">89 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <a href="force-fields-30d.html">30d</a> <a href="force-fields-90d.html">90d</a> <strong>360d</strong> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -542,11 +542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12420.html">Chemical-space completeness: a new strategy for crystalline materials exploration</a></div></td>
 <td>Fengyu Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12420">2511.12420</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11361.html">Toward Multi-Fidelity Machine Learning Force Field for Cathode Materials</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Guangyi Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11361">2511.11361</a></td>
 </tr>
 </tbody></table>

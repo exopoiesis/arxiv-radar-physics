@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>remote-sensing — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05569.html">Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds</a></div></td>
 <td>Krishnakumar N et al.</td>
 <td><a href="http://arxiv.org/abs/2611.05569">2611.05569</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03382.html">ASCoR: Asymmetric Semantic-Spatial Learning for Remote Sensing Domain Generalization</a></div></td>
-<td>Zitong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.03382">2611.03382</a></td>
 </tr>
 </tbody></table>

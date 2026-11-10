@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,23 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05735.html">Self-Supervised Learning of Universal Latent Spaces for Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Sepehr Mousavi et al.</td>
 <td><a href="http://arxiv.org/abs/2611.05735">2611.05735</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02427.html">Architecture-Aware Mixed Precision for Replica-Exchange Training of Geometry-Aware Neural Operators with Uncertainty Quantification</a></div><div class="paper-tags"><a href="scientific-machine-learning-7d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Ujin Jeon et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02427">2611.02427</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03411.html">Low-Rank Clebsch--Gordan Coupling for Equivariant Spherical Forecasting</a></div></td>
-<td>Yaojun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2611.03411">2611.03411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03595.html">DynaSolver: A Neural Operator for Autoregressive 4D Flow Prediction with Dynamic Boundaries</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a></div></td>
-<td>Rui Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2611.03595">2611.03595</a></td>
 </tr>
 </tbody></table>

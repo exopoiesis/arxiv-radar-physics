@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>pinns — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05659.html">Adaptive Domain Decomposition for Finite Basis Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
 <td>Sarah Helfert et al.</td>
 <td><a href="http://arxiv.org/abs/2611.05659">2611.05659</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02622.html">Derivation of Novel Isotropic Metamaterials at the Hashin Shtrikman Stiffness Limit Enabled by Physics Informed Neural Networks</a></div></td>
-<td>Manish Kumar Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02622">2611.02622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02800.html">A Legendre-Based Modified Extreme Learning Machine for Convection-Diffusion Equations: Steady-State, Continuous-Time, and Discrete-Time Formulations</a></div></td>
-<td>Gadade Navnath Ankush et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02800">2611.02800</a></td>
 </tr>
 </tbody></table>

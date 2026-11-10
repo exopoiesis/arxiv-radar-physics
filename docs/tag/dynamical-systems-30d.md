@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16236.html">From Simulated Fluids to Living Tissue: Zero-Shot Foundation Model Transfer to Perturbed Embryos</a></div></td>
 <td>Louisa Cornelis et al.</td>
 <td><a href="http://arxiv.org/abs/2610.16236">2610.16236</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15111.html">Energy-Guided Learning for Heat Equation with Noisy Source: Optimal Estimation and Generalization Bounds</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Zixiang Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15111">2610.15111</a></td>
 </tr>
 </tbody></table>

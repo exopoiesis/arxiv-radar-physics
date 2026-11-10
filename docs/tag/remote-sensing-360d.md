@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">482 papers</span>
+  <span class="paper-count">481 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2900,11 +2900,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12040.html">Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing</a></div></td>
 <td>Bingyu Li et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12040">2509.12040</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11880.html">Transformers vs. Recurrent Models for Estimating Forest Gross Primary Production</a></div></td>
-<td>David Montero et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11880">2511.11880</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">522 papers</span>
+  <span class="paper-count">520 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3134,17 +3134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12613.html">Quantum Orthogonal Separable Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Pietro Zanotta et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12613">2511.12613</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03679.html">Streaming Generated Gaussian Process Experts for Online Learning and Control: Extended Version</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Zewen Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03679">2508.03679</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04534.html">Uncertainty Quantification for Reduced-Order Surrogate Models Applied to Cloud Microphysics</a></div><div class="paper-tags"><a href="rom-360d.html">rom</a></div></td>
-<td>Jonas E. Katona et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04534">2511.04534</a></td>
 </tr>
 </tbody></table>

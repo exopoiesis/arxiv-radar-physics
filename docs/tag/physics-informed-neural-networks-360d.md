@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">597 papers</span>
+  <span class="paper-count">591 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3560,41 +3560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12788.html">Physics-Constrained Adaptive Neural Networks Enable Real-Time Semiconductor Manufacturing Optimization with Minimal Training Data</a></div></td>
 <td>Rubén Darío Guerrero</td>
 <td><a href="http://arxiv.org/abs/2511.12788">2511.12788</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19662.html">Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Amanda A. Howard et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19662">2406.19662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20155.html">Leveraging Lie Group Symmetries to Enhance Physics-Informed Neural Networks for the Fundamental Solution of Linear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Xiaopei Jiao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20155">2407.20155</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07379.html">Representation Meets Optimization: Training PINNs and PIKANs for Gray-Box Discovery in Systems Pharmacology</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Nazanin Ahmadi Daryakenari et al.</td>
-<td><a href="http://arxiv.org/abs/2504.07379">2504.07379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04966.html">Neuro-Spectral Architectures for Causal Physics-Informed Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Arthur Bizzi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04966">2509.04966</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09192.html">Augmented data and neural networks for robust epidemic forecasting: application to COVID-19 in Italy</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Giacomo Dimarco et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09192">2510.09192</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11137.html">One-Shot Transfer Learning for Nonlinear PDEs with Perturbative PINNs</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Samuel Auroy et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11137">2511.11137</a></td>
 </tr>
 </tbody></table>

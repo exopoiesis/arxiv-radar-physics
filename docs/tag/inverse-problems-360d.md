@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">423 papers</span>
+  <span class="paper-count">420 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2534,23 +2534,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14667.html">High-resolution weak lensing mass mapping from DES-Y3 data using diffusion-based prior</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Supranta S. Boruah et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14667">2511.14667</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07379.html">Representation Meets Optimization: Training PINNs and PIKANs for Gray-Box Discovery in Systems Pharmacology</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Nazanin Ahmadi Daryakenari et al.</td>
-<td><a href="http://arxiv.org/abs/2504.07379">2504.07379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27439.html">Self-Diffusion Driven Blind Imaging</a></div></td>
-<td>Yanlong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27439">2510.27439</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11415.html">Differentiation Strategies for Acoustic Inverse Problems: Admittance Estimation and Shape Optimization</a></div></td>
-<td>Nikolas Borrel-Jensen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11415">2511.11415</a></td>
 </tr>
 </tbody></table>

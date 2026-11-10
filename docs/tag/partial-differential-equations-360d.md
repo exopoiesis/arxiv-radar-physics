@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">759 papers</span>
+  <span class="paper-count">756 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4550,23 +4550,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11997.html">Imitation Learning with Safety and L2 Stability Certificates for Boundary Control of Reaction-Diffusion PDEs</a></div></td>
 <td>Paulo Henrique Foganholo Biazetto et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11997">2511.11997</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20155.html">Leveraging Lie Group Symmetries to Enhance Physics-Informed Neural Networks for the Fundamental Solution of Linear PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Xiaopei Jiao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20155">2407.20155</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04966.html">Neuro-Spectral Architectures for Causal Physics-Informed Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Arthur Bizzi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04966">2509.04966</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11137.html">One-Shot Transfer Learning for Nonlinear PDEs with Perturbative PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Samuel Auroy et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11137">2511.11137</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ligo — 360d</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <strong>360d</strong> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -452,11 +452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13324.html">Sub-Solar Mass Intermediate Mass Ratio Inspirals: Waveform Systematics and Detection Prospects with Gravitational Waves</a></div></td>
 <td>Devesh Giri et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13324">2511.13324</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11795.html">Non-Parametric Reconstruction of the Hubble Parameter from the Fourth Gravitational Wave Transient Catalog and DESI Baryonic Acoustic Oscillations</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a> · <a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Grégoire Pierra et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11795">2511.11795</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">654 papers</span>
+  <span class="paper-count">651 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3920,23 +3920,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12316.html">BlinDNO: A Distributional Neural Operator for Dynamical System Reconstruction from Time-Label-Free data</a></div></td>
 <td>Zhijun Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12316">2511.12316</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03679.html">Streaming Generated Gaussian Process Experts for Online Learning and Control: Extended Version</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Zewen Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03679">2508.03679</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11026.html">Region of Attraction Estimate Learning and Verification for Nonlinear Systems using Neural-Network-based Lyapunov Functions</a></div></td>
-<td>Adel Bechihi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11026">2511.11026</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11150.html">Nonequilibrium Thermodynamics of Associative Memory Continuous-Time Recurrent Neural Networks</a></div></td>
-<td>Miguel Aguilera et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11150">2511.11150</a></td>
 </tr>
 </tbody></table>

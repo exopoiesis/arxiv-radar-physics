@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">542 papers</span>
+  <span class="paper-count">546 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10251.html">TORNADO: Adaptive Latent Stochastic Transport for Calibrated Probabilistic PDE Forecasting</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Jorge Mifsut-Benet et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10251">2611.10251</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13389.html">AdjointFlow: Accelerating Scientific Inverse Problems with Physics-Based Transport</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Ethan Hanold et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13389">2611.13389</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12107.html">Geometry and Stochastic Analysis of Flow and Diffusion Models: A Survey</a></div></td>
+<td>Ehsan Mirafzali et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12107">2611.12107</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10517.html">Spatiotemporal Energy Consistency Enables Reliable Coarse-Grained Molecular Dynamics from Diffusion Models</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a></div></td>
+<td>Yang Nie et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10517">2611.10517</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09142.html">Learning Generative Dynamics for 3D Molecule Generation via Sequential Neuro-Symbolic Constraints</a></div></td>
+<td>Zhuoran Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09142">2611.09142</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07845.html">Masked diffusion as random sequential adsorption: an exactly solvable model for parallel decoding</a></div></td>
@@ -3260,11 +3290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14871.html">Squeezed Diffusion Models</a></div></td>
 <td>Jyotirmai Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2508.14871">2508.14871</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05178.html">Associative Memory and Generative Diffusion in the Zero-noise Limit</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Joshua Hess et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05178">2506.05178</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09679.html">Autonomous Particle Image Velocimetry Using Zero-Shot Sim-to-Real Reinforcement Learning</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
+<td>Chang Rajani et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09679">2611.09679</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04571.html">Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models</a></div><div class="paper-tags"><a href="rans-30d.html">rans</a></div></td>
 <td>Andrea Cenzato et al.</td>
@@ -110,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23087.html">Geometry-Aware Latent Representation Learning for Drag Coefficient Prediction of Irregular Particles</a></div></td>
 <td>Zihao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2610.23087">2610.23087</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15885.html">Comparative Study of Canvas- and Coordinate-Based Geometry-Conditioned Neural Networks for Real-Time Prediction of Indoor Environments with Varying Room Dimensions</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-30d.html">computational-fluid-dynamics</a></div></td>
-<td>Shaofan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15885">2610.15885</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13510.html">Distribution Shift Detection in Remote Sensing Imagery using Machine Learning Models</a></div></td>
+<td>Abdullah Almansour et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13510">2611.13510</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13046.html">SpatialSR: Spatial Resolution-Centric Pipeline for Arbitrary-Scale Remote Sensing Super-Resolution</a></div></td>
+<td>Yan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13046">2611.13046</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07433.html">MP-DualNet: A Dual-Branch Deep Learning Approach for Magnetopause Boundary Detection Using Simulated SXI Images</a></div></td>
 <td>Cheng Zhong et al.</td>
@@ -26,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08003.html">When GeoFMs Meet VHR: Benchmarking Foundation Models on Very High Resolution Earth Observation Imagery</a></div></td>
 <td>Kshitij Raj Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2611.08003">2611.08003</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08561.html">Towards Label-Efficient Geospatial Foundation Model Adaptation via Positive-Unlabeled Learning for Building Damage Mapping</a></div></td>
+<td>Hengwei Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08561">2611.08561</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-04</td>
@@ -356,23 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14281.html">Learning to Forecast Crop Growth from Earth Observation Data</a></div></td>
 <td>Dominik Senti et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14281">2608.14281</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11748.html">Dual Modality Prompted Diffusion Priors for Zero Shot Hyperspectral Pansharpening</a></div></td>
-<td>Pengwei Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11748">2608.11748</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12001.html">Remote Sensing and Machine Learning-Based Analysis of Land Use and Vegetation Change in Dhaka District, Bangladesh</a></div></td>
-<td>Muhammad Masud Tarek et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12001">2608.12001</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12300.html">Quantum-limited imaging using diffractive optical neural networks</a></div></td>
-<td>Aakash Warke et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12300">2608.12300</a></td>
 </tr>
 </tbody></table>

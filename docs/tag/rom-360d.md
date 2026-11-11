@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rom — 360d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <a href="rom-30d.html">30d</a> <a href="rom-90d.html">90d</a> <strong>360d</strong> <a href="rom-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11129.html">On-the-Fly Reduced Bases Through the Lens of Augmented Krylov Methods</a></div></td>
+<td>Philippe-André Luneau</td>
+<td><a href="http://arxiv.org/abs/2611.11129">2611.11129</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10491.html">A Trajectory-Aware Domain-Decomposed Multispace Reduced Basis Preconditioner for Parametric Helmholtz Problems</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>An Ping et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10491">2611.10491</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02787.html">POD-CNF: reduced order modeling of parametrized stochastic PDEs via normalizing flows and proper orthogonal decomposition</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>

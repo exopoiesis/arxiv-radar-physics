@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>scientific-discovery — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,27 +16,39 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12184.html">Blind Variation, Selective Retention: Improving Creative Idea Generation in AI Scientists</a></div><div class="paper-tags"><a href="anomaly-detection-7d.html">anomaly-detection</a></div></td>
+<td>Guowei Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12184">2611.12184</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12871.html">Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection</a></div><div class="paper-tags"><a href="anomaly-detection-7d.html">anomaly-detection</a></div></td>
+<td>Amey Pasarkar et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12871">2611.12871</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12958.html">Embodied Science Agents: Making Embodied Experimental Design Learnable</a></div></td>
+<td>Yihang Che et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12958">2611.12958</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08922.html">Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data</a></div></td>
+<td>Robbie Holland et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08922">2611.08922</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09013.html">KnowEvo: Knowledge Evolution for Protein Optimization</a></div></td>
+<td>Zijie Xing et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09013">2611.09013</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06263.html">CLEAR: Structured Specifications for Controllable Long-Horizon ML Research Engineering</a></div></td>
 <td>Xin Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.06263">2611.06263</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01449.html">CONFIRM: Governing Scientific Reporting for Trustworthy Agentic Neuroimaging</a></div></td>
-<td>Yuxiang Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2611.01449">2611.01449</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05207.html">Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning</a></div></td>
-<td>Juan Guevara et al.</td>
-<td><a href="http://arxiv.org/abs/2611.05207">2611.05207</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05439.html">Learning Implicit Solves for Dynamic Simulations</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
-<td>Chawit Kaewnuratchadasorn et al.</td>
-<td><a href="http://arxiv.org/abs/2611.05439">2611.05439</a></td>
 </tr>
 </tbody></table>

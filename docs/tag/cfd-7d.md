@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>cfd — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,21 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04571.html">Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models</a></div><div class="paper-tags"><a href="rans-7d.html">rans</a></div></td>
-<td>Andrea Cenzato et al.</td>
-<td><a href="http://arxiv.org/abs/2611.04571">2611.04571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05171.html">AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed Fusion</a></div></td>
-<td>Olabode T. Ajenifujah et al.</td>
-<td><a href="http://arxiv.org/abs/2611.05171">2611.05171</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05758.html">Mechanical Engineering Skills: An Open Library of Agent Skills for Design, Analysis and Manufacturing</a></div><div class="paper-tags"><a href="equation-discovery-7d.html">equation-discovery</a></div></td>
-<td>Achuth Chandrasekhar et al.</td>
-<td><a href="http://arxiv.org/abs/2611.05758">2611.05758</a></td>
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09679.html">Autonomous Particle Image Velocimetry Using Zero-Shot Sim-to-Real Reinforcement Learning</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a></div></td>
+<td>Chang Rajani et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09679">2611.09679</a></td>
 </tr>
 </tbody></table>

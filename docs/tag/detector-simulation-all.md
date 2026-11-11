@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>detector-simulation — all</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="detector-simulation-7d.html">7d</a> <a href="detector-simulation-30d.html">30d</a> <a href="detector-simulation-90d.html">90d</a> <a href="detector-simulation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08606.html">Just CaloCHILL: fast hadronic shower generation in a learned latent space</a></div></td>
+<td>Henry Day-Hall et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08606">2611.08606</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06159.html">Learning Astrophysical Uncertainties in Dark Matter Direct Detection with Simulation-Based Inference</a></div></td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">520 papers</span>
+  <span class="paper-count">526 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10251.html">TORNADO: Adaptive Latent Stochastic Transport for Calibrated Probabilistic PDE Forecasting</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
+<td>Jorge Mifsut-Benet et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10251">2611.10251</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13624.html">Multifidelity Operator Inference for Non-intrusive Model Reduction under Data Scarcity</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Vivian Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13624">2611.13624</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10491.html">A Trajectory-Aware Domain-Decomposed Multispace Reduced Basis Preconditioner for Parametric Helmholtz Problems</a></div><div class="paper-tags"><a href="rom-360d.html">rom</a></div></td>
+<td>An Ping et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10491">2611.10491</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10563.html">Confronting Uncertainty in Mechanism-AI Coupled Dynamical Systems via Optimal Transport and Information Geometry: Part I. Distribution Learning</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
+<td>Pengfei Song et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10563">2611.10563</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09325.html">Physics Informed Priors for Machine Learning Interatomic Potentials with Uncertainty Quantification</a></div><div class="paper-tags"><a href="machine-learning-interatomic-potentials-360d.html">machine-learning-interatomic-potentials</a></div></td>
+<td>George I. Simmons et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09325">2611.09325</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10210.html">Laplace approximation of the parameter posterior with embedded error for efficient uncertainty quantification of expensive model calibrations</a></div></td>
+<td>Reese E. Jones et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10210">2611.10210</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08068.html">Intensity-Based Estimation of Extreme Value Models for Highly Censored Data via a Latent Poisson Process</a></div></td>

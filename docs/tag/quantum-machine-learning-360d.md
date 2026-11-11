@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">472 papers</span>
+  <span class="paper-count">475 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13815.html">Adaptive Policy-Guided Error Mitigation (APGEM): A Unified Learning-Based Framework for Noise Resilience in Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
+<td>Bisma Majid et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13815">2611.13815</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13103.html">Which data samples matter when training a quantum model?</a></div></td>
+<td>M. Emre Sahin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13103">2611.13103</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09253.html">Evaluation of Quantum Machine Learning Models for Network Anomaly Detection</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="qml-360d.html">qml</a></div></td>
+<td>Swathi Chandrasekhar et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09253">2611.09253</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08461.html">Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems</a></div></td>

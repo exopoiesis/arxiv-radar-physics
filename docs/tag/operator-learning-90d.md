@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10945.html">CoupledFlow: One-Step Neural Operators for Coupled Multi-Physics PDEs</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Trong Khiem Tran et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10945">2611.10945</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09038.html">Function-Space Certification for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
 <td>Ryan Hsiang et al.</td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08001.html">LithoSAGE: Spatially Adaptive and Geometrically Equivariant Neural Operators for Computational Lithography</a></div></td>
 <td>Ke Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2611.08001">2611.08001</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10051.html">All roads lead to Markov kernel networks: A representation theorem for discretization-stable learning</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>S David Mis et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10051">2611.10051</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-04</td>
@@ -308,17 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15157.html">Plasolver: Physics-Informed Neural Operators for Elastoplasticity</a></div></td>
 <td>Yizheng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15157">2608.15157</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11661.html">Low-Interaction-Rank Learning: Unifying Multiplicative Dual-Encoder Heads</a></div></td>
-<td>Zijian Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11661">2608.11661</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11831.html">Kernel Methods for Learning Operators with Multiple Inputs and Outputs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Adrien Weihs et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11831">2608.11831</a></td>
 </tr>
 </tbody></table>

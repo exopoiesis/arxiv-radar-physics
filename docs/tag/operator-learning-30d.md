@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>operator-learning — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <strong>30d</strong> <a href="operator-learning-90d.html">90d</a> <a href="operator-learning-360d.html">360d</a> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10945.html">CoupledFlow: One-Step Neural Operators for Coupled Multi-Physics PDEs</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Trong Khiem Tran et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10945">2611.10945</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09038.html">Function-Space Certification for Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="weather-forecasting-30d.html">weather-forecasting</a></div></td>
@@ -26,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08001.html">LithoSAGE: Spatially Adaptive and Geometrically Equivariant Neural Operators for Computational Lithography</a></div></td>
 <td>Ke Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2611.08001">2611.08001</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10051.html">All roads lead to Markov kernel networks: A representation theorem for discretization-stable learning</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>S David Mis et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10051">2611.10051</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-04</td>
@@ -98,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18939.html">Wong--Zakai Convergence and FNO Learning for Stochastic Volterra Equations</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
 <td>Wonjae Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2610.18939">2610.18939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15931.html">Mesh-Free Convolution: Learned Spectral Attenuation and Transport</a></div><div class="paper-tags"><a href="inductive-bias-30d.html">inductive-bias</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Niloufar Zakariaei et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15931">2610.15931</a></td>
 </tr>
 </tbody></table>

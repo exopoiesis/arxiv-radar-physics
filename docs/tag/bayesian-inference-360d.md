@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">403 papers</span>
+  <span class="paper-count">404 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12422.html">Two-Phase Rapid Simulation-Based Inference with Differentiable Simulators</a></div></td>
+<td>Uros Zivanovic et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12422">2611.12422</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10563.html">Confronting Uncertainty in Mechanism-AI Coupled Dynamical Systems via Optimal Transport and Information Geometry: Part I. Distribution Learning</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Pengfei Song et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10563">2611.10563</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06154.html">Statistical mechanics and hierarchy of learnability in quantum codes: From generalized symmetries to non-Abelian topological orders</a></div></td>
@@ -2426,11 +2438,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13265.html">TransFit-CSM: A Fast, Physically Consistent Framework for Interaction-Powered Transients</a></div></td>
 <td>Yu-Hao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13265">2511.13265</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05954.html">MatBYIB: A Matlab-based code for Bayesian inference of extreme mass-ratio inspiral binary with arbitrary eccentricity</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Gen-Liang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05954">2506.05954</a></td>
 </tr>
 </tbody></table>

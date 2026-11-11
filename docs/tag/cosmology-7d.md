@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05157.html">Macrocanonical Generator Networks: Data-Efficient Neural Surrogates for Amortized Physics Simulation</a></div><div class="paper-tags"><a href="scientific-machine-learning-7d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Niall Jeffrey et al.</td>
-<td><a href="http://arxiv.org/abs/2611.05157">2611.05157</a></td>
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10228.html">FAIR Universe Weak Lensing ML Uncertainty Challenge: Dataset and Cosmological Inference Competition</a></div></td>
+<td>Biwei Dai et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10228">2611.10228</a></td>
 </tr>
 </tbody></table>

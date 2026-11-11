@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">651 papers</span>
+  <span class="paper-count">658 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,64 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11921.html">An Evaluation of Tabular Foundation Models as Training-Free World Models</a></div></td>
+<td>Xian Yeow Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11921">2611.11921</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12156.html">The balance between feature learning and collapse in dynamical systems-based generative models</a></div></td>
+<td>Julian Brandon et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12156">2611.12156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12401.html">Data-Driven Conservation Laws for Newtonian Systems: Physics-Informed Neural Networks and Eisenhart-Duval Geometry</a></div></td>
+<td>Andronikos Paliathanasis</td>
+<td><a href="http://arxiv.org/abs/2611.12401">2611.12401</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11050.html">Floquet-Parameterized Koopman-MPC for Tracking Periodic Orbits</a></div></td>
+<td>Kartik A. Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11050">2611.11050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11119.html">Scalable Neural Safety Certification via Monotonicity</a></div></td>
+<td>Amirreza Alavi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11119">2611.11119</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11257.html">Learning calibrated probabilistic forecasts using Koopman mode decomposition and the continuous ranked probability score</a></div></td>
+<td>Benjamin M. Kent et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11257">2611.11257</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11526.html">A Stability Analysis of AdamW: Unstable Equilibria and Non-Convergence</a></div></td>
+<td>Baiyu Su et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11526">2611.11526</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10563.html">Confronting Uncertainty in Mechanism-AI Coupled Dynamical Systems via Optimal Transport and Information Geometry: Part I. Distribution Learning</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Pengfei Song et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10563">2611.10563</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09317.html">Stable probabilistic emulation of partially observed dynamical systems</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
 <td>Mario Massy et al.</td>
 <td><a href="http://arxiv.org/abs/2611.09317">2611.09317</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09767.html">From PAC bounds on the generalization error to PAC bounds on the parameter estimation error</a></div></td>
+<td>Mihaly Petreczky et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09767">2611.09767</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-05</td>
@@ -3908,17 +3962,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00043.html">Physics-Informed Neural Network Frameworks for the Analysis of Engineering and Biological Dynamical Systems Governed by Ordinary Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Tyrus Whitman et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00043">2511.00043</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05178.html">Associative Memory and Generative Diffusion in the Zero-noise Limit</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Joshua Hess et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05178">2506.05178</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12316.html">BlinDNO: A Distributional Neural Operator for Dynamical System Reconstruction from Time-Label-Free data</a></div></td>
-<td>Zhijun Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12316">2511.12316</a></td>
 </tr>
 </tbody></table>

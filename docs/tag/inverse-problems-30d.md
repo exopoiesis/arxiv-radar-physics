@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13389.html">AdjointFlow: Accelerating Scientific Inverse Problems with Physics-Based Transport</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a> · <a href="diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Ethan Hanold et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13389">2611.13389</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10865.html">Neural Operator Surrogates for Landweber Iteration in Solving Inverse Problems</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a> · <a href="neural-operators-30d.html">neural-operators</a></div></td>
+<td>Kuo Gai et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10865">2611.10865</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09723.html">Fixed-point acceleration on Neural Wasserstein manifolds</a></div></td>
+<td>Vitalii Aksenov et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09723">2611.09723</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07894.html">A Passive Intelligent Metasurface: A Network Model</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neural-operators — 90d</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">112 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <strong>90d</strong> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,82 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13989.html">Beyond Fourier and Laplace: The Hankel Neural Operator for Learning Solution Operators of Differential Equations</a></div></td>
+<td>Biswanath Barman et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13989">2611.13989</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13991.html">Universal Approximation Theorem for Metaplectic Neural Operators</a></div></td>
+<td>Ahmed Abdeljawad et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13991">2611.13991</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11805.html">Operator Learning of Microstructure-Dependent Internal-Variable Models for Inelastic Homogenization: Approximation and Complexity</a></div></td>
+<td>Lianghao Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11805">2611.11805</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11252.html">ALETHEIA: A Multi-Frequency Eddy Current Pulsed Thermography Dataset for Neural Operator Learning in Nondestructive Testing</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Changbin Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11252">2611.11252</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10865.html">Neural Operator Surrogates for Landweber Iteration in Solving Inverse Problems</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Kuo Gai et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10865">2611.10865</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10945.html">CoupledFlow: One-Step Neural Operators for Coupled Multi-Physics PDEs</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>Trong Khiem Tran et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10945">2611.10945</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09038.html">Function-Space Certification for Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
 <td>Ryan Hsiang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.09038">2611.09038</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09567.html">TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
+<td>Jarno Platenburg et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09567">2611.09567</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09621.html">BiLoGo: Reducing the smoothing of localised responses in Transformer-based neural operators for sheet forming</a></div></td>
+<td>Yingxue Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09621">2611.09621</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10217.html">Rethinking How to Leverage Cheap Physics for Data-Efficient Neural Operators</a></div></td>
+<td>Shuo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10217">2611.10217</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07646.html">WaSP: Wasserstein Data Synthesis Pipeline for Solver-Free Operator Learning</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
 <td>Ryan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.07646">2611.07646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10029.html">State and spatial completion of 1D premixed flames for hydrogen and methane combustion</a></div></td>
+<td>Federico Rios Tascon et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10029">2611.10029</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10051.html">All roads lead to Markov kernel networks: A representation theorem for discretization-stable learning</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a></div></td>
+<td>S David Mis et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10051">2611.10051</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-04</td>
@@ -620,11 +686,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14120.html">From Fixed Grids to Moving Particles:A Transferable Latent Operator for Fluid Dynamics</a></div></td>
 <td>Meng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14120">2608.14120</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12286.html">PatternFormer: Learning Multiple Solution Patterns in Reaction--Diffusion Systems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
-<td>Zhipeng Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12286">2608.12286</a></td>
 </tr>
 </tbody></table>

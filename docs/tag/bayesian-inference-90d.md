@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12422.html">Two-Phase Rapid Simulation-Based Inference with Differentiable Simulators</a></div></td>
+<td>Uros Zivanovic et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12422">2611.12422</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10563.html">Confronting Uncertainty in Mechanism-AI Coupled Dynamical Systems via Optimal Transport and Information Geometry: Part I. Distribution Learning</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Pengfei Song et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10563">2611.10563</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06154.html">Statistical mechanics and hierarchy of learnability in quantum codes: From generalized symmetries to non-Abelian topological orders</a></div></td>
 <td>Hiromi Ebisu et al.</td>
@@ -440,17 +452,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12940.html">Newtrinos.jl: A Julia Package for Global Analysis of Neutrino Data</a></div></td>
 <td>Philipp Eller et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12940">2608.12940</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12309.html">A contiguity approach to replica symmetric marginals</a></div></td>
-<td>Ernesto Mordecki et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12309">2608.12309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12640.html">Interpretable Causal Discovery via Causal-Effect Constraints</a></div></td>
-<td>Cixuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12640">2608.12640</a></td>
 </tr>
 </tbody></table>

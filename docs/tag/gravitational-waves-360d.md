@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08880.html">A pipeline for identifying astrophysical signals and instrumental glitches in LISA data</a></div></td>
+<td>Aryamann Rao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08880">2611.08880</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30673.html">A 13 Year Black Hole Microlensing Survey in Omega Centauri</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
 <td>Zack Freeman et al.</td>
@@ -410,11 +416,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14997.html">A Neural Network Approach to Preferred Event Selection for Low-Latency Gravitational-Wave Alerts</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
 <td>Pratyusava Baral et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14997">2511.14997</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05954.html">MatBYIB: A Matlab-based code for Bayesian inference of extreme mass-ratio inspiral binary with arbitrary eccentricity</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Gen-Liang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05954">2506.05954</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,23 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18460.html">Constraints on the cosmic reheating history from PTA data</a></div><div class="paper-tags"><a href="dark-matter-30d.html">dark-matter</a></div></td>
 <td>Qi-Lin Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.18460">2610.18460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17254.html">DEMOS I. A Bayesian inference framework to constrain disc evolution from observed demographics</a></div><div class="paper-tags"><a href="mhd-30d.html">mhd</a></div></td>
-<td>Lorenzo A. Malanga et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17254">2610.17254</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17284.html">DEMOS. II. What the full Lupus demographics truly tell us about protoplanetary disc evolution</a></div><div class="paper-tags"><a href="mhd-30d.html">mhd</a></div></td>
-<td>Lorenzo A. Malanga et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17284">2610.17284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17384.html">Measure Neural Mappings</a></div><div class="paper-tags"><a href="scientific-machine-learning-30d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Ricardo Baptista et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17384">2610.17384</a></td>
 </tr>
 </tbody></table>

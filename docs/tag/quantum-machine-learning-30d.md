@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,35 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17755.html">PADO-Pauli: A GPU-Accelerated Implementation of Pauli Propagation</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
 <td>Hyunwoo Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2610.17755">2610.17755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11360.html">When Does Interference Help Learning? Kernel Geometry as a Pre-Experimental Test for Photonic Reservoir Computing</a></div></td>
-<td>Oishik Kar et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11360">2610.11360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15998.html">A 4-Qubit Variational Quantum Classifier for Sequence-Specific Classification of DNMT3A and DNMT3B Flanking Methylation Preferences</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
-<td>Murat Isik et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15998">2610.15998</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16390.html">QBFF: Deep Quantum Bottleneck for Automatic Speaker Verification Anti-Spoofing</a></div></td>
-<td>Anton Firc et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16390">2610.16390</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17027.html">Benchmarking Quantum Kernel SVMs for Credit Card Fraud Detection: Performance Realities Under NISQ Constraints</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
-<td>Hitanshi Arora et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17027">2610.17027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17145.html">On the Computational Complexity of Blind Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
-<td>Rex Fleur et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17145">2610.17145</a></td>
 </tr>
 </tbody></table>

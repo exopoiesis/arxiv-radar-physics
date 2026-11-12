@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>symbolic-regression — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <strong>30d</strong> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,17 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18938.html">Beyond Equation Search: Conjecture-Guided Discovery with SCOPE and ClosureBench</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a> · <a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
 <td>Yuxiao Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.18938">2610.18938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16812.html">DASS: A Solver-Adaptable Dynamic Auxiliary Search Strategy for Symbolic Regression</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Yuxiao Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16812">2610.16812</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16891.html">AI-Assisted Tumor-Growth Law Discovery from Sparse Data: Refitting and LLM-Based Ranking</a></div></td>
-<td>Yitian Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16891">2610.16891</a></td>
 </tr>
 </tbody></table>

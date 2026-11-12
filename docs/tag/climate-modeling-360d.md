@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>climate-modeling — 360d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <a href="climate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="climate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16426.html">FreqFlow: Long-term forecasting using lightweight flow matching</a></div></td>
 <td>Seyed Mohamad Moghadas et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16426">2511.16426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12682.html">Attention-Enhanced Convolutional Autoencoder and Structured Delay Embeddings for Weather Prediction</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a> · <a href="rom-360d.html">rom</a></div></td>
-<td>Amirpasha Hedayat et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12682">2511.12682</a></td>
 </tr>
 </tbody></table>

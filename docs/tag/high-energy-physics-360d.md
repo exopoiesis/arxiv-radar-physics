@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>high-energy-physics — 360d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="high-energy-physics-7d.html">7d</a> <a href="high-energy-physics-30d.html">30d</a> <a href="high-energy-physics-90d.html">90d</a> <strong>360d</strong> <a href="high-energy-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,11 +212,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26574.html">Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics Research Benchmark</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
 <td>Minhui Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.26574">2509.26574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10540.html">Edge Machine Learning for Cluster Counting in Next-Generation Drift Chambers</a></div></td>
-<td>Deniz Yilmaz et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10540">2511.10540</a></td>
 </tr>
 </tbody></table>

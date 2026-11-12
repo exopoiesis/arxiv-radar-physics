@@ -5,9 +5,9 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-11-11._
+_Updated 2026-11-12._
 
-**21276** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**21278** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -111,6 +111,18 @@ _Updated 2026-11-11._
 <td><a href="http://arxiv.org/abs/2611.14058">2611.14058</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.14240.html">Beyond Accuracy: Physics-Informed Evaluation of ANN-based Power Flow Solvers under System Shift</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Dong Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14240">2611.14240</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.14266.html">Physics-Constrained Autoencoder for Interpretable Health Representation Learning in Turbofan Engines</a></div><div class="paper-tags"><a href="tag/inductive-bias-30d.html">inductive-bias</a></div></td>
+<td>Leonardo Baldo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14266">2611.14266</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.08904.html">MotionCore: A Latent Neural Simulator for Video Generation with Rigid-Body Dynamics</a></div></td>
 <td>Zheng Wang et al.</td>
@@ -181,17 +193,5 @@ _Updated 2026-11-11._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12106.html">Perils and opportunities of AI for public climate services</a></div></td>
 <td>Francesca Larosa et al.</td>
 <td><a href="http://arxiv.org/abs/2611.12106">2611.12106</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12107.html">Geometry and Stochastic Analysis of Flow and Diffusion Models: A Survey</a></div><div class="paper-tags"><a href="tag/diffusion-models-30d.html">diffusion-models</a></div></td>
-<td>Ehsan Mirafzali et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12107">2611.12107</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12156.html">The balance between feature learning and collapse in dynamical systems-based generative models</a></div><div class="paper-tags"><a href="tag/dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Julian Brandon et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12156">2611.12156</a></td>
 </tr>
 </tbody></table>

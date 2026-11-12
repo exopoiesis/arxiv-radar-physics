@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-error-correction — 360d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="quantum-error-correction-7d.html">7d</a> <a href="quantum-error-correction-30d.html">30d</a> <a href="quantum-error-correction-90d.html">90d</a> <strong>360d</strong> <a href="quantum-error-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,17 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11198.html">Learning to Restore Heisenberg Limit in Noisy Quantum Sensing via Quantum Digital Twin</a></div></td>
 <td>Hang Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11198">2508.11198</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12443.html">Machine Learning Framework for Efficient Prediction of Quantum Wasserstein Distance</a></div></td>
-<td>Changchun Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12443">2511.12443</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12482.html">Discovering autonomous quantum error correction via deep reinforcement learning</a></div></td>
-<td>Yue Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12482">2511.12482</a></td>
 </tr>
 </tbody></table>

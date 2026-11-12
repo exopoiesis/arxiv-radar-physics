@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-transitions — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <strong>30d</strong> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08755.html">Metastability and Sharp Propagation-of-Chaos Thresholds for Mean-Field Interacting Diffusions on the Circle</a></div></td>
 <td>Sayan Banerjee</td>
 <td><a href="http://arxiv.org/abs/2610.08755">2610.08755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17347.html">On the Statistical Mechanics of Attention</a></div></td>
-<td>Jerry Yao-Chieh Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17347">2610.17347</a></td>
 </tr>
 </tbody></table>

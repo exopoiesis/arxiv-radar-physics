@@ -7943,5 +7943,57 @@
    "Fluid Dynamics & Plasma Physics"
   ],
   "updated": "2026-11-10"
+ },
+ "2611.14240": {
+  "abstract": "Recent advances in artificial deep learning-based power flow (PF) solvers have primarily focused on improving estimation accuracy, while their physical feasibility and operational reliability under realistic system variations remain insufficiently evaluated. This paper proposes a physics-informed evaluation framework for deep learning-based PF solvers under topology and load distribution shifts. Beyond conventional voltage-domain errors, the framework incorporates KCL gaps, branch-flow gaps, KVL residuals, continuous feasibility scores, and strict, practical, and relaxed PF feasibility rates. Four case studies are designed to investigate topology shifts, mixed topology training, load distribution shifts, and combined topology distribution shifts. Eight ANN architectures, including graph input models, load-only baselines, and physics-informed neural networks, are evaluated under consistent settings. The results demonstrate that low estimation errors do not necessarily correspond to physically feasible or operationally reliable PF solutions, particularly under combined system shifts. The proposed framework establishes an initial foundation and analysis for the development and verification of trustworthy deep learning-based PF solvers, providing support for their reliable deployment in future AI-enabled power system analysis.",
+  "authors": [
+   "Dong Liu",
+   "Jochen Stiasny",
+   "Jochen Cremer",
+   "Pedro P. Vergara"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Dong Liu",
+  "pdf_url": "http://arxiv.org/pdf/2611.14240",
+  "primary_category": "eess.SY",
+  "published": "2026-11-10",
+  "tags": [
+   "physics-informed-neural-networks"
+  ],
+  "title": "Beyond Accuracy: Physics-Informed Evaluation of ANN-based Power Flow Solvers under System Shift",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.14266": {
+  "abstract": "Health Indices (HIs) summarize degradation from operational data and support diagnostic and prognostic tasks in Prognostics and Health Management (PHM). Their usefulness depends on capturing degradation and interpreting system condition. Autoencoders learn such representations from unlabelled monitoring data; however, when training is driven only by reconstruction, the physical meaning of latent variables remains undefined, limiting their interpretation and diagnostic value. This work proposes a physics-constrained autoencoder that embeds system knowledge as an inductive bias in the decoder architecture and as a learning bias in the loss function. The decoder contains differentiable physical equations that receive latent variables and operating conditions as inputs, structurally guiding each latent variable to represent a predefined physical quantity and enabling component-level analysis before aggregation into a system-level HI.The methodology is benchmarked on the N-CMAPSS dataset against alternative representations. Reconstruction reaches an $R^2$ of 0.9993 and an MAE of 0.0036, comparable to fully data-driven models. After operating-condition correction, the inferred physical quantities track degradation, and their aggregation produces an HI with a Spearman correlation of 0.9791 with the ground truth, an RMSE of 0.0286, and an MAE of 0.0233. The methodology is further evaluated using a single model trained across four datasets representing distinct degradation scenarios. This model preserves component-level signatures that distinguish compression-side from expansion-side degradation without diagnostic labels.Finally, the proposed framework enables degradation trends to be visualized on component maps, providing a health representation in a form familiar to engine operators and domain experts.",
+  "authors": [
+   "Leonardo Baldo",
+   "Jokin Alcibar Ibarzabal",
+   "Daniel Cisneros Acevedo",
+   "Kai Goebel",
+   "Manuel Arias Chao"
+  ],
+  "categories": [
+   "cs.LG",
+   "eess.SP"
+  ],
+  "comment": null,
+  "first_author": "Leonardo Baldo",
+  "pdf_url": "http://arxiv.org/pdf/2611.14266",
+  "primary_category": "cs.LG",
+  "published": "2026-11-10",
+  "tags": [
+   "inductive-bias"
+  ],
+  "title": "Physics-Constrained Autoencoder for Interpretable Health Representation Learning in Turbofan Engines",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-10"
  }
 }

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,11 +278,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20147.html">Online training of Echo State Networks to predict chaotic dynamical systems</a></div></td>
 <td>Astero Provata et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20147">2610.20147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16236.html">From Simulated Fluids to Living Tissue: Zero-Shot Foundation Model Transfer to Perturbed Embryos</a></div></td>
-<td>Louisa Cornelis et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16236">2610.16236</a></td>
 </tr>
 </tbody></table>

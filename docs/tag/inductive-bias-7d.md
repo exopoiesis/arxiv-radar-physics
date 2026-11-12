@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01680.html">Wave Physics as Representation: Tensor-Structured Neural Reconstruction for Ocean Acoustic Fields</a></div></td>
-<td>Yifan Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2611.01680">2611.01680</a></td>
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14266.html">Physics-Constrained Autoencoder for Interpretable Health Representation Learning in Turbofan Engines</a></div></td>
+<td>Leonardo Baldo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14266">2611.14266</a></td>
 </tr>
 </tbody></table>

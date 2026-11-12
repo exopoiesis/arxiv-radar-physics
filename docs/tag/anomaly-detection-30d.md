@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>anomaly-detection — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <strong>30d</strong> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,17 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18946.html">Physical Layer Anomaly Detection via Adaptive Gaussian Mixture Model</a></div></td>
 <td>Mamady Delamou et al.</td>
 <td><a href="http://arxiv.org/abs/2610.18946">2610.18946</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16982.html">A Quest for Changing-State AGNs</a></div></td>
-<td>Kasra Mokhtarpour et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16982">2610.16982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17241.html">Anomaly Detection in Bunch Oscillations for Early Warning of Sudden Beam Loss at SuperKEKB</a></div></td>
-<td>H. Haigh et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17241">2610.17241</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,23 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18850.html">Collaborative Planning for UAV-UGV Teams under Operational Constraints via Masked Error-bounded Neuro-Symbolic Diffusion</a></div></td>
 <td>Zihao Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.18850">2610.18850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16482.html">MiMaAlign: Hierarchical Micro-Macro Alignment for Physically Plausible Video Generation</a></div></td>
-<td>Yansong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16482">2610.16482</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16582.html">Characterizing and Mitigating Distributional Bias in Physics-Informed Generative Models</a></div></td>
-<td>Tanja Bien et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16582">2610.16582</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17001.html">MOSAIC: Mode- and Support-Aware Inference-Time Control of Robot Diffusion Models</a></div></td>
-<td>Sabrina Bodmer et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17001">2610.17001</a></td>
 </tr>
 </tbody></table>

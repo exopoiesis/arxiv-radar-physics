@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,35 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18938.html">Beyond Equation Search: Conjecture-Guided Discovery with SCOPE and ClosureBench</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a> · <a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
 <td>Yuxiao Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.18938">2610.18938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06269.html">Evolving in Thought Space: Training a Small Model at Test Time Unlocks Better Discoveries</a></div></td>
-<td>Chonghe Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06269">2610.06269</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16812.html">DASS: A Solver-Adaptable Dynamic Auxiliary Search Strategy for Symbolic Regression</a></div><div class="paper-tags"><a href="symbolic-regression-30d.html">symbolic-regression</a></div></td>
-<td>Yuxiao Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16812">2610.16812</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17246.html">LLM-to-Flow Distillation: Teaching Natural Language Goals to Scientific Generators</a></div></td>
-<td>Riccardo De Santi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17246">2610.17246</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17439.html">Large Language Models Extend Known Research But Do Not Create New Research Directions</a></div></td>
-<td>Zhihua Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17439">2610.17439</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17456.html">Compositional RL: Evaluating and Training LLMs for Collaborative Reasoning</a></div></td>
-<td>Shangbin Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17456">2610.17456</a></td>
 </tr>
 </tbody></table>

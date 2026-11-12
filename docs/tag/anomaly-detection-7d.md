@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>anomaly-detection — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09253.html">Evaluation of Quantum Machine Learning Models for Network Anomaly Detection</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a> · <a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
 <td>Swathi Chandrasekhar et al.</td>
 <td><a href="http://arxiv.org/abs/2611.09253">2611.09253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06911.html">BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories</a></div></td>
-<td>Fei Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2611.06911">2611.06911</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06990.html">ToroFit: Fitting Wedge Sums of Tori to High-Dimensional Data</a></div><div class="paper-tags"><a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
-<td>Tanishq Bhatia et al.</td>
-<td><a href="http://arxiv.org/abs/2611.06990">2611.06990</a></td>
 </tr>
 </tbody></table>

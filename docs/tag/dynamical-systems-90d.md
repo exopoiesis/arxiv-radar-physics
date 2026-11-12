@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dynamical-systems — 90d</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <strong>90d</strong> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,17 +662,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14019.html">Emergent Models: Intelligence from Tiny Substrates</a></div></td>
 <td>Giacomo Bocchese et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14019">2608.14019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13373.html">Data-driven linear analysis of dynamical systems via nonlinearity-subtracted dynamic mode decomposition</a></div></td>
-<td>Benjamin Herrmann et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13373">2608.13373</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14743.html">Generative Learning of Separatrices</a></div></td>
-<td>Ellis R. Crabtree et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14743">2608.14743</a></td>
 </tr>
 </tbody></table>

@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2611.14023">2611.14023</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14240.html">Beyond Accuracy: Physics-Informed Evaluation of ANN-based Power Flow Solvers under System Shift</a></div></td>
+<td>Dong Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14240">2611.14240</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11905.html">On the Global Convergence of Stochastic Adam for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
 <td>Yihang Gao</td>
@@ -194,11 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19254.html">Beyond Time Induction: Structured Conditional Neural Solvers for Parametric Stochastic-Volatility Pricing</a></div></td>
 <td>Jose Miguel Lara Rangel et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19254">2610.19254</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22390.html">Physics-informed Neural Networks Based on the Fokker-Planck Model for Rarefied Gas Flows</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Joonbeom Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22390">2610.22390</a></td>
 </tr>
 </tbody></table>

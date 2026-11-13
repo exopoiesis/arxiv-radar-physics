@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,17 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09767.html">From PAC bounds on the generalization error to PAC bounds on the parameter estimation error</a></div></td>
 <td>Mihaly Petreczky et al.</td>
 <td><a href="http://arxiv.org/abs/2611.09767">2611.09767</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07291.html">How do Transformers Perform Low-Level Control In-Context?</a></div></td>
-<td>Ebonye Smith et al.</td>
-<td><a href="http://arxiv.org/abs/2611.07291">2611.07291</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07860.html">Extending graph metrics to hyperspaces of vertex sets: optimization and reinforcement learning applications</a></div></td>
-<td>Natalia Jonard-Pérez et al.</td>
-<td><a href="http://arxiv.org/abs/2611.07860">2611.07860</a></td>
 </tr>
 </tbody></table>

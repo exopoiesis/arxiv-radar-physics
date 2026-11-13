@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">483 papers</span>
+  <span class="paper-count">477 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2876,41 +2876,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03475.html">Solving Imaging Inverse Problems Using Plug-and-Play Denoisers: Regularization and Optimization Perspectives</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Hong Ye Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03475">2509.03475</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18991.html">Fast Kernel-Space Diffusion for Remote Sensing Pansharpening</a></div></td>
-<td>Hancong Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18991">2505.18991</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02534.html">Enhancing Monocular Height Estimation via Weak Supervision from Imperfect Labels</a></div></td>
-<td>Sining Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02534">2506.02534</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04842.html">Efficient SAR Vessel Detection for FPGA-Based On-Satellite Sensing</a></div></td>
-<td>Colin Laganier et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04842">2507.04842</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10387.html">Physics informed Transformer-VAE for biophysical parameter estimation: PROSAIL model inversion in Sentinel-2 imagery</a></div></td>
-<td>Prince Mensah et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10387">2511.10387</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13507.html">Mapping the Vanishing and Transformation of Urban Villages in China</a></div></td>
-<td>Wenyu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13507">2511.13507</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13552.html">TSE-Net: Semi-supervised Monocular Height Estimation from Single Remote Sensing Images</a></div></td>
-<td>Sining Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13552">2511.13552</a></td>
 </tr>
 </tbody></table>

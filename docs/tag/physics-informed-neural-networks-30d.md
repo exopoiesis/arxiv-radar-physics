@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15678.html">Newton&#x27;s Method and Policy Iterations for Viscous Hamilton--Jacobi Equations</a></div></td>
+<td>Diogo A. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15678">2611.15678</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14023.html">PINNverse meets Jordan--Wigner: learning the Hamiltonian of long spin chains</a></div></td>
@@ -188,17 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22743.html">Fourier-Feature-Embedded Complex-Valued Physics-Informed Convolutional Residual Networks for Sparse and Gappy Noisy Flow-Field Reconstruction</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
 <td>Biswanath Barman et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22743">2610.22743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19058.html">Conformalized Physics-Informed Weak Regression for Parameter Estimation in Epidemic Models</a></div></td>
-<td>Allan Peter Engsig-Karup</td>
-<td><a href="http://arxiv.org/abs/2610.19058">2610.19058</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19254.html">Beyond Time Induction: Structured Conditional Neural Solvers for Parametric Stochastic-Volatility Pricing</a></div></td>
-<td>Jose Miguel Lara Rangel et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19254">2610.19254</a></td>
 </tr>
 </tbody></table>

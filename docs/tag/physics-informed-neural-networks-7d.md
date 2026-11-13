@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15678.html">Newton&#x27;s Method and Policy Iterations for Viscous Hamilton--Jacobi Equations</a></div></td>
+<td>Diogo A. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15678">2611.15678</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14023.html">PINNverse meets Jordan--Wigner: learning the Hamiltonian of long spin chains</a></div></td>
@@ -74,17 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09339.html">A scaled TW-PINN framework for soliton solutions of the Korteweg--de Vries equation</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
 <td>Seungwan Han et al.</td>
 <td><a href="http://arxiv.org/abs/2611.09339">2611.09339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07387.html">Projection-based segregated, iterative, and multi-stage physics-informed neural network for incompressible Navier-stokes equations</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Zhenyu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.07387">2611.07387</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07395.html">Rigorously Certified Neural-Network Computation of Nonlinear Water Waves at Near-Machine Precision</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
-<td>Michal Shavit et al.</td>
-<td><a href="http://arxiv.org/abs/2611.07395">2611.07395</a></td>
 </tr>
 </tbody></table>

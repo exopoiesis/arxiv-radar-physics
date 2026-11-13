@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,17 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21977.html">Learn Only Where You Can&#x27;t Compute: Structured Corrections to Gaussian Process Posteriors</a></div></td>
 <td>Tobias Weber et al.</td>
 <td><a href="http://arxiv.org/abs/2610.21977">2610.21977</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08652.html">Steering Diffusion Models to Rare Events with Sequential Monte Carlo</a></div></td>
-<td>Aavash Subedi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08652">2610.08652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18850.html">Collaborative Planning for UAV-UGV Teams under Operational Constraints via Masked Error-bounded Neuro-Symbolic Diffusion</a></div></td>
-<td>Zihao Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18850">2610.18850</a></td>
 </tr>
 </tbody></table>

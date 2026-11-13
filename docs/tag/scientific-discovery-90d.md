@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-discovery — 90d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">112 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <strong>90d</strong> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -686,23 +686,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16951.html">The Little Scientist: LLM Agent-Driven Discovery via the Scientific Method</a></div></td>
 <td>Travis Smith</td>
 <td><a href="http://arxiv.org/abs/2608.16951">2608.16951</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14354.html">ScienceFlow: A long-horizon agent for ML research, scientific discovery and beyond</a></div></td>
-<td>Mingming Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14354">2608.14354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14791.html">CEDAR-GRPO: Process-Aware Reinforcement Learning for General Abductive Reasoning in LLMs</a></div></td>
-<td>Moein Salimi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14791">2608.14791</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14905.html">How Do Agents Fail on AutoResearch: End-to-End Diagnostic Evaluation on 100 Real-World Frontier Research Tasks</a></div></td>
-<td>Yanlin Fei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14905">2608.14905</a></td>
 </tr>
 </tbody></table>

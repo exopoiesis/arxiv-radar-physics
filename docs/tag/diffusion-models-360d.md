@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">546 papers</span>
+  <span class="paper-count">544 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3278,17 +3278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14426.html">MiAD: Mirage Atom Diffusion for De Novo Crystal Generation</a></div></td>
 <td>Andrey Okhotin et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14426">2511.14426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.21385.html">Physics-Guided Image Dehazing Diffusion</a></div></td>
-<td>Shijun Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2504.21385">2504.21385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14871.html">Squeezed Diffusion Models</a></div></td>
-<td>Jyotirmai Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14871">2508.14871</a></td>
 </tr>
 </tbody></table>

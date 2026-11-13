@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <strong>30d</strong> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,17 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22691.html">Quantum-Classical Neural Networks for Solving Lindblad Master Equations</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
 <td>Rafael Florencio Díaz et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22691">2610.22691</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17722.html">Representation Geometry and Inductive Biases in Quantum Classifiers across Classical Visual Benchmarks</a></div><div class="paper-tags"><a href="qml-30d.html">qml</a></div></td>
-<td>Yu Yamaoka et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17722">2610.17722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17755.html">PADO-Pauli: A GPU-Accelerated Implementation of Pauli Propagation</a></div><div class="paper-tags"><a href="variational-quantum-algorithms-30d.html">variational-quantum-algorithms</a></div></td>
-<td>Hyunwoo Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17755">2610.17755</a></td>
 </tr>
 </tbody></table>

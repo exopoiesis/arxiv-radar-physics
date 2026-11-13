@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>anomaly-detection — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <strong>30d</strong> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,17 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19860.html">Text-Informed Training Data Filtering for Enhanced Virtual Flow Meter Performance</a></div></td>
 <td>Kristoffer Hjelmen Nesland et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19860">2610.19860</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12146.html">Harnessing Machine Learning for Ultrafast Science in Facility Settings: Opportunities and Challenges</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Mousumi Upadhyay Kahaly et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12146">2610.12146</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18946.html">Physical Layer Anomaly Detection via Adaptive Gaussian Mixture Model</a></div></td>
-<td>Mamady Delamou et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18946">2610.18946</a></td>
 </tr>
 </tbody></table>

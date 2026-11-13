@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-energy — 360d</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <strong>360d</strong> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,17 +662,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14667.html">High-resolution weak lensing mass mapping from DES-Y3 data using diffusion-based prior</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Supranta S. Boruah et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14667">2511.14667</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22990.html">How to embed any likelihood into SBI: Application to Planck + Stage IV galaxy surveys and Dynamical Dark Energy</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Guillermo Franco Abellán et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22990">2507.22990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13826.html">Aletheia: Emulating the non-linear matter power spectrum in the context of evolution mapping</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Ariel G. Sanchez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13826">2511.13826</a></td>
 </tr>
 </tbody></table>

@@ -7995,5 +7995,142 @@
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2026-11-10"
+ },
+ "2611.14561": {
+  "abstract": "A three-dimensional thermo-fluid-dynamic simulation of laser melting resolves the melt pool and vapor depression but costs from one to thousands of core-hours per track. We train FNO, RIGNO and GAOT neural operators that predict the temperature, melt-pool and free-surface fields. Our datasets comprise 3D temperature and melt geometry fields covering lack-of-fusion to keyhole conditions under varied laser power, scan speed, beam radius, beam shape and preheat, and include free-form scan paths with speed changes and up to four beams. We generate them with FLOW-3D WELD, using solver settings validated against published measurements for four materials. We implement an AiiDA framework to store the provenance of every simulation, model and evaluation, so each tabulated metric traces back to the solver and model inputs behind it. On held-out simulations, the best architecture scores below 2 % relative temperature error on quasi-steady straight tracks, below 4 % on single-beam free-form paths and about 5 % with two to four beams. Inference takes under a second per predicted arbitrary time step on our single-GPU setup. We extend a surrogate trained on Ti-6Al-4V to Inconel 718 by growing its training set autonomously, and the extended models reach a relative temperature error of about 3 % or less on both Inconel 718 and Ti-6Al-4V. At 20 Ti-6Al-4V and Inconel 718 conditions held out of training, the two-alloy RIGNO predicts melt-pool and vapor-depression depths within 30 % of published measurements, and its depths differ from FLOW-3D at the same conditions by 2 % on average.   Furthermore, these results provide a scalable framework which can readily be applied to computationally intensive simulations in fields other than laser melting.",
+  "authors": [
+   "Alix Benoit",
+   "Elia Iseli"
+  ],
+  "categories": [
+   "cs.CE",
+   "cs.LG"
+  ],
+  "comment": "Main text: 44 pages, 13 figures, 7 tables. Supplementary Information: 19 pages, 9 figures, 3 tables",
+  "first_author": "Alix Benoit",
+  "pdf_url": "http://arxiv.org/pdf/2611.14561",
+  "primary_category": "cs.CE",
+  "published": "2026-11-05",
+  "tags": [
+   "neural-operators"
+  ],
+  "title": "Provenance-tracked, experimentally validated neural operator surrogates of three-dimensional laser melting with keyholes and free-form paths",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.14716": {
+  "abstract": "Optimal allocation of generators is a key challenge in power systems to achieve economical dispatch while satisfying operational constraints. Conventional optimization techniques can be computationally expensive, limiting their applicability in real-time environments, and neural networks often require offline retraining under new operating conditions. This paper proposes a three-stage unsupervised online physics-informed neural network (PINN) framework for optimal power flow (OPF). Simulation results demonstrate that the proposed framework satisfies load demand and system constraints while achieving a $43,665 lower operating cost than fmincon-based optimization under the same operating conditions. The training process analysis further demonstrate the framework's ability to adapt its parameters online to variations in load demand and renewable generation in real time.",
+  "authors": [
+   "Abinash Giri",
+   "Yi Hu"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Abinash Giri",
+  "pdf_url": "http://arxiv.org/pdf/2611.14716",
+  "primary_category": "eess.SY",
+  "published": "2026-11-10",
+  "tags": [],
+  "title": "A Three-Stage Unsupervised Online Physics-Informed Neural Network for Microgrid Optimal Power Flow",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.14979": {
+  "abstract": "Deep-learning-based 3D MRI reconstruction is limited in practice by the GPU memory and compute cost of full-volume training; 3D acquisitions are thus most often reconstructed by 2D models applied slice-by-slice and then stacked, which ignores through-plane (stacking-axis) structure. We reconstruct in full 3D and ask whether a model can be trained at low resolution (fast and memory-feasible) yet deployed at higher resolution. This coarse-to-fine strategy needs reliable cross-resolution performance, but standard networks are resolution-specific and degrade substantially when evaluated outside the training setting. We therefore use resolution-agnostic neural operators (NOs) and propose KIR-NO (k-space-to-Image Reconstruction Neural Operator), a discretization-agnostic framework for accelerated 3D MRI reconstruction. KIR-NO is trained with full backpropagation on low-resolution volumes and applied zero-shot to higher-resolution volumes at inference. Its core building block is a 3D neural operator based on discrete-continuous convolutions: convolutional filters are parameterized in a continuous basis and sampled at arbitrary voxel resolutions while preserving the local inductive bias of convolution. KIR-NO integrates these learned operators with physics-based consistency: a k-space neural-operator head first refines the undersampled Fourier measurements, and image-space neural-operator cascades then refine the reconstruction through interleaved data-consistency updates. Across 3D knee and brain MRI benchmarks, KIR-NO improves over classical and CNN baselines: it improves over a state-of-the-art 3D CNN by 2.2 dB PSNR at half resolution under 4x acceleration on SKM-TEA, with gains persisting at 8x and 16x. These results show that resolution-agnostic operators make coarse-to-fine 3D MRI reconstruction - cheap low-resolution training with high-resolution deployment - practical across anatomies.",
+  "authors": [
+   "Jiayun Wang",
+   "Ram Daftari",
+   "Weijie Gan",
+   "Valentin Duruisseaux",
+   "Ruibo Wang",
+   "Armeet Singh Jatyani",
+   "Boris Bonev",
+   "Anima Anandkumar"
+  ],
+  "categories": [
+   "eess.IV",
+   "cs.CV"
+  ],
+  "comment": "NeurIPS 2026",
+  "first_author": "Jiayun Wang",
+  "pdf_url": "http://arxiv.org/pdf/2611.14979",
+  "primary_category": "eess.IV",
+  "published": "2026-11-11",
+  "tags": [
+   "inductive-bias",
+   "neural-operators"
+  ],
+  "title": "Coarse-to-Fine 3D MRI Reconstruction via Resolution-Agnostic Neural Operators",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15002": {
+  "abstract": "Reference capacitively coupled plasma (CCP) simulations provide spatially resolved plasma fields but are costly to generate across operating conditions. We compare the data efficiency of five surrogate architectures--Coordinate MLP, PCA-Net, U-Net, Fourier neural operator (FNO), and Transolver--for predicting RF-cycle-averaged electron density, ion density, electric potential, and electron temperature in 1D planar and 2D axisymmetric GEC CCP benchmarks. We assess the number of reference simulations needed to achieve 1% and 2% mean relative L2 error for parameter-interior and parameter-boundary test cases, and examine architecture-specific mechanisms. FNO achieves the lowest or joint-lowest reference-case requirement in seven of eight comparisons. In 1D, FNO reaches 1% interior error with 50 training cases, compared with 100 for Transolver and 200 for U-Net. In 2D, FNO and U-Net each reach 1% interior error with 100 cases; FNO and Transolver each reach 2% parameter-boundary error with 200 cases, compared with 400 for U-Net. At the stricter 1% 2D parameter-boundary target, Transolver requires 400 cases versus 800 for FNO. Additional analyses investigate FNO spectral modes and padding, U-Net skip connections, Transolver adaptive slicing, and PCA-Net projection versus prediction error. The results support FNO as a data-efficient baseline for the tested CCP settings, while showing that the preferred architecture depends on the accuracy target and operating-parameter region.",
+  "authors": [
+   "Zhenyu Zou",
+   "Junjue Liao",
+   "Hao Yang",
+   "Luowei Yin",
+   "Chenyu Wang",
+   "Yufeng Wei",
+   "Zhichao Peng",
+   "Chun Chen",
+   "Daniel Zhengyu Huang",
+   "Kangxin Liu",
+   "Haoran Guan",
+   "Rubing Han",
+   "Yipei Chen",
+   "Peiting You",
+   "Yuwei Fan"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Zhenyu Zou",
+  "pdf_url": "http://arxiv.org/pdf/2611.15002",
+  "primary_category": "cs.LG",
+  "published": "2026-11-11",
+  "tags": [],
+  "title": "AI4Plasma I: Data-Efficient Surrogate Modeling of Capacitively Coupled Plasma Fields",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15678": {
+  "abstract": "We study Newton's method for the Cauchy problem for viscous Hamilton--Jacobi equations with Hamiltonians that need not be convex. Each Newton step solves a linear parabolic equation obtained by linearizing the equation at the current iterate. We prove that the iterates converge geometrically in \\(L^\\infty\\) from any initial guess satisfying the initial condition, and quadratically in the parabolic Hölder space \\(C^{2+α,1+α/2}\\) from initial guesses close to the solution. When the Hamiltonian admits a control representation, the Newton iterates coincide with those of classical policy iteration, which therefore inherits both convergence rates. We extend the local quadratic convergence to uniformly parabolic fully nonlinear equations. For small viscosity, we introduce a Nash--Moser variant that smooths the iterate and the residual in space, and we give a convergence criterion with constants independent of the viscosity. Finally, we show how computable residuals certify the error of inexact Newton corrections computed with physics-informed neural networks.",
+  "authors": [
+   "Diogo A. Gomes",
+   "Xiaoqin Guo",
+   "Yeoneung Kim",
+   "Hung V. Tran",
+   "Yuming P. Zhang"
+  ],
+  "categories": [
+   "math.NA",
+   "math.AP"
+  ],
+  "comment": "44 pages",
+  "first_author": "Diogo A. Gomes",
+  "pdf_url": "http://arxiv.org/pdf/2611.15678",
+  "primary_category": "math.NA",
+  "published": "2026-11-11",
+  "tags": [
+   "physics-informed-neural-networks"
+  ],
+  "title": "Newton's Method and Policy Iterations for Viscous Hamilton--Jacobi Equations",
+  "topics": [
+   "Scientific Machine Learning & PINNs"
+  ],
+  "updated": "2026-11-11"
  }
 }

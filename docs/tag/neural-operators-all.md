@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>neural-operators — all</h1>
-  <span class="paper-count">679 papers</span>
+  <span class="paper-count">681 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14979.html">Coarse-to-Fine 3D MRI Reconstruction via Resolution-Agnostic Neural Operators</a></div><div class="paper-tags"><a href="inductive-bias-all.html">inductive-bias</a></div></td>
+<td>Jiayun Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14979">2611.14979</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13989.html">Beyond Fourier and Laplace: The Hankel Neural Operator for Learning Solution Operators of Differential Equations</a></div></td>
@@ -92,6 +98,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10051.html">All roads lead to Markov kernel networks: A representation theorem for discretization-stable learning</a></div><div class="paper-tags"><a href="operator-learning-all.html">operator-learning</a></div></td>
 <td>S David Mis et al.</td>
 <td><a href="http://arxiv.org/abs/2611.10051">2611.10051</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14561.html">Provenance-tracked, experimentally validated neural operator surrogates of three-dimensional laser melting with keyholes and free-form paths</a></div></td>
+<td>Alix Benoit et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14561">2611.14561</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-04</td>

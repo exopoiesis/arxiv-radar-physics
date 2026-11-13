@@ -5,15 +5,33 @@ title: "Physics arxiv-radar"
 
 # Physics arxiv-radar
 
-_Updated 2026-11-12._
+_Updated 2026-11-13._
 
-**21278** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**21283** physics-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.14979.html">Coarse-to-Fine 3D MRI Reconstruction via Resolution-Agnostic Neural Operators</a></div><div class="paper-tags"><a href="tag/inductive-bias-30d.html">inductive-bias</a> · <a href="tag/neural-operators-30d.html">neural-operators</a></div></td>
+<td>Jiayun Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14979">2611.14979</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.15002.html">AI4Plasma I: Data-Efficient Surrogate Modeling of Capacitively Coupled Plasma Fields</a></div></td>
+<td>Zhenyu Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15002">2611.15002</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.15678.html">Newton&#x27;s Method and Policy Iterations for Viscous Hamilton--Jacobi Equations</a></div><div class="paper-tags"><a href="tag/physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Diogo A. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15678">2611.15678</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.10251.html">TORNADO: Adaptive Latent Stochastic Transport for Calibrated Probabilistic PDE Forecasting</a></div><div class="paper-tags"><a href="tag/diffusion-models-30d.html">diffusion-models</a> · <a href="tag/uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
@@ -123,6 +141,12 @@ _Updated 2026-11-12._
 <td><a href="http://arxiv.org/abs/2611.14266">2611.14266</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.14716.html">A Three-Stage Unsupervised Online Physics-Informed Neural Network for Microgrid Optimal Power Flow</a></div></td>
+<td>Abinash Giri et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14716">2611.14716</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.08904.html">MotionCore: A Latent Neural Simulator for Video Generation with Rigid-Body Dynamics</a></div></td>
 <td>Zheng Wang et al.</td>
@@ -169,29 +193,5 @@ _Updated 2026-11-12._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.11997.html">HyInv Technical Report</a></div><div class="paper-tags"><a href="tag/ai4science-30d.html">ai4science</a></div></td>
 <td>Haowei Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2611.11997">2611.11997</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12010.html">Scalable Bayesian Optimization for Efficient Exploration of Moire Patterns</a></div></td>
-<td>Panagiotis Krokidas et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12010">2611.12010</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12014.html">Benchmarking language models and agents for scientific reasoning in evolving materials laboratories</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Xuyu Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12014">2611.12014</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12023.html">TIRAD: Text-guided Image Residual Learning for Generalist Anomaly Detection</a></div><div class="paper-tags"><a href="tag/anomaly-detection-30d.html">anomaly-detection</a></div></td>
-<td>Seongsu Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12023">2611.12023</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12106.html">Perils and opportunities of AI for public climate services</a></div></td>
-<td>Francesca Larosa et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12106">2611.12106</a></td>
 </tr>
 </tbody></table>

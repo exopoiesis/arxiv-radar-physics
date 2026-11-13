@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14979.html">Coarse-to-Fine 3D MRI Reconstruction via Resolution-Agnostic Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Jiayun Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14979">2611.14979</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14266.html">Physics-Constrained Autoencoder for Interpretable Health Representation Learning in Turbofan Engines</a></div></td>
 <td>Leonardo Baldo et al.</td>
@@ -164,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15715.html">Continuous Quantum Feedback Control via Kraus-Parameterized Belief Reinforcement Learning</a></div></td>
 <td>Priyanshi Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15715">2608.15715</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14308.html">Information Spreading in Diffusion Models from Effective Field Theory</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Navonil Neogi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14308">2608.14308</a></td>
 </tr>
 </tbody></table>

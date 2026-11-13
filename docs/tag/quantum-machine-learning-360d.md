@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">475 papers</span>
+  <span class="paper-count">473 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2852,17 +2852,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15672.html">From Qubits to Couplings: A Hybrid Quantum Machine Learning Framework for LHC Physics</a></div></td>
 <td>Marwan Ait Haddou et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15672">2511.15672</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.19276.html">Quantum Neural Networks in Practice: A Comparative Study with Classical Models from Standard Data Sets to Industrial Images</a></div></td>
-<td>Daniel Basilewitsch et al.</td>
-<td><a href="http://arxiv.org/abs/2411.19276">2411.19276</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13497.html">Quantum Machine Learning via Contrastive Training</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Liudmila A. Zhukas et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13497">2511.13497</a></td>
 </tr>
 </tbody></table>

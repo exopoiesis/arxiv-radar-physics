@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">178 papers</span>
+  <span class="paper-count">175 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1064,23 +1064,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14631.html">Enhancing Agentic Autonomous Scientific Discovery with Vision-Language Model Capabilities</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Kahaan Gandhi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14631">2511.14631</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22990.html">How to embed any likelihood into SBI: Application to Planck + Stage IV galaxy surveys and Dynamical Dark Energy</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Guillermo Franco Abellán et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22990">2507.22990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13393.html">Learning Cosmology from Nearest Neighbour Statistics</a></div></td>
-<td>Atrideb Chatterjee et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13393">2511.13393</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13826.html">Aletheia: Emulating the non-linear matter power spectrum in the context of evolution mapping</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Ariel G. Sanchez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13826">2511.13826</a></td>
 </tr>
 </tbody></table>

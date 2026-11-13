@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">404 papers</span>
+  <span class="paper-count">402 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2426,17 +2426,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14564.html">Uncertainty analysis of URANS simulations coupled with an anisotropic pressure fluctuation model</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Ali Eidi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14564">2511.14564</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22990.html">How to embed any likelihood into SBI: Application to Planck + Stage IV galaxy surveys and Dynamical Dark Energy</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Guillermo Franco Abellán et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22990">2507.22990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13265.html">TransFit-CSM: A Fast, Physically Consistent Framework for Interaction-Powered Transients</a></div></td>
-<td>Yu-Hao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13265">2511.13265</a></td>
 </tr>
 </tbody></table>

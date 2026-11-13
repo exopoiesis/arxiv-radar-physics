@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">525 papers</span>
+  <span class="paper-count">522 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3146,23 +3146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14667.html">High-resolution weak lensing mass mapping from DES-Y3 data using diffusion-based prior</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a> · <a href="dark-matter-360d.html">dark-matter</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Supranta S. Boruah et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14667">2511.14667</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16742.html">Surrogate Modeling and Explainable Artificial Intelligence for Complex Systems: A Workflow for Automated Simulation Exploration</a></div></td>
-<td>Paul Saves et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16742">2510.16742</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13185.html">Uncertainty-aware Physics-informed Neural Networks for Robust CARS-to-Raman Signal Reconstruction</a></div></td>
-<td>Aishwarya Venkataramanan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13185">2511.13185</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13514.html">A Quantum Tensor Network-Based Viewpoint for Modeling and Analysis of Time Series Data</a></div></td>
-<td>Pragatheeswaran Vipulananthan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13514">2511.13514</a></td>
 </tr>
 </tbody></table>

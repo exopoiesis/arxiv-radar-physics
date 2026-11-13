@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">585 papers</span>
+  <span class="paper-count">580 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3494,35 +3494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14497.html">Solving Navier-Stokes Equations Using Data-free Physics-Informed Neural Networks With Hard Boundary Conditions</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Ritik Pal et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14497">2511.14497</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10716.html">The 3D pulsar magnetosphere with machine learning: first results</a></div></td>
-<td>Ioannis Dimitropoulos et al.</td>
-<td><a href="http://arxiv.org/abs/2410.10716">2410.10716</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.06272.html">Introdução a rede neural para Físicos</a></div></td>
-<td>Gubio Gomes de Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2503.06272">2503.06272</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01720.html">Physics-informed approach for exploratory Hamilton--Jacobi--Bellman equations via policy iterations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Yeongjong Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01720">2508.01720</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16817.html">Trace Regularity PINNs: Enforcing $\mathrm{H}^{\frac{1}{2}}(\partial Ω)$ for Boundary Data</a></div></td>
-<td>Doyoon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16817">2510.16817</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00043.html">Physics-Informed Neural Network Frameworks for the Analysis of Engineering and Biological Dynamical Systems Governed by Ordinary Differential Equations</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Tyrus Whitman et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00043">2511.00043</a></td>
 </tr>
 </tbody></table>

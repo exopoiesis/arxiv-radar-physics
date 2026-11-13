@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">658 papers</span>
+  <span class="paper-count">656 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3950,17 +3950,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08915.html">An Analytical Characterization of Sloppiness in Neural Networks: Insights from Linear Models</a></div></td>
 <td>Jialin Mao et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08915">2505.08915</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00846.html">On the emergence of numerical instabilities in Next Generation Reservoir Computing</a></div></td>
-<td>Edmilson Roque dos Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00846">2505.00846</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00043.html">Physics-Informed Neural Network Frameworks for the Analysis of Engineering and Biological Dynamical Systems Governed by Ordinary Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Tyrus Whitman et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00043">2511.00043</a></td>
 </tr>
 </tbody></table>

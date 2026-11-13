@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14979.html">Coarse-to-Fine 3D MRI Reconstruction via Resolution-Agnostic Neural Operators</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a></div></td>
+<td>Jiayun Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14979">2611.14979</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13989.html">Beyond Fourier and Laplace: The Hankel Neural Operator for Learning Solution Operators of Differential Equations</a></div></td>
@@ -74,23 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10217.html">Rethinking How to Leverage Cheap Physics for Data-Efficient Neural Operators</a></div></td>
 <td>Shuo Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.10217">2611.10217</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07646.html">WaSP: Wasserstein Data Synthesis Pipeline for Solver-Free Operator Learning</a></div><div class="paper-tags"><a href="chaotic-systems-7d.html">chaotic-systems</a></div></td>
-<td>Ryan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.07646">2611.07646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10029.html">State and spatial completion of 1D premixed flames for hydrogen and methane combustion</a></div></td>
-<td>Federico Rios Tascon et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10029">2611.10029</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10051.html">All roads lead to Markov kernel networks: A representation theorem for discretization-stable learning</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>
-<td>S David Mis et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10051">2611.10051</a></td>
 </tr>
 </tbody></table>

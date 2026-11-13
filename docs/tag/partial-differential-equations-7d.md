@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08912.html">SSF-Net: A Spatial-Spectral Fusion Network for Accurate PDE Operator Learning</a></div></td>
 <td>Siqi Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2611.08912">2611.08912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07395.html">Rigorously Certified Neural-Network Computation of Nonlinear Water Waves at Near-Machine Precision</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>Michal Shavit et al.</td>
-<td><a href="http://arxiv.org/abs/2611.07395">2611.07395</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08409.html">Conformal Prediction for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="scientific-machine-learning-7d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>Joshua Stiller et al.</td>
-<td><a href="http://arxiv.org/abs/2611.08409">2611.08409</a></td>
 </tr>
 </tbody></table>

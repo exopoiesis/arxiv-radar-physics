@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">596 papers</span>
+  <span class="paper-count">593 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3572,23 +3572,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15543.html">A Physics Informed Machine Learning Framework for Optimal Sensor Placement and Parameter Estimation</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Georgios Venianakis et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15543">2511.15543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.01916.html">Generalizable and Fast Surrogates: Model Predictive Control of Articulated Soft Robots using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Tim-Lukas Habich et al.</td>
-<td><a href="http://arxiv.org/abs/2502.01916">2502.01916</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14336.html">A Statistician&#x27;s Overview of Physics-Informed Neural Networks for Spatio-Temporal Data</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Christopher K. Wikle et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14336">2507.14336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14497.html">Solving Navier-Stokes Equations Using Data-free Physics-Informed Neural Networks With Hard Boundary Conditions</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ritik Pal et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14497">2511.14497</a></td>
 </tr>
 </tbody></table>

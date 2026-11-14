@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-differential-equations — 360d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="neural-differential-equations-7d.html">7d</a> <a href="neural-differential-equations-30d.html">30d</a> <a href="neural-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="neural-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05764.html">Towards agent-based-model informed neural networks</a></div></td>
 <td>Nino Antulov-Fantulin</td>
 <td><a href="http://arxiv.org/abs/2512.05764">2512.05764</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10446.html">Continuum Dropout for Neural Differential Equations</a></div></td>
-<td>Jonghun Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10446">2511.10446</a></td>
 </tr>
 </tbody></table>

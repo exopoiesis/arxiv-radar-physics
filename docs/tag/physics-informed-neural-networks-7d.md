@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,23 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12954.html">Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models</a></div><div class="paper-tags"><a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
 <td>Shogo Sato et al.</td>
 <td><a href="http://arxiv.org/abs/2611.12954">2611.12954</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08910.html">Task-Contribution Dynamics of Adam in Physics-Informed Neural Networks: Slow-Manifold Analysis and Gradient Modulation</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Enzhan Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2611.08910">2611.08910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09053.html">Equidistribution of Solution Gradients in Physics-Informed Neural Networks via Coordinate Transformations</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Tianchi Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09053">2611.09053</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09339.html">A scaled TW-PINN framework for soliton solutions of the Korteweg--de Vries equation</a></div><div class="paper-tags"><a href="pinns-7d.html">pinns</a></div></td>
-<td>Seungwan Han et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09339">2611.09339</a></td>
 </tr>
 </tbody></table>

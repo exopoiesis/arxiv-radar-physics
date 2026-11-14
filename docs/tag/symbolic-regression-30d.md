@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>symbolic-regression — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <strong>30d</strong> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24131.html">The Weight of Teamwork: Does Communication Structure Help LLM Scientists Search for Scientific Laws?</a></div></td>
 <td>Jianing Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24131">2610.24131</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19942.html">MorphingNet: Symbolic Regression Where the Network Is the Formula</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Jincheng Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19942">2610.19942</a></td>
 </tr>
 </tbody></table>

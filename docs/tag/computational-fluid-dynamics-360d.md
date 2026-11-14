@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 360d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">172 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1046,23 +1046,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18754.html">Reduced-order modeling of large-scale turbulence using Koopman $β$-variational autoencoders</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="koopman-operator-360d.html">koopman-operator</a> · <a href="les-360d.html">les</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a> · <a href="rom-360d.html">rom</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
 <td>Rakesh Halder et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18754">2507.18754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.21243.html">Operator learning for energy-efficient building ventilation control with computational fluid dynamics simulation of a real-world classroom</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Yuexin Bian et al.</td>
-<td><a href="http://arxiv.org/abs/2504.21243">2504.21243</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04325.html">FoilDiff: A Hybrid Transformer Backbone for Diffusion-based Modelling of 2D Airfoil Flow Fields</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Kenechukwu Ogbuagu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04325">2510.04325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14497.html">Solving Navier-Stokes Equations Using Data-free Physics-Informed Neural Networks With Hard Boundary Conditions</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cfd-360d.html">cfd</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ritik Pal et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14497">2511.14497</a></td>
 </tr>
 </tbody></table>

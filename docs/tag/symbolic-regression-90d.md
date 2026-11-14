@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>symbolic-regression — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <strong>90d</strong> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16876.html">AutoSR: Automatic Symbolic Regression by Searching Research States</a></div></td>
 <td>Kejia Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.16876">2608.16876</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14990.html">Discovering Physically Interpretable Mathematical Expression for Predicting CO2 Adsorption in Metal-Organic Frameworks via Machine Learning-Symbolic Regression</a></div></td>
-<td>Yimin Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14990">2608.14990</a></td>
 </tr>
 </tbody></table>

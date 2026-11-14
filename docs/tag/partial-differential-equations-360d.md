@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">758 papers</span>
+  <span class="paper-count">754 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4538,29 +4538,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15231.html">Solving Newell-Whitehead-Segel and Allen-Cahn Equations Employing Physics-Informed Neural Networks: A Comparative Analysis with Spline Methods</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Ali Haider Shah et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15231">2511.15231</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08423.html">LiLaN: A Linear Latent Network as the Solution Operator for Real-Time Solutions to Stiff Nonlinear Ordinary Differential Equations</a></div></td>
-<td>William Cole Nockolds et al.</td>
-<td><a href="http://arxiv.org/abs/2501.08423">2501.08423</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14336.html">A Statistician&#x27;s Overview of Physics-Informed Neural Networks for Spatio-Temporal Data</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Christopher K. Wikle et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14336">2507.14336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12764.html">INC: An Indirect Neural Corrector for Auto-Regressive Hybrid PDE Solvers</a></div></td>
-<td>Hao Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12764">2511.12764</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14497.html">Solving Navier-Stokes Equations Using Data-free Physics-Informed Neural Networks With Hard Boundary Conditions</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ritik Pal et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14497">2511.14497</a></td>
 </tr>
 </tbody></table>

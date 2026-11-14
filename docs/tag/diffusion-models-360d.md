@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">544 papers</span>
+  <span class="paper-count">540 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3254,29 +3254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15206.html">Trustworthy GenAI over 6G: Integrated Applications and Security Frameworks</a></div></td>
 <td>Bui Duc Son et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15206">2511.15206</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04325.html">FoilDiff: A Hybrid Transformer Backbone for Diffusion-based Modelling of 2D Airfoil Flow Fields</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Kenechukwu Ogbuagu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04325">2510.04325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14033.html">Flood-LDM: Generalizable Latent Diffusion Models for rapid and accurate zero-shot High-Resolution Flood Mapping</a></div></td>
-<td>Sun Han Neo et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14033">2511.14033</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14218.html">Bridging the Gap Between Bayesian Deep Learning and Ensemble Weather Forecasts</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a> · <a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Xinlei Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14218">2511.14218</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14426.html">MiAD: Mirage Atom Diffusion for De Novo Crystal Generation</a></div></td>
-<td>Andrey Okhotin et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14426">2511.14426</a></td>
 </tr>
 </tbody></table>

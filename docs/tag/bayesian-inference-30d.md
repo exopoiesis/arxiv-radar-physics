@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24710.html">Exploiting sparse conditional dependence in remote sensing observing systems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="remote-sensing-30d.html">remote-sensing</a></div></td>
 <td>Kelvin M. Leung et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24710">2610.24710</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20848.html">Study of pulse jitter characteristics of PSR J1744-1134: Towards high precision pulsar timing with InPTA</a></div><div class="paper-tags"><a href="gravitational-waves-30d.html">gravitational-waves</a></div></td>
-<td>Jibin Jose et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20848">2610.20848</a></td>
 </tr>
 </tbody></table>

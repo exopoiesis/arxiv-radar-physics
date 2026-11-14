@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">402 papers</span>
+  <span class="paper-count">401 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2420,11 +2420,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08424.html">RTNinja: A generalized machine learning framework for analyzing random telegraph noise signals in nanoelectronic devices</a></div></td>
 <td>Anirudh Varanasi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08424">2507.08424</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14564.html">Uncertainty analysis of URANS simulations coupled with an anisotropic pressure fluctuation model</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Ali Eidi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14564">2511.14564</a></td>
 </tr>
 </tbody></table>

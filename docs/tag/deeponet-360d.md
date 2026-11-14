@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>deeponet — 360d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <a href="deeponet-90d.html">90d</a> <strong>360d</strong> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18260.html">Reduced-Basis Deep Operator Learning for Parametric PDEs with Independently Varying Boundary and Source Data</a></div></td>
 <td>Yueqi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18260">2511.18260</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14925.html">PAS-Net: Physics-informed Adaptive Scale Deep Operator Network</a></div></td>
-<td>Changhong Mou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14925">2511.14925</a></td>
 </tr>
 </tbody></table>

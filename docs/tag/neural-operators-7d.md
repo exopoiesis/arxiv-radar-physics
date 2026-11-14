@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,29 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10945.html">CoupledFlow: One-Step Neural Operators for Coupled Multi-Physics PDEs</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>
 <td>Trong Khiem Tran et al.</td>
 <td><a href="http://arxiv.org/abs/2611.10945">2611.10945</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09038.html">Function-Space Certification for Neural Operators</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a> · <a href="weather-forecasting-7d.html">weather-forecasting</a></div></td>
-<td>Ryan Hsiang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09038">2611.09038</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09567.html">TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-7d.html">computational-fluid-dynamics</a></div></td>
-<td>Jarno Platenburg et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09567">2611.09567</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09621.html">BiLoGo: Reducing the smoothing of localised responses in Transformer-based neural operators for sheet forming</a></div></td>
-<td>Yingxue Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09621">2611.09621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10217.html">Rethinking How to Leverage Cheap Physics for Data-Efficient Neural Operators</a></div></td>
-<td>Shuo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10217">2611.10217</a></td>
 </tr>
 </tbody></table>

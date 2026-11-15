@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14949.html">RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving</a></div><div class="paper-tags"><a href="equation-discovery-7d.html">equation-discovery</a></div></td>
+<td>Binghang Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14949">2611.14949</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13624.html">Multifidelity Operator Inference for Non-intrusive Model Reduction under Data Scarcity</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
 <td>Vivian Zhang et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11252.html">ALETHEIA: A Multi-Frequency Eddy Current Pulsed Thermography Dataset for Neural Operator Learning in Nondestructive Testing</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
 <td>Changbin Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2611.11252">2611.11252</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12954.html">Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>Shogo Sato et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12954">2611.12954</a></td>
 </tr>
 </tbody></table>

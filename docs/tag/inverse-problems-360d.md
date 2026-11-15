@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">421 papers</span>
+  <span class="paper-count">420 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15758.html">Physics-based simulation unlocks scaling laws for generalizable MRI reconstruction</a></div></td>
+<td>Hong Shang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15758">2611.15758</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15829.html">Training Calibrated Conditional Generative Models with a Sample-Only Coverage Loss</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Benjamin Remy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15829">2611.15829</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13389.html">AdjointFlow: Accelerating Scientific Inverse Problems with Physics-Based Transport</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="diffusion-models-360d.html">diffusion-models</a></div></td>
@@ -2522,23 +2534,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16816.html">Trust-Aware Multimodal Data Fusion for Yield Estimation: A Case Study of the 2020 Beirut Explosion</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Lekha Patel et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16816">2511.16816</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05005.html">Reconstruction of the Dipole Amplitude in the Dipole Picture as a mathematical Inverse Problem</a></div></td>
-<td>Henri Hänninen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05005">2509.05005</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15058.html">Lippmann-Schwinger-Lanczos algorithm for inverse scattering problems with unknown reflectivity and loss distributions: One-dimensional Case</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Jorn Zimmerling et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15058">2511.15058</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15543.html">A Physics Informed Machine Learning Framework for Optimal Sensor Placement and Parameter Estimation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Georgios Venianakis et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15543">2511.15543</a></td>
 </tr>
 </tbody></table>

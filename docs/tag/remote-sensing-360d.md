@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">476 papers</span>
+  <span class="paper-count">475 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2864,11 +2864,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16322.html">ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery</a></div></td>
 <td>Ching-Heng Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16322">2511.16322</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08490.html">Neuromorphic Split Computing via Optical Inter-Satellite Links</a></div></td>
-<td>Zihang Song et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08490">2507.08490</a></td>
 </tr>
 </tbody></table>

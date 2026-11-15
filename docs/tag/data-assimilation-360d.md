@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-assimilation — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <strong>360d</strong> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,23 +914,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17721.html">Prequential posteriors</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Shreya Sinha-Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17721">2511.17721</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15182.html">SWR-Viz: AI-assisted Interactive Visual Analytics Framework for Ship Weather Routing</a></div></td>
-<td>Subhashis Hazarika et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15182">2511.15182</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15758.html">Towards Streaming Prediction of Oscillatory Flows: A Data Assimilation and Machine Learning Approach</a></div></td>
-<td>Miguel M. Valero et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15758">2511.15758</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15853.html">The Ensemble Kalman Inversion Race</a></div><div class="paper-tags"><a href="oceanography-360d.html">oceanography</a></div></td>
-<td>Rebecca Gjini et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15853">2511.15853</a></td>
 </tr>
 </tbody></table>

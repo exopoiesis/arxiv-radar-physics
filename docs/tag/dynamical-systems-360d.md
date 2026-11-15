@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">655 papers</span>
+  <span class="paper-count">653 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3932,17 +3932,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17721.html">Prequential posteriors</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
 <td>Shreya Sinha-Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17721">2511.17721</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15018.html">Adversarial Physics-Informed Machine Learning for Robust Optimal Safe Predefined-Time Stabilization: A Game-Theoretic Approach</a></div></td>
-<td>Nick-Marios T. Kokolakis et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15018">2511.15018</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15058.html">Lippmann-Schwinger-Lanczos algorithm for inverse scattering problems with unknown reflectivity and loss distributions: One-dimensional Case</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Jorn Zimmerling et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15058">2511.15058</a></td>
 </tr>
 </tbody></table>

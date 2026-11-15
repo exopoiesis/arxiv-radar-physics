@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14949.html">RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a></div></td>
+<td>Binghang Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14949">2611.14949</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13624.html">Multifidelity Operator Inference for Non-intrusive Model Reduction under Data Scarcity</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Vivian Zhang et al.</td>
@@ -194,11 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20585.html">Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes</a></div><div class="paper-tags"><a href="rans-30d.html">rans</a></div></td>
 <td>Stavros Nousias et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20585">2610.20585</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22446.html">Learnable Splines for Unstructured Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Vignesh Gopakumar et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22446">2610.22446</a></td>
 </tr>
 </tbody></table>

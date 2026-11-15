@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -410,11 +410,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09107.html">Detection of Lensed Gravitational Waves from dark matter halos with deep learning</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
 <td>Mengfei Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09107">2511.09107</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14997.html">A Neural Network Approach to Preferred Event Selection for Low-Latency Gravitational-Wave Alerts</a></div><div class="paper-tags"><a href="ligo-360d.html">ligo</a></div></td>
-<td>Pratyusava Baral et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14997">2511.14997</a></td>
 </tr>
 </tbody></table>

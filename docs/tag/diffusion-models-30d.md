@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-models — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17324.html">K2V: Generative Keyframing For Physically Plausible Video Generation</a></div></td>
+<td>Felix O&#x27;Mahony et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17324">2611.17324</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15101.html">CFGComposer: Compositional Audio-Text-to-Motion Generation via Copula Score Correction</a></div></td>
+<td>Pengyang Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15101">2611.15101</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15131.html">Duo: A Reciprocal World Model for Full-Duplex Interaction</a></div></td>
+<td>Hengyuan Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15131">2611.15131</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10251.html">TORNADO: Adaptive Latent Stochastic Transport for Calibrated Probabilistic PDE Forecasting</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
@@ -176,17 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24060.html">Generative Text Modelling and Language-Guided Visual Attention for Deciphering Palimpsests</a></div></td>
 <td>Robin Hollifeldt et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24060">2610.24060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21539.html">Reinforcement Learning-driven Diffusion Models: Language, Vision, and Beyond</a></div></td>
-<td>Zhiyuan Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21539">2610.21539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21977.html">Learn Only Where You Can&#x27;t Compute: Structured Corrections to Gaussian Process Posteriors</a></div></td>
-<td>Tobias Weber et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21977">2610.21977</a></td>
 </tr>
 </tbody></table>

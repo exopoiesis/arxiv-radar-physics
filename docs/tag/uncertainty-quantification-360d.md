@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">518 papers</span>
+  <span class="paper-count">520 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14462.html">Accurate predictions of properties of energetic materials with tabular foundation models</a></div></td>
+<td>Vagn Krister Nes Glomsrud et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14462">2611.14462</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15829.html">Training Calibrated Conditional Generative Models with a Sample-Only Coverage Loss</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Benjamin Remy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15829">2611.15829</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15980.html">Data-driven Correction Reduced-Order Stochastic Collocation Method for the Time-Dependent Navier-Stokes Equations</a></div><div class="paper-tags"><a href="rom-360d.html">rom</a></div></td>
+<td>Md. Abdul Aziz et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15980">2611.15980</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10251.html">TORNADO: Adaptive Latent Stochastic Transport for Calibrated Probabilistic PDE Forecasting</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
@@ -3116,11 +3134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16816.html">Trust-Aware Multimodal Data Fusion for Yield Estimation: A Case Study of the 2020 Beirut Explosion</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Lekha Patel et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16816">2511.16816</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15788.html">Decoding the Radio Sky: Bayesian Ensemble Learning and SVD-Based Feature Extraction for Automated Radio Galaxy Classification</a></div></td>
-<td>Theophilus Ansah-Narh et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15788">2511.15788</a></td>
 </tr>
 </tbody></table>

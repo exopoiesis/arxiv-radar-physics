@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">540 papers</span>
+  <span class="paper-count">542 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17324.html">K2V: Generative Keyframing For Physically Plausible Video Generation</a></div></td>
+<td>Felix O&#x27;Mahony et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17324">2611.17324</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15101.html">CFGComposer: Compositional Audio-Text-to-Motion Generation via Copula Score Correction</a></div></td>
+<td>Pengyang Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15101">2611.15101</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15131.html">Duo: A Reciprocal World Model for Full-Duplex Interaction</a></div></td>
+<td>Hengyuan Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15131">2611.15131</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10251.html">TORNADO: Adaptive Latent Stochastic Transport for Calibrated Probabilistic PDE Forecasting</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
@@ -3248,11 +3266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16317.html">NaTex: Seamless Texture Generation as Latent Color Diffusion</a></div></td>
 <td>Zeqiang Lai et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16317">2511.16317</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15206.html">Trustworthy GenAI over 6G: Integrated Applications and Security Frameworks</a></div></td>
-<td>Bui Duc Son et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15206">2511.15206</a></td>
 </tr>
 </tbody></table>

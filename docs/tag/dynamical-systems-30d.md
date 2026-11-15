@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dynamical-systems — 30d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <strong>30d</strong> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,23 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23809.html">Lyapunov Exponents in Power Systems: A Survey of Theory and Applications in Stability, Control, Forecasting, and Protection</a></div><div class="paper-tags"><a href="les-30d.html">les</a></div></td>
 <td>Mohammad Almomani et al.</td>
 <td><a href="http://arxiv.org/abs/2610.23809">2610.23809</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22575.html">Structure-Aware Spatial Kernels for Gaussian Process Distributed Port-Hamiltonian Systems</a></div></td>
-<td>Tianyi Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22575">2610.22575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22711.html">Normalizing Flow Maps</a></div><div class="paper-tags"><a href="normalizing-flows-30d.html">normalizing-flows</a></div></td>
-<td>Francesco M. Ruscio et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22711">2610.22711</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40471.html">Nonlinear Dynamical Systems as Scalable and Efficient Physical Neural Networks</a></div></td>
-<td>Tyler King et al.</td>
-<td><a href="http://arxiv.org/abs/2610.40471">2610.40471</a></td>
 </tr>
 </tbody></table>

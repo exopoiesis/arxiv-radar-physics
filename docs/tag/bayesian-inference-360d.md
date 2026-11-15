@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">401 papers</span>
+  <span class="paper-count">403 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16785.html">Bayesian Inference of Fermionic Dark Matter Admixed Neutron Stars Informed by Galaxy Cluster Constraints</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
+<td>H. C. Das et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16785">2611.16785</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16109.html">Euclid: Data Release 1 (DR1) -- Bayesian 3D shape inference of star-forming galaxy populations</a></div></td>
+<td>M. Dunn et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16109">2611.16109</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12422.html">Two-Phase Rapid Simulation-Based Inference with Differentiable Simulators</a></div></td>
@@ -32,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06154.html">Statistical mechanics and hierarchy of learnability in quantum codes: From generalized symmetries to non-Abelian topological orders</a></div></td>
 <td>Hiromi Ebisu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.06154">2611.06154</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14553.html">Joint Bayesian Inference of Dense Matter and f(Q) Gravity with Nuclear and Neutron Star Constraints</a></div></td>
+<td>N. K. Patra et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14553">2611.14553</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-27</td>
@@ -2414,11 +2432,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18570.html">PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation</a></div></td>
 <td>Samarth Chopra et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18570">2511.18570</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08424.html">RTNinja: A generalized machine learning framework for analyzing random telegraph noise signals in nanoelectronic devices</a></div></td>
-<td>Anirudh Varanasi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08424">2507.08424</a></td>
 </tr>
 </tbody></table>

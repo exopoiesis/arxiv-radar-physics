@@ -7944,6 +7944,29 @@
   ],
   "updated": "2026-11-10"
  },
+ "2611.14166": {
+  "abstract": "The stiffness and cracking behaviour of concrete are influenced by the interfacial transition zone (ITZ), the thin shell of paste that surrounds each aggregate. Yet the ITZ's mechanical properties are poorly characterized and are usually assigned to mesoscale models through ad hoc reduction factors. Because the ITZ is only tens of micrometres thick, its stiffness must be inferred indirectly from micromechanical tests, and the resulting estimates vary widely between studies and are rarely reported with a quantified uncertainty. We present a workflow that calibrates a homogenized ITZ model against the surface displacements of several micro-cantilever bending specimens and returns its stiffness descriptors as posterior distributions rather than single values. The calibration is posed as a Bayesian inverse problem with a model-discrepancy term, sampled with a surrogate-assisted Bouncy Particle sampler, the first application of this sampler to a real-world engineering problem. We compare a pooled model, which fits one descriptor vector to all specimens, with a hierarchical model that treats the specimens as draws from a common population and is sampled with a local extension of the sampler. The hierarchical model separates the estimation uncertainty from the aggregate-to-aggregate material variability, where only the former shrinks as more data are added. Propagated through a representative volume element of several aggregates, its predictive yields broader distributions of the mesoscale stress and strain and a wider spread variety of maximum von Mises stress locations. The calibration places the ITZ thickness above the 30 μm to 80 μm commonly assumed in the literature.",
+  "authors": [
+   "Leon Riccius",
+   "Iuri B. C. M. Rocha",
+   "Erik Schlangen",
+   "Frans P. van der Meer"
+  ],
+  "categories": [
+   "stat.AP"
+  ],
+  "comment": null,
+  "first_author": "Leon Riccius",
+  "pdf_url": "http://arxiv.org/pdf/2611.14166",
+  "primary_category": "stat.AP",
+  "published": "2026-11-10",
+  "tags": [],
+  "title": "Probabilistic Upscaling of the Interfacial Transition Zone Behaviour in Concrete",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-10"
+ },
  "2611.14240": {
   "abstract": "Recent advances in artificial deep learning-based power flow (PF) solvers have primarily focused on improving estimation accuracy, while their physical feasibility and operational reliability under realistic system variations remain insufficiently evaluated. This paper proposes a physics-informed evaluation framework for deep learning-based PF solvers under topology and load distribution shifts. Beyond conventional voltage-domain errors, the framework incorporates KCL gaps, branch-flow gaps, KVL residuals, continuous feasibility scores, and strict, practical, and relaxed PF feasibility rates. Four case studies are designed to investigate topology shifts, mixed topology training, load distribution shifts, and combined topology distribution shifts. Eight ANN architectures, including graph input models, load-only baselines, and physics-informed neural networks, are evaluated under consistent settings. The results demonstrate that low estimation errors do not necessarily correspond to physically feasible or operationally reliable PF solutions, particularly under combined system shifts. The proposed framework establishes an initial foundation and analysis for the development and verification of trustworthy deep learning-based PF solvers, providing support for their reliable deployment in future AI-enabled power system analysis.",
   "authors": [
@@ -7996,6 +8019,139 @@
   ],
   "updated": "2026-11-10"
  },
+ "2611.14401": {
+  "abstract": "South Asian monsoon precipitation depends on the thermodynamic structure of the lower troposphere, but how its ingredients combine to shape precipitation remains unclear, partly because this dependence is nonlocal in the vertical. We use symbolic distillation, which combines neural networks and symbolic regression, to discover interpretable precipitation equations from 21 years of June-August reanalysis data. Neural networks first learn the vertical thermodynamic structure most relevant to precipitation, condensing each variable into a single interpretable feature not tied to a particular vertical grid. Then, symbolic regression derives closed-form equations from these features and the surface state. Our best equation explains 1.5 times as much precipitation variance as a widely used buoyancy-based diagnostic and recovers about 85% of neural network skill while using about a thousand times fewer parameters. Unlike the buoyancy diagnostic, which adds moisture and instability, the equations treat them as competing controls, with the heaviest precipitation occurring when the lower free troposphere is humid. Over ocean, sensible heating is associated with additional precipitation mainly when near-surface air is warm and moist, improving predicted precipitation and its diurnal cycle. Although the learned features were optimized only for precipitation prediction, the equations largely respond to each feature as expected from convective physics, consistent with the reanalysis. These responses reduce the dependence of monsoon precipitation on the entire vertical column to a few simple, testable constraints that could guide data-driven precipitation models to make them more physically consistent.",
+  "authors": [
+   "Savannah L. Ferretti",
+   "Jane W. Baldwin",
+   "Michael S. Pritchard",
+   "Tom Beucler"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.ao-ph"
+  ],
+  "comment": "Main Text (23 pages, 6 figures, 1 table) and Supporting Information (6 pages, 2 figures, 3 tables)",
+  "first_author": "Savannah L. Ferretti",
+  "pdf_url": "http://arxiv.org/pdf/2611.14401",
+  "primary_category": "cs.LG",
+  "published": "2026-11-10",
+  "tags": [
+   "symbolic-regression"
+  ],
+  "title": "Discovering Equations for the Thermodynamics of South Asian Monsoon Precipitation",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.14462": {
+  "abstract": "We use TabPFN, a recently developed tabular foundation model, to predict three properties of energetic materials: impact sensitivity, decomposition temperature and crystal density. Without any hyperparameter tuning, TabPFN outperforms the best published models for all three properties. It also substantially outperforms a wide range of established machine-learning models, including tuned gradient boosting (XGBoost), random forests and Gaussian processes. This holds both when the models are given hand-crafted molecular descriptors and when they are given learned representations from Chemprop's message-passing neural network. In particular, for all three properties, TabPFN applied to Chemprop's own embedding is more accurate than Chemprop's predictions. TabPFN is also among the fastest models we consider, more than an order of magnitude faster than XGBoost. As TabPFN predicts the entire distribution of the target rather than just a single value, it offers built-in uncertainty quantification, which we compare with the empirical distributions of compounds with repeated measurements. Finally, we interpret the predictions using Shapley values, which rank the features by their importance.",
+  "authors": [
+   "Vagn Krister Nes Glomsrud",
+   "Mathias Bynke",
+   "Lars Henry Berge Olsen",
+   "Dennis Christensen"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Vagn Krister Nes Glomsrud",
+  "pdf_url": "http://arxiv.org/pdf/2611.14462",
+  "primary_category": "cs.LG",
+  "published": "2026-11-10",
+  "tags": [
+   "uncertainty-quantification"
+  ],
+  "title": "Accurate predictions of properties of energetic materials with tabular foundation models",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.14483": {
+  "abstract": "Neural networks are increasingly studied not merely as predictive systems, but as complex systems whose internal computations are themselves objects of scientific inquiry. Recent progress in mechanistic interpretability (MI) has made it possible to identify neurons, features, circuits, population structures, and dynamical patterns associated with model behavior. As these tools improve, attention is shifting from what can be observed inside a model to how those observations support mechanistic explanations. We examine the parallel efforts of neuroscience and MI to address this question and identify recurring inferential bottlenecks when inferring mechanisms from complex neural systems. We propose five principles and organize them into a recursive logic for a more rigorous procedure of mechanistic inference. These principles provide a framework that supports scientific discovery in two senses: it helps turn local interpretability findings into cumulative knowledge of mechanisms within models, and it makes those mechanisms sufficiently precise to generate testable hypotheses about domains beyond the models. Evidence beyond MI is ultimately required to establish what model mechanisms reveal about the world.",
+  "authors": [
+   "Zhimin Hu",
+   "Chen Jiang",
+   "Hanbo Xie",
+   "N. Apurva Ratan Murty",
+   "Sashank Varma"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.CV"
+  ],
+  "comment": "NeurIPS 2026 Interp4Discovery (Oral)",
+  "first_author": "Zhimin Hu",
+  "pdf_url": "http://arxiv.org/pdf/2611.14483",
+  "primary_category": "cs.CL",
+  "published": "2026-11-10",
+  "tags": [
+   "scientific-discovery"
+  ],
+  "title": "Mechanistic Interpretability Needs a Logic of Inference",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.14514": {
+  "abstract": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternative the evidence supports. To recover that alternative, we introduce Contrastive Discovery, which replaces the single hypothesis with a contrast set, a scientific question paired with mutually exclusive and collectively exhaustive competing explanations. Each experiment is scored by how its evidence redistributes belief across the set, and the question is resolved when belief concentrates on one explanation. Because contrast sets change only the unit an agent proposes and scores, an existing agent can use them to re-evaluate evidence it has already collected or to guide its search. Across six domains, $89\\%$ of the pointwise candidates with the largest belief shifts are rejections. On the same evidence, contrast sets resolve $73\\%$ of these candidates to a specific alternative. When contrast sets guide search, the agent resolves $67\\%$ more questions than pointwise surprisal under the same experiment budget. In a blinded study, $38$ human experts chose the same explanation on $78\\%$ of resolved questions and on $82\\%$ of questions where the pointwise agent rejected its hypothesis and stopped. Together, these results support explicit competing explanations as a way for discovery agents to resolve more scientific questions from the same evidence and validation budget.",
+  "authors": [
+   "Ziang Liu",
+   "James J. Kim",
+   "Yijia Dai",
+   "Jennifer J. Sun"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CL",
+   "cs.LG"
+  ],
+  "comment": "Accepted at NeurIPS 2026. 55 pages. Project page: https://codiscovery.ai/contrastive-discovery/",
+  "first_author": "Ziang Liu",
+  "pdf_url": "http://arxiv.org/pdf/2611.14514",
+  "primary_category": "cs.AI",
+  "published": "2026-11-10",
+  "tags": [
+   "scientific-discovery"
+  ],
+  "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.14553": {
+  "abstract": "We investigate neutron star (NS) properties in symmetric teleparallel $f(Q)$ gravity while consistently accounting for uncertainties in the dense matter equation of state (EOS). We focus on the linear $f(Q)$ model and perform a joint Bayesian inference of the nuclear matter and modified gravity parameters using a Taylor expansion EOS around nuclear saturation density. The analysis incorporates complementary constraints from nuclear saturation properties, chiral effective field theory calculations of pure neutron matter, heavy-ion collision, and empirical nuclear data, the GW170817 tidal deformability posterior, and NICER mass--radius measurements. The resulting posterior distributions simultaneously constrain the dense matter and gravity sectors and quantify their correlations within a common framework. For a canonical $1.4\\,M_\\odot$ NS, we obtain $R_{1.4}=11.28^{+0.35}_{-0.31}\\,\\mathrm{km}$ and $Λ_{1.4}=151.4^{+44.9}_{-31.2}$, while the maximum mass is constrained to $M_{\\rm max}=2.22^{+0.29}_{-0.16}\\,M_\\odot$. The modified gravity parameters exhibit only weak direct correlations with most stellar observables, while a pronounced degeneracy remains within the gravity sector. Our results show that accounting for EOS uncertainties is essential for quantifying the interplay between dense matter physics and modified gravity and provide a systematic framework for confronting symmetric teleparallel gravity with nuclear and multimessenger NS observations.",
+  "authors": [
+   "N. K. Patra",
+   "Sneha Pradhan",
+   "P. K. Sahoo",
+   "Kai Zhou"
+  ],
+  "categories": [
+   "gr-qc",
+   "astro-ph.HE",
+   "astro-ph.SR",
+   "nucl-th"
+  ],
+  "comment": "15 pages, 9 figures, 1 table",
+  "first_author": "N. K. Patra",
+  "pdf_url": "http://arxiv.org/pdf/2611.14553",
+  "primary_category": "gr-qc",
+  "published": "2026-11-03",
+  "tags": [
+   "bayesian-inference"
+  ],
+  "title": "Joint Bayesian Inference of Dense Matter and f(Q) Gravity with Nuclear and Neutron Star Constraints",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-03"
+ },
  "2611.14561": {
   "abstract": "A three-dimensional thermo-fluid-dynamic simulation of laser melting resolves the melt pool and vapor depression but costs from one to thousands of core-hours per track. We train FNO, RIGNO and GAOT neural operators that predict the temperature, melt-pool and free-surface fields. Our datasets comprise 3D temperature and melt geometry fields covering lack-of-fusion to keyhole conditions under varied laser power, scan speed, beam radius, beam shape and preheat, and include free-form scan paths with speed changes and up to four beams. We generate them with FLOW-3D WELD, using solver settings validated against published measurements for four materials. We implement an AiiDA framework to store the provenance of every simulation, model and evaluation, so each tabulated metric traces back to the solver and model inputs behind it. On held-out simulations, the best architecture scores below 2 % relative temperature error on quasi-steady straight tracks, below 4 % on single-beam free-form paths and about 5 % with two to four beams. Inference takes under a second per predicted arbitrary time step on our single-GPU setup. We extend a surrogate trained on Ti-6Al-4V to Inconel 718 by growing its training set autonomously, and the extended models reach a relative temperature error of about 3 % or less on both Inconel 718 and Ti-6Al-4V. At 20 Ti-6Al-4V and Inconel 718 conditions held out of training, the two-alloy RIGNO predicts melt-pool and vapor-depression depths within 30 % of published measurements, and its depths differ from FLOW-3D at the same conditions by 2 % on average.   Furthermore, these results provide a scalable framework which can readily be applied to computationally intensive simulations in fields other than laser melting.",
   "authors": [
@@ -8020,6 +8176,34 @@
   ],
   "updated": "2026-11-05"
  },
+ "2611.14648": {
+  "abstract": "Sharing research data is essential to promote transparency, enable reproducibility, and fuel scientific discoveries. To ensure consistent sharing, the National Institutes of Health (NIH) and other funding agencies require applicants to submit data management plans (DMPs) with their proposals. They aim to encourage researchers to consider their data management and sharing strategies early on. However, researchers often face challenges when developing DMPs due to a lack of knowledge about data-sharing practices. Here, we evaluated the performance of Large Language Models (LLMs) in drafting DMPs compliant with the 2023 NIH guidelines. The goal was to investigate whether LLM-supported DMP creation could reduce the burden on researchers and librarians. We compared Llama and GPT performance against NIH-provided DMP samples. We also asked domain experts to evaluate LLM-generated DMPs. Overall, we found that LLMs can accelerate the creation of initial drafts but still require expert review before submission to ensure clarity and completeness. Moreover, open-source LLMs may not be as ready off-the-shelf as commercial ones for drafting funder-compliant DMPs.",
+  "authors": [
+   "Nahid Zeinali",
+   "James ONeil",
+   "Xuebin Dong",
+   "Rebecca Hofstein Grady",
+   "Maria Praetzellis",
+   "Brian Riley",
+   "John Chodacki",
+   "Bhavesh Patel"
+  ],
+  "categories": [
+   "cs.DL",
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Nahid Zeinali",
+  "pdf_url": "http://arxiv.org/pdf/2611.14648",
+  "primary_category": "cs.DL",
+  "published": "2026-11-10",
+  "tags": [],
+  "title": "Evaluating the Performance of LLMs in Drafting NIH Data Management Plans",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-10"
+ },
  "2611.14716": {
   "abstract": "Optimal allocation of generators is a key challenge in power systems to achieve economical dispatch while satisfying operational constraints. Conventional optimization techniques can be computationally expensive, limiting their applicability in real-time environments, and neural networks often require offline retraining under new operating conditions. This paper proposes a three-stage unsupervised online physics-informed neural network (PINN) framework for optimal power flow (OPF). Simulation results demonstrate that the proposed framework satisfies load demand and system constraints while achieving a $43,665 lower operating cost than fmincon-based optimization under the same operating conditions. The training process analysis further demonstrate the framework's ability to adapt its parameters online to variations in load demand and renewable generation in real time.",
   "authors": [
@@ -8040,6 +8224,63 @@
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2026-11-10"
+ },
+ "2611.14883": {
+  "abstract": "We propose a random feature policy iteration method for reconstructing the obstacle function in a mean-field game (MFG) from observations of its value function, leveraging the method's mesh-free nature and flexibility to handle complex geometries and high-dimensional problems. The method builds on a policy iteration framework for inverse MFGs, which decouples the coupled nonlinear forward-backward PDE system into a sequence of linear PDE and inverse problem solves. The fixed random feature representations preserve this linear structure, allowing the resulting subproblems to be solved by minimizing residuals at sampled collocation points through linear least-squares problems. The mesh-free nature of the method further extends the applicability of the policy iteration framework to inverse MFGs with complex geometry and in high dimensions. Another key advantage is its flexibility in using different spatial approximations for different variables: the obstacle function, value function, and population density can be represented in separate feature spaces, accommodating obstacles that are substantially less regular than the corresponding PDE solutions. Moreover, boundary conditions can be enforced through collocation on irregular domains without constructing boundary-fitted meshes. Numerical experiments involving smooth and discontinuous obstacles, a domain with holes, and higher-dimensional problems demonstrate the accuracy and flexibility of the proposed method.",
+  "authors": [
+   "Xiangjian Zhang",
+   "Shanyin Tong",
+   "Xiaofeng Xu"
+  ],
+  "categories": [
+   "math.NA",
+   "cs.GT",
+   "math.OC"
+  ],
+  "comment": "20 pages, 7 figures",
+  "first_author": "Xiangjian Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.14883",
+  "primary_category": "math.NA",
+  "published": "2026-11-11",
+  "tags": [],
+  "title": "Random feature policy iteration for inverse mean field games with complex geometry and high dimensions",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.14949": {
+  "abstract": "Identifying and solving partial differential equations (PDEs) from sampled solution data often requires substantial expert effort in equation discovery, coefficient estimation, and numerical solver configuration, especially under noise and distribution shifts. Can large language model (LLM) agents automate this workflow accurately and efficiently? To investigate this question, we introduce \\bench{}, a benchmark of 1,001 cases spanning 42 equation templates, including both classical and fractional PDEs. It provides three evaluation settings: Full evaluates performance on noise-free solution data; Noisy tests robustness to Gaussian noise with an RMS equal to 50\\% of the clean-signal RMS; and Hard-OOD tests challenging out-of-distribution generalization to unseen equation templates and shifted coefficient ranges. We further introduce RSI-PDE, a recursively self-improving agent harness that shortlists candidate equations by residual loss, uses relative $L^2$ feedback to refine coefficients and numerical solvers, and applies a validation gate to policy and memory updates. We compare RSI-PDE with single-run baselines and native agent harnesses (Claude Code or Codex) across four frontier models. Across the three settings, RSI-PDE improves the pass rate averaged across the four models by 106.5--181.9\\% relative to single-run baselines and by 3.0--19.6\\% relative to native harnesses, while reducing total recorded model calls by 46.9\\% across the 12 model--setting pairs. These results highlight the potential of validated recursive self-improvement in LLM agents to advance scientific computing.",
+  "authors": [
+   "Binghang Lu",
+   "Lang Cao",
+   "Changhong Mou",
+   "Yige Sun",
+   "Cindy Xiangrui Kong",
+   "Zheyuan Deng",
+   "Tian Yuan",
+   "Bing Hu",
+   "Runyu Zhang",
+   "Na Lu",
+   "Guang Lin"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Binghang Lu",
+  "pdf_url": "http://arxiv.org/pdf/2611.14949",
+  "primary_category": "cs.AI",
+  "published": "2026-11-11",
+  "tags": [
+   "equation-discovery",
+   "partial-differential-equations"
+  ],
+  "title": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-11"
  },
  "2611.14979": {
   "abstract": "Deep-learning-based 3D MRI reconstruction is limited in practice by the GPU memory and compute cost of full-volume training; 3D acquisitions are thus most often reconstructed by 2D models applied slice-by-slice and then stacked, which ignores through-plane (stacking-axis) structure. We reconstruct in full 3D and ask whether a model can be trained at low resolution (fast and memory-feasible) yet deployed at higher resolution. This coarse-to-fine strategy needs reliable cross-resolution performance, but standard networks are resolution-specific and degrade substantially when evaluated outside the training setting. We therefore use resolution-agnostic neural operators (NOs) and propose KIR-NO (k-space-to-Image Reconstruction Neural Operator), a discretization-agnostic framework for accelerated 3D MRI reconstruction. KIR-NO is trained with full backpropagation on low-resolution volumes and applied zero-shot to higher-resolution volumes at inference. Its core building block is a 3D neural operator based on discrete-continuous convolutions: convolutional filters are parameterized in a continuous basis and sampled at arbitrary voxel resolutions while preserving the local inductive bias of convolution. KIR-NO integrates these learned operators with physics-based consistency: a k-space neural-operator head first refines the undersampled Fourier measurements, and image-space neural-operator cascades then refine the reconstruction through interleaved data-consistency updates. Across 3D knee and brain MRI benchmarks, KIR-NO improves over classical and CNN baselines: it improves over a state-of-the-art 3D CNN by 2.2 dB PSNR at half resolution under 4x acceleration on SKM-TEA, with gains persisting at 8x and 16x. These results show that resolution-agnostic operators make coarse-to-fine 3D MRI reconstruction - cheap low-resolution training with high-resolution deployment - practical across anatomies.",
@@ -8106,6 +8347,151 @@
   ],
   "updated": "2026-11-11"
  },
+ "2611.15101": {
+  "abstract": "Generating whole-body gestures that are simultaneously rhythmically synchronized with speech audio and semantically aligned with text descriptions is a fundamental challenge in embodied AI and social robotics. We tackle this Audio-Text-to-Motion (AT2M) problem by composing two independently-trained diffusion models at inference time and refine bias in joint inference by modeling the copula score $s_I$. A rigorous theoretical analysis reveals that naive epsilon blending corresponds to a Product-of-Experts formulation that omits the copula score $s_I$: the cross-modal interaction between audio and text that neither marginal model can capture. We propose CFGComposer: a jointly-trained AT2M diffusion model that estimates $s_I$ via a CFG analogy and injects it as an $ε$-space correction. Experiments on BEAT demonstrate best-in-class semantic fidelity (SRGR $0.9916$, FID $27.18$) with GT-level beat alignment (BA $0.1826$ vs. GT $0.1743$), and 76-83% win rate in blind pairwise human evaluation against all prior methods. Physical deployment on a Unitree G1 humanoid confirms direct sim-to-real transfer.",
+  "authors": [
+   "Pengyang Shi",
+   "Jinlu Zhang",
+   "Chunze Lin",
+   "Yizhou Wang",
+   "Li Yi"
+  ],
+  "categories": [
+   "cs.SD",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Pengyang Shi",
+  "pdf_url": "http://arxiv.org/pdf/2611.15101",
+  "primary_category": "cs.SD",
+  "published": "2026-11-11",
+  "tags": [
+   "diffusion-models"
+  ],
+  "title": "CFGComposer: Compositional Audio-Text-to-Motion Generation via Copula Score Correction",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15131": {
+  "abstract": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The RWM treats intelligence and physical reality as equally fundamental to what constitutes a world. Existing world models largely focus on simulating the latter, leaving reasoning and decision-making as external controls rather than intrinsic parts of the world itself. In RWM, we identify two equally fundamental capabilities: Intent, which provides the cognition underlying world interactions, and Realization, which generates coherent audio-visual behavior. To realize this formulation, Duo v1 introduces three key technical designs: (1) Leveraging autoregressive modeling for continuous interaction reasoning and participation decisions, rather than restricting it to instruction understanding for diffusion models. (2) Constructing chunk-specific conditions and synchronize tokens across Intent and Realization on a unified timeline. Module-specific attention masks enforce causal dependencies both within and across chunks, preventing access to future inputs. (3) Mitigating distribution shift in both modules through dual rollout distillation, training on autoregressively generated Intent tokens and synthesized audiovisual histories from Realization. Both modules continuously perceive real-time audio, video, and text, enabling full-duplex interaction with spontaneous conversations and interruptions. Beyond conversation, users can share real objects, reshape virtual scenes, guide assistants, or play audiovisual games without mouse or keyboard controls. The release of Duo v1 makes our first step, with the next version coming soon. We look forward to broader exploration of this emerging field.",
+  "authors": [
+   "Hengyuan Cao",
+   "Biao Gong",
+   "Guoshan Lu",
+   "Qiyuan Zhang",
+   "Lin Liu",
+   "Yiding Tian",
+   "Yilei Jiang",
+   "Yuxin Ma",
+   "Chengzhang Wu",
+   "Kun Chen",
+   "Yiqian Xie",
+   "Ting Liu",
+   "Xin Zheng",
+   "Xijun Gu",
+   "Tianren Ma",
+   "Jiancheng Pan",
+   "Chi Zhang",
+   "Xuzhe Zheng",
+   "Siyi Li",
+   "Zhenzhong Lan"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.SD"
+  ],
+  "comment": "https://duo-v1.github.io/",
+  "first_author": "Hengyuan Cao",
+  "pdf_url": "http://arxiv.org/pdf/2611.15131",
+  "primary_category": "cs.CV",
+  "published": "2026-11-11",
+  "tags": [
+   "diffusion-models"
+  ],
+  "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15146": {
+  "abstract": "High-dynamic-range (HDR) displays are now common, but most video content, such as archival footage, broadcast material, and the output of generative video models, exists only in standard dynamic range (SDR). The need is sharpest for generated video, which has no HDR master at all and is graded alongside live-action and visual-effects material finished in HDR. Converting SDR to HDR means undoing a tone-mapping operation that was never recorded, and clipping destroys the radiance wherever it acts, so HDR recovery is a blind inverse problem. Methods built on generative video priors fill clipped regions with plausible structure, but their reconstructions are systematically biased: in every public method we test, saturated content leans too bright or too dark, and the direction of the lean moves with the tone operator behind the input. We call this failure the luminance error, measure both its magnitude and its sign, and make it the focus of this work. Reframing ITM as posterior inference under an unknown operator locates the failure in two places and yields two corrections. A fixed affine functional of the video-diffusion latent reads log-luminance without decoding; on that coordinate an asymmetric loss selects an expectile of the posterior, applied only where clipping leaves luminance unconstrained. We also synthesize training SDR through an explicit family of tone operators, so the model marginalizes over what the observation cannot show. Trained this way, our luminance error stays flatter across operators and smaller on average than any public method, and the full system achieves the best perceptual quality on all three benchmarks.",
+  "authors": [
+   "Hanwool Sul",
+   "Chang-Hoon Jeong",
+   "Kisung Shin",
+   "Bomseok Park",
+   "Donghoon Cha",
+   "Hansl von Kwon",
+   "DoHyung Ku",
+   "Byoung-Tak Zhang"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Hanwool Sul",
+  "pdf_url": "http://arxiv.org/pdf/2611.15146",
+  "primary_category": "cs.CV",
+  "published": "2026-11-11",
+  "tags": [],
+  "title": "Reframing Video Inverse Tone Mapping as Blind Posterior Inference via Latent Luminance Supervision",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15645": {
+  "abstract": "Ultrasound elastography (or elasticity imaging) is a method that characterizes the tissue mechanical properties with the purpose of aiding the diagnosis of certain pathologies. Many novel clinical applications use the assumption that these tissue properties are changed in the presence of pathological processes. Characterization of tissue mechanical properties is achieved by imaging the response of the tissue to an induced stress or excitation. A plethora of approaches have been used in the scientific community to induce excitation in tissue, which usually require additional tools or devices than are costly. Furthermore these are usually integrated in the imaging pipeline using additional software or hardware for control. An alternative that is simpler, faster to integrate (and low-cost) is proposed in this work, by using readily available smartphones as a source of mechanical excitation. The induced displacements are used to solve the elasticity inverse problem (IP) using a finite element method (FEM) approach. Preliminary elasticity reconstructions of a phantom that mimics tissue are similar to when using a dedicated actuator as means of inducing harmonic displacements, illustrating the feasibility of our low-cost ultrasound elasography approach.",
+  "authors": [
+   "Corin F. Otesteanu"
+  ],
+  "categories": [
+   "cs.CV",
+   "eess.IV"
+  ],
+  "comment": null,
+  "first_author": "Corin F. Otesteanu",
+  "pdf_url": "http://arxiv.org/pdf/2611.15645",
+  "primary_category": "cs.CV",
+  "published": "2026-11-11",
+  "tags": [],
+  "title": "Ultrasound Elastography: Excitation Methods and Low-Cost Alternative",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15653": {
+  "abstract": "Foundation models are increasingly used across the sciences, but whether their internal computations correspond to known scientific operations or proceed through different mechanisms remains unclear. Understanding these mechanisms is essential for assessing reliability, identifying failure modes, and learning new science from the models. We present, to our knowledge, the first causal mechanistic interpretability study of an astronomy foundation model, AION-1, focusing on its multimodal advantage in redshift prediction, where combining imaging with photometry outperforms photometry alone. We find that this advantage is largest for spatially extended and dust-attenuated galaxies, and that most of it is localized to the first of the encoder's twelve blocks. Within that block, how well a property is linearly decodable does not predict whether it can be localized. Spatial extent is causally used, and one attention head dominates linear probing for it, yet ablating that head has negligible effect on redshift prediction: the information is distributed across heads and is decodable again one layer after we erase it. Dust attenuation shows the opposite pattern: it is only weakly decodable anywhere in the encoder, yet a single head is necessary for most of the multimodal advantage, particularly for the most dust-attenuated galaxies, and keeping that head as the only active head in its block preserves nearly all of the advantage. None of the astrophysically motivated operations we tested explains what this head computes. Whether this reflects a limitation of current interpretability methods or a computation that does not correspond to any known astrophysical operation remains open, and resolving it is a prerequisite for using interpretability as a tool for scientific discovery.",
+  "authors": [
+   "Rachel C. Zhang",
+   "Alberto Bietti",
+   "Wes Gurnee",
+   "Alessandro Favero",
+   "Miles Cranmer"
+  ],
+  "categories": [
+   "cs.LG",
+   "astro-ph.IM"
+  ],
+  "comment": "Accepted at NeurIPS 2026. A condensed version was selected for an oral presentation at the NeurIPS 2026 Workshop on Interpretability for Discovery",
+  "first_author": "Rachel C. Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.15653",
+  "primary_category": "cs.LG",
+  "published": "2026-11-11",
+  "tags": [
+   "scientific-discovery"
+  ],
+  "title": "A Mechanistic Interpretability Study of an Astronomy Foundation Model",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-11"
+ },
  "2611.15678": {
   "abstract": "We study Newton's method for the Cauchy problem for viscous Hamilton--Jacobi equations with Hamiltonians that need not be convex. Each Newton step solves a linear parabolic equation obtained by linearizing the equation at the current iterate. We prove that the iterates converge geometrically in \\(L^\\infty\\) from any initial guess satisfying the initial condition, and quadratically in the parabolic Hölder space \\(C^{2+α,1+α/2}\\) from initial guesses close to the solution. When the Hamiltonian admits a control representation, the Newton iterates coincide with those of classical policy iteration, which therefore inherits both convergence rates. We extend the local quadratic convergence to uniformly parabolic fully nonlinear equations. For small viscosity, we introduce a Nash--Moser variant that smooths the iterate and the residual in space, and we give a convergence criterion with constants independent of the viscosity. Finally, we show how computable residuals certify the error of inexact Newton corrections computed with physics-informed neural networks.",
   "authors": [
@@ -8132,5 +8518,370 @@
    "Scientific Machine Learning & PINNs"
   ],
   "updated": "2026-11-11"
+ },
+ "2611.15758": {
+  "abstract": "Deep-learning-based magnetic resonance imaging (MRI) reconstruction holds great promise for accelerating acquisitions, yet its clinical translation remains bottlenecked by poor generalizability across unseen scanners, populations, anatomies, and protocols. Gathering sufficiently diverse clinical datasets to overcome this bottleneck is hindered by high acquisition costs, privacy restrictions, and institutional biases. Here, we introduce Scalable Inverse Model (SIM), a framework that systematically co-designs physics-simulated training data, model architecture, and learning paradigms around scalability--leveraging compute scaling to overcome historical data bottlenecks and achieve robust zero-shot MRI reconstruction. Across 14 public and in-house datasets--spanning seven international centers, five vendors, field strengths of 0.3-7 T, over ten anatomical regions, more than ten acquisition protocols, downstream quantitative and molecular tasks, and a 150-scan blinded radiologist study--SIM demonstrates robust zero-shot generalizability, recovering fine anatomical details while suppressing aliasing artifacts where conventional deep-learning methods fail. Attention-map analyses confirm that SIM learns physically explainable, dynamically adaptive reconstruction primitives rather than anatomy-specific priors. SIM establishes a scalable, privacy-preserving, and democratized infrastructure for universal MRI reconstruction, providing a blueprint for generalizable AI across inverse problems in medical imaging.",
+  "authors": [
+   "Hong Shang",
+   "Zijian Zhan",
+   "Sen Jia",
+   "Xiang Fan",
+   "Jintao Meng",
+   "Yang Zhou",
+   "Xiang Zhou",
+   "Tianyu He",
+   "Xinran Chen",
+   "Qiaoling Zeng",
+   "Keyan Yu",
+   "Jianhua Yao",
+   "Dong Liang"
+  ],
+  "categories": [
+   "eess.IV",
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Hong Shang",
+  "pdf_url": "http://arxiv.org/pdf/2611.15758",
+  "primary_category": "eess.IV",
+  "published": "2026-11-11",
+  "tags": [
+   "inverse-problems"
+  ],
+  "title": "Physics-based simulation unlocks scaling laws for generalizable MRI reconstruction",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15829": {
+  "abstract": "Conditional generative models have become the tool of choice for sampling posteriors in scientific inverse problems, where we seek to sample images or signals conditioned on a set of indirect and noisy measurements. Yet they are often overconfident, which is a critical failure in scientific applications where accurate uncertainty quantification is essential. Existing regularizers fall short in complementary ways: differentiable coverage objectives require the model's density and do not identify the posterior, while strictly proper scoring rules such as the energy score need only samples but do not directly enforce coverage. We close this gap by introducing a differentiable loss function based on the expected coverage probability, estimated from samples alone. It applies to any conditional generative model, with no need for tractable densities or architectural changes. We prove that it is a strict divergence, vanishing if and only if the model equals the true posterior. On simulation-based inference benchmarks, it matches a density-based coverage loss without evaluating the density. On high-dimensional imaging inverse problems, it yields better-calibrated posteriors than scoring-rule regularizers, with little change in the reconstruction quality of point estimates.",
+  "authors": [
+   "Benjamin Remy",
+   "Raphael Rossellini",
+   "Chihway Chang",
+   "Rebecca Willett"
+  ],
+  "categories": [
+   "cs.LG",
+   "stat.ME",
+   "stat.ML"
+  ],
+  "comment": "32 pages, 7 figures",
+  "first_author": "Benjamin Remy",
+  "pdf_url": "http://arxiv.org/pdf/2611.15829",
+  "primary_category": "cs.LG",
+  "published": "2026-11-11",
+  "tags": [
+   "inverse-problems",
+   "uncertainty-quantification"
+  ],
+  "title": "Training Calibrated Conditional Generative Models with a Sample-Only Coverage Loss",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15980": {
+  "abstract": "We develop two hybrid data-driven Uncertainty Quantification (UQ) Reduced-Order Models (ROMs) for the non-stationary incompressible Navier--Stokes Equations (NSEs) with random viscosity. The proposed framework combines Proper Orthogonal Decomposition (POD) ROMs, spatial filtering, data-driven closure modeling, and the Stochastic Collocation Method (SCM). A key feature is the approximation of the realization-dependent closure term by the closure associated with the expected viscosity. Consequently, a single data-driven closure model constructed from the full-order solution corresponding to the expected viscosity can be reused across all realizations, thereby avoiding the expensive construction of realization-specific closure models. This leads to the Data-Driven Correction UQ ROM (DDC-UQ-ROM) and its physically constrained variant, the Constrained DDC-UQ-ROM (CDDC-UQ-ROM), in which physical constraints are imposed on the data-driven correction model.   The proposed methods are evaluated for a two-dimensional (2D) flow past a circular cylinder problem with a 5D random viscosity field, considering mean Reynolds numbers $Re=100$ and $Re=500$, different correlation lengths, and both in-sample and out-of-sample parameter settings. Numerical results show that the DDC-UQ-ROM generally improves upon the standard Galerkin ROM (G-ROM), while the CDDC-UQ-ROM exhibits the most accurate and robust approximation of the benchmark energy evolution across the cases considered. The robustness and accuracy of the CDDC-UQ-ROM are further assessed through statistical error analyses of the first- and second-order energy moments, reduced-training-data experiments, and an indicative comparison of wall-clock computational costs with the full-order UQ calculations.",
+  "authors": [
+   "Md. Abdul Aziz",
+   "Muhammad Mohebujjaman",
+   "Xuping Xie"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "math.NA"
+  ],
+  "comment": "23 pages, 10 figures",
+  "first_author": "Md. Abdul Aziz",
+  "pdf_url": "http://arxiv.org/pdf/2611.15980",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-11",
+  "tags": [
+   "rom",
+   "uncertainty-quantification"
+  ],
+  "title": "Data-driven Correction Reduced-Order Stochastic Collocation Method for the Time-Dependent Navier-Stokes Equations",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.16109": {
+  "abstract": "Understanding the intrinsic 3D shapes of galaxies provides crucial insights into their formation and evolution, but determining these from projections remains challenging. We apply a Bayesian inference framework to optical images of galaxies from the Euclid Data Release 1, leveraging its large sample size to test the scalability and robustness of this methodology. Applying Hamiltonian Monte Carlo (HMC) sampling to Sérsic axis ratios and effective radii, we constrain the population-level mean 3D ellipticity, triaxiality, and size, together with their covariances for $40\\,864\\,304$ star-forming galaxies with stellar masses $M_\\ast=10^{9}$--$10^{10.5}M_\\odot$ at redshifts $0<z<1.2$. Our sample size exceeds previous shape inference studies by factors of $440$--$52\\,800$ relative to early observations by JWST, and factors of $440$--$17\\,600$ relative to legacy observations from HST in overlapping mass-redshift bins, enabling finer binning alongside improved statistical constraints on shape evolution. We additionally include over 9 million galaxies at $z<0.5$, a regime historically limited by sample size in previous shape inference studies. We recover key evolutionary trends identified in previous smaller-sample studies. We find high ellipticities ($μ_E \\sim 0.600$--$0.821$) across all bins, indicating that the underlying 3D shape distributions are statistically dominated by flattened geometries. Most notably, we recover the decline of the prolate fraction towards $z=0$ at low masses ($M_\\ast=10^{9}$--$10^{9.5}M_\\odot$) reported by previous studies. This trend is seen consistently in comparable analyses of independent data sets spanning different depths and resolution regimes, showing that it is not an artefact of small-sample statistics, suggesting it may be a genuine feature of galaxy evolution. We also identify future methodological improvements for subsequent Euclid data releases.",
+  "authors": [
+   "M. Dunn",
+   "M. Huertas-Company",
+   "J. H. Knapen",
+   "V. Pandya",
+   "H. Zhang",
+   "L. Quilley",
+   "A. van der Wel",
+   "E. Duran-Camacho",
+   "D. Scott",
+   "G. Helou",
+   "K. Bunte",
+   "B. Altieri",
+   "S. Andreon",
+   "N. Auricchio",
+   "C. Baccigalupi",
+   "M. Baldi",
+   "S. Bardelli",
+   "P. Battaglia",
+   "A. Biviano",
+   "E. Branchini",
+   "M. Brescia",
+   "S. Camera",
+   "V. Capobianco",
+   "C. Carbone",
+   "J. Carretero",
+   "M. Castellano",
+   "G. Castignani",
+   "S. Cavuoti",
+   "K. C. Chambers",
+   "A. Cimatti",
+   "C. Colodro-Conde",
+   "G. Congedo",
+   "C. J. Conselice",
+   "L. Conversi",
+   "Y. Copin",
+   "F. Courbin",
+   "H. M. Courtois",
+   "M. Cropper",
+   "H. Degaudenzi",
+   "G. De Lucia",
+   "C. Dolding",
+   "H. Dole",
+   "F. Dubath",
+   "X. Dupac",
+   "S. Dusini",
+   "A. Ealet",
+   "S. Escoffier",
+   "M. Farina",
+   "R. Farinelli",
+   "S. Ferriol",
+   "P. Fosalba",
+   "S. Fotopoulou",
+   "M. Frailis",
+   "E. Franceschi",
+   "M. Fumana",
+   "S. Galeotta",
+   "K. George",
+   "B. Gillis",
+   "C. Giocoli",
+   "J. Gracia-Carpio",
+   "A. Grazian",
+   "F. Grupp",
+   "S. Gwyn",
+   "S. V. H. Haugan",
+   "W. Holmes",
+   "F. Hormuth",
+   "A. Hornstrup",
+   "K. Jahnke",
+   "M. Jhabvala",
+   "B. Joachimi",
+   "S. Kermiche",
+   "A. Kiessling",
+   "B. Kubik",
+   "M. Kümmel",
+   "H. Kurki-Suonio",
+   "A. M. C. Le Brun",
+   "S. Ligori",
+   "P. B. Lilje",
+   "V. Lindholm",
+   "I. Lloro",
+   "M. Magliocchetti",
+   "G. Mainetti",
+   "O. Mansutti",
+   "O. Marggraf",
+   "M. Martinelli",
+   "N. Martinet",
+   "F. Marulli",
+   "R. J. Massey",
+   "E. Medinaceli",
+   "S. Mei",
+   "M. Melchior",
+   "M. Meneghetti",
+   "E. Merlin",
+   "G. Meylan",
+   "A. Mora",
+   "M. Moresco",
+   "C. Moretti",
+   "L. Moscardini",
+   "R. Nakajima",
+   "C. Neissner",
+   "S. -M. Niemi",
+   "J. W. Nightingale",
+   "C. Padilla",
+   "S. Paltani",
+   "F. Pasian",
+   "K. Pedersen",
+   "W. J. Percival",
+   "V. Pettorino",
+   "A. Pezzotta",
+   "G. Polenta",
+   "M. Poncet",
+   "L. A. Popa",
+   "L. Pozzetti",
+   "F. Raison",
+   "A. Renzi",
+   "J. Rhodes",
+   "G. Riccio",
+   "E. Romelli",
+   "M. Roncarelli",
+   "B. Rusholme",
+   "R. Saglia",
+   "Z. Sakr",
+   "D. Sapone",
+   "B. Sartoris",
+   "P. Schneider",
+   "T. Schrabback",
+   "M. Scodeggio",
+   "A. Secroun",
+   "E. Sihvola",
+   "P. Simon",
+   "C. Sirignano",
+   "G. Sirri",
+   "L. Stanco",
+   "P. Tallada-Crespí",
+   "A. N. Taylor",
+   "H. I. Teplitz",
+   "I. Tereno",
+   "N. Tessore",
+   "S. Toft",
+   "R. Toledo-Moreo",
+   "F. Torradeflot",
+   "I. Tutusaus",
+   "J. Valiviita",
+   "T. Vassallo",
+   "A. Veropalumbo",
+   "Y. Wang",
+   "J. Weller",
+   "A. Zacchei",
+   "G. Zamorani",
+   "F. M. Zerbi",
+   "I. A. Zinchenko",
+   "E. Zucca",
+   "M. Sereno"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "Paper intended for the A&A Special Issue \"Euclid First Data Release'', Submitted to A&A, 31 pages, 33 figures",
+  "first_author": "M. Dunn",
+  "pdf_url": "http://arxiv.org/pdf/2611.16109",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-11-11",
+  "tags": [
+   "bayesian-inference"
+  ],
+  "title": "Euclid: Data Release 1 (DR1) -- Bayesian 3D shape inference of star-forming galaxy populations",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.16285": {
+  "abstract": "Fault-tolerant quantum computing requires quantum error-correction (QEC) decoders that achieve low logical error rates under real-time operating constraints. These constraints motivate heuristic decoding algorithms whose error-correction performance must be evaluated through large-scale simulation. High-throughput decoding accelerates this evaluation and the exploration of decoder parameters. Using multiple graphics processing units (GPUs) is a natural way to scale these simulations, but naively distributing syndrome batches introduces host-side preprocessing and output-collection overheads that limit scaling. To address these limitations, we extend the Pêlagos relay belief-propagation (Relay-BP) decoder with process-isolated orchestration, parallel host preprocessing, and shared-memory output. We evaluate both one-gross ($[[144,12,12]]$) and two-gross ($[[288,12,18]]$) codes in a multi-GPU environment. Specifically, for the one-gross circuit at $R=50$, eight AMD Instinct MI300X GPUs and eight AMD Instinct MI355X GPUs achieve optimized end-to-end speedups of $5.68\\times$ and $6.23\\times$, respectively. For the two-gross circuit, the corresponding speedups are $6.92\\times$ and $7.01\\times$. When throughput is calculated using GPU decoding time, the corresponding two-gross speedups are $7.58\\times$ and $7.45\\times$, indicating near-linear GPU scaling. We deploy Pêlagos on Lux, Oak Ridge National Laboratory's AMD Instinct MI355X-based supercomputer, as a pathfinding application for high-throughput QEC simulation. This deployment provides a concrete quantum-computing use case for the AI + HPC infrastructure supporting the Genesis Mission's scientific-discovery goals. These end-to-end measurements demonstrate a practical path to accelerating large-scale QEC simulation through efficient multi-GPU decoding.",
+  "authors": [
+   "Xulong Tang",
+   "Dionysios Diamantopoulos",
+   "Tristan Müller",
+   "Apo Kayi",
+   "Nelson Mimura Gonzalez",
+   "Muhammad Osama",
+   "Seetharami Seelam",
+   "Haralampos Pozidis",
+   "Blake R. Johnson",
+   "Yasuko Eckert"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.ET"
+  ],
+  "comment": null,
+  "first_author": "Xulong Tang",
+  "pdf_url": "http://arxiv.org/pdf/2611.16285",
+  "primary_category": "quant-ph",
+  "published": "2026-11-12",
+  "tags": [],
+  "title": "Scaling Pêlagos: Multi-GPU Orchestration for Relay Belief-Propagation Decoding",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.16750": {
+  "abstract": "Machine learning coupled with device simulation is widely used to optimize thin-film solar cells, but almost exclusively in the forward direction, from device parameters to predicted performance. The inverse problem encountered after fabrication, namely identifying the mechanism that limits a given device, is still addressed by manual inspection of characterization data. In this work, both directions are examined for lead-free $RbSn_{0.5}Ge_{0.5}I_{3}$ solar cells using approximately 42,000 SCAPS-1D simulations. Replacing the Spiro-OMeTAD hole transport layer with CuI increases the simulated power conversion efficiency from 19.6\\% to 21.6\\%, almost entirely through the fill factor. Surrogate models trained and tested on a factorial parameter grid substantially overstate their predictive accuracy. An XGBoost regressor attains $R^2 = 0.9997$ on held-out grid points but only 0.58 on independently sampled devices, whereas training on a Latin hypercube design of comparable size restores $R^2 = 0.995$. For the inverse problem, a multi-label classifier identifies which of six degradation mechanisms are present from simulated temperature- and illumination-dependent open-circuit-voltage measurements. It achieves a macro $F_1$ score of 0.938, compared to 0.687 for a calibrated physics-rule baseline. The classifier does not, however, generalize to combinations of mechanisms absent from the training set.",
+  "authors": [
+   "Nabanita Sarker",
+   "Hafiz Imtiaz"
+  ],
+  "categories": [
+   "cs.LG",
+   "math-ph"
+  ],
+  "comment": "Under review in RSC Advances",
+  "first_author": "Nabanita Sarker",
+  "pdf_url": "http://arxiv.org/pdf/2611.16750",
+  "primary_category": "cs.LG",
+  "published": "2026-11-12",
+  "tags": [],
+  "title": "Interpretable machine learning diagnosis of degradation mechanisms in lead-free $RbSn_{0.5}Ge_{0.5}I_{3}$ solar cells from temperature- and illumination-dependent electrical measurements",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.16785": {
+  "abstract": "Self-interacting dark matter is constrained on galactic and cluster scales by its elastic scattering cross section per unit mass, $σ/m_χ\\sim 0.1-10\\ {\\rm cm^2/g}$. We incorporate this cross section into the equation of state of an asymmetric, self-interacting fermionic dark matter component and perform a Bayesian inference of dark matter admixed neutron stars in the two-fluid framework at $σ/m_χ= 0.1$, $1$ and $10\\ {\\rm cm^2/g}$. Seven nuclear matter parameters are sampled together with the dark particle mass and mass fraction, and confronted with nuclear theory and neutron star observations. The nuclear sector and the global observables are statistically indistinguishable across the whole range of cross sections, while the data constrain the dark matter mass to $m_χ\\simeq 1.45-1.88$~GeV and its mass fraction to $f_χ\\simeq 0.05-0.09$, depending on the cross section. Finally, comparing runs built from the same parameter draws, so that only the cross section differs, we find that it does change the baryonic radius appreciably, but only for light dark matter, a region the astrophysical data largely disfavor. The self-interaction is therefore not too weak to be seen; however its effect is hidden in the region of parameter space that the present observational data already disfavor.",
+  "authors": [
+   "H. C. Das",
+   "J. B. Wei"
+  ],
+  "categories": [
+   "astro-ph.HE",
+   "hep-ph"
+  ],
+  "comment": "14 pages, 10 figures, 4 tables",
+  "first_author": "H. C. Das",
+  "pdf_url": "http://arxiv.org/pdf/2611.16785",
+  "primary_category": "astro-ph.HE",
+  "published": "2026-11-12",
+  "tags": [
+   "bayesian-inference",
+   "dark-matter"
+  ],
+  "title": "Bayesian Inference of Fermionic Dark Matter Admixed Neutron Stars Informed by Galaxy Cluster Constraints",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17324": {
+  "abstract": "Video diffusion models are able to generate samples with high-quality appearance and textural qualities. However, content produced by these methods is known to exhibit significant physical errors. This is because, in a classical video generation setting, all physical reasoning must take place simultaneously and exclusively within the diffusion process.We propose to resolve these issues by redistributing the task of physical reasoning onto a language model-backed keyframe generation module, which allows for explicit reasoning in language, and fine-grained control over the appearance of the video at important moments in the video. We then condition a video generation model with these keyframes, reducing the role of the diffusion model to the simpler task of interpolating between physically-correct intermediate states, rather than inferring an entire sequence with diffusion. Results demonstrate that our approach significantly outperforms existing approaches, achieving state-of-the-art performance on the Physics-IQ Verified benchmark and PhyGenBench.",
+  "authors": [
+   "Felix O'Mahony",
+   "Daniel Olmeda Reino",
+   "Roberto Cipolla",
+   "Ayush Tewari"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Felix O'Mahony",
+  "pdf_url": "http://arxiv.org/pdf/2611.17324",
+  "primary_category": "cs.CV",
+  "published": "2026-11-12",
+  "tags": [
+   "diffusion-models"
+  ],
+  "title": "K2V: Generative Keyframing For Physically Plausible Video Generation",
+  "topics": [
+   "Generative Models & Discovery"
+  ],
+  "updated": "2026-11-12"
  }
 }

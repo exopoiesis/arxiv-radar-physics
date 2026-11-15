@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">276 papers</span>
+  <span class="paper-count">275 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1664,11 +1664,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18777.html">SAOT: An Enhanced Locality-Aware Spectral Transformer for Solving PDEs</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Chenhong Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18777">2511.18777</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15638.html">Learning from Imperfect Labels: A Physics-Aware Neural Operator with Application to DAS Data Denoising</a></div></td>
-<td>Yang Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15638">2511.15638</a></td>
 </tr>
 </tbody></table>

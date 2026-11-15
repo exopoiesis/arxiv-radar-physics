@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vqe — 360d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="vqe-7d.html">7d</a> <a href="vqe-30d.html">30d</a> <a href="vqe-90d.html">90d</a> <strong>360d</strong> <a href="vqe-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16851.html">Quantum Data Learning of Topological-to-Ferromagnetic Phase Transitions in the 2+1D Toric Code Loop Gas Model</a></div></td>
 <td>Shamminuj Aktar et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16851">2511.16851</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.15667.html">NN-AE-VQE: Neural network parameter prediction on autoencoded variational quantum eigensolvers</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="variational-quantum-algorithms-360d.html">variational-quantum-algorithms</a></div></td>
-<td>Koen Mesman et al.</td>
-<td><a href="http://arxiv.org/abs/2411.15667">2411.15667</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">473 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2834,23 +2834,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15969.html">A Primer on Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Su Yeon Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15969">2511.15969</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09497.html">Quantum mixture-density network for multimodal probabilistic prediction</a></div></td>
-<td>Jaemin Seo</td>
-<td><a href="http://arxiv.org/abs/2506.09497">2506.09497</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15376.html">QSentry: Backdoor Detection for Quantum Neural Networks via Measurement Clustering</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Shuolei Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15376">2511.15376</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15672.html">From Qubits to Couplings: A Hybrid Quantum Machine Learning Framework for LHC Physics</a></div></td>
-<td>Marwan Ait Haddou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15672">2511.15672</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>oceanography — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="oceanography-7d.html">7d</a> <a href="oceanography-30d.html">30d</a> <a href="oceanography-90d.html">90d</a> <strong>360d</strong> <a href="oceanography-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.12276.html">Balancing Accuracy and Speed: A Multi-Fidelity Ensemble Kalman Filter with a Machine Learning Surrogate Model</a></div></td>
 <td>Jeffrey van der Voort et al.</td>
 <td><a href="http://arxiv.org/abs/2512.12276">2512.12276</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15853.html">The Ensemble Kalman Inversion Race</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
-<td>Rebecca Gjini et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15853">2511.15853</a></td>
 </tr>
 </tbody></table>

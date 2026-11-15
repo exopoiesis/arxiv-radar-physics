@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">524 papers</span>
+  <span class="paper-count">526 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15653.html">A Mechanistic Interpretability Study of an Astronomy Foundation Model</a></div></td>
+<td>Rachel C. Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15653">2611.15653</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14483.html">Mechanistic Interpretability Needs a Logic of Inference</a></div></td>
+<td>Zhimin Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14483">2611.14483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14514.html">Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations</a></div></td>
+<td>Ziang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14514">2611.14514</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12184.html">Blind Variation, Selective Retention: Improving Creative Idea Generation in AI Scientists</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
@@ -3152,11 +3170,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01372.html">Active Measurement: Efficient Estimation at Scale</a></div></td>
 <td>Max Hamilton et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01372">2507.01372</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15074.html">Knowledge-Informed Automatic Feature Extraction via Collaborative Large Language Model Agents</a></div></td>
-<td>Henrik Bradland et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15074">2511.15074</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">754 papers</span>
+  <span class="paper-count">752 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14949.html">RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a></div></td>
+<td>Binghang Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14949">2611.14949</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13624.html">Multifidelity Operator Inference for Non-intrusive Model Reduction under Data Scarcity</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
@@ -4520,23 +4526,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16573.html">An Exterior-Embedding Neural Operator Framework for Preserving Conservation Laws</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Huanshuo Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16573">2511.16573</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.18439.html">Multiscale Neural Networks for Approximating Green&#x27;s Functions</a></div></td>
-<td>Wenrui Hao et al.</td>
-<td><a href="http://arxiv.org/abs/2410.18439">2410.18439</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13633.html">Global Convergence of Adjoint-Optimized Neural PDEs</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Konstantin Riedl et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13633">2506.13633</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15231.html">Solving Newell-Whitehead-Segel and Allen-Cahn Equations Employing Physics-Informed Neural Networks: A Comparative Analysis with Spline Methods</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ali Haider Shah et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15231">2511.15231</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">577 papers</span>
+  <span class="paper-count">572 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3446,35 +3446,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15940.html">Data-Driven Parameter Identification for Tumor Growth Models</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Liu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15940">2511.15940</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08383.html">Error estimates of physics-informed neural networks for approximating Boltzmann equation</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Elie Abdo et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08383">2407.08383</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05407.html">Neural network methods for Neumann series problems of Perron-Frobenius operators</a></div></td>
-<td>T. Udomworarat et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05407">2505.05407</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15231.html">Solving Newell-Whitehead-Segel and Allen-Cahn Equations Employing Physics-Informed Neural Networks: A Comparative Analysis with Spline Methods</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Ali Haider Shah et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15231">2511.15231</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15530.html">Convergence and Sketching-Based Efficient Computation of Neural Tangent Kernel Weights in Physics-Based Loss</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Max Hirsch et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15530">2511.15530</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15543.html">A Physics Informed Machine Learning Framework for Optimal Sensor Placement and Parameter Estimation</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Georgios Venianakis et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15543">2511.15543</a></td>
 </tr>
 </tbody></table>

@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15980.html">Data-driven Correction Reduced-Order Stochastic Collocation Method for the Time-Dependent Navier-Stokes Equations</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Md. Abdul Aziz et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15980">2611.15980</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11129.html">On-the-Fly Reduced Bases Through the Lens of Augmented Krylov Methods</a></div></td>
 <td>Philippe-André Luneau</td>
 <td><a href="http://arxiv.org/abs/2611.11129">2611.11129</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10491.html">A Trajectory-Aware Domain-Decomposed Multispace Reduced Basis Preconditioner for Parametric Helmholtz Problems</a></div><div class="paper-tags"><a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
-<td>An Ping et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10491">2611.10491</a></td>
 </tr>
 </tbody></table>

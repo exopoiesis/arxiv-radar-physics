@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>particle-physics — 360d</h1>
-  <span class="paper-count">91 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="particle-physics-7d.html">7d</a> <a href="particle-physics-30d.html">30d</a> <a href="particle-physics-90d.html">90d</a> <strong>360d</strong> <a href="particle-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,11 +554,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14894.html">Leveraging Reinforcement Learning, Genetic Algorithms and Transformers for background determination in particle physics</a></div></td>
 <td>Guillermo Hijano Mendizabal et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14894">2509.14894</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25169.html">Fast, accurate, and precise detector simulation with vision transformers</a></div></td>
-<td>Luigi Favaro et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25169">2509.25169</a></td>
 </tr>
 </tbody></table>

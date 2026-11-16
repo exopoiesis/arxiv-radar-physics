@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>climate-modeling — 360d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="climate-modeling-7d.html">7d</a> <a href="climate-modeling-30d.html">30d</a> <a href="climate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="climate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13185.html">CondensNet: Enabling stable long-term climate simulations via hybrid deep learning models with adaptive physical constraints</a></div></td>
 <td>Xin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2502.13185">2502.13185</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16426.html">FreqFlow: Long-term forecasting using lightweight flow matching</a></div></td>
-<td>Seyed Mohamad Moghadas et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16426">2511.16426</a></td>
 </tr>
 </tbody></table>

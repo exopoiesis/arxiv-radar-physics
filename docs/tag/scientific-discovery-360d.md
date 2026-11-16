@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">526 papers</span>
+  <span class="paper-count">525 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3164,11 +3164,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17368.html">Exploring Scientific Debt: Harnessing AI for SATD Identification in Scientific Software</a></div></td>
 <td>Eric L. Melin et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17368">2511.17368</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01372.html">Active Measurement: Efficient Estimation at Scale</a></div></td>
-<td>Max Hamilton et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01372">2507.01372</a></td>
 </tr>
 </tbody></table>

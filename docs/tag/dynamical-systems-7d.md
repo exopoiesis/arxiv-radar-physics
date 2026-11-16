@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dynamical-systems — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <a href="dynamical-systems-360d.html">360d</a> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,29 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12401.html">Data-Driven Conservation Laws for Newtonian Systems: Physics-Informed Neural Networks and Eisenhart-Duval Geometry</a></div></td>
 <td>Andronikos Paliathanasis</td>
 <td><a href="http://arxiv.org/abs/2611.12401">2611.12401</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11050.html">Floquet-Parameterized Koopman-MPC for Tracking Periodic Orbits</a></div></td>
-<td>Kartik A. Pant et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11050">2611.11050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11119.html">Scalable Neural Safety Certification via Monotonicity</a></div></td>
-<td>Amirreza Alavi et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11119">2611.11119</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11257.html">Learning calibrated probabilistic forecasts using Koopman mode decomposition and the continuous ranked probability score</a></div></td>
-<td>Benjamin M. Kent et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11257">2611.11257</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11526.html">A Stability Analysis of AdamW: Unstable Equilibria and Non-Convergence</a></div></td>
-<td>Baiyu Su et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11526">2611.11526</a></td>
 </tr>
 </tbody></table>

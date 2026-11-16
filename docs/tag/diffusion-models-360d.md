@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">542 papers</span>
+  <span class="paper-count">541 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3260,11 +3260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17481.html">Counterfactual World Models via Digital Twin-conditioned Video Diffusion</a></div></td>
 <td>Yiqing Shen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17481">2511.17481</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16317.html">NaTex: Seamless Texture Generation as Latent Color Diffusion</a></div></td>
-<td>Zeqiang Lai et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16317">2511.16317</a></td>
 </tr>
 </tbody></table>

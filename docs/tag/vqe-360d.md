@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vqe — 360d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="vqe-7d.html">7d</a> <a href="vqe-30d.html">30d</a> <a href="vqe-90d.html">90d</a> <strong>360d</strong> <a href="vqe-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22593.html">An Optimal Framework for Constructing Lie-Algebra Generator Pools: Application to Variational Quantum Eigensolvers for Chemistry</a></div><div class="paper-tags"><a href="quantum-error-correction-360d.html">quantum-error-correction</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Yaromir Viswanathan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22593">2511.22593</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16851.html">Quantum Data Learning of Topological-to-Ferromagnetic Phase Transitions in the 2+1D Toric Code Loop Gas Model</a></div></td>
-<td>Shamminuj Aktar et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16851">2511.16851</a></td>
 </tr>
 </tbody></table>

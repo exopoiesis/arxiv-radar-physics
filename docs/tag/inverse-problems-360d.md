@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">420 papers</span>
+  <span class="paper-count">417 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2516,23 +2516,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10241.html">Kernel-Adaptive PI-ELMs for Forward and Inverse Problems in PDEs with Sharp Gradients</a></div><div class="paper-tags"><a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Vikas Dwivedi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10241">2507.10241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16466.html">Horizontal and Vertical Regularity of Elastic Wave Geometry</a></div></td>
-<td>Joonas Ilmavirta et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16466">2511.16466</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16520.html">Saving Foundation Flow-Matching Priors for Inverse Problems</a></div></td>
-<td>Yuxiang Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16520">2511.16520</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16816.html">Trust-Aware Multimodal Data Fusion for Yield Estimation: A Case Study of the 2020 Beirut Explosion</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Lekha Patel et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16816">2511.16816</a></td>
 </tr>
 </tbody></table>

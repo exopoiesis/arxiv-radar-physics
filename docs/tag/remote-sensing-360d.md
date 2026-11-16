@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">475 papers</span>
+  <span class="paper-count">471 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2840,29 +2840,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17198.html">Designing Domain-Specific Agents via Hierarchical Task Abstraction Mechanism</a></div></td>
 <td>Kaiyu Li et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17198">2511.17198</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11706.html">Context-Aware Multimodal Representation Learning for Spatio-Temporally Explicit Environmental Modelling</a></div></td>
-<td>Julia Peters et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11706">2511.11706</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16084.html">SpectralTrain: A Universal Framework for Hyperspectral Image Classification</a></div></td>
-<td>Meihua Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16084">2511.16084</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16143.html">A Spatial Semantics and Continuity Perception Attention for Remote Sensing Water Body Change Detection</a></div></td>
-<td>Quanqing Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16143">2511.16143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16322.html">ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery</a></div></td>
-<td>Ching-Heng Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16322">2511.16322</a></td>
 </tr>
 </tbody></table>

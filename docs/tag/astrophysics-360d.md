@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">113 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -680,17 +680,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18139.html">Compact neural networks for astronomy with optimal transport bias correction</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Shuhuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18139">2511.18139</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26574.html">Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics Research Benchmark</a></div><div class="paper-tags"><a href="high-energy-physics-360d.html">high-energy-physics</a></div></td>
-<td>Minhui Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26574">2509.26574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16614.html">Deep Learning Framework for Enhanced Neutrino Reconstruction of Single-line Events in the ANTARES Telescope</a></div><div class="paper-tags"><a href="event-classification-360d.html">event-classification</a> · <a href="physics-beyond-the-standard-model-360d.html">physics-beyond-the-standard-model</a></div></td>
-<td>A. Albert et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16614">2511.16614</a></td>
 </tr>
 </tbody></table>

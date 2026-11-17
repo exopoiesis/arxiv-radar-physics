@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">588 papers</span>
+  <span class="paper-count">587 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3536,11 +3536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04100.html">ReVeal-MT: A Physics-Informed Neural Network for Multi-Transmitter Radio Environment Mapping</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Mukaram Shahid et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04100">2512.04100</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27187.html">Solving Infinite-Horizon Optimal Control Problems using the Extreme Theory of Functional Connections</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Tanay Raghunandan Srinivasa et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27187">2510.27187</a></td>
 </tr>
 </tbody></table>

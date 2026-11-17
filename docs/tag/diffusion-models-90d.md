@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-models — 90d</h1>
-  <span class="paper-count">94 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -566,17 +566,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21700.html">Scalable quantum simulation of continuous-time generative models via tensor networks</a></div><div class="paper-tags"><a href="tensor-networks-90d.html">tensor-networks</a></div></td>
 <td>Nathan X. Kodama et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21700">2608.21700</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17796.html">Diff-DDoS: Realistic Cyber-Physical Attack Synthesis and Robust Detection for 5G-Enabled CPS Using Tabular Diffusion Models</a></div></td>
-<td>Bilal Hussain et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17796">2608.17796</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18373.html">Plasma dynamics near the magnetic X-point of the two-wire model: Theory and Simulation</a></div></td>
-<td>Bin Ahn</td>
-<td><a href="http://arxiv.org/abs/2608.18373">2608.18373</a></td>
 </tr>
 </tbody></table>

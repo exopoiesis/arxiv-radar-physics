@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <strong>30d</strong> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26963.html">FoundPDE: A generative foundation model for data-driven symbolic discovery of partial differential equations</a></div></td>
 <td>Langchen Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.26963">2610.26963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24497.html">The Segal-Bargmann Transform in Neural Partial Differential Equations</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a></div></td>
-<td>Jie Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24497">2610.24497</a></td>
 </tr>
 </tbody></table>

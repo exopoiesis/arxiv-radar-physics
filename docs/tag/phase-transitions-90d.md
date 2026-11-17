@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02373.html">Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance</a></div></td>
 <td>Sai Niranjan Ramachandran et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02373">2609.02373</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17742.html">Active learning molecular beam epitaxy of complex quantum materials</a></div></td>
-<td>Raghutheja Bollampally et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17742">2608.17742</a></td>
 </tr>
 </tbody></table>

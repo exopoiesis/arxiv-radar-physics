@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24996.html">Bayesian Inference of Primary Hair from Black Hole Shadows in Generalized Proca Theory</a></div></td>
 <td>Jiao-Zhen She et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24996">2610.24996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24710.html">Exploiting sparse conditional dependence in remote sensing observing systems</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a> · <a href="remote-sensing-30d.html">remote-sensing</a></div></td>
-<td>Kelvin M. Leung et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24710">2610.24710</a></td>
 </tr>
 </tbody></table>

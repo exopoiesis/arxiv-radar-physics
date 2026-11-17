@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">140 papers</span>
+  <span class="paper-count">139 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -848,11 +848,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18407.html">On Thermodynamics of Charged Black Holes via Extended Space-time Derivatives</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
 <td>Adil Belhaj et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18407">2511.18407</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06441.html">Accelerating Quantum Monte Carlo Calculations with Set-Equivariant Architectures and Transfer Learning</a></div></td>
-<td>Manuel Gallego et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06441">2508.06441</a></td>
 </tr>
 </tbody></table>

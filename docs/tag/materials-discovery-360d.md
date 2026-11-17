@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">237 papers</span>
+  <span class="paper-count">236 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1430,11 +1430,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05979.html">Accelerating Materials Discovery: Learning a Universal Representation of Chemical Processes for Cross-Domain Property Prediction</a></div></td>
 <td>Mikhail Tsitsvero et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05979">2512.05979</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17760.html">When Active Learning Fails, Uncalibrated Out of Distribution Uncertainty Quantification Might Be the Problem</a></div></td>
-<td>Ashley S. Dale et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17760">2511.17760</a></td>
 </tr>
 </tbody></table>

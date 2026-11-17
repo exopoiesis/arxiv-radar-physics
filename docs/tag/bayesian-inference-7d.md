@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>bayesian-inference — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16109.html">Euclid: Data Release 1 (DR1) -- Bayesian 3D shape inference of star-forming galaxy populations</a></div></td>
 <td>M. Dunn et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16109">2611.16109</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12422.html">Two-Phase Rapid Simulation-Based Inference with Differentiable Simulators</a></div></td>
-<td>Uros Zivanovic et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12422">2611.12422</a></td>
 </tr>
 </tbody></table>

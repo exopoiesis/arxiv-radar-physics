@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-energy — 360d</h1>
-  <span class="paper-count">106 papers</span>
+  <span class="paper-count">105 papers</span>
   <nav class="window-nav"><a href="dark-energy-7d.html">7d</a> <a href="dark-energy-30d.html">30d</a> <a href="dark-energy-90d.html">90d</a> <strong>360d</strong> <a href="dark-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -644,11 +644,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13669.html">Investigating the Dark Energy Constraint from Strongly Lensed AGN at LSST-Scale</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
 <td>Sydney Erickson et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13669">2511.13669</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17311.html">Angular clustering and bias of photometric quasars in the Kilo-Degree Survey Data Release 4</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Anjitha John William et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17311">2511.17311</a></td>
 </tr>
 </tbody></table>

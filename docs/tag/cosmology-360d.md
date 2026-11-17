@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">172 papers</span>
+  <span class="paper-count">171 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1040,11 +1040,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13669.html">Investigating the Dark Energy Constraint from Strongly Lensed AGN at LSST-Scale</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
 <td>Sydney Erickson et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13669">2511.13669</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14947.html">Revealing Limitation in the Standard Cosmological Model: A Redshift-Dependent Hubble Constant from Fast Radio Bursts</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Surajit Kalita et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14947">2506.14947</a></td>
 </tr>
 </tbody></table>

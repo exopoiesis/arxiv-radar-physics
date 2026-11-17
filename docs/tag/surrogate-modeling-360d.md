@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">163 papers</span>
+  <span class="paper-count">162 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -986,11 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02000.html">Barycentric rational approximation for learning the index of a dynamical system from limited data</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Davide Pradovera et al.</td>
 <td><a href="http://arxiv.org/abs/2410.02000">2410.02000</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17754.html">Periodicity-Enforced Neural Network for Designing Deterministic Lateral Displacement Devices</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Andrew Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17754">2511.17754</a></td>
 </tr>
 </tbody></table>

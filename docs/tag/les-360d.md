@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>les — 360d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <a href="les-30d.html">30d</a> <a href="les-90d.html">90d</a> <strong>360d</strong> <a href="les-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,11 +314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19241.html">Local Entropy Search over Descent Sequences for Bayesian Optimization</a></div></td>
 <td>David Stenger et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19241">2511.19241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17475.html">Addressing A Posteriori Performance Degradation in Neural Network Subgrid Stress Models</a></div></td>
-<td>Andy Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17475">2511.17475</a></td>
 </tr>
 </tbody></table>

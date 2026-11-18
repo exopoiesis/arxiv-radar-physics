@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">523 papers</span>
+  <span class="paper-count">522 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3146,11 +3146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19489.html">Evolution without an Oracle: Driving Effective Evolution with LLM Judges</a></div></td>
 <td>Zhe Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19489">2511.19489</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18139.html">Compact neural networks for astronomy with optimal transport bias correction</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a></div></td>
-<td>Shuhuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18139">2511.18139</a></td>
 </tr>
 </tbody></table>

@@ -8,11 +8,11 @@
   total: 681
   group: scientific-machine-learning
 - name: dynamical-systems
-  count: 35
+  count: 34
   total: 1190
   group: dynamical-systems
 - name: pinns
-  count: 35
+  count: 34
   total: 1041
   group: scientific-machine-learning
 - name: scientific-discovery
@@ -20,7 +20,7 @@
   total: 814
   group: generative-models
 - name: partial-differential-equations
-  count: 29
+  count: 28
   total: 1416
   group: dynamical-systems
 - name: physics-informed-neural-networks
@@ -32,11 +32,11 @@
   total: 1031
   group: generative-models
 - name: inverse-problems
-  count: 22
+  count: 21
   total: 720
   group: generative-models
 - name: bayesian-inference
-  count: 20
+  count: 18
   total: 724
   group: generative-models
 - name: anomaly-detection
@@ -51,14 +51,14 @@
   count: 16
   total: 930
   group: quantum-physics
-- name: computational-fluid-dynamics
-  count: 15
-  total: 312
-  group: fluid-dynamics
 - name: materials-discovery
   count: 15
   total: 409
   group: materials-science
+- name: computational-fluid-dynamics
+  count: 14
+  total: 312
+  group: fluid-dynamics
 - name: remote-sensing
   count: 14
   total: 1022
@@ -67,10 +67,6 @@
   count: 12
   total: 340
   group: astrophysics
-- name: data-assimilation
-  count: 11
-  total: 270
-  group: climate
 - name: operator-learning
   count: 11
   total: 442
@@ -83,6 +79,10 @@
   count: 10
   total: 207
   group: astrophysics
+- name: data-assimilation
+  count: 10
+  total: 270
+  group: climate
 - name: electronic-structure
   count: 10
   total: 210
@@ -139,10 +139,6 @@
   count: 5
   total: 230
   group: astrophysics
-- name: ligo
-  count: 5
-  total: 149
-  group: astrophysics
 - name: machine-learning-interatomic-potentials
   count: 5
   total: 247
@@ -175,6 +171,10 @@
   count: 4
   total: 102
   group: fluid-dynamics
+- name: ligo
+  count: 4
+  total: 149
+  group: astrophysics
 - name: phase-transitions
   count: 4
   total: 280
@@ -247,10 +247,6 @@
   count: 2
   total: 15
   group: particle
-- name: sciml
-  count: 2
-  total: 72
-  group: scientific-machine-learning
 - name: variational-quantum-algorithms
   count: 2
   total: 101
@@ -295,6 +291,10 @@
   count: 1
   total: 78
   group: quantum-physics
+- name: sciml
+  count: 1
+  total: 72
+  group: scientific-machine-learning
 - name: tensor-networks
   count: 1
   total: 93

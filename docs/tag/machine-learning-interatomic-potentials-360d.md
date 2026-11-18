@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 360d</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <strong>360d</strong> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -860,11 +860,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25798.html">Scalable Reactive Atomistic Dynamics with GAIA</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Suhwan Song et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25798">2509.25798</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22824.html">Machine Learning Potentials for Hydrogen Absorption in TiCr$_2$ Laves Phases</a></div></td>
-<td>Pranav Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2503.22824">2503.22824</a></td>
 </tr>
 </tbody></table>

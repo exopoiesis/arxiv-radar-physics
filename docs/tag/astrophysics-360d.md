@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -674,11 +674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18477.html">A Deep Multimodal Multi--Head Neural Network for Joint Estimation of Stellar Age, Lifetime, and Evolutionary Stage</a></div></td>
 <td>Jing Rou Puah et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18477">2511.18477</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18139.html">Compact neural networks for astronomy with optimal transport bias correction</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Shuhuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18139">2511.18139</a></td>
 </tr>
 </tbody></table>

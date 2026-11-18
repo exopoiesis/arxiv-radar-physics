@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,11 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20477.html">STCO: Conditional Neural Operators for Time-Dependent PDEs</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
 <td>Xingxin Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20477">2608.20477</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18641.html">Physics-informed neural network for inverse modeling of granular flows</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Bing Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18641">2608.18641</a></td>
 </tr>
 </tbody></table>

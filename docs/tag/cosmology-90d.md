@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cosmology — 90d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <strong>90d</strong> <a href="cosmology-360d.html">360d</a> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,11 +212,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26354.html">Cross-simulator transfer with foundation model summaries: Towards robust SKA-era reionization inference</a></div></td>
 <td>Yannic Pietschke et al.</td>
 <td><a href="http://arxiv.org/abs/2608.26354">2608.26354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18962.html">Towards end-to-end Bayesian forward models in global 21-cm cosmology: surrogate modelling and marginalisation of beam uncertainty</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Jacob L. Tutt et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18962">2608.18962</a></td>
 </tr>
 </tbody></table>

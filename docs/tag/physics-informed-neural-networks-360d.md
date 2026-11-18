@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">587 papers</span>
+  <span class="paper-count">585 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3524,17 +3524,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18515.html">RRaPINNs: Residual Risk-Aware Physics Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Ange-Clément Akazan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18515">2511.18515</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10241.html">Kernel-Adaptive PI-ELMs for Forward and Inverse Problems in PDEs with Sharp Gradients</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Vikas Dwivedi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10241">2507.10241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04100.html">ReVeal-MT: A Physics-Informed Neural Network for Multi-Transmitter Radio Environment Mapping</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Mukaram Shahid et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04100">2512.04100</a></td>
 </tr>
 </tbody></table>

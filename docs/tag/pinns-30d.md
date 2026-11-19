@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>pinns — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <strong>30d</strong> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,29 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28591.html">PaPi: Parallel Picard-Duhamel Integration for Fast Neuro-Spectral Architectures</a></div><div class="paper-tags"><a href="pde-learning-30d.html">pde-learning</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Arthur Bizzi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.28591">2610.28591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26458.html">Residual-Based Adaptive Refinement in Hybrid Variational-Collocation PINNs for Singular Elliptic PDEs with Mixed Dirichlet-Neumann Boundary Conditions</a></div></td>
-<td>Somnath Giri et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26458">2610.26458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27094.html">Binary Black Hole Puncture Initial Data with Physics-Informed Neural Networks</a></div></td>
-<td>Thiago Assumpção et al.</td>
-<td><a href="http://arxiv.org/abs/2610.27094">2610.27094</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27193.html">Low Residuals, Wrong Value: Learning the Viscosity Solution of Hamilton-Jacobi-Isaacs Equations with PINNs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Raul Jimenez et al.</td>
-<td><a href="http://arxiv.org/abs/2610.27193">2610.27193</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30179.html">GeoDiv KAN Solver for Time Fractional Navier Stokes Equations on Complex Domains to Realistic CFD Reconstruction</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="rans-30d.html">rans</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
-<td>Yatin Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30179">2610.30179</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">538 papers</span>
+  <span class="paper-count">537 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3236,11 +3236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19390.html">Predicting partially observable dynamical systems via diffusion models with a multiscale inference scheme</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Rudy Morel et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19390">2511.19390</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11839.html">WaveletDiff: Multilevel Wavelet Diffusion For Time Series Generation</a></div></td>
-<td>Yu-Hsiang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11839">2510.11839</a></td>
 </tr>
 </tbody></table>

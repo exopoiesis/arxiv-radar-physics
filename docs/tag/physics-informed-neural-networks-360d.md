@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">585 papers</span>
+  <span class="paper-count">583 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3512,17 +3512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20283.html">Solving Heterogeneous Agent Models with Physics-informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Marta Grzeskiewicz</td>
 <td><a href="http://arxiv.org/abs/2511.20283">2511.20283</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00651.html">Adapting Physics-Informed Neural Networks for Bifurcation Detection in Ecological Migration Models</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Lujie Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00651">2409.00651</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18515.html">RRaPINNs: Residual Risk-Aware Physics Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Ange-Clément Akazan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18515">2511.18515</a></td>
 </tr>
 </tbody></table>

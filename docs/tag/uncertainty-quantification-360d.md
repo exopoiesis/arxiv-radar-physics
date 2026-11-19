@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">517 papers</span>
+  <span class="paper-count">516 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3110,11 +3110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20612.html">Sparse-to-Field Reconstruction via Stochastic Neural Dynamic Mode Decomposition</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Yujin Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20612">2511.20612</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18225.html">Adaptive Conformal Prediction for Quantum Machine Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Douglas Spencer et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18225">2511.18225</a></td>
 </tr>
 </tbody></table>

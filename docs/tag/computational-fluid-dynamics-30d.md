@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="computational-fluid-dynamics-90d.html">90d</a> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33204.html">Flow Mesh: A Velocity-Regularized Flow Matching Framework for Stable Distributional Modeling of Physical Fields on Unstructured Meshes</a></div></td>
 <td>Siddharth Verma et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33204">2610.33204</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27130.html">Synthetic Dataset Generation, Physical Consistency and Active Learning for Shape-Informed Surrogate Modeling of Hemodynamics</a></div><div class="paper-tags"><a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Francesco Romor et al.</td>
-<td><a href="http://arxiv.org/abs/2610.27130">2610.27130</a></td>
 </tr>
 </tbody></table>

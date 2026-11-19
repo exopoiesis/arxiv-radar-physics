@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">283 papers</span>
+  <span class="paper-count">281 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1700,17 +1700,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19246.html">Neural Architecture Search for Quantum Autoencoders</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a> · <a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
 <td>Hibah Agha et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19246">2511.19246</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18235.html">Lightweight Autoencoder-Isolation Forest Anomaly Detection for Green IoT Edge Gateways</a></div></td>
-<td>Saeid Jamshidi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18235">2511.18235</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18588.html">Algorithmic detection of false data injection attacks in cyber-physical systems</a></div></td>
-<td>Souvik Das et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18588">2511.18588</a></td>
 </tr>
 </tbody></table>

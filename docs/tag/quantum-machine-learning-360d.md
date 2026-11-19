@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">469 papers</span>
+  <span class="paper-count">466 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2810,23 +2810,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19246.html">Neural Architecture Search for Quantum Autoencoders</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="qml-360d.html">qml</a></div></td>
 <td>Hibah Agha et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19246">2511.19246</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18225.html">Adaptive Conformal Prediction for Quantum Machine Learning</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Douglas Spencer et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18225">2511.18225</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18350.html">From Classical to Quantum Machine Learning: Different Approaches in Fission Barrier Height Estimation</a></div></td>
-<td>Serkan Akkoyun et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18350">2511.18350</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18552.html">Quantum machine learning for efficient reduced order modelling of turbulent flows</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a> · <a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
-<td>Han Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18552">2511.18552</a></td>
 </tr>
 </tbody></table>

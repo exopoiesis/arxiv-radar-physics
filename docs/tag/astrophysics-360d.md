@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,17 +662,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19313.html">The TEQUILA catalog of variables in TESS full-frame images: Differential photometry light curves from the first two years of observations</a></div></td>
 <td>Bisi Bernard Ogunwale et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19313">2511.19313</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24591.html">ReplicationBench: Can AI Agents Replicate Astrophysics Research Papers?</a></div></td>
-<td>Christine Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24591">2510.24591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18477.html">A Deep Multimodal Multi--Head Neural Network for Joint Estimation of Stellar Age, Lifetime, and Evolutionary Stage</a></div></td>
-<td>Jing Rou Puah et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18477">2511.18477</a></td>
 </tr>
 </tbody></table>

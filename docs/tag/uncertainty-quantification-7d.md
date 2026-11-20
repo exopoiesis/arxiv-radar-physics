@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14462.html">Accurate predictions of properties of energetic materials with tabular foundation models</a></div></td>
-<td>Vagn Krister Nes Glomsrud et al.</td>
-<td><a href="http://arxiv.org/abs/2611.14462">2611.14462</a></td>
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17794.html">Federated Physics-Informed Thermal Field Prediction Across Unseen Geometries in Distributed Additive Manufacturing</a></div></td>
+<td>Amirul Islam Saimon et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17794">2611.17794</a></td>
 </tr>
 </tbody></table>

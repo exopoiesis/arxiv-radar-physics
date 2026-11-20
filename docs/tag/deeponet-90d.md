@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>deeponet — 90d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="deeponet-7d.html">7d</a> <a href="deeponet-30d.html">30d</a> <strong>90d</strong> <a href="deeponet-360d.html">360d</a> <a href="deeponet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25130.html">Temporal Extrapolation of Elastic Seismic Wave Propagation in Layered Media Using Neural Operators</a></div></td>
+<td>Dibyajyoti Nayak et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25130">2611.25130</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22236.html">Spatially local mini-batching for implicit neural representations</a></div></td>
+<td>Minseok Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22236">2611.22236</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23539.html">Construction of a Deployable Hard-Constrained Turbulence Closure</a></div></td>
+<td>Tamerlan Hajiyev et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23539">2611.23539</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19115.html">Learning inadequacy of Bayesian neural operators for PDE-constrained inference and design</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Pratyush Kumar Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19115">2611.19115</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10865.html">Neural Operator Surrogates for Landweber Iteration in Solving Inverse Problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
@@ -140,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25160.html">ROMNet: a hybrid reduced order modeling and machine learning approach to waveform inversion</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
 <td>Liliana Borcea et al.</td>
 <td><a href="http://arxiv.org/abs/2608.25160">2608.25160</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21683.html">Inverted model selection in physics-informed neural networks: when a lower residual selects a worse solution</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Rabiu Musah</td>
-<td><a href="http://arxiv.org/abs/2608.21683">2608.21683</a></td>
 </tr>
 </tbody></table>

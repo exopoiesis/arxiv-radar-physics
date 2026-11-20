@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>high-energy-physics — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="high-energy-physics-7d.html">7d</a> <a href="high-energy-physics-30d.html">30d</a> <a href="high-energy-physics-90d.html">90d</a> <strong>360d</strong> <a href="high-energy-physics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07785.html">Automating High Energy Physics Data Analysis with LLM-Powered Agents</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a></div></td>
 <td>Eli Gendreau-Distler et al.</td>
 <td><a href="http://arxiv.org/abs/2512.07785">2512.07785</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06438.html">Data-Driven High-Dimensional Statistical Inference with Generative Models</a></div></td>
-<td>Oz Amram et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06438">2506.06438</a></td>
 </tr>
 </tbody></table>

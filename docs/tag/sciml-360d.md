@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18008.html">Sample-Efficient Control of Magnetoconvective Flows via Differentiable Simulation</a></div><div class="paper-tags"><a href="flow-control-360d.html">flow-control</a> · <a href="mhd-360d.html">mhd</a></div></td>
+<td>Jannis Becktepe et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18008">2611.18008</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02458.html">Learning the Entropic Relaxation: Stable Coarse-Grid Emulation with Neural Discrete Equilibrium</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Jose Antonio Lara Benitez et al.</td>
@@ -230,11 +236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21915.html">Algorithms and Scientific Software for Quasi-Monte Carlo, Fast Gaussian Process Regression, and Scientific Machine Learning</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Aleksei G. Sorokin</td>
 <td><a href="http://arxiv.org/abs/2511.21915">2511.21915</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19716.html">Designing Preconditioners for SGD: Local Conditioning, Noise Floors, and Basin Stability</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Mitchell Scott et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19716">2511.19716</a></td>
 </tr>
 </tbody></table>

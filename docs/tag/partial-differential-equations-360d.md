@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">746 papers</span>
+  <span class="paper-count">753 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25515.html">When and why can integral constraints improve the accuracy of physics-informed neural networks?</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Myeong-Su Lee</td>
+<td><a href="http://arxiv.org/abs/2611.25515">2611.25515</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22624.html">Stochastic Representation-Inspired Physics-Informed Neural Networks for Incompressible Fluid Flows</a></div></td>
+<td>Zihao Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22624">2611.22624</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20609.html">Newton-PINet: A fast physics-informed neural network with Newton linearization for meta-learning nonlinear PDEs</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Yuchen Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20609">2611.20609</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20883.html">Quantitative approximation for Fourier neural operators in controlled ordinary differential equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Dean Zenner et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20883">2611.20883</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21933.html">Physics-informed neural networks for spacecraft trajectory optimization with exact boundary conditions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Samuel Schönherr et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21933">2611.21933</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19909.html">Variance Stable Gaussian Smoothing Estimator for Arbitrary High-order Derivatives</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Shuixin Fang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19909">2611.19909</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19115.html">Learning inadequacy of Bayesian neural operators for PDE-constrained inference and design</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
+<td>Pratyush Kumar Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19115">2611.19115</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17759.html">Convergence analysis of physics-informed neural networks for subdiffusion</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Bangti Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17759">2611.17759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17289.html">Well-Balanced WE-PINNs for the Shallow Water Equations over Smooth and Discontinuous Bathymetries</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
+<td>Ismail Oubarka et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17289">2611.17289</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14949.html">RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving</a></div><div class="paper-tags"><a href="equation-discovery-360d.html">equation-discovery</a></div></td>
@@ -4478,17 +4532,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20574.html">Active learning with physics-informed neural networks for optimal sensor placement in deep tunneling through transversely isotropic elastic rocks</a></div></td>
 <td>Alec Tristani et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20574">2511.20574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07672.html">Parallel-in-Time Solution of Allen-Cahn Equations by Integrating Operator Learning into the Parareal Method</a></div></td>
-<td>Yuwei Geng et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07672">2510.07672</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18777.html">SAOT: An Enhanced Locality-Aware Spectral Transformer for Solving PDEs</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Chenhong Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18777">2511.18777</a></td>
 </tr>
 </tbody></table>

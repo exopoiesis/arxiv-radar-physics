@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 90d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,84 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25515.html">When and why can integral constraints improve the accuracy of physics-informed neural networks?</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Myeong-Su Lee</td>
+<td><a href="http://arxiv.org/abs/2611.25515">2611.25515</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23773.html">A Systematic Analysis of a Small Optimal Subspace for Physics-Informed Neural Networks: $n$-DAS $\subset \mathbb{R}^p$</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Ahmad AliAhmad et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23773">2611.23773</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24355.html">Stable admissible neural classes and convergent physics-informed neural networks</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Leevan Ling et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24355">2611.24355</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23135.html">OpenPINN/PINO: An Extensible Open-Source Framework for Agent-Assisted Physics-Informed Neural Networks and Neural Operators</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Xi Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23135">2611.23135</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20556.html">A Staggered Discontinuous Galerkin Neural Network Method with a Computable Error Decomposition</a></div></td>
+<td>Gung-Min Gie et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20556">2611.20556</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20609.html">Newton-PINet: A fast physics-informed neural network with Newton linearization for meta-learning nonlinear PDEs</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
+<td>Yuchen Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20609">2611.20609</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21933.html">Physics-informed neural networks for spacecraft trajectory optimization with exact boundary conditions</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Samuel Schönherr et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21933">2611.21933</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19909.html">Variance Stable Gaussian Smoothing Estimator for Arbitrary High-order Derivatives</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Shuixin Fang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19909">2611.19909</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19251.html">Physics-Informed Causal Reasoning for Nonstationary Robot Dynamics</a></div></td>
+<td>Jungjin Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19251">2611.19251</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17759.html">Convergence analysis of physics-informed neural networks for subdiffusion</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Bangti Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17759">2611.17759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18389.html">A systematic comparison of physics-informed neural networks and mechanistic models for epidemic modeling and forecasting</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Martina Rama et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18389">2611.18389</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18409.html">Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Stanislas Pamela et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18409">2611.18409</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17289.html">Well-Balanced WE-PINNs for the Shallow Water Equations over Smooth and Discontinuous Bathymetries</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Ismail Oubarka et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17289">2611.17289</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15678.html">Newton&#x27;s Method and Policy Iterations for Viscous Hamilton--Jacobi Equations</a></div></td>
@@ -614,11 +692,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22493.html">A Jin--Xin Relaxation Gradual Convergence Method for Conservation-Law PINNs</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
 <td>Emmanuel Lorin et al.</td>
 <td><a href="http://arxiv.org/abs/2608.22493">2608.22493</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21683.html">Inverted model selection in physics-informed neural networks: when a lower residual selects a worse solution</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Rabiu Musah</td>
-<td><a href="http://arxiv.org/abs/2608.21683">2608.21683</a></td>
 </tr>
 </tbody></table>

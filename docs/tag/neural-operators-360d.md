@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">427 papers</span>
+  <span class="paper-count">437 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,78 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25756.html">Self-Supervised Operator Learning for Channel Estimation in Fluid Antenna Systems</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Erqiang Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25756">2611.25756</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26551.html">GraphEP: A Calibrated Data System and Benchmark for Learning Cardiac Electrophysiology</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Matteo Baldan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26551">2611.26551</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24827.html">Synthesizing hyperspectral Data using generative Models to train spectral Unmixing Methods for low-cost Crop Residue Cover Mapping</a></div></td>
+<td>Ege Artan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24827">2611.24827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22782.html">PANO: Parallel Latent Space Neural Operator for Solving PDEs</a></div></td>
+<td>Zijiang Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22782">2611.22782</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23135.html">OpenPINN/PINO: An Extensible Open-Source Framework for Agent-Assisted Physics-Informed Neural Networks and Neural Operators</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Xi Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23135">2611.23135</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23440.html">Conformally Calibrated Adaptive Computation in Neural Operators</a></div></td>
+<td>Abdul Qadir Ibrahim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23440">2611.23440</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23561.html">Machine-learned acceleration of earthquake sequence simulations</a></div></td>
+<td>Reo Yanagi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23561">2611.23561</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20883.html">Quantitative approximation for Fourier neural operators in controlled ordinary differential equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Dean Zenner et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20883">2611.20883</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21469.html">Variationally correct physics-informed operator learning for nonlinear partial differential equations</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Yuan Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21469">2611.21469</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19753.html">Learning Autoregressive Neural Operators on Solver-Defined Physical Constraint Manifolds</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Nannan Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19753">2611.19753</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19115.html">Learning inadequacy of Bayesian neural operators for PDE-constrained inference and design</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Pratyush Kumar Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19115">2611.19115</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16356.html">DIAGNO: Diagonal Spherical Neural Operators for Heterogeneous Earth Dynamics Modeling</a></div></td>
+<td>Herui Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16356">2611.16356</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14979.html">Coarse-to-Fine 3D MRI Reconstruction via Resolution-Agnostic Neural Operators</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a></div></td>
@@ -2564,17 +2636,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20361.html">Extension and neural operator approximation of the electrical impedance tomography inverse map</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Maarten V. de Hoop et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20361">2511.20361</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18777.html">SAOT: An Enhanced Locality-Aware Spectral Transformer for Solving PDEs</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Chenhong Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18777">2511.18777</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18930.html">Learning Solution Operators for Partial Differential Equations via Monte Carlo-Type Approximation</a></div></td>
-<td>Salah Eddine Choutri et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18930">2511.18930</a></td>
 </tr>
 </tbody></table>

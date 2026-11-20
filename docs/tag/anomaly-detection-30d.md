@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>anomaly-detection — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <strong>30d</strong> <a href="anomaly-detection-90d.html">90d</a> <a href="anomaly-detection-360d.html">360d</a> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,17 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29868.html">Evaluating Zero-Shot Anomaly Detection for Identifying Unusual Galaxy Morphologies in CEERS and NGDEEP</a></div><div class="paper-tags"><a href="galaxy-formation-30d.html">galaxy-formation</a></div></td>
 <td>T. B. Surakan et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29868">2610.29868</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27542.html">BEACON: Bridging Multimodal Semantics and Asynchronous Propagation for Cloud System Anomaly Detection</a></div></td>
-<td>Zhe Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.27542">2610.27542</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28487.html">Geometry-Agnostic Data-Driven Discovery of Extreme Scenarios</a></div></td>
-<td>Angeline Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28487">2610.28487</a></td>
 </tr>
 </tbody></table>

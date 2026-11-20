@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,23 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29331.html">From Prompts to Posteriors: Can LLM Agents Perform Bayesian Inference in Context?</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
 <td>Linus Filbry et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29331">2610.29331</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28562.html">OptScientist: Automated Discovery of Optimization Laws</a></div></td>
-<td>Ma ZhenYao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28562">2610.28562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28706.html">SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery</a></div><div class="paper-tags"><a href="equation-discovery-30d.html">equation-discovery</a></div></td>
-<td>Ha Minh Hieu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28706">2610.28706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28887.html">Building AI Research Teams for Autonomous Discovery of Linear Attention Architectures</a></div></td>
-<td>Yujian Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28887">2610.28887</a></td>
 </tr>
 </tbody></table>

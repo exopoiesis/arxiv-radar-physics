@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1010,17 +1010,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08573.html">Reconstructing the local density field with combined convolutional and point cloud architecture</a></div></td>
 <td>Baptiste Barthe-Gold et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08573">2510.08573</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18692.html">Can WIMPs Survive the Legacy of a Magnetised Early Universe?</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>María Olalla Olea-Romacho et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18692">2507.18692</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09107.html">Detection of Lensed Gravitational Waves from dark matter halos with deep learning</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Mengfei Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09107">2511.09107</a></td>
 </tr>
 </tbody></table>

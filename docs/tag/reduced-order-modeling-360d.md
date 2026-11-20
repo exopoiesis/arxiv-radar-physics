@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24727.html">Surrogate Modeling and Reduced-Order Methods in Gravitational-Wave Physics and Numerical Relativity: From Spectral Representations to Adaptive Compression</a></div><div class="paper-tags"><a href="rom-360d.html">rom</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Manuel Tiglio</td>
+<td><a href="http://arxiv.org/abs/2611.24727">2611.24727</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04065.html">Adaptive data-driven reduced-order models for reciprocal MIMO port-Hamiltonian dynamical systems</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Anarzhan Abilgazy et al.</td>
@@ -254,11 +260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23037.html">Time Extrapolation with Graph Convolutional Autoencoder and Tensor Train Decomposition</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Yuanhong Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.23037">2511.23037</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18754.html">Reduced-order modeling of large-scale turbulence using Koopman $β$-variational autoencoders</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="koopman-operator-360d.html">koopman-operator</a> · <a href="les-360d.html">les</a> · <a href="rom-360d.html">rom</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Rakesh Halder et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18754">2507.18754</a></td>
 </tr>
 </tbody></table>

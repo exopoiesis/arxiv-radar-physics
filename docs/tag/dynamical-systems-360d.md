@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dynamical-systems — 360d</h1>
-  <span class="paper-count">649 papers</span>
+  <span class="paper-count">641 papers</span>
   <nav class="window-nav"><a href="dynamical-systems-7d.html">7d</a> <a href="dynamical-systems-30d.html">30d</a> <a href="dynamical-systems-90d.html">90d</a> <strong>360d</strong> <a href="dynamical-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3860,53 +3860,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20463.html">Learning Control Barrier Functions with Deterministic Safety Guarantees</a></div></td>
 <td>Amy K. Strong et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20463">2511.20463</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22601.html">Neural Identification of Feedback-Stabilized Nonlinear Systems</a></div></td>
-<td>Mahrokh G. Boroujeni et al.</td>
-<td><a href="http://arxiv.org/abs/2503.22601">2503.22601</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17796.html">SING: SDE Inference via Natural Gradients</a></div></td>
-<td>Amber Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17796">2506.17796</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02995.html">The Geometry of Cortical Computation: Manifold Disentanglement and Predictive Dynamics in VCNet</a></div></td>
-<td>Brennen A. Hill et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02995">2508.02995</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19056.html">Latent-Space Non-Linear Model Predictive Control for Partially-Observable Systems</a></div></td>
-<td>Luigi Marra et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19056">2511.19056</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19231.html">Data-driven certificates of constraint enforcement and stability for unmodeled, discrete dynamical systems using tree data structures</a></div></td>
-<td>Amy K. Strong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19231">2511.19231</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19390.html">Predicting partially observable dynamical systems via diffusion models with a multiscale inference scheme</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
-<td>Rudy Morel et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19390">2511.19390</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19421.html">Data driven synthesis of provable invariant sets via stochastically sampled data</a></div></td>
-<td>Amy K. Strong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19421">2511.19421</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19731.html">Classifying Complex Dynamical and Stochastic Systems via Physics-Based Recurrence Features</a></div></td>
-<td>J. V. M. Silveira et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19731">2511.19731</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">108 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -656,11 +656,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22309.html">Astrophysical constraints from future measurements of the kinetic Sunyaev-Zel&#x27;dovich power spectrum</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Lisa McBride et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22309">2511.22309</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19313.html">The TEQUILA catalog of variables in TESS full-frame images: Differential photometry light curves from the first two years of observations</a></div></td>
-<td>Bisi Bernard Ogunwale et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19313">2511.19313</a></td>
 </tr>
 </tbody></table>

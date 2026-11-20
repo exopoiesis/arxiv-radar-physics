@@ -16,9 +16,9 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28591.html">PaPi: Parallel Picard-Duhamel Integration for Fast Neuro-Spectral Architectures</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="pinns-30d.html">pinns</a></div></td>
-<td>Arthur Bizzi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28591">2610.28591</a></td>
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22066.html">Finite volume neural networks for singularly perturbed boundary value problems</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
+<td>Gung-Min Gie et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22066">2611.22066</a></td>
 </tr>
 </tbody></table>

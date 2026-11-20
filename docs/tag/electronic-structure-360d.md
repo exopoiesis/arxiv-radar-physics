@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,11 +710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20487.html">MLIPAudit: A benchmarking tool for Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Leon Wehrhan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20487">2511.20487</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18974.html">Clustering-Enhanced Time- and Angle-Resolved Photoemission Study of LaTe$_3$: Absence of a Photoinduced Secondary CDW in the Electronic Structure</a></div></td>
-<td>Gesa-R. Siemann et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18974">2511.18974</a></td>
 </tr>
 </tbody></table>

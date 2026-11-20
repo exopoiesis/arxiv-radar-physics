@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19117.html">Testing General Relativity by Reconstructing Dark Energy and the Growth Index with Physics-Informed Neural Networks</a></div></td>
+<td>Andronikos Paliathanasis</td>
+<td><a href="http://arxiv.org/abs/2611.19117">2611.19117</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13756.html">Self-Interacting Neutrinos in NEDE and DRMD Cosmologies: Posteriors, profiles and evidence using CLiENT</a></div></td>
 <td>Magnus Uggerhøj et al.</td>
@@ -638,11 +644,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20595.html">Inferring the Impacts of Baryonic Feedback from Kinetic Sunyaev-Zeldovich Cross-Correlations</a></div></td>
 <td>Alex Laguë et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20595">2511.20595</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13669.html">Investigating the Dark Energy Constraint from Strongly Lensed AGN at LSST-Scale</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>
-<td>Sydney Erickson et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13669">2511.13669</a></td>
 </tr>
 </tbody></table>

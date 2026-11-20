@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>pinns — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <strong>30d</strong> <a href="pinns-90d.html">90d</a> <a href="pinns-360d.html">360d</a> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,66 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25515.html">When and why can integral constraints improve the accuracy of physics-informed neural networks?</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Myeong-Su Lee</td>
+<td><a href="http://arxiv.org/abs/2611.25515">2611.25515</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23773.html">A Systematic Analysis of a Small Optimal Subspace for Physics-Informed Neural Networks: $n$-DAS $\subset \mathbb{R}^p$</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Ahmad AliAhmad et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23773">2611.23773</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24355.html">Stable admissible neural classes and convergent physics-informed neural networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Leevan Ling et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24355">2611.24355</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22066.html">Finite volume neural networks for singularly perturbed boundary value problems</a></div><div class="paper-tags"><a href="pde-learning-30d.html">pde-learning</a></div></td>
+<td>Gung-Min Gie et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22066">2611.22066</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20609.html">Newton-PINet: A fast physics-informed neural network with Newton linearization for meta-learning nonlinear PDEs</a></div><div class="paper-tags"><a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
+<td>Yuchen Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20609">2611.20609</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19909.html">Variance Stable Gaussian Smoothing Estimator for Arbitrary High-order Derivatives</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Shuixin Fang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19909">2611.19909</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17759.html">Convergence analysis of physics-informed neural networks for subdiffusion</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Bangti Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17759">2611.17759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18389.html">A systematic comparison of physics-informed neural networks and mechanistic models for epidemic modeling and forecasting</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Martina Rama et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18389">2611.18389</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18409.html">Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Stanislas Pamela et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18409">2611.18409</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17289.html">Well-Balanced WE-PINNs for the Shallow Water Equations over Smooth and Discontinuous Bathymetries</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
+<td>Ismail Oubarka et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17289">2611.17289</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11905.html">On the Global Convergence of Stochastic Adam for Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
@@ -176,23 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31963.html">Physics-informed neural network (PINN) approximations of capillary menisci in polygonal channels</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
 <td>Zijian Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.31963">2610.31963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27500.html">Soliton Profiles in 1D: Enhanced Neural-Network Solvers and Constrained Deep Ritz Methods</a></div></td>
-<td>Chandler Haight et al.</td>
-<td><a href="http://arxiv.org/abs/2610.27500">2610.27500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28322.html">Manifold-Informed Neural Networks for Low-Label ECG Electrolyte Inference</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Juntang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28322">2610.28322</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28591.html">PaPi: Parallel Picard-Duhamel Integration for Fast Neuro-Spectral Architectures</a></div><div class="paper-tags"><a href="pde-learning-30d.html">pde-learning</a> · <a href="physics-informed-neural-networks-30d.html">physics-informed-neural-networks</a></div></td>
-<td>Arthur Bizzi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28591">2610.28591</a></td>
 </tr>
 </tbody></table>

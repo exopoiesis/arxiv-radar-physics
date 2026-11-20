@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17794.html">Federated Physics-Informed Thermal Field Prediction Across Unseen Geometries in Distributed Additive Manufacturing</a></div></td>
+<td>Amirul Islam Saimon et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17794">2611.17794</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14462.html">Accurate predictions of properties of energetic materials with tabular foundation models</a></div></td>
@@ -224,17 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30404.html">Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</a></div><div class="paper-tags"><a href="inverse-problems-30d.html">inverse-problems</a></div></td>
 <td>Pablo Luna Falcon et al.</td>
 <td><a href="http://arxiv.org/abs/2610.30404">2610.30404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27619.html">Divide-and-Conquer Neural Bayes Estimation for Spatial and Spatiotemporal Point Process Models</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a></div></td>
-<td>Bokgyeong Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.27619">2610.27619</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27733.html">Gaussian process-based Bayesian imaging of bolometric (sub-)millimetre data</a></div></td>
-<td>Richard Fuchs et al.</td>
-<td><a href="http://arxiv.org/abs/2610.27733">2610.27733</a></td>
 </tr>
 </tbody></table>

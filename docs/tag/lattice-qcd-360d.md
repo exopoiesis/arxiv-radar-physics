@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>lattice-qcd — 360d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="lattice-qcd-7d.html">7d</a> <a href="lattice-qcd-30d.html">30d</a> <a href="lattice-qcd-90d.html">90d</a> <strong>360d</strong> <a href="lattice-qcd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22799.html">Complexity Growth in Flavor-Dependent Systems</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Wen-Bin Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22799">2511.22799</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19127.html">Phase structure of 2+1-flavor QCD from an Einstein-dilaton-flavor holographic model</a></div></td>
-<td>Jin-Yang Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19127">2511.19127</a></td>
 </tr>
 </tbody></table>

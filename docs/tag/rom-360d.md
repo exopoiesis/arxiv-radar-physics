@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24727.html">Surrogate Modeling and Reduced-Order Methods in Gravitational-Wave Physics and Numerical Relativity: From Spectral Representations to Adaptive Compression</a></div><div class="paper-tags"><a href="reduced-order-modeling-360d.html">reduced-order-modeling</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
+<td>Manuel Tiglio</td>
+<td><a href="http://arxiv.org/abs/2611.24727">2611.24727</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15980.html">Data-driven Correction Reduced-Order Stochastic Collocation Method for the Time-Dependent Navier-Stokes Equations</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Md. Abdul Aziz et al.</td>
@@ -320,11 +326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01024.html">A data-driven framework to identify restenosis-prone regions in femoral arteries from geometric and inflow waveform parameters</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Chotirawee Chatpattanasiri et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01024">2512.01024</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18754.html">Reduced-order modeling of large-scale turbulence using Koopman $β$-variational autoencoders</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="koopman-operator-360d.html">koopman-operator</a> · <a href="les-360d.html">les</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Rakesh Halder et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18754">2507.18754</a></td>
 </tr>
 </tbody></table>

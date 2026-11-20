@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>data-assimilation — 30d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <strong>30d</strong> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18081.html">Generalized hydraulic neural operators turbocharging sewer digital twins</a></div></td>
+<td>Ruozhou Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18081">2611.18081</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11918.html">Ensemble Covariance Propagation with Machine Learning Weather Prediction Models in a Realistic Data Assimilation System</a></div></td>

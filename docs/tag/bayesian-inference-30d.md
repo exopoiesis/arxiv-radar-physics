@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,17 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29331.html">From Prompts to Posteriors: Can LLM Agents Perform Bayesian Inference in Context?</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
 <td>Linus Filbry et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29331">2610.29331</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27619.html">Divide-and-Conquer Neural Bayes Estimation for Spatial and Spatiotemporal Point Process Models</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Bokgyeong Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.27619">2610.27619</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28408.html">Hybrid Stars with Different Amount of Quark Matter</a></div><div class="paper-tags"><a href="ligo-30d.html">ligo</a></div></td>
-<td>Milena Albino et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28408">2610.28408</a></td>
 </tr>
 </tbody></table>

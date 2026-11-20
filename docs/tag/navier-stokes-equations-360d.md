@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22072.html">Singular layer neural networks for the Navier-Stokes equations at small viscosity</a></div></td>
+<td>Teng-Yuan Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22072">2611.22072</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06711.html">Energy-Guided Transport for Projection-Free Physics-Informed Flow Matching</a></div></td>
 <td>Giuliano Galadini et al.</td>
@@ -434,11 +440,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03055.html">Physics-informed self-supervised learning for predictive modeling of coronary artery digital twins</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Xiaowu Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03055">2512.03055</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18820.html">Solution of Incompressible Flow Equations with Physics and Equality Constrained Artificial Neural Networks</a></div></td>
-<td>Qifeng Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18820">2511.18820</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>weather-forecasting — 90d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <strong>90d</strong> <a href="weather-forecasting-360d.html">360d</a> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24715.html">Deep Learning Super Resolution for Satellite Cloud Mask Downscaling</a></div><div class="paper-tags"><a href="remote-sensing-90d.html">remote-sensing</a></div></td>
 <td>Angelos Georgakis et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24715">2608.24715</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21652.html">GeoQ: Geometry-Aware Conditional Quantile Error Estimation for Scientific Surrogate Models</a></div></td>
-<td>Khoa Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21652">2608.21652</a></td>
 </tr>
 </tbody></table>

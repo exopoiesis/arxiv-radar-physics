@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 90d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <strong>90d</strong> <a href="scientific-machine-learning-360d.html">360d</a> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26551.html">GraphEP: A Calibrated Data System and Benchmark for Learning Cardiac Electrophysiology</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Matteo Baldan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26551">2611.26551</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24727.html">Surrogate Modeling and Reduced-Order Methods in Gravitational-Wave Physics and Numerical Relativity: From Spectral Representations to Adaptive Compression</a></div><div class="paper-tags"><a href="reduced-order-modeling-90d.html">reduced-order-modeling</a> · <a href="rom-90d.html">rom</a></div></td>
+<td>Manuel Tiglio</td>
+<td><a href="http://arxiv.org/abs/2611.24727">2611.24727</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20609.html">Newton-PINet: A fast physics-informed neural network with Newton linearization for meta-learning nonlinear PDEs</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Yuchen Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20609">2611.20609</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23321.html">Error Analysis of Deep Learning</a></div></td>
+<td>Yuling Jiao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23321">2611.23321</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11252.html">ALETHEIA: A Multi-Frequency Eddy Current Pulsed Thermography Dataset for Neural Operator Learning in Nondestructive Testing</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
@@ -194,11 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23458.html">Traceable Spectral Inference via Influence Functions: Efficient Data Attribution and Error Proxies for the Ariel Mission</a></div></td>
 <td>Nikki Grens et al.</td>
 <td><a href="http://arxiv.org/abs/2608.23458">2608.23458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20985.html">Resolving positive semi-definiteness in physics-informed kernels for scientific machine learning</a></div></td>
-<td>J. Moser et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20985">2608.20985</a></td>
 </tr>
 </tbody></table>

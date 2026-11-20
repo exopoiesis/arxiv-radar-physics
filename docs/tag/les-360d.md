@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>les — 360d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="les-7d.html">7d</a> <a href="les-30d.html">30d</a> <a href="les-90d.html">90d</a> <strong>360d</strong> <a href="les-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,17 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21879.html">Dynamic mixed turbulence modeling using a super-resolution generative adversarial approach</a></div></td>
 <td>Ludovico Nista et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21879">2511.21879</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18754.html">Reduced-order modeling of large-scale turbulence using Koopman $β$-variational autoencoders</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="koopman-operator-360d.html">koopman-operator</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a> · <a href="rom-360d.html">rom</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Rakesh Halder et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18754">2507.18754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19241.html">Local Entropy Search over Descent Sequences for Bayesian Optimization</a></div></td>
-<td>David Stenger et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19241">2511.19241</a></td>
 </tr>
 </tbody></table>

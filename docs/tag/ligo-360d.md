@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ligo — 360d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <strong>360d</strong> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -428,17 +428,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18635.html">Waveform models for the gravitational-wave memory effect: II. Time-domain and frequency-domain models for nonspinning binaries</a></div></td>
 <td>Arwa Elhashash et al.</td>
 <td><a href="http://arxiv.org/abs/2504.18635">2504.18635</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00422.html">Residual neural networks to classify the high frequency emission in core-collapse supernova gravitational waves</a></div></td>
-<td>Manuel D. Morales et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00422">2406.00422</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19364.html">Neural surrogates for designing gravitational wave detectors</a></div></td>
-<td>Carlos Ruiz-Gonzalez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19364">2511.19364</a></td>
 </tr>
 </tbody></table>

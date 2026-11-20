@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">466 papers</span>
+  <span class="paper-count">464 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2798,17 +2798,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14989.html">Critical Evaluation of Quantum Machine Learning for Adversarial Robustness</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Saeefa Rubaiyet Nowmi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14989">2511.14989</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19160.html">Flexible Genetic Algorithm for Quantum Support Vector Machines</a></div></td>
-<td>Nguyen Minh Duc et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19160">2511.19160</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19246.html">Neural Architecture Search for Quantum Autoencoders</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a> · <a href="qml-360d.html">qml</a></div></td>
-<td>Hibah Agha et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19246">2511.19246</a></td>
 </tr>
 </tbody></table>

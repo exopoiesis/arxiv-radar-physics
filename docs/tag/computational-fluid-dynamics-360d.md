@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16341.html">SUMNO: Spatially Unrolled Multigrid Neural Operator for Fluid Flow Surrogates</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Yingqi Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16341">2611.16341</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14058.html">CURRENT: A Recurrent Neural Network for Concurrent Spatial and Temporal Super-Resolution of 4D Flow MRI</a></div></td>
 <td>Luuk Jacobs et al.</td>
@@ -1040,11 +1046,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07847.html">CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Mohamed Elrefaie et al.</td>
 <td><a href="http://arxiv.org/abs/2512.07847">2512.07847</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18754.html">Reduced-order modeling of large-scale turbulence using Koopman $β$-variational autoencoders</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="koopman-operator-360d.html">koopman-operator</a> · <a href="les-360d.html">les</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a> · <a href="rom-360d.html">rom</a> · <a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Rakesh Halder et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18754">2507.18754</a></td>
 </tr>
 </tbody></table>

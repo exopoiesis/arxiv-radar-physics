@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">210 papers</span>
+  <span class="paper-count">207 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1256,23 +1256,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21782.html">CompARE: A Computational framework for Airborne Respiratory disease Evaluation integrating flow physics and human behavior</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
 <td>Fong Yew Leong et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21782">2511.21782</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20455.html">Fluid Intelligence: A Forward Look on AI Foundation Models in Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Neil Ashton et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20455">2511.20455</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03055.html">Physics-informed self-supervised learning for predictive modeling of coronary artery digital twins</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a></div></td>
-<td>Xiaowu Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03055">2512.03055</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07847.html">CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Mohamed Elrefaie et al.</td>
-<td><a href="http://arxiv.org/abs/2512.07847">2512.07847</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weather-forecasting — 360d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <strong>360d</strong> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1004,17 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09484.html">CRPS-LAM: Regional ensemble weather forecasting from matching marginals</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a></div></td>
 <td>Erik Larsson et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09484">2510.09484</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14209.html">Energy-Aware Pattern Disentanglement: A Generalizable Pattern Assisted Architecture for Multi-task Time Series Analysis</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Xiangkai Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2504.14209">2504.14209</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20830.html">Autoregressive Surrogate Modeling of the Solar Wind with Spherical Fourier Neural Operator</a></div><div class="paper-tags"><a href="mhd-360d.html">mhd</a></div></td>
-<td>Reza Mansouri et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20830">2511.20830</a></td>
 </tr>
 </tbody></table>

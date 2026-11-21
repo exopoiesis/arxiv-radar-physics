@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,17 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32033.html">Two-component Bayesian modeling in the data analysis of collective Thomson scattering</a></div></td>
 <td>Akito Nakano et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32033">2610.32033</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26882.html">A Machine Learning Approach to Finslerian Cosmological Dark Energy Model</a></div><div class="paper-tags"><a href="dark-energy-30d.html">dark-energy</a></div></td>
-<td>Shruti Seth et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26882">2610.26882</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29331.html">From Prompts to Posteriors: Can LLM Agents Perform Bayesian Inference in Context?</a></div><div class="paper-tags"><a href="scientific-discovery-30d.html">scientific-discovery</a></div></td>
-<td>Linus Filbry et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29331">2610.29331</a></td>
 </tr>
 </tbody></table>

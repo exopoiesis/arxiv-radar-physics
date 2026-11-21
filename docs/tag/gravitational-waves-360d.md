@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">65 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -398,11 +398,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22987.html">Incorporating neutron star physics into gravitational wave inference with neural priors</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
 <td>Thibeau Wouters et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22987">2511.22987</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20731.html">Denoising gravitational wave with deep learning in the time-frequency domain</a></div></td>
-<td>Yi-De Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20731">2511.20731</a></td>
 </tr>
 </tbody></table>

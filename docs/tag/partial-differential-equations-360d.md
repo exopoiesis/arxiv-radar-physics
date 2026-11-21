@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">753 papers</span>
+  <span class="paper-count">749 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4508,29 +4508,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21915.html">Algorithms and Scientific Software for Quasi-Monte Carlo, Fast Gaussian Process Regression, and Scientific Machine Learning</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a> · <a href="sciml-360d.html">sciml</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
 <td>Aleksei G. Sorokin</td>
 <td><a href="http://arxiv.org/abs/2511.21915">2511.21915</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04171.html">Physics-Constrained Flow Matching: Sampling Generative Models with Hard Constraints</a></div></td>
-<td>Utkarsh Utkarsh et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04171">2506.04171</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15247.html">Addressing the gravitational collapse of a massless scalar field with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Antonio Ferrer-Sánchez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15247">2511.15247</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20283.html">Solving Heterogeneous Agent Models with Physics-informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Marta Grzeskiewicz</td>
-<td><a href="http://arxiv.org/abs/2511.20283">2511.20283</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20574.html">Active learning with physics-informed neural networks for optimal sensor placement in deep tunneling through transversely isotropic elastic rocks</a></div></td>
-<td>Alec Tristani et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20574">2511.20574</a></td>
 </tr>
 </tbody></table>

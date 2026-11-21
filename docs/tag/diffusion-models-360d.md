@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-models — 360d</h1>
-  <span class="paper-count">534 papers</span>
+  <span class="paper-count">532 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3206,17 +3206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09484.html">CRPS-LAM: Regional ensemble weather forecasting from matching marginals</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
 <td>Erik Larsson et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09484">2510.09484</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07902.html">FunDiff: Diffusion Models over Function Spaces for Physics-Informed Generative Modeling</a></div></td>
-<td>Sifan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07902">2506.07902</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19435.html">Are Image-to-Video Models Good Zero-Shot Image Editors?</a></div></td>
-<td>Zechuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19435">2511.19435</a></td>
 </tr>
 </tbody></table>

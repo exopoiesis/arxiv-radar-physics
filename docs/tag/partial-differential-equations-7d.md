@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19115.html">Learning inadequacy of Bayesian neural operators for PDE-constrained inference and design</a></div><div class="paper-tags"><a href="deeponet-7d.html">deeponet</a> · <a href="neural-operators-7d.html">neural-operators</a></div></td>
 <td>Pratyush Kumar Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2611.19115">2611.19115</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17759.html">Convergence analysis of physics-informed neural networks for subdiffusion</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Bangti Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2611.17759">2611.17759</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">464 papers</span>
+  <span class="paper-count">462 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2786,17 +2786,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21951.html">A scalable advantage in multi-photon quantum machine learning</a></div></td>
 <td>Yong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21951">2511.21951</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10533.html">Mitigating Exponential Mixed Frequency Growth through Frequency Selection</a></div></td>
-<td>Michael Poppel et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10533">2508.10533</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14989.html">Critical Evaluation of Quantum Machine Learning for Adversarial Robustness</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Saeefa Rubaiyet Nowmi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14989">2511.14989</a></td>
 </tr>
 </tbody></table>

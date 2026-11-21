@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">596 papers</span>
+  <span class="paper-count">593 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3572,23 +3572,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21784.html">Physics-Informed Spiking Neural Networks via Conservative Flux Quantization</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Chi Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21784">2511.21784</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15247.html">Addressing the gravitational collapse of a massless scalar field with Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Antonio Ferrer-Sánchez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15247">2511.15247</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19916.html">Investigation of PINN Stability and Robustness for the Euler-Bernoulli Beam Problem</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Thonn Homsnit et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19916">2511.19916</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20283.html">Solving Heterogeneous Agent Models with Physics-informed Neural Networks</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Marta Grzeskiewicz</td>
-<td><a href="http://arxiv.org/abs/2511.20283">2511.20283</a></td>
 </tr>
 </tbody></table>

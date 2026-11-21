@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>navier-stokes-equations — 360d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="navier-stokes-equations-7d.html">7d</a> <a href="navier-stokes-equations-30d.html">30d</a> <a href="navier-stokes-equations-90d.html">90d</a> <strong>360d</strong> <a href="navier-stokes-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -434,11 +434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.09070.html">Banach neural operator for Navier-Stokes equations</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a> · <a href="neural-operators-360d.html">neural-operators</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Bo Zhang</td>
 <td><a href="http://arxiv.org/abs/2512.09070">2512.09070</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03055.html">Physics-informed self-supervised learning for predictive modeling of coronary artery digital twins</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="computational-fluid-dynamics-360d.html">computational-fluid-dynamics</a></div></td>
-<td>Xiaowu Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03055">2512.03055</a></td>
 </tr>
 </tbody></table>

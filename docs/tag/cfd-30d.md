@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>cfd — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <strong>30d</strong> <a href="cfd-90d.html">90d</a> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,17 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33124.html">Spectrally optimized implicit neural representations mitigate acquisition-related image quality trade-offs in intracranial 4D Flow MRI</a></div></td>
 <td>Oliver Welin Odeback et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33124">2610.33124</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29850.html">Automated Discovery of Physically Interpretable Subgrid Length Scales for Detached Eddy Simulation via Agentic AI</a></div></td>
-<td>Jiawei Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29850">2610.29850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30498.html">CARS: a centerline-anchored attention surrogate for coronary blood flow on skeleton-generated lumen geometries</a></div><div class="paper-tags"><a href="navier-stokes-equations-30d.html">navier-stokes-equations</a> · <a href="neural-operators-30d.html">neural-operators</a></div></td>
-<td>Reza Akbarian Bafghi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30498">2610.30498</a></td>
 </tr>
 </tbody></table>

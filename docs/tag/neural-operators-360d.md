@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">437 papers</span>
+  <span class="paper-count">436 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2630,11 +2630,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21861.html">Towards a Foundation Model for Partial Differential Equations Across Physics Domains</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
 <td>Eduardo Soares et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21861">2511.21861</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20361.html">Extension and neural operator approximation of the electrical impedance tomography inverse map</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
-<td>Maarten V. de Hoop et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20361">2511.20361</a></td>
 </tr>
 </tbody></table>

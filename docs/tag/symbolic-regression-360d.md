@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">198 papers</span>
+  <span class="paper-count">195 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1184,23 +1184,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02057.html">Opening the Black Box: An Explainable, Few-shot AI4E Framework Informed by Physics and Expert Knowledge for Materials Engineering</a></div></td>
 <td>Haoxiang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02057">2512.02057</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17777.html">ASP-Assisted Symbolic Regression: Uncovering Hidden Physics in Fluid Mechanics</a></div></td>
-<td>Theofanis Aravanis et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17777">2507.17777</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19809.html">White-Box Modeling of V2X Link Performance Using Stabilized Symbolic Regression</a></div></td>
-<td>Rahul Gulia et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19809">2511.19809</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20506.html">Physically Interpretable Interatomic Potentials via Symbolic Regression and Reinforcement Learning</a></div></td>
-<td>Bilvin Varughese et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20506">2511.20506</a></td>
 </tr>
 </tbody></table>

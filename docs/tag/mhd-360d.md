@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mhd — 360d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <a href="mhd-90d.html">90d</a> <strong>360d</strong> <a href="mhd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19583.html">ConStellaration: A dataset of QI-like stellarator plasma boundaries and optimization benchmarks</a></div><div class="paper-tags"><a href="fusion-energy-360d.html">fusion-energy</a> · <a href="plasma-physics-360d.html">plasma-physics</a></div></td>
 <td>Santiago A. Cadena et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19583">2506.19583</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20830.html">Autoregressive Surrogate Modeling of the Solar Wind with Spherical Fourier Neural Operator</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Reza Mansouri et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20830">2511.20830</a></td>
 </tr>
 </tbody></table>

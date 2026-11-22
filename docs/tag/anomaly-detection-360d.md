@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">277 papers</span>
+  <span class="paper-count">275 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1664,17 +1664,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21817.html">Real-time Anomaly Detection for Liquid Argon Time Projection Chambers</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a></div></td>
 <td>Seokju Chung et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21817">2509.21817</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21869.html">New Physics Searches at the LHC through Event-based Anomaly Detection and Development of ADFilter Web-tool</a></div></td>
-<td>Wasikul Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21869">2511.21869</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21932.html">Modeling Quantum Autoencoder Trainable Kernel for IoT Anomaly Detection</a></div><div class="paper-tags"><a href="quantum-machine-learning-360d.html">quantum-machine-learning</a></div></td>
-<td>Swathi Chandrasekhar et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21932">2511.21932</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">436 papers</span>
+  <span class="paper-count">435 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2624,11 +2624,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.09070.html">Banach neural operator for Navier-Stokes equations</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Bo Zhang</td>
 <td><a href="http://arxiv.org/abs/2512.09070">2512.09070</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21861.html">Towards a Foundation Model for Partial Differential Equations Across Physics Domains</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Eduardo Soares et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21861">2511.21861</a></td>
 </tr>
 </tbody></table>

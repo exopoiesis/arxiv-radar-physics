@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>scientific-discovery — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <strong>30d</strong> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,17 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33366.html">Distill, Debate, Discover: Grounding Multi-Agent Research Ideation in Graph-Distilled Insights</a></div></td>
 <td>Qianran Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33366">2610.33366</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30851.html">ADAPT for Science: A Multi-Agent System for Self-Evolving Scientific Optimization</a></div></td>
-<td>Zhaoran Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30851">2610.30851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33105.html">Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>A. Cunha et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33105">2610.33105</a></td>
 </tr>
 </tbody></table>

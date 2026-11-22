@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">593 papers</span>
+  <span class="paper-count">590 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3554,23 +3554,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22522.html">AdS/Deep-Learning made easy II: neural network-based approaches to holography and inverse problems</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="pinns-360d.html">pinns</a></div></td>
 <td>Hyun-Sik Jeong et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22522">2511.22522</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.15949.html">PINNs4Drops: Video-conditioned physics-informed neural networks for two-phase flow reconstruction</a></div></td>
-<td>Maximilian Dreisbach et al.</td>
-<td><a href="http://arxiv.org/abs/2411.15949">2411.15949</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11228.html">The modified Physics-Informed Hybrid Parallel Kolmogorov--Arnold and Multilayer Perceptron Architecture with domain decomposition</a></div></td>
-<td>Qiumei Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11228">2511.11228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21784.html">Physics-Informed Spiking Neural Networks via Conservative Flux Quantization</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Chi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21784">2511.21784</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">462 papers</span>
+  <span class="paper-count">460 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2774,17 +2774,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22321.html">RELiQ: Scalable Entanglement Routing via Reinforcement Learning in Quantum Networks</a></div></td>
 <td>Tobias Meuser et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22321">2511.22321</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21932.html">Modeling Quantum Autoencoder Trainable Kernel for IoT Anomaly Detection</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Swathi Chandrasekhar et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21932">2511.21932</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21951.html">A scalable advantage in multi-photon quantum machine learning</a></div></td>
-<td>Yong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21951">2511.21951</a></td>
 </tr>
 </tbody></table>

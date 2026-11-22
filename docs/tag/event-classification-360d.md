@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>event-classification — 360d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="event-classification-7d.html">7d</a> <a href="event-classification-30d.html">30d</a> <a href="event-classification-90d.html">90d</a> <strong>360d</strong> <a href="event-classification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.11487.html">Type II and Type III Solar Radio Burst Classification Using Transfer Learning</a></div></td>
 <td>Herman le Roux et al.</td>
 <td><a href="http://arxiv.org/abs/2512.11487">2512.11487</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21439.html">EvRainDrop: HyperGraph-guided Completion for Effective Frame and Event Stream Aggregation</a></div></td>
-<td>Futian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21439">2511.21439</a></td>
 </tr>
 </tbody></table>

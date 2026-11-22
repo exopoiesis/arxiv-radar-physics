@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">467 papers</span>
+  <span class="paper-count">463 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2792,29 +2792,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22310.html">Small Object Detection for Birds with Swin Transformer</a></div></td>
 <td>Da Huo et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22310">2511.22310</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06220.html">Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation</a></div></td>
-<td>Xiaoxing Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06220">2504.06220</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06806.html">GreenHyperSpectra: A multi-source hyperspectral dataset for global vegetation trait prediction</a></div></td>
-<td>Eya Cherif et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06806">2507.06806</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20302.html">CrossEarth-Gate: Fisher-Guided Adaptive Tuning Engine for Efficient Adaptation of Cross-Domain Remote Sensing Semantic Segmentation</a></div></td>
-<td>Shilei Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20302">2511.20302</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21420.html">SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning</a></div></td>
-<td>Futian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21420">2511.21420</a></td>
 </tr>
 </tbody></table>

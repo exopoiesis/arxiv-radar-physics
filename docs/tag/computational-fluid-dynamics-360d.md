@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 360d</h1>
-  <span class="paper-count">169 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1022,11 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22730.html">U Net LSTM with incremental time-stepping for robust long-horizon unsteady flow prediction</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
 <td>Blaise Madiega et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22730">2511.22730</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21782.html">CompARE: A Computational framework for Airborne Respiratory disease Evaluation integrating flow physics and human behavior</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Fong Yew Leong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21782">2511.21782</a></td>
 </tr>
 </tbody></table>

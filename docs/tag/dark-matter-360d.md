@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dark-matter — 360d</h1>
-  <span class="paper-count">166 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="dark-matter-7d.html">7d</a> <a href="dark-matter-30d.html">30d</a> <a href="dark-matter-90d.html">90d</a> <strong>360d</strong> <a href="dark-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1004,11 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14531.html">Cosmological Parameter Estimation with a Joint-Likelihood Analysis of the Cosmic Microwave Background and Big Bang Nucleosynthesis</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Cara Giovanetti et al.</td>
 <td><a href="http://arxiv.org/abs/2408.14531">2408.14531</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08573.html">Reconstructing the local density field with combined convolutional and point cloud architecture</a></div></td>
-<td>Baptiste Barthe-Gold et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08573">2510.08573</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <strong>30d</strong> <a href="physics-informed-neural-networks-90d.html">90d</a> <a href="physics-informed-neural-networks-360d.html">360d</a> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,17 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32840.html">Physics Informed Neural Network for Multi-dimensional Turbulent Self-gravitating Flows</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
 <td>Tirthankar De et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32840">2610.32840</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31855.html">Cautious Conflict-Free Inverse Gradient Methods</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a> · <a href="pinns-30d.html">pinns</a> · <a href="schr-dinger-equation-30d.html">schr-dinger-equation</a></div></td>
-<td>Damian Hattler et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31855">2610.31855</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31963.html">Physics-informed neural network (PINN) approximations of capillary menisci in polygonal channels</a></div><div class="paper-tags"><a href="pinns-30d.html">pinns</a></div></td>
-<td>Zijian Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31963">2610.31963</a></td>
 </tr>
 </tbody></table>

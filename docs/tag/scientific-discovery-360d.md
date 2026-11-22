@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-discovery — 360d</h1>
-  <span class="paper-count">518 papers</span>
+  <span class="paper-count">514 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <strong>360d</strong> <a href="scientific-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3098,29 +3098,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22311.html">Swarms of Large Language Model Agents for Protein Sequence Design with Experimental Validation</a></div></td>
 <td>Fiona Y. Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22311">2511.22311</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01438.html">Differentiable Skill Optimisation for Powder Manipulation in Laboratory Automation</a></div></td>
-<td>Minglun Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01438">2510.01438</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20976.html">AI4X Roadmap: Artificial Intelligence for the advancement of scientific pursuit and its future directions</a></div></td>
-<td>Stephen G. Dale et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20976">2511.20976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21444.html">EWE: An Agentic Framework for Extreme Weather Analysis</a></div></td>
-<td>Zhe Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21444">2511.21444</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21861.html">Towards a Foundation Model for Partial Differential Equations Across Physics Domains</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
-<td>Eduardo Soares et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21861">2511.21861</a></td>
 </tr>
 </tbody></table>

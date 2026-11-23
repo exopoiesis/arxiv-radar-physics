@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">413 papers</span>
+  <span class="paper-count">412 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2486,11 +2486,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23449.html">Physics-Informed Neural Networks for Thermophysical Property Retrieval</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Ali Waseem et al.</td>
 <td><a href="http://arxiv.org/abs/2511.23449">2511.23449</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22522.html">AdS/Deep-Learning made easy II: neural network-based approaches to holography and inverse problems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Hyun-Sik Jeong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22522">2511.22522</a></td>
 </tr>
 </tbody></table>

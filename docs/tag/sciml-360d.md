@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>sciml — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="sciml-7d.html">7d</a> <a href="sciml-30d.html">30d</a> <a href="sciml-90d.html">90d</a> <strong>360d</strong> <a href="sciml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03476.html">ATHENA: Agentic Team for Hierarchical Evolutionary Numerical Algorithms</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a> · <a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
 <td>Juan Diego Toscano et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03476">2512.03476</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22292.html">Adaptive tumor growth forecasting via neural &amp; universal ODEs</a></div><div class="paper-tags"><a href="scientific-machine-learning-360d.html">scientific-machine-learning</a></div></td>
-<td>Kavya Subramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22292">2511.22292</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33383.html">Distributional statistics of nonequilibrium</a></div></td>
 <td>Harrison Hartle et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33383">2610.33383</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32033.html">Two-component Bayesian modeling in the data analysis of collective Thomson scattering</a></div></td>
-<td>Akito Nakano et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32033">2610.32033</a></td>
 </tr>
 </tbody></table>

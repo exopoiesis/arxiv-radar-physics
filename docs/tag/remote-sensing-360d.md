@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">463 papers</span>
+  <span class="paper-count">461 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2780,17 +2780,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20460.html">Look Where It Matters: Training-Free Ultra-HR Remote Sensing VQA via Adaptive Zoom Search</a></div></td>
 <td>Yunqi Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20460">2511.20460</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11882.html">Lacking Data? No worries! How synthetic images can alleviate image scarcity in wildlife surveys: a case study with muskox (Ovibos moschatus)</a></div></td>
-<td>Simon Durand et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11882">2511.11882</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22310.html">Small Object Detection for Birds with Swin Transformer</a></div></td>
-<td>Da Huo et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22310">2511.22310</a></td>
 </tr>
 </tbody></table>

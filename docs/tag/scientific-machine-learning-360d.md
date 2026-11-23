@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">210 papers</span>
+  <span class="paper-count">207 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1256,23 +1256,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.09070.html">Banach neural operator for Navier-Stokes equations</a></div><div class="paper-tags"><a href="koopman-operator-360d.html">koopman-operator</a> · <a href="navier-stokes-equations-360d.html">navier-stokes-equations</a> · <a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Bo Zhang</td>
 <td><a href="http://arxiv.org/abs/2512.09070">2512.09070</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05103.html">Neural Network for Subgrid Turbulence Modeling for Large Eddy Simulations</a></div><div class="paper-tags"><a href="les-360d.html">les</a> · <a href="turbulence-modeling-360d.html">turbulence-modeling</a></div></td>
-<td>Eduardo Vital et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05103">2511.05103</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22292.html">Adaptive tumor growth forecasting via neural &amp; universal ODEs</a></div><div class="paper-tags"><a href="sciml-360d.html">sciml</a></div></td>
-<td>Kavya Subramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22292">2511.22292</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01920.html">Fundamentals of Regression</a></div></td>
-<td>Miguel A. Mendez</td>
-<td><a href="http://arxiv.org/abs/2512.01920">2512.01920</a></td>
 </tr>
 </tbody></table>

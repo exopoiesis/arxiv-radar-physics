@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24056.html">PhysicsBench: A Unified Leaderboard for Generative and Predictive Models in Engineering Design and Simulation</a></div></td>
 <td>Sang Won Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24056">2608.24056</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22787.html">Generative Design of Liquid-Cooling Channels for Thermal Management of 2.5D and 3D Integrated Advanced Packaging</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
-<td>Michael Acquah et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22787">2608.22787</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mhd — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="mhd-7d.html">7d</a> <a href="mhd-30d.html">30d</a> <a href="mhd-90d.html">90d</a> <strong>360d</strong> <a href="mhd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08765.html">One-shot acceleration of transient PDE solvers via online-learned preconditioners</a></div><div class="paper-tags"><a href="magnetohydrodynamics-360d.html">magnetohydrodynamics</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Mikhail Khodak et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08765">2509.08765</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22112.html">Toward Data-Driven Surrogates of the Solar Wind with Spherical Fourier Neural Operator</a></div><div class="paper-tags"><a href="weather-forecasting-360d.html">weather-forecasting</a></div></td>
-<td>Reza Mansouri et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22112">2511.22112</a></td>
 </tr>
 </tbody></table>

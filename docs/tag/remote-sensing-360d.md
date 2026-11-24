@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">461 papers</span>
+  <span class="paper-count">459 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2768,17 +2768,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00261.html">UniDiff: Parameter-Efficient Adaptation of Diffusion Models for Land Cover Classification with Multi-Modal Remotely Sensed Imagery and Sparse Annotations</a></div></td>
 <td>Yuzhen Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00261">2512.00261</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06224.html">TEFormer: Texture-Aware and Edge-Guided Transformer for Semantic Segmentation of Urban Remote Sensing Images</a></div></td>
-<td>Guoyu Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06224">2508.06224</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20460.html">Look Where It Matters: Training-Free Ultra-HR Remote Sensing VQA via Adaptive Zoom Search</a></div></td>
-<td>Yunqi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20460">2511.20460</a></td>
 </tr>
 </tbody></table>

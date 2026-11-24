@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>qml — 90d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <a href="qml-30d.html">30d</a> <strong>90d</strong> <a href="qml-360d.html">360d</a> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01537.html">Quantum Sparse Autoencoders for Q-Matrix Estimation in Cognitive Diagnosis</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
 <td>Arif Hassan Zidan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01537">2609.01537</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23934.html">QML for Quantum Sensing under Measurement-Induced Information Loss</a></div><div class="paper-tags"><a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>
-<td>Sounak Bhowmik et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23934">2608.23934</a></td>
 </tr>
 </tbody></table>

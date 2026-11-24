@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>normalizing-flows — 360d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">75 papers</span>
   <nav class="window-nav"><a href="normalizing-flows-7d.html">7d</a> <a href="normalizing-flows-30d.html">30d</a> <a href="normalizing-flows-90d.html">90d</a> <strong>360d</strong> <a href="normalizing-flows-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -464,17 +464,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07060.html">LIMFAST. IV. Learning High-Redshift Galaxy Formation from Multiline Intensity Mapping with Implicit Likelihood Inference</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cosmology-360d.html">cosmology</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
 <td>Guochao Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07060">2509.07060</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22987.html">Incorporating neutron star physics into gravitational wave inference with neural priors</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Thibeau Wouters et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22987">2511.22987</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23463.html">Kinetic Mixing and the Phantom Illusion: Axion-Dilaton Quintessence in Light of DESI DR2</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
-<td>Michael W. Toomey et al.</td>
-<td><a href="http://arxiv.org/abs/2511.23463">2511.23463</a></td>
 </tr>
 </tbody></table>

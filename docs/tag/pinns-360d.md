@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">571 papers</span>
+  <span class="paper-count">568 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3422,23 +3422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00990.html">Fault-Tolerant Temperature Control of HRSG Superheaters: Stability Analysis Under Valve Leakage Using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Mojtaba Fanoodi et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00990">2512.00990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10949.html">FP64 is All You Need: Rethinking Failure Modes in Physics-Informed Neural Networks</a></div></td>
-<td>Chenhui Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10949">2505.10949</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23409.html">A Multi-Phase Dual-PINN Framework: Soft Boundary-Interior Specialization via Distance-Weighted Priors</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Naseem Abbas et al.</td>
-<td><a href="http://arxiv.org/abs/2511.23409">2511.23409</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23449.html">Physics-Informed Neural Networks for Thermophysical Property Retrieval</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Ali Waseem et al.</td>
-<td><a href="http://arxiv.org/abs/2511.23449">2511.23449</a></td>
 </tr>
 </tbody></table>

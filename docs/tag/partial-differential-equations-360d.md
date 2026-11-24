@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">747 papers</span>
+  <span class="paper-count">745 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4484,17 +4484,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00538.html">A multilevel proximal trust-region method for nonsmooth optimization with applications</a></div></td>
 <td>Robert Baraldi et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00538">2512.00538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22938.html">CORGI: GNNs with Convolutional Residual Global Interactions for Lagrangian Simulation</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Ethan Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22938">2511.22938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23037.html">Time Extrapolation with Graph Convolutional Autoencoder and Tensor Train Decomposition</a></div><div class="paper-tags"><a href="deeponet-360d.html">deeponet</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
-<td>Yuanhong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.23037">2511.23037</a></td>
 </tr>
 </tbody></table>

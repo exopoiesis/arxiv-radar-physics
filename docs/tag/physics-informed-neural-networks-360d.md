@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>physics-informed-neural-networks — 360d</h1>
-  <span class="paper-count">589 papers</span>
+  <span class="paper-count">588 papers</span>
   <nav class="window-nav"><a href="physics-informed-neural-networks-7d.html">7d</a> <a href="physics-informed-neural-networks-30d.html">30d</a> <a href="physics-informed-neural-networks-90d.html">90d</a> <strong>360d</strong> <a href="physics-informed-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3542,11 +3542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00990.html">Fault-Tolerant Temperature Control of HRSG Superheaters: Stability Analysis Under Valve Leakage Using Physics-Informed Neural Networks</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
 <td>Mojtaba Fanoodi et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00990">2512.00990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23409.html">A Multi-Phase Dual-PINN Framework: Soft Boundary-Interior Specialization via Distance-Weighted Priors</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a></div></td>
-<td>Naseem Abbas et al.</td>
-<td><a href="http://arxiv.org/abs/2511.23409">2511.23409</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>hamiltonian-neural-networks — 90d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="hamiltonian-neural-networks-7d.html">7d</a> <a href="hamiltonian-neural-networks-30d.html">30d</a> <strong>90d</strong> <a href="hamiltonian-neural-networks-360d.html">360d</a> <a href="hamiltonian-neural-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01356.html">Port-Hamiltonian Neural Networks for Systems with Multiple Asymptotically Stable Equilibria</a></div></td>
 <td>Simon Heilig et al.</td>
 <td><a href="http://arxiv.org/abs/2610.01356">2610.01356</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24700.html">Parameter-Level Attribution of Symmetry in Trained Networks Though Parameter-Wise Functional Sensitivity</a></div></td>
-<td>Alan Muriithi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24700">2608.24700</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,23 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22624.html">Stochastic Representation-Inspired Physics-Informed Neural Networks for Incompressible Fluid Flows</a></div></td>
 <td>Zihao Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2611.22624">2611.22624</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20609.html">Newton-PINet: A fast physics-informed neural network with Newton linearization for meta-learning nonlinear PDEs</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
-<td>Yuchen Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2611.20609">2611.20609</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20883.html">Quantitative approximation for Fourier neural operators in controlled ordinary differential equations</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a></div></td>
-<td>Dean Zenner et al.</td>
-<td><a href="http://arxiv.org/abs/2611.20883">2611.20883</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21933.html">Physics-informed neural networks for spacecraft trajectory optimization with exact boundary conditions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a></div></td>
-<td>Samuel Schönherr et al.</td>
-<td><a href="http://arxiv.org/abs/2611.21933">2611.21933</a></td>
 </tr>
 </tbody></table>

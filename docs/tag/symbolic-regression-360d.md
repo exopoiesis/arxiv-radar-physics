@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">195 papers</span>
+  <span class="paper-count">193 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1172,17 +1172,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00225.html">Discovering the Underlying Analytic Structure Within Standard Model Constants Using Artificial Intelligence</a></div></td>
 <td>S. V. Chekanov et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00225">2507.00225</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23073.html">Constraining dark matter halo profiles with symbolic regression</a></div><div class="paper-tags"><a href="dark-matter-360d.html">dark-matter</a></div></td>
-<td>Alicia Martín et al.</td>
-<td><a href="http://arxiv.org/abs/2511.23073">2511.23073</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02057.html">Opening the Black Box: An Explainable, Few-shot AI4E Framework Informed by Physics and Expert Knowledge for Materials Engineering</a></div></td>
-<td>Haoxiang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02057">2512.02057</a></td>
 </tr>
 </tbody></table>

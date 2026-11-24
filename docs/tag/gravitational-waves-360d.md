@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gravitational-waves — 360d</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="gravitational-waves-7d.html">7d</a> <a href="gravitational-waves-30d.html">30d</a> <a href="gravitational-waves-90d.html">90d</a> <strong>360d</strong> <a href="gravitational-waves-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -392,11 +392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01776.html">Search for Peak Structures in the Stochastic Gravitational-Wave Background in LIGO-Virgo-KAGRA O1-O4a Datasets</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="ligo-360d.html">ligo</a></div></td>
 <td>Catalina-Ana Miritescu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01776">2512.01776</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22987.html">Incorporating neutron star physics into gravitational wave inference with neural priors</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Thibeau Wouters et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22987">2511.22987</a></td>
 </tr>
 </tbody></table>

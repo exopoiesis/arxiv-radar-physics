@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="computational-fluid-dynamics-90d.html">90d</a> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34559.html">A Product-Grassmann Tucker Surrogate for Parametric Field Prediction</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Melika Baghi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.34559">2610.34559</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33456.html">FG-ConvNO: A Geometry-Aware Neural Operator for Propeller CFD Prediction</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a></div></td>
-<td>Yichen Di et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33456">2610.33456</a></td>
 </tr>
 </tbody></table>

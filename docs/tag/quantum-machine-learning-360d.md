@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">459 papers</span>
+  <span class="paper-count">458 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2762,11 +2762,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.09936.html">QSTAformer: A Quantum-Enhanced Transformer for Robust Short-Term Voltage Stability Assessment against Adversarial Attacks</a></div></td>
 <td>Yang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2512.09936">2512.09936</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03192.html">A Survey of Quantum Transformers: Architectures, Challenges and Outlooks</a></div></td>
-<td>Hui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03192">2504.03192</a></td>
 </tr>
 </tbody></table>

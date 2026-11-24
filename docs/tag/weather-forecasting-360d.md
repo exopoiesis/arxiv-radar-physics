@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weather-forecasting — 360d</h1>
-  <span class="paper-count">163 papers</span>
+  <span class="paper-count">161 papers</span>
   <nav class="window-nav"><a href="weather-forecasting-7d.html">7d</a> <a href="weather-forecasting-30d.html">30d</a> <a href="weather-forecasting-90d.html">90d</a> <strong>360d</strong> <a href="weather-forecasting-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -980,17 +980,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05323.html">Robustness Test for AI Forecasting of Hurricane Florence Using FourCastNetv2 and Random Perturbations of the Initial Condition</a></div></td>
 <td>Adam Lizerbram et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05323">2512.05323</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23440.html">Accelerated Execution of Bayesian Neural Networks using a Single Probabilistic Forward Pass and Code Generation</a></div></td>
-<td>Bernhard Klein et al.</td>
-<td><a href="http://arxiv.org/abs/2511.23440">2511.23440</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.11819.html">A Modular LLM-Agent System for Transparent Multi-Parameter Weather Interpretation</a></div><div class="paper-tags"><a href="scientific-discovery-360d.html">scientific-discovery</a></div></td>
-<td>Daniil Sukhorukov et al.</td>
-<td><a href="http://arxiv.org/abs/2512.11819">2512.11819</a></td>
 </tr>
 </tbody></table>

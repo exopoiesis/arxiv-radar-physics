@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>black-holes — 90d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <strong>90d</strong> <a href="black-holes-360d.html">360d</a> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04340.html">Waveform models for the gravitational-wave memory effect: III. Phenomenological frequency-domain model for nonspinning binaries</a></div><div class="paper-tags"><a href="ligo-90d.html">ligo</a></div></td>
 <td>Arwa Elhashash et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04340">2609.04340</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24717.html">Searches for new phenomena in final states with leptons and jets using the ATLAS detector</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a> · <a href="physics-beyond-the-standard-model-90d.html">physics-beyond-the-standard-model</a></div></td>
-<td>Roy Schimmel Brener</td>
-<td><a href="http://arxiv.org/abs/2608.24717">2608.24717</a></td>
 </tr>
 </tbody></table>

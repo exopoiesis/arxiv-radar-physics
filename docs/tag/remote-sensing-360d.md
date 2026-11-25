@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">459 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,84 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14496.html">RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval</a></div></td>
+<td>Tanishq Rachamalla et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14496">2611.14496</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32505.html">An Integrated Remote Sensing and Machine Learning Framework for Mapping Hazard Associated with Leached Metals</a></div><div class="paper-tags"><a href="hydrology-360d.html">hydrology</a></div></td>
+<td>Salman Karim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32505">2611.32505</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32518.html">HS-OVSeg: Multi-Granularity Open-Vocabulary Semantic Segmentation in Remote Sensing via Heterogeneous Supervision</a></div></td>
+<td>Wei Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32518">2611.32518</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30700.html">Sequential Monitoring of Image Streams Using Energy Statistics</a></div></td>
+<td>Shreetama Bhuniya et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30700">2611.30700</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31135.html">SRCWDNet: Semantic-Relational Cross-Window Dual-Graph Network for Multi-Label Remote Sensing Scene Classification</a></div></td>
+<td>Fareeha Amir</td>
+<td><a href="http://arxiv.org/abs/2611.31135">2611.31135</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31487.html">GDD: A Remote Sensing Image Deepfake Detection and Manipulation Localization Dataset</a></div></td>
+<td>Jacob Arndt et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31487">2611.31487</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27093.html">PIU-CR: Physics-Informed Deep Unfolding with SAR-Optical Image Fusion for Cloud Removal</a></div></td>
+<td>Gengque Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27093">2611.27093</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27142.html">How Does SAM-3 Adapt? Capacity, Update Geometry, and Domain Transfer</a></div></td>
+<td>Allan Kazakov et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27142">2611.27142</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27158.html">FM4SAR-Bench 1.0: Towards A Fair Benchmark for Evaluating Foundation Models for SAR Image Interpretation</a></div></td>
+<td>Mingyao Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27158">2611.27158</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22922.html">SWIR-cGAN: Synthesizing SWIR Bands Using VNIR Imagery from CBERS and AMAZONIA-1</a></div></td>
+<td>Alisson Cleiton de Oliveira et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22922">2611.22922</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21146.html">Model-based neural network for global floodplains analysis</a></div></td>
+<td>Pierre Audisio et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21146">2611.21146</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17172.html">SpotDiff: A Plug-and-Play Framework for Zero-Shot Change Detection in Remote Sensing Imagery</a></div></td>
+<td>Anit Upadhyaya et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17172">2611.17172</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17471.html">Resilient Transmission of Highly Structured Light via Active Convolved Illumination</a></div><div class="paper-tags"><a href="atmospheric-physics-360d.html">atmospheric-physics</a></div></td>
+<td>Anindya Ghoshroy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17471">2611.17471</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13510.html">Distribution Shift Detection in Remote Sensing Imagery using Machine Learning Models</a></div></td>
@@ -2756,17 +2834,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00895.html">A Scalable Variational Bayes Approach for Fitting Non-Conjugate Spatial Generalized Linear Mixed Models via Basis Expansions</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
 <td>Jin Hyung Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00895">2512.00895</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17808.html">Remote Sensing-Oriented World Model</a></div></td>
-<td>Yuxi Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17808">2509.17808</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00261.html">UniDiff: Parameter-Efficient Adaptation of Diffusion Models for Land Cover Classification with Multi-Modal Remotely Sensed Imagery and Sparse Annotations</a></div></td>
-<td>Yuzhen Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00261">2512.00261</a></td>
 </tr>
 </tbody></table>

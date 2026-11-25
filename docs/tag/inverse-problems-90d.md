@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28983.html">Probabilistic Inversion of Strong Gravitational Lenses with Flow Matching Priors</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="strong-lensing-90d.html">strong-lensing</a></div></td>
+<td>Tianao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28983">2611.28983</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22099.html">Differentiable High-Order Mesh $r$-Adaptivity</a></div></td>
+<td>Ketan Mittal et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22099">2611.22099</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20666.html">Conditional Diffusion Models for Amortized Bayesian System Identification</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
+<td>Mike Hänseroth et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20666">2611.20666</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21903.html">quantEM: Quantitative Electron Microscopy Analysis from Differentiable Physics to Neural Priors</a></div></td>
+<td>Colin Ophus et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21903">2611.21903</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19845.html">Enhancing Exploration in Ensemble Kalman Inversion via Covariance Inflation and Projected Dropout</a></div></td>
+<td>Baojun Che et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19845">2611.19845</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23316.html">MRASLive: An online parameter estimation toolbox for time-dependent PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Christian Aarset et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23316">2611.23316</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15758.html">Physics-based simulation unlocks scaling laws for generalizable MRI reconstruction</a></div></td>
@@ -476,11 +512,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27080.html">Active Diffusion-Based Inference for Ill-Posed Inverse Problems under Incomplete Priors</a></div></td>
 <td>Jitao Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27080">2608.27080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26268.html">Bosonic Encodings for Hermite-Galerkin Discretizations of High-Dimensional PDEs and Bayesian Inverse Problems</a></div></td>
-<td>Alice Barthe</td>
-<td><a href="http://arxiv.org/abs/2608.26268">2608.26268</a></td>
 </tr>
 </tbody></table>

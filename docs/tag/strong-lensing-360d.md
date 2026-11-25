@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>strong-lensing — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="strong-lensing-7d.html">7d</a> <a href="strong-lensing-30d.html">30d</a> <a href="strong-lensing-90d.html">90d</a> <strong>360d</strong> <a href="strong-lensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28983.html">Probabilistic Inversion of Strong Gravitational Lenses with Flow Matching Priors</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="inverse-problems-360d.html">inverse-problems</a></div></td>
+<td>Tianao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28983">2611.28983</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21699.html">Lens Modeling and Cosmological Inference from an Impure Sample of Galaxy-Galaxy Strong Lenses</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a></div></td>

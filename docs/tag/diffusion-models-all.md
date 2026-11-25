@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-models — all</h1>
-  <span class="paper-count">1031 papers</span>
+  <span class="paper-count">1048 papers</span>
   <nav class="window-nav"><a href="diffusion-models-7d.html">7d</a> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,108 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28756.html">PSC-Gen: Physical Sequence Conditioning for Video Generation via Agentic Visual Planning</a></div></td>
+<td>Wonsik Shin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28756">2611.28756</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24423.html">Probing Physics in Motion Diffusion Models Against Their Own Estimate</a></div></td>
+<td>Saeed Ghorbani</td>
+<td><a href="http://arxiv.org/abs/2611.24423">2611.24423</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31212.html">Flood forecasting using a physics-guided conditional denoising diffusion probabilistic model</a></div></td>
+<td>Omar Sallam et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31212">2611.31212</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31651.html">Anchoring VAE Fine-Tuning to Its Latent Diffusion Prior</a></div></td>
+<td>Rafael Bischof et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31651">2611.31651</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29366.html">Scenario Compliant Indoor Pedestrian Trajectory Reconstruction from Partial Observation</a></div></td>
+<td>Qi Dang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29366">2611.29366</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29675.html">CrysLDM: Latent Diffusion Model for Crystal Material Generation</a></div></td>
+<td>Subhojyoti Khastagir et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29675">2611.29675</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28983.html">Probabilistic Inversion of Strong Gravitational Lenses with Flow Matching Priors</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a> · <a href="strong-lensing-all.html">strong-lensing</a></div></td>
+<td>Tianao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28983">2611.28983</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26039.html">Three-mode chimera-like states in a minimal network of active camphor ribbons</a></div></td>
+<td>Ratan Sarkar et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26039">2611.26039</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26389.html">ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step</a></div></td>
+<td>Kaiwen Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26389">2611.26389</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23776.html">Residual diffusion for fine-structure enhancement in low-count accelerator-based muon imaging</a></div></td>
+<td>Haochen Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23776">2611.23776</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22965.html">High-Dimensional Black-Box Optimization via Guidance Sampling of Diffusion Models</a></div><div class="paper-tags"><a href="scientific-discovery-all.html">scientific-discovery</a></div></td>
+<td>Xiaoyan Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22965">2611.22965</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23226.html">FastFrames: Video Generation at Interactive Latency</a></div></td>
+<td>Gene Chou et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23226">2611.23226</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20666.html">Conditional Diffusion Models for Amortized Bayesian System Identification</a></div><div class="paper-tags"><a href="inverse-problems-all.html">inverse-problems</a></div></td>
+<td>Mike Hänseroth et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20666">2611.20666</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19676.html">Score-Based Stochastic Closure Modeling via Offline Indirect Learning and Online Data Assimilation</a></div><div class="paper-tags"><a href="data-assimilation-all.html">data-assimilation</a> · <a href="dynamical-systems-all.html">dynamical-systems</a> · <a href="reduced-order-modeling-all.html">reduced-order-modeling</a></div></td>
+<td>Xinghao Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19676">2611.19676</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19950.html">Towards a foundation model for Type IIB flux vacua</a></div></td>
+<td>Sven Krippendorf et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19950">2611.19950</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19440.html">Few-Shot Visual Concept Extraction for Steering Diffusion Transformers</a></div></td>
+<td>Nabyl Quignon et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19440">2611.19440</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18078.html">TelePhysica: Agentic Reconstruction of Physically Interactive Scenes</a></div></td>
+<td>Ruiqi Shu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18078">2611.18078</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17324.html">K2V: Generative Keyframing For Physically Plausible Video Generation</a></div></td>

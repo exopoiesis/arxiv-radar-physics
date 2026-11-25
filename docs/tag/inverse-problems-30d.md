@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-problems — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <strong>30d</strong> <a href="inverse-problems-90d.html">90d</a> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28983.html">Probabilistic Inversion of Strong Gravitational Lenses with Flow Matching Priors</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a> · <a href="strong-lensing-30d.html">strong-lensing</a></div></td>
+<td>Tianao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28983">2611.28983</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22099.html">Differentiable High-Order Mesh $r$-Adaptivity</a></div></td>
+<td>Ketan Mittal et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22099">2611.22099</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20666.html">Conditional Diffusion Models for Amortized Bayesian System Identification</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a></div></td>
+<td>Mike Hänseroth et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20666">2611.20666</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21903.html">quantEM: Quantitative Electron Microscopy Analysis from Differentiable Physics to Neural Priors</a></div></td>
+<td>Colin Ophus et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21903">2611.21903</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19845.html">Enhancing Exploration in Ensemble Kalman Inversion via Covariance Inflation and Projected Dropout</a></div></td>
+<td>Baojun Che et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19845">2611.19845</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23316.html">MRASLive: An online parameter estimation toolbox for time-dependent PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Christian Aarset et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23316">2611.23316</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15758.html">Physics-based simulation unlocks scaling laws for generalizable MRI reconstruction</a></div></td>
@@ -86,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37359.html">Multifidelity variational inference for derivative-free PDE-constrained inverse problems</a></div><div class="paper-tags"><a href="rom-30d.html">rom</a></div></td>
 <td>Eric J. Parish</td>
 <td><a href="http://arxiv.org/abs/2610.37359">2610.37359</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34077.html">The Calderón problem for the multi-fractional Laplacian Schrödinger equation with drift terms</a></div><div class="paper-tags"><a href="schr-dinger-equation-30d.html">schr-dinger-equation</a> · <a href="surrogate-modeling-30d.html">surrogate-modeling</a></div></td>
-<td>Jin Wen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34077">2610.34077</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — all</h1>
-  <span class="paper-count">313 papers</span>
+  <span class="paper-count">318 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <a href="computational-fluid-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17152.html">AeroZoo: A Benchmark of Well-Posed Flow Problems for Foundation Models of Aerodynamics</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
+<td>Peter Sharpe et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17152">2611.17152</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27351.html">A 3D PINN-Based Framework for Patient-Specific Pulmonary Hemodynamics Using Windkessel Models</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="physics-informed-neural-networks-all.html">physics-informed-neural-networks</a> · <a href="pinns-all.html">pinns</a></div></td>
+<td>Celia Taboada et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27351">2611.27351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28418.html">WingBench: Benchmarking How AI Agents Search for Better Designs</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
+<td>Yiming Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28418">2611.28418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19385.html">Does a completed simulation run mean a usable urban wind result for AI agents?</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a></div></td>
+<td>Zhongke Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19385">2611.19385</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16341.html">SUMNO: Spatially Unrolled Multigrid Neural Operator for Fluid Flow Surrogates</a></div><div class="paper-tags"><a href="surrogate-modeling-all.html">surrogate-modeling</a></div></td>
 <td>Yingqi Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16341">2611.16341</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16082.html">Gradient-Aware AI Agents for Autonomous Turbulence Model Discovery via Differentiable CFD</a></div><div class="paper-tags"><a href="cfd-all.html">cfd</a> · <a href="turbulence-modeling-all.html">turbulence-modeling</a></div></td>
+<td>Yi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16082">2611.16082</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-10</td>

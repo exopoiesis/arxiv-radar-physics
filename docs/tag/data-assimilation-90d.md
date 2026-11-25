@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>data-assimilation — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <strong>90d</strong> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,52 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26463.html">Neural Conditional Gaussian Model: Efficient Data Assimilation with Sequential Uncertainty Quantification for Nonlinear Dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Chuanqi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26463">2611.26463</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24020.html">Enabling joint chemical and meteorological data assimilation with an atmospheric foundation model</a></div></td>
+<td>Eliot J. Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24020">2611.24020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22024.html">An AI-Based OSSE Framework to Evaluate Learned Physical Consistency: A Multi-Model Study Using FourCastNet, Aurora, Prithvi WxC, and GraphCast</a></div></td>
+<td>Yash Diggikar et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22024">2611.22024</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19676.html">Score-Based Stochastic Closure Modeling via Offline Indirect Learning and Online Data Assimilation</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
+<td>Xinghao Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19676">2611.19676</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20112.html">Washout-free synchronization, parameter estimation and uncertainty quantification of echo state networks</a></div><div class="paper-tags"><a href="chaotic-systems-90d.html">chaotic-systems</a></div></td>
+<td>Andrea Nóvoa</td>
+<td><a href="http://arxiv.org/abs/2611.20112">2611.20112</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17854.html">Tracing Uncertainties of Extreme El Niño Prediction to Mesoscale Ocean Currents</a></div></td>
+<td>Bo Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17854">2611.17854</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18081.html">Generalized hydraulic neural operators turbocharging sewer digital twins</a></div></td>
 <td>Ruozhou Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2611.18081">2611.18081</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18393.html">WeatherDreamer: Learning a World Model from Multimodal Earth Observations</a></div></td>
+<td>Kate Duffy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18393">2611.18393</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-09</td>
@@ -230,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03100.html">Distilling deep optical flow stereo methods to retrieve dense three-dimensional wind fields</a></div></td>
 <td>Thomas J. Vandal et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03100">2609.03100</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24265.html">Opal.jl: a comprehensive, composable framework for data assimilation in Julia</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Nicholas Mueller</td>
-<td><a href="http://arxiv.org/abs/2608.24265">2608.24265</a></td>
 </tr>
 </tbody></table>

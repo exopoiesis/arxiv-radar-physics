@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">274 papers</span>
+  <span class="paper-count">281 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32138.html">VIDE : Training-Free Video Anomaly Detection via Visual Intrinsic Distribution Estimation</a></div></td>
+<td>Kevin D. Nguetche et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32138">2611.32138</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29903.html">From Patterns to Threats: A Deep Learning Model for Anomaly Detection in Cyber-Physical Systems</a></div></td>
+<td>Kayode L. Ogunsusi</td>
+<td><a href="http://arxiv.org/abs/2611.29903">2611.29903</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30896.html">Distillation of a Normalising Flow into a Compact Symbolic Expression for Real-Time Anomaly Detection at the LHC Level-1 Trigger</a></div></td>
+<td>Justin Bollhalder et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30896">2611.30896</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24643.html">AggCLIP: Aggregating CLIP for Zero-Shot Multimodal Anomaly Detection</a></div></td>
+<td>Zhi Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24643">2611.24643</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22496.html">DARWIN: a Geospatial Foundation Model for Marine Intelligence</a></div></td>
+<td>Coen van den Elsen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22496">2611.22496</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21674.html">Improving Early Detection of Scientifically Interesting Radio Sources Using Enhanced Isolation Forest</a></div></td>
+<td>Pfunzo Thavhana et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21674">2611.21674</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16789.html">ScrewSense: Mapping the Invisible - Anomaly Detection and Error Classification in Screwdriving Processes</a></div></td>
+<td>Tobias Lettner et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16789">2611.16789</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12023.html">TIRAD: Text-guided Image Residual Learning for Generalist Anomaly Detection</a></div></td>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>koopman-operator — 30d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <strong>30d</strong> <a href="koopman-operator-90d.html">90d</a> <a href="koopman-operator-360d.html">360d</a> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17301.html">DiSKO: Distribution Steering for Nonlinear Systems using the Koopman Operator</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Dimitrios Moustroufis et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17301">2611.17301</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39897.html">Data-driven Random-feature Approximation of Koopman Generators of Nonlinear Continuous-time Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>

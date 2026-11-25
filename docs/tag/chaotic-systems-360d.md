@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chaotic-systems — 360d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="chaotic-systems-7d.html">7d</a> <a href="chaotic-systems-30d.html">30d</a> <a href="chaotic-systems-90d.html">90d</a> <strong>360d</strong> <a href="chaotic-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20112.html">Washout-free synchronization, parameter estimation and uncertainty quantification of echo state networks</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a></div></td>
+<td>Andrea Nóvoa</td>
+<td><a href="http://arxiv.org/abs/2611.20112">2611.20112</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18197.html">Data-Driven Sparse Identification and Robust Tube-Based Predictive Control for Multivariable Chaotic Systems</a></div></td>
+<td>Shahin Razani</td>
+<td><a href="http://arxiv.org/abs/2611.18197">2611.18197</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07646.html">WaSP: Wasserstein Data Synthesis Pipeline for Solver-Free Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>

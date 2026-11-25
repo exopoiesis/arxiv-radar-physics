@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17655.html">Foundation Tensor Networks Generalize Across Lattice Hamiltonians</a></div><div class="paper-tags"><a href="tensor-networks-90d.html">tensor-networks</a></div></td>
+<td>Ryan T. Grimm et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17655">2611.17655</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30257.html">Scalable Neural Wave Functions via Information Mixing and Hierarchical Network Architectures</a></div></td>
 <td>Faith Oyedemi et al.</td>
@@ -38,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03463.html">Generalization of Transformer-Based Neural Quantum States via In-Context Learning</a></div></td>
 <td>Zhen Qin et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03463">2610.03463</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25511.html">Superextensive learning in quantum reservoirs at the onset of information scrambling</a></div></td>
-<td>Jonas Freiheit et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25511">2608.25511</a></td>
 </tr>
 </tbody></table>

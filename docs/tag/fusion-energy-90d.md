@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31486.html">CHORD: Learning Latent Spaces for Constrained Stellarator Design</a></div></td>
+<td>Santiago A. Cadena et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31486">2611.31486</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33096.html">Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion</a></div></td>
 <td>Ricardo Luna Gutierrez et al.</td>
@@ -26,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26547.html">Topology-Stratified Materials Discovery with A Flow-Based Generative Model</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Jingyi Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26547">2609.26547</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26207.html">Frontier Questions and Emerging Directions in Nuclear Science and Technology</a></div></td>
-<td>Yu-Gang Ma</td>
-<td><a href="http://arxiv.org/abs/2608.26207">2608.26207</a></td>
 </tr>
 </tbody></table>

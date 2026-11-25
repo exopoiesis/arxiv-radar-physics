@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>cfd — 90d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <strong>90d</strong> <a href="cfd-360d.html">360d</a> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17152.html">AeroZoo: A Benchmark of Well-Posed Flow Problems for Foundation Models of Aerodynamics</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
+<td>Peter Sharpe et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17152">2611.17152</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30341.html">FMSNO: Scaling Surface Neural Operators by Learned Flow Matching Reparametrisation</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Vasilii Liamin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30341">2611.30341</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27351.html">A 3D PINN-Based Framework for Patient-Specific Pulmonary Hemodynamics Using Windkessel Models</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Celia Taboada et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27351">2611.27351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28418.html">WingBench: Benchmarking How AI Agents Search for Better Designs</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
+<td>Yiming Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28418">2611.28418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22629.html">Residual-Guided Multi-Step Conditional Generation for Fast Airfoil Flow Field Prediction</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a></div></td>
+<td>Weishao Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22629">2611.22629</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19385.html">Does a completed simulation run mean a usable urban wind result for AI agents?</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
+<td>Zhongke Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19385">2611.19385</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16082.html">Gradient-Aware AI Agents for Autonomous Turbulence Model Discovery via Differentiable CFD</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="turbulence-modeling-90d.html">turbulence-modeling</a></div></td>
+<td>Yi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16082">2611.16082</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09679.html">Autonomous Particle Image Velocimetry Using Zero-Shot Sim-to-Real Reinforcement Learning</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
@@ -278,17 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02656.html">Super-Resolution Initialization of High-Fidelity CFD Simulations for Pebble-Bed Reactors</a></div></td>
 <td>Guilherme Gottems et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02656">2609.02656</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25709.html">Multi-output Gaussian process prediction of physical fields under linear equality constraints</a></div><div class="paper-tags"><a href="surrogate-modeling-90d.html">surrogate-modeling</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Mahamat Hamdan Nassouradine et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25709">2608.25709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26064.html">Neural-Network and Reduced-order Modeling Workflows for AI-Driven CFD: Fast Response Surfaces, Reduced Dynamics and Jet in Cross-flow Examples</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a> · <a href="reduced-order-modeling-90d.html">reduced-order-modeling</a></div></td>
-<td>Kaku E. Eduku et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26064">2608.26064</a></td>
 </tr>
 </tbody></table>

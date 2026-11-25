@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32274.html">CoMNO: Commutator Memory Neural Operators for Long-Horizon PDE Prediction</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Han Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32274">2611.32274</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29922.html">Beyond PINNs: Boundary-Enriched Holomorphic Networks for Laplace Problems</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Andrei Vlad Nicula et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29922">2611.29922</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31611.html">Multi-agent System for Automatic Discovery of Pareto-optimal Meta-solvers for PDEs</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Youngkyu Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31611">2611.31611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28393.html">Expressive Shallow Networks for Physics-Informed Learning: Why Curvature-Aware Optimization and FP64 Are Not Enough</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
+<td>Zachary Morrow et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28393">2611.28393</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25515.html">When and why can integral constraints improve the accuracy of physics-informed neural networks?</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
@@ -28,10 +52,28 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2611.22624">2611.22624</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22979.html">Residual-Driven Basis and Data Selection for Polynomial Approximation of High-Dimensional Hamilton-Jacobi-Bellman Equations</a></div></td>
+<td>Yuyang Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22979">2611.22979</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20563.html">Structure-Preserving Neural Time-Stepping for Gradient-Flow PDEs via Onsager&#x27;s Variational Principle</a></div></td>
+<td>Zhonghua Qiao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20563">2611.20563</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20609.html">Newton-PINet: A fast physics-informed neural network with Newton linearization for meta-learning nonlinear PDEs</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
 <td>Yuchen Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2611.20609">2611.20609</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20678.html">UNIDE: Cross-PDE Learning for Noise-Robust Discovery of Governing Equations</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
+<td>Xiaoyu Xie</td>
+<td><a href="http://arxiv.org/abs/2611.20678">2611.20678</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-16</td>
@@ -41,9 +83,27 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20951.html">A Convergence Analysis of the Random Feature Method for Linear PDEs</a></div></td>
+<td>Jingrun Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20951">2611.20951</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21566.html">Second scaling regime in high-dimensional function approximation and curse of dimensionality</a></div></td>
+<td>Shukai Du et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21566">2611.21566</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21933.html">Physics-informed neural networks for spacecraft trajectory optimization with exact boundary conditions</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
 <td>Samuel Schönherr et al.</td>
 <td><a href="http://arxiv.org/abs/2611.21933">2611.21933</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21964.html">Solver to System: LLM Reasoning Across Representations and Execution in Scientific Simulation</a></div></td>
+<td>Eliza Berman et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21964">2611.21964</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-15</td>
@@ -56,6 +116,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19115.html">Learning inadequacy of Bayesian neural operators for PDE-constrained inference and design</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a> · <a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Pratyush Kumar Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2611.19115">2611.19115</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23316.html">MRASLive: An online parameter estimation toolbox for time-dependent PDEs</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Christian Aarset et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23316">2611.23316</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-13</td>
@@ -704,17 +770,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27369.html">Deep-Control BSDE: Layerwise Brownian-Weighted Regression for High-Dimensional Semilinear PDEs</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
 <td>Mingcan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27369">2608.27369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24265.html">Opal.jl: a comprehensive, composable framework for data assimilation in Julia</a></div><div class="paper-tags"><a href="data-assimilation-90d.html">data-assimilation</a> · <a href="sciml-90d.html">sciml</a></div></td>
-<td>Nicholas Mueller</td>
-<td><a href="http://arxiv.org/abs/2608.24265">2608.24265</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26303.html">Physics-Informed Neural Networks for Biot&#x27;s Model via Fixed-Stress Splitting and Energy Natural Gradient Descent</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a></div></td>
-<td>Kexin Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26303">2608.26303</a></td>
 </tr>
 </tbody></table>

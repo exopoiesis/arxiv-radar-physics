@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 90d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <strong>90d</strong> <a href="surrogate-modeling-360d.html">360d</a> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28877.html">Correlation-aware sequential sampling for multi-output polynomial chaos expansions</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Qitian Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28877">2611.28877</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28267.html">Failure Modes and Data-Efficient Remedies for Transformer-Based Prediction of Viscoplastic Flows</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
+<td>Maedeh Saberi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28267">2611.28267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22629.html">Residual-Guided Multi-Step Conditional Generation for Fast Airfoil Flow Field Prediction</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
+<td>Weishao Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22629">2611.22629</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16341.html">SUMNO: Spatially Unrolled Multigrid Neural Operator for Fluid Flow Surrogates</a></div><div class="paper-tags"><a href="computational-fluid-dynamics-90d.html">computational-fluid-dynamics</a></div></td>
@@ -146,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03132.html">MGKDB: An IMAS-aligned multicode gyrokinetic simulation database for reproducible fusion turbulence modeling and data-driven analysis</a></div></td>
 <td>Craig Michoski et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03132">2609.03132</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25709.html">Multi-output Gaussian process prediction of physical fields under linear equality constraints</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Mahamat Hamdan Nassouradine et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25709">2608.25709</a></td>
 </tr>
 </tbody></table>

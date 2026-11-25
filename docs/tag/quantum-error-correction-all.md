@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-error-correction — all</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">91 papers</span>
   <nav class="window-nav"><a href="quantum-error-correction-7d.html">7d</a> <a href="quantum-error-correction-30d.html">30d</a> <a href="quantum-error-correction-90d.html">90d</a> <a href="quantum-error-correction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25896.html">The Price of an Explanation: What Demanding Verifiable Artifacts Costs, and What It Buys Back</a></div></td>
+<td>Edgar A. Duéñez-Guzmán et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25896">2611.25896</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06605.html">Discovering correlated error mechanisms: data-driven augmentation of detector error models improving decoding</a></div></td>

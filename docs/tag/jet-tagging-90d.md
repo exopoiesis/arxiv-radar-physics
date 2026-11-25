@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>jet-tagging — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="jet-tagging-7d.html">7d</a> <a href="jet-tagging-30d.html">30d</a> <strong>90d</strong> <a href="jet-tagging-360d.html">360d</a> <a href="jet-tagging-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31011.html">Lorentz symmetry in self-supervised representation learning</a></div></td>
+<td>Andreas Hermansen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31011">2611.31011</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29439.html">How Far Can Foundation Models Be Distilled for Efficient Jet Tagging?</a></div></td>

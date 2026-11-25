@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-inference — 90d</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,66 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30032.html">Model-Assisted Probability of Detection Studies for Image-Based Human Inspection</a></div></td>
+<td>Qizheng Xia et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30032">2611.30032</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30570.html">The Science Chapter of the Einstein Telescope Geometry Comparison Report</a></div><div class="paper-tags"><a href="cosmology-90d.html">cosmology</a></div></td>
+<td>Alessandra Buonanno et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30570">2611.30570</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28432.html">A Bayesian Mechanistic Model of Spatiotemporal Dynamics in Invasive Tree Species</a></div></td>
+<td>Jiaqi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28432">2611.28432</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27006.html">Physics-Guided Recursive Self-Improvement of Amortized Bayesian Inference Across Physics</a></div></td>
+<td>Bo Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27006">2611.27006</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27778.html">QuASAR: Toward an LLM-Assisted Framework for Screening, Prototyping, and Assessing Quantum-Advantage Opportunities in Scientific Computing</a></div><div class="paper-tags"><a href="astrophysics-90d.html">astrophysics</a></div></td>
+<td>Mark L. Carroll et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27778">2611.27778</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27971.html">Soft--hard Bayesian inference in heavy-ion collisions</a></div></td>
+<td>L. Du et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27971">2611.27971</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25079.html">Validation and Physical Characterization of Seven TESS Exoplanets: A Compact Multi-Planet System and Targets for Atmospheric Spectroscopy</a></div></td>
+<td>Biel Escolà-Rodrigo</td>
+<td><a href="http://arxiv.org/abs/2611.25079">2611.25079</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20738.html">Simultaneous tests of post-Newtonian inspiral using GW250114 and GW250207</a></div><div class="paper-tags"><a href="black-holes-90d.html">black-holes</a></div></td>
+<td>Saurabh Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20738">2611.20738</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18329.html">Efficient Parameter Estimation through Quantum Extreme Learning</a></div></td>
+<td>Dingwei Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18329">2611.18329</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18978.html">Bayesian Learning of Uncertain Linear System Behaviours</a></div><div class="paper-tags"><a href="dynamical-systems-90d.html">dynamical-systems</a></div></td>
+<td>Noreen Abdelwahab et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18978">2611.18978</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16785.html">Bayesian Inference of Fermionic Dark Matter Admixed Neutron Stars Informed by Galaxy Cluster Constraints</a></div><div class="paper-tags"><a href="dark-matter-90d.html">dark-matter</a></div></td>
@@ -392,11 +452,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00766.html">$\texttt{BilbyFlow}$: user-friendly neural posterior estimation for gravitational-wave astronomy</a></div><div class="paper-tags"><a href="ligo-90d.html">ligo</a></div></td>
 <td>Liam Pinchbeck et al.</td>
 <td><a href="http://arxiv.org/abs/2609.00766">2609.00766</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26219.html">TRACE: Retrospective Streaming Generation of Physical Fields under Sparse Structured Sensing</a></div></td>
-<td>Xinyu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26219">2608.26219</a></td>
 </tr>
 </tbody></table>

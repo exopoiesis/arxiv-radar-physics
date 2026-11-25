@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>data-assimilation — 360d</h1>
-  <span class="paper-count">148 papers</span>
+  <span class="paper-count">155 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <a href="data-assimilation-30d.html">30d</a> <a href="data-assimilation-90d.html">90d</a> <strong>360d</strong> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,52 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26463.html">Neural Conditional Gaussian Model: Efficient Data Assimilation with Sequential Uncertainty Quantification for Nonlinear Dynamics</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Chuanqi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26463">2611.26463</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24020.html">Enabling joint chemical and meteorological data assimilation with an atmospheric foundation model</a></div></td>
+<td>Eliot J. Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24020">2611.24020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22024.html">An AI-Based OSSE Framework to Evaluate Learned Physical Consistency: A Multi-Model Study Using FourCastNet, Aurora, Prithvi WxC, and GraphCast</a></div></td>
+<td>Yash Diggikar et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22024">2611.22024</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19676.html">Score-Based Stochastic Closure Modeling via Offline Indirect Learning and Online Data Assimilation</a></div><div class="paper-tags"><a href="diffusion-models-360d.html">diffusion-models</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a> · <a href="reduced-order-modeling-360d.html">reduced-order-modeling</a></div></td>
+<td>Xinghao Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19676">2611.19676</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20112.html">Washout-free synchronization, parameter estimation and uncertainty quantification of echo state networks</a></div><div class="paper-tags"><a href="chaotic-systems-360d.html">chaotic-systems</a></div></td>
+<td>Andrea Nóvoa</td>
+<td><a href="http://arxiv.org/abs/2611.20112">2611.20112</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17854.html">Tracing Uncertainties of Extreme El Niño Prediction to Mesoscale Ocean Currents</a></div></td>
+<td>Bo Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17854">2611.17854</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18081.html">Generalized hydraulic neural operators turbocharging sewer digital twins</a></div></td>
 <td>Ruozhou Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2611.18081">2611.18081</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18393.html">WeatherDreamer: Learning a World Model from Multimodal Earth Observations</a></div></td>
+<td>Kate Duffy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18393">2611.18393</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-09</td>

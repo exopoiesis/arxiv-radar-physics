@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>fusion-energy — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="fusion-energy-7d.html">7d</a> <a href="fusion-energy-30d.html">30d</a> <a href="fusion-energy-90d.html">90d</a> <strong>360d</strong> <a href="fusion-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31486.html">CHORD: Learning Latent Spaces for Constrained Stellarator Design</a></div></td>
+<td>Santiago A. Cadena et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31486">2611.31486</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33096.html">Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion</a></div></td>

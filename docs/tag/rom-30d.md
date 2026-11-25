@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>rom — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="rom-7d.html">7d</a> <strong>30d</strong> <a href="rom-90d.html">90d</a> <a href="rom-360d.html">360d</a> <a href="rom-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24727.html">Surrogate Modeling and Reduced-Order Methods in Gravitational-Wave Physics and Numerical Relativity: From Spectral Representations to Adaptive Compression</a></div><div class="paper-tags"><a href="reduced-order-modeling-30d.html">reduced-order-modeling</a> · <a href="scientific-machine-learning-30d.html">scientific-machine-learning</a></div></td>
 <td>Manuel Tiglio</td>
 <td><a href="http://arxiv.org/abs/2611.24727">2611.24727</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17503.html">Multifidelity Operator Inference for Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Vignesh Sella et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17503">2611.17503</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>

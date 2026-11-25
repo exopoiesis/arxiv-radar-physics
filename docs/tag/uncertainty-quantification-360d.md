@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">511 papers</span>
+  <span class="paper-count">524 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,100 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29856.html">World Models Are the Right Foundation for Simulating Mars Terraforming</a></div></td>
+<td>Sameera S Kashyap et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29856">2611.29856</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30921.html">Quantifying Errors in Chemical Kinetics</a></div></td>
+<td>Skyla B. White et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30921">2611.30921</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31402.html">A Constraint-Preserving Preconditioned Quantum Solver for Heterogeneous Brinkman Flo</a></div></td>
+<td>Shreya Savadatti et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31402">2611.31402</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31526.html">Diagnosing Epistemic Uncertainty in Neural Operators: Effects of Initialization, Discretization, and Function Sampling</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a></div></td>
+<td>Tian Yu Yen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31526">2611.31526</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28770.html">Cure-Fraction Random Survival Forests: Separating Cure from Latency</a></div></td>
+<td>Pedro Luiz Ramos et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28770">2611.28770</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28877.html">Correlation-aware sequential sampling for multi-output polynomial chaos expansions</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
+<td>Qitian Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28877">2611.28877</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28190.html">Physically Informed Data-Driven Modeling of Low-Pressure Carburizing (LPC): A Self-Calibrating Boundary Condition for Carbon Flux</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
+<td>Alex V. Sagalovych et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28190">2611.28190</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17794.html">Federated Physics-Informed Thermal Field Prediction Across Unseen Geometries in Distributed Additive Manufacturing</a></div></td>
 <td>Amirul Islam Saimon et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17794">2611.17794</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26463.html">Neural Conditional Gaussian Model: Efficient Data Assimilation with Sequential Uncertainty Quantification for Nonlinear Dynamics</a></div><div class="paper-tags"><a href="data-assimilation-360d.html">data-assimilation</a> · <a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
+<td>Chuanqi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26463">2611.26463</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23818.html">NEXONN: Advancing the NEXOTRANS Exoplanet Atmospheric Retrieval Framework with Transformer-Based Neural Posterior Estimation for JWST Transmission Spectroscopy of WASP-39b</a></div></td>
+<td>Tasneem Basra Khan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23818">2611.23818</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24327.html">Pixel2Perspective: A Benchmark for Multi-Modal and Multi-View Generalization in Vision-Language Models</a></div></td>
+<td>Aditya Gandhamal et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24327">2611.24327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23467.html">Laplace Bayesian transport maps for generative modeling of non-Gaussian climate fields</a></div></td>
+<td>Jacob A. Johnson et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23467">2611.23467</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19445.html">PopulationBalanceModels.jl: An Extensible Framework for Deploying Population Balance Models</a></div></td>
+<td>Pavan K. Inguva</td>
+<td><a href="http://arxiv.org/abs/2611.19445">2611.19445</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18241.html">Extended Bayesian Estimation for In-flight Calibration of Space-based Instruments</a></div></td>
+<td>Soham Das et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18241">2611.18241</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14462.html">Accurate predictions of properties of energetic materials with tabular foundation models</a></div></td>
 <td>Vagn Krister Nes Glomsrud et al.</td>
 <td><a href="http://arxiv.org/abs/2611.14462">2611.14462</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17560.html">Generative Design with Real-time Physics Explainability: Towards Product Definition in the Age of AI</a></div></td>
+<td>M. de Campos et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17560">2611.17560</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -3074,11 +3158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01080.html">Building Trustworthy AI for Materials Discovery: From Autonomous Laboratories to Z-scores</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Benhour Amirian et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01080">2512.01080</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00260.html">Scalable and Interpretable Scientific Discovery via Sparse Variational Gaussian Process Kolmogorov-Arnold Networks (SVGP KAN)</a></div></td>
-<td>Y. Sungtaek Ju</td>
-<td><a href="http://arxiv.org/abs/2512.00260">2512.00260</a></td>
 </tr>
 </tbody></table>

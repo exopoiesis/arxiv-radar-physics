@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>variational-quantum-algorithms — 90d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="variational-quantum-algorithms-7d.html">7d</a> <a href="variational-quantum-algorithms-30d.html">30d</a> <strong>90d</strong> <a href="variational-quantum-algorithms-360d.html">360d</a> <a href="variational-quantum-algorithms-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22118.html">Variational Relevance-Informed Sparsification of Term Measurements for Variational Quantum Algorithms</a></div><div class="paper-tags"><a href="vqe-90d.html">vqe</a></div></td>
+<td>Yifeng Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22118">2611.22118</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20139.html">Generative Models using Multi-layer Quantum Extreme Learning Machines</a></div></td>
+<td>Amir Azzam et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20139">2611.20139</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18378.html">Structure makes quantum circuits trainable</a></div></td>
+<td>Wenbo Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18378">2611.18378</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13815.html">Adaptive Policy-Guided Error Mitigation (APGEM): A Unified Learning-Based Framework for Noise Resilience in Quantum Machine Learning</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a> · <a href="quantum-machine-learning-90d.html">quantum-machine-learning</a></div></td>

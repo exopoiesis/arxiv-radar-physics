@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>scientific-discovery — all</h1>
-  <span class="paper-count">814 papers</span>
+  <span class="paper-count">823 papers</span>
   <nav class="window-nav"><a href="scientific-discovery-7d.html">7d</a> <a href="scientific-discovery-30d.html">30d</a> <a href="scientific-discovery-90d.html">90d</a> <a href="scientific-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26343.html">DeepQuest: From Knowledge Gaps to Scientific Discovery in Alzheimer&#x27;s Disease</a></div></td>
+<td>Chunbo Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26343">2611.26343</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30070.html">Stable but Hidden: Identifiability and Experimental Design under Missing Compositional Support</a></div></td>
+<td>Harry Sevi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30070">2611.30070</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25214.html">Steering Automated Scientific Discovery via Audited Epistemic Exploration</a></div></td>
+<td>Fangxu Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25214">2611.25214</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27729.html">Do Alice and Bob Dream of the Oracle? Wishful Cryptanalysis</a></div></td>
+<td>Guoxiao Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27729">2611.27729</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22965.html">High-Dimensional Black-Box Optimization via Guidance Sampling of Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-models-all.html">diffusion-models</a></div></td>
+<td>Xiaoyan Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22965">2611.22965</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21847.html">Inventa: Decentralized Self-Improving Agents for Autonomous Scientific Discovery</a></div></td>
+<td>Prithwish Jana et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21847">2611.21847</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19794.html">Eliciting Research Taste in LLMs through Future Research Direction Choice</a></div></td>
+<td>Dhruv Trehan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19794">2611.19794</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17608.html">Neural Simulation-Based Inference for Computational Cognitive Models: A Tutorial</a></div></td>
+<td>Ti-Fen Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17608">2611.17608</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18114.html">Interpretable weight-space programming builds transparent transformers and brain encoding models</a></div></td>
+<td>Yash Mehta et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18114">2611.18114</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15653.html">A Mechanistic Interpretability Study of an Astronomy Foundation Model</a></div></td>

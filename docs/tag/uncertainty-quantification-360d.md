@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 360d</h1>
-  <span class="paper-count">524 papers</span>
+  <span class="paper-count">525 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <a href="uncertainty-quantification-90d.html">90d</a> <strong>360d</strong> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33939.html">CondUQ: Calibrated Conditional Uncertainty Quantification Using Distribution Matching</a></div></td>
+<td>Shizhuang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33939">2611.33939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33395.html">Federated Learning with Uncertainty Quantification on Pseudo Label Exchange</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
+<td>Jingqiao Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33395">2611.33395</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29856.html">World Models Are the Right Foundation for Simulating Mars Terraforming</a></div></td>
@@ -3152,11 +3164,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01888.html">Domain-Decomposed Graph Neural Network Surrogate Modeling for Ice Sheets</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Adrienne M. Propp et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01888">2512.01888</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01080.html">Building Trustworthy AI for Materials Discovery: From Autonomous Laboratories to Z-scores</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Benhour Amirian et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01080">2512.01080</a></td>
 </tr>
 </tbody></table>

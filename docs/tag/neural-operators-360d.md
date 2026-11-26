@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2611.32274">2611.32274</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33395.html">Federated Learning with Uncertainty Quantification on Pseudo Label Exchange</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
+<td>Jingqiao Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33395">2611.33395</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30153.html">IADR: Interface-Augmented Neural Operator for Phase-Field Mean-Curvature Flow</a></div></td>
 <td>Qinyi Zhang et al.</td>
@@ -2666,11 +2672,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01576.html">From Black Hole to Galaxy: Neural Operator: Framework for Accretion and Feedback Dynamics</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="black-holes-360d.html">black-holes</a></div></td>
 <td>Nihaal Bhojwani et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01576">2512.01576</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00880.html">Quantum-Inspired Spectral Geometry for Neural Operator Equivalence and Structured Pruning</a></div></td>
-<td>Haijian Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00880">2512.00880</a></td>
 </tr>
 </tbody></table>

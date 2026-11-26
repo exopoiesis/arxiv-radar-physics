@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2611.32274">2611.32274</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33395.html">Federated Learning with Uncertainty Quantification on Pseudo Label Exchange</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Jingqiao Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33395">2611.33395</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30153.html">IADR: Interface-Augmented Neural Operator for Phase-Field Mean-Curvature Flow</a></div></td>
 <td>Qinyi Zhang et al.</td>
@@ -740,11 +746,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01928.html">Learning with Volterra Neural Networks: A System Theoretic Perspective</a></div></td>
 <td>Haoyu Yun et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01928">2609.01928</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27256.html">Enforcing Dirichlet Boundary Conditions in Operator Learning</a></div><div class="paper-tags"><a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Andrew M. Stuart et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27256">2608.27256</a></td>
 </tr>
 </tbody></table>

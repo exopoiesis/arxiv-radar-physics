@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33408.html">Computing hydration free energies and crystalline solubility of drug-like molecules with MACE</a></div></td>
+<td>J. Harry Moore et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33408">2611.33408</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29187.html">CLFF: Automated Framework for Concurrent Learning Force Fields and Material Property Calculations</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
 <td>Cao Thang Nguyen et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26819.html">Recovering from Averages: An Inverse Problem Perspective on Machine-Learning Interatomic Potentials</a></div></td>
 <td>Tina Torabi et al.</td>
 <td><a href="http://arxiv.org/abs/2611.26819">2611.26819</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23873.html">Technical Note on Matlantis PFP v9: Extending the Element and Domain Coverage of the r2SCAN Training Data</a></div></td>
-<td>Daiki Shintani et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23873">2611.23873</a></td>
 </tr>
 </tbody></table>

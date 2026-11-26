@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34888.html">The Look-Elsewhere Effect in Searches for New Physics: from Classical Methods to Machine Learning</a></div></td>
+<td>Gaia Grosso et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34888">2611.34888</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31403.html">OmniX: A first jet and event model</a></div></td>
 <td>Anna Hallin et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37398.html">An end-to-end framework for uncertainty-aware validation of generative models</a></div><div class="paper-tags"><a href="collider-physics-30d.html">collider-physics</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>Giada Badaracco et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37398">2610.37398</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36073.html">Regression on high-dimensional phase space</a></div></td>
-<td>Andrew J. Larkoski</td>
-<td><a href="http://arxiv.org/abs/2610.36073">2610.36073</a></td>
 </tr>
 </tbody></table>

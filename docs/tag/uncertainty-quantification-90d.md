@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 90d</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">98 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <a href="uncertainty-quantification-30d.html">30d</a> <strong>90d</strong> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33939.html">CondUQ: Calibrated Conditional Uncertainty Quantification Using Distribution Matching</a></div></td>
+<td>Shizhuang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33939">2611.33939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33395.html">Federated Learning with Uncertainty Quantification on Pseudo Label Exchange</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Jingqiao Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33395">2611.33395</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29856.html">World Models Are the Right Foundation for Simulating Mars Terraforming</a></div></td>
@@ -590,29 +602,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01896.html">OutageDiT: A Generative Foundation Model for Power Outage Forecasting and Scenario Simulation</a></div></td>
 <td>Yunqin Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01896">2609.01896</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26594.html">SimCast-S2S: An Efficient Generative Model for Subseasonal Precipitation Forecasting via Transfer Learning from Climate Simulations</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
-<td>Hiep V. Dang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26594">2608.26594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26912.html">TOPIQ: Statistical Error Propagation for Quantity-of-Interest Prediction under Lossy Compression</a></div></td>
-<td>Youyuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26912">2608.26912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27077.html">Learning Transverse Momentum Distributions from Raw Scattering Events via Conditional Diffusion</a></div></td>
-<td>Jitao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27077">2608.27077</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27369.html">Deep-Control BSDE: Layerwise Brownian-Weighted Regression for High-Dimensional Semilinear PDEs</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Mingcan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27369">2608.27369</a></td>
 </tr>
 </tbody></table>

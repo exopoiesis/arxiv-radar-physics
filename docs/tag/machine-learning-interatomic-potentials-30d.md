@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33408.html">Computing hydration free energies and crystalline solubility of drug-like molecules with MACE</a></div></td>
+<td>J. Harry Moore et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33408">2611.33408</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29187.html">CLFF: Automated Framework for Concurrent Learning Force Fields and Material Property Calculations</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
 <td>Cao Thang Nguyen et al.</td>
@@ -56,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09325.html">Physics Informed Priors for Machine Learning Interatomic Potentials with Uncertainty Quantification</a></div><div class="paper-tags"><a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
 <td>George I. Simmons et al.</td>
 <td><a href="http://arxiv.org/abs/2611.09325">2611.09325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32652.html">Low-variance estimators for nuclear quantum mean forces</a></div></td>
-<td>Venkat Kapil</td>
-<td><a href="http://arxiv.org/abs/2610.32652">2610.32652</a></td>
 </tr>
 </tbody></table>

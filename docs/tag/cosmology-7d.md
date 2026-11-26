@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33419.html">Photometric Uncertainty Correction for Time-Domain Surveys: Vera C. Rubin Data Preview 2 Case Study</a></div></td>
+<td>Konstantin Malanchev et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33419">2611.33419</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29911.html">Modelling of post-reconstruction galaxy clustering with a hybrid bias expansion</a></div><div class="paper-tags"><a href="galaxy-formation-7d.html">galaxy-formation</a></div></td>
 <td>Vicente Izzo Dominguez et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25312.html">First $Ω_{\rm m}-w$ Measurement Using Only Fast Radio Burst Observations</a></div><div class="paper-tags"><a href="dark-energy-7d.html">dark-energy</a></div></td>
 <td>Yi-Ying Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.25312">2611.25312</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23639.html">Searching the Pareto Front: Multi-Objective Retrieval for Heterogeneous Scientific Modalities</a></div></td>
-<td>Song Young Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23639">2611.23639</a></td>
 </tr>
 </tbody></table>

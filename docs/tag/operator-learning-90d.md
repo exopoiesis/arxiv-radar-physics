@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33395.html">Federated Learning with Uncertainty Quantification on Pseudo Label Exchange</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Jingqiao Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33395">2611.33395</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31479.html">Transferable, Time-Parallel Graph Dynamics via Space-Time Factorization</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Wencong Yang et al.</td>
@@ -314,11 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00544.html">GenONet: A Generative operator Network for High-Resolution Precipitation Nowcasting</a></div><div class="paper-tags"><a href="deeponet-90d.html">deeponet</a></div></td>
 <td>Mohammad Kian Golkar et al.</td>
 <td><a href="http://arxiv.org/abs/2609.00544">2609.00544</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27256.html">Enforcing Dirichlet Boundary Conditions in Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Andrew M. Stuart et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27256">2608.27256</a></td>
 </tr>
 </tbody></table>

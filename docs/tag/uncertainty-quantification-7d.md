@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33939.html">CondUQ: Calibrated Conditional Uncertainty Quantification Using Distribution Matching</a></div></td>
+<td>Shizhuang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33939">2611.33939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33395.html">Federated Learning with Uncertainty Quantification on Pseudo Label Exchange</a></div><div class="paper-tags"><a href="neural-operators-7d.html">neural-operators</a> · <a href="operator-learning-7d.html">operator-learning</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a></div></td>
+<td>Jingqiao Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33395">2611.33395</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29856.html">World Models Are the Right Foundation for Simulating Mars Terraforming</a></div></td>
 <td>Sameera S Kashyap et al.</td>
@@ -68,17 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26463.html">Neural Conditional Gaussian Model: Efficient Data Assimilation with Sequential Uncertainty Quantification for Nonlinear Dynamics</a></div><div class="paper-tags"><a href="data-assimilation-7d.html">data-assimilation</a> · <a href="dynamical-systems-7d.html">dynamical-systems</a></div></td>
 <td>Chuanqi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2611.26463">2611.26463</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23818.html">NEXONN: Advancing the NEXOTRANS Exoplanet Atmospheric Retrieval Framework with Transformer-Based Neural Posterior Estimation for JWST Transmission Spectroscopy of WASP-39b</a></div></td>
-<td>Tasneem Basra Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23818">2611.23818</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24327.html">Pixel2Perspective: A Benchmark for Multi-Modal and Multi-View Generalization in Vision-Language Models</a></div></td>
-<td>Aditya Gandhamal et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24327">2611.24327</a></td>
 </tr>
 </tbody></table>

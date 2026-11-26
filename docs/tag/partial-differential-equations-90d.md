@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 90d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <strong>90d</strong> <a href="partial-differential-equations-360d.html">360d</a> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33688.html">Two 3-Dimensional Coefficient Inverse Problems for Wave-like Equations With a Single Location of the Point Source</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
+<td>Michael V. Klibanov et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33688">2611.33688</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34085.html">Exact Integration of ReLU-type Neural Networks for Solving PDEs</a></div><div class="paper-tags"><a href="pinns-90d.html">pinns</a></div></td>
+<td>Shima Baharlouei et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34085">2611.34085</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34314.html">Variational Principles and Machine Learning: a Numerical Analysis and PDE perspective</a></div></td>
+<td>Charalambos G. Makridakis</td>
+<td><a href="http://arxiv.org/abs/2611.34314">2611.34314</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34452.html">Global Convergence of Second-Order Methods for Physics-Informed Neural Networks in the Overparameterized Limit</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a></div></td>
+<td>Konstantin Riedl et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34452">2611.34452</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32274.html">CoMNO: Commutator Memory Neural Operators for Long-Horizon PDE Prediction</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a></div></td>
 <td>Han Xiao et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32274">2611.32274</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33395.html">Federated Learning with Uncertainty Quantification on Pseudo Label Exchange</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
+<td>Jingqiao Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33395">2611.33395</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33400.html">Gaussian priors from nonlinear PDEs with the semiclassical approximation</a></div></td>
+<td>Alex Alberts</td>
+<td><a href="http://arxiv.org/abs/2611.33400">2611.33400</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>
@@ -740,35 +776,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00863.html">Conditional Flow Matching for ML-Based Inverse Design Problems</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Juliana Felder et al.</td>
 <td><a href="http://arxiv.org/abs/2609.00863">2609.00863</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26657.html">Heat equations in spectral Barron spaces</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Mourad Choulli et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26657">2608.26657</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26907.html">Climate Physics Dynamic Matching</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="dynamical-systems-90d.html">dynamical-systems</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Gurjeet Sangra Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26907">2608.26907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27028.html">A quantum-assisted framework for PDE-based Bayesian inverse problems</a></div><div class="paper-tags"><a href="inverse-problems-90d.html">inverse-problems</a></div></td>
-<td>Dong An et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27028">2608.27028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27256.html">Enforcing Dirichlet Boundary Conditions in Operator Learning</a></div><div class="paper-tags"><a href="neural-operators-90d.html">neural-operators</a> · <a href="operator-learning-90d.html">operator-learning</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Andrew M. Stuart et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27256">2608.27256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27369.html">Deep-Control BSDE: Layerwise Brownian-Weighted Regression for High-Dimensional Semilinear PDEs</a></div><div class="paper-tags"><a href="uncertainty-quantification-90d.html">uncertainty-quantification</a></div></td>
-<td>Mingcan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27369">2608.27369</a></td>
 </tr>
 </tbody></table>

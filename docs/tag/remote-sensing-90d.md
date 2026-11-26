@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34899.html">Enhancing Maritime Domain Awareness using Latent Space Representations</a></div></td>
+<td>Rikard Vinge et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34899">2611.34899</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14496.html">RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval</a></div></td>
 <td>Tanishq Rachamalla et al.</td>
@@ -32,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32518.html">HS-OVSeg: Multi-Granularity Open-Vocabulary Semantic Segmentation in Remote Sensing via Heterogeneous Supervision</a></div></td>
 <td>Wei Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32518">2611.32518</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33237.html">Resource-Efficient Multimodal Fusion for Early Rice Blast Forecasting in Sustainable Agriculture</a></div></td>
+<td>Shubhajyoti Das et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33237">2611.33237</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>
@@ -386,17 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02016.html">Perceptually Regularized Diffusion Model for Image Super-Resolution</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a></div></td>
 <td>Chuxiangbo Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02016">2609.02016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26489.html">Learning Woody Clearing With Loss Alignment for Zero-Shot Regrowth and Woody Segmentation</a></div></td>
-<td>Kal Backman et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26489">2608.26489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27290.html">Detection of Christmas tree plantations from high-resolution aerial imagery. A case study in the French Morvan</a></div></td>
-<td>Francesca Razzano et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27290">2608.27290</a></td>
 </tr>
 </tbody></table>

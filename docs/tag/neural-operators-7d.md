@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2611.32274">2611.32274</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33395.html">Federated Learning with Uncertainty Quantification on Pseudo Label Exchange</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a> · <a href="partial-differential-equations-7d.html">partial-differential-equations</a> · <a href="uncertainty-quantification-7d.html">uncertainty-quantification</a></div></td>
+<td>Jingqiao Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33395">2611.33395</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30153.html">IADR: Interface-Augmented Neural Operator for Phase-Field Mean-Curvature Flow</a></div></td>
 <td>Qinyi Zhang et al.</td>
@@ -86,11 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26551.html">GraphEP: A Calibrated Data System and Benchmark for Learning Cardiac Electrophysiology</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
 <td>Matteo Baldan et al.</td>
 <td><a href="http://arxiv.org/abs/2611.26551">2611.26551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24827.html">Synthesizing hyperspectral Data using generative Models to train spectral Unmixing Methods for low-cost Crop Residue Cover Mapping</a></div></td>
-<td>Ege Artan et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24827">2611.24827</a></td>
 </tr>
 </tbody></table>

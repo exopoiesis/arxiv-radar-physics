@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33806.html">QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a> · <a href="qml-7d.html">qml</a></div></td>
+<td>Yixiong Chen</td>
+<td><a href="http://arxiv.org/abs/2611.33806">2611.33806</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32314.html">Operationalizing Quantum Machine Learning for IoT Network Intrusion Detection</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
@@ -56,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25752.html">Beyond Error Mitigation: Using Boosting for Noisy Quantum Machine Learning</a></div></td>
 <td>Anastasiia Lukianenko et al.</td>
 <td><a href="http://arxiv.org/abs/2611.25752">2611.25752</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24013.html">Topological Quantum Reservoir Computing</a></div></td>
-<td>Zhi-Lei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24013">2611.24013</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24798.html">Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
-<td>Valeria Repetto et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24798">2611.24798</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>data-assimilation — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="data-assimilation-7d.html">7d</a> <strong>30d</strong> <a href="data-assimilation-90d.html">90d</a> <a href="data-assimilation-360d.html">360d</a> <a href="data-assimilation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,17 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03916.html">When Latent Dynamics Meet Data Assimilation: A Benchmark of Koopman-Type Representations</a></div></td>
 <td>Zhiwei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.03916">2611.03916</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35123.html">Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks</a></div><div class="paper-tags"><a href="diffusion-models-30d.html">diffusion-models</a> · <a href="reduced-order-modeling-30d.html">reduced-order-modeling</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Luca Biferale et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35123">2610.35123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35352.html">From Stochastic Transport Models to High-Dimensional Bayesian Inference</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="uncertainty-quantification-30d.html">uncertainty-quantification</a></div></td>
-<td>Dan Crisan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35352">2610.35352</a></td>
 </tr>
 </tbody></table>

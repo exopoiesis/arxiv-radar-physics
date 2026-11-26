@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-error-correction — 90d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="quantum-error-correction-7d.html">7d</a> <a href="quantum-error-correction-30d.html">30d</a> <strong>90d</strong> <a href="quantum-error-correction-360d.html">360d</a> <a href="quantum-error-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34634.html">LatentRL-QAS: Transfer via Latent Reinforcement Learning for Quantum Architecture Search</a></div></td>
+<td>Maria Ilektra Plakitsi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34634">2611.34634</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25896.html">The Price of an Explanation: What Demanding Verifiable Artifacts Costs, and What It Buys Back</a></div></td>

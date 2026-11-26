@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">473 papers</span>
+  <span class="paper-count">471 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33806.html">QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference</a></div><div class="paper-tags"><a href="inductive-bias-360d.html">inductive-bias</a> · <a href="qml-360d.html">qml</a></div></td>
+<td>Yixiong Chen</td>
+<td><a href="http://arxiv.org/abs/2611.33806">2611.33806</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32314.html">Operationalizing Quantum Machine Learning for IoT Network Intrusion Detection</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
@@ -2834,23 +2840,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03094.html">Performance Analysis of Quantum Support Vector Classifiers and Quantum Neural Networks</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
 <td>Tomás Villalba-Ferreiro et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03094">2512.03094</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00699.html">DyLoC: A Dual-Layer Architecture for Secure and Trainable Quantum Machine Learning Under Polynomial-DLA constraint</a></div></td>
-<td>Chenyi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00699">2512.00699</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00870.html">Opportunities and Challenges for Data Quality in the Era of Quantum Computing</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Sven Groppe et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00870">2512.00870</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02078.html">Geometric Optimization on Lie Groups: A Lie-Theoretic Explanation of Barren Plateau Mitigation for Variational Quantum Algorithms</a></div></td>
-<td>Zhehao Yi et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02078">2512.02078</a></td>
 </tr>
 </tbody></table>

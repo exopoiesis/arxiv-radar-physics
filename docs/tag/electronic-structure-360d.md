@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34694.html">Automatic dual basis sets for self-consistent field calculations</a></div></td>
+<td>Joonatan Huhtasalo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34694">2611.34694</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29349.html">Graph Neural Networks for Accurate Quasiparticle Energy Levels in Large Supercells of Transition Metal Dichalcogenides</a></div></td>
 <td>Rafael R. Del Grande et al.</td>
@@ -722,11 +728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07537.html">XMCQDPT2-Fidelity Transfer-Learning Potentials and a Wavepacket Oscillation Model with Power-Law Decay for Ultrafast Photodynamics</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Ivan V. Dudakov et al.</td>
 <td><a href="http://arxiv.org/abs/2512.07537">2512.07537</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00921.html">Exchange-Correlation Functionals in 2D Materials: Applications, Challenges, and Limitations</a></div></td>
-<td>Ahsan Javed et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00921">2512.00921</a></td>
 </tr>
 </tbody></table>

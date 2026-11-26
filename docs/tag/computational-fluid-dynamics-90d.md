@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 90d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,11 +212,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04891.html">Attention-guided super-resolution of 4D flow MRI in carotid arteries</a></div><div class="paper-tags"><a href="cfd-90d.html">cfd</a></div></td>
 <td>Ali Mokhtari et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04891">2609.04891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26811.html">A review of simulation, measurement techniques, and development in chip thermal design</a></div></td>
-<td>Junnian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26811">2608.26811</a></td>
 </tr>
 </tbody></table>

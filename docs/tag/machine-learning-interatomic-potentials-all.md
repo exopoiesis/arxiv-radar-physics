@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — all</h1>
-  <span class="paper-count">251 papers</span>
+  <span class="paper-count">252 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <a href="machine-learning-interatomic-potentials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33408.html">Computing hydration free energies and crystalline solubility of drug-like molecules with MACE</a></div></td>
+<td>J. Harry Moore et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33408">2611.33408</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29187.html">CLFF: Automated Framework for Concurrent Learning Force Fields and Material Property Calculations</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>

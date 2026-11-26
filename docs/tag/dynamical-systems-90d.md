@@ -16,6 +16,30 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33849.html">Data-driven framework for invariant manifold identification in multiscale systems</a></div></td>
+<td>Dimitris M. Manias et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33849">2611.33849</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34106.html">SysBio-SR: Benchmarking Symbolic Regression for Trajectory Fidelity and Mechanism Recovery in Systems Biology</a></div><div class="paper-tags"><a href="symbolic-regression-90d.html">symbolic-regression</a></div></td>
+<td>Heng Rao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34106">2611.34106</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34768.html">The integrable Lie-Trotter-Suzuki decomposition for nonlinear dynamics: Efficient Hamiltonian simulation of the Stepanoff flow</a></div></td>
+<td>Ilon Joseph et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34768">2611.34768</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33238.html">Sequential Testing on Complex and High Dimensional Data Streams Leveraging Unsupervised Model Errors</a></div></td>
+<td>George Stamatelis et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33238">2611.33238</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30518.html">Identax: A Toolbox for Efficient Learning of Linear, Parameter-Varying, and Nonlinear Systems in JAX</a></div></td>
 <td>Roel Drenth et al.</td>
@@ -650,29 +674,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01881.html">Physics-informed Learning for Orbital Uncertainty Propagation with Error Bounds</a></div></td>
 <td>Chun-Wei Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01881">2609.01881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26907.html">Climate Physics Dynamic Matching</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="partial-differential-equations-90d.html">partial-differential-equations</a> · <a href="weather-forecasting-90d.html">weather-forecasting</a></div></td>
-<td>Gurjeet Sangra Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26907">2608.26907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26943.html">Data-driven Koopman mode approximation: A neural power iteration algorithm</a></div><div class="paper-tags"><a href="koopman-operator-90d.html">koopman-operator</a></div></td>
-<td>Guillaume O. Berger et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26943">2608.26943</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27182.html">TraceBench: Controlled Evaluation of LLM Agents for Time-Series Root-Cause Attribution</a></div><div class="paper-tags"><a href="anomaly-detection-90d.html">anomaly-detection</a></div></td>
-<td>Tommaso Bendinelli et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27182">2608.27182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27259.html">Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a></div></td>
-<td>Xiaoxiao Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27259">2608.27259</a></td>
 </tr>
 </tbody></table>

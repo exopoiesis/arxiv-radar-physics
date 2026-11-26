@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33939.html">CondUQ: Calibrated Conditional Uncertainty Quantification Using Distribution Matching</a></div></td>
+<td>Shizhuang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33939">2611.33939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33395.html">Federated Learning with Uncertainty Quantification on Pseudo Label Exchange</a></div><div class="paper-tags"><a href="neural-operators-30d.html">neural-operators</a> · <a href="operator-learning-30d.html">operator-learning</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
+<td>Jingqiao Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33395">2611.33395</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29856.html">World Models Are the Right Foundation for Simulating Mars Terraforming</a></div></td>
 <td>Sameera S Kashyap et al.</td>
@@ -254,17 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37516.html">Recovering Non-Maxwellian Velocity Distribution Functions from Collective Thomson Scattering Spectra Using Generalized Basis Representations</a></div><div class="paper-tags"><a href="astrophysics-30d.html">astrophysics</a></div></td>
 <td>Greg A. Baker et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37516">2610.37516</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35123.html">Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks</a></div><div class="paper-tags"><a href="data-assimilation-30d.html">data-assimilation</a> · <a href="diffusion-models-30d.html">diffusion-models</a> · <a href="reduced-order-modeling-30d.html">reduced-order-modeling</a></div></td>
-<td>Luca Biferale et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35123">2610.35123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35352.html">From Stochastic Transport Models to High-Dimensional Bayesian Inference</a></div><div class="paper-tags"><a href="bayesian-inference-30d.html">bayesian-inference</a> · <a href="data-assimilation-30d.html">data-assimilation</a></div></td>
-<td>Dan Crisan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35352">2610.35352</a></td>
 </tr>
 </tbody></table>

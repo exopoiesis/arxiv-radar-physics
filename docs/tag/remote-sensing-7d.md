@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>remote-sensing — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <a href="remote-sensing-360d.html">360d</a> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34899.html">Enhancing Maritime Domain Awareness using Latent Space Representations</a></div></td>
+<td>Rikard Vinge et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34899">2611.34899</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14496.html">RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval</a></div></td>
@@ -32,6 +38,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32518.html">HS-OVSeg: Multi-Granularity Open-Vocabulary Semantic Segmentation in Remote Sensing via Heterogeneous Supervision</a></div></td>
 <td>Wei Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32518">2611.32518</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33237.html">Resource-Efficient Multimodal Fusion for Early Rice Blast Forecasting in Sustainable Agriculture</a></div></td>
+<td>Shubhajyoti Das et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33237">2611.33237</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>

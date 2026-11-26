@@ -76,6 +76,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2611.21244">2611.21244</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33195.html">Verified experience improves materials prediction with large language models</a></div></td>
+<td>Yiming Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33195">2611.33195</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18797.html">A Practitioner&#x27;s Guide to Materials Theory and Computation in the Age of Big Data and Artificial Intelligence</a></div><div class="paper-tags"><a href="force-fields-30d.html">force-fields</a></div></td>
 <td>Jack Yang</td>
@@ -140,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36542.html">First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers</a></div></td>
 <td>Yuhyun Cha et al.</td>
 <td><a href="http://arxiv.org/abs/2610.36542">2610.36542</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36193.html">Learning the Chronology of Materials Discovery for Synthesizability Prediction</a></div></td>
-<td>Junkil Park et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36193">2610.36193</a></td>
 </tr>
 </tbody></table>

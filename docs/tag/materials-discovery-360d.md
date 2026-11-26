@@ -76,6 +76,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2611.21244">2611.21244</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33195.html">Verified experience improves materials prediction with large language models</a></div></td>
+<td>Yiming Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33195">2611.33195</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18797.html">A Practitioner&#x27;s Guide to Materials Theory and Computation in the Age of Big Data and Artificial Intelligence</a></div><div class="paper-tags"><a href="force-fields-360d.html">force-fields</a></div></td>
 <td>Jack Yang</td>
@@ -1472,11 +1478,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22307.html">Enhanced Conditional Generation of Double Perovskite by Knowledge-Guided Language Model Feedback</a></div></td>
 <td>Inhyo Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22307">2511.22307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01080.html">Building Trustworthy AI for Materials Discovery: From Autonomous Laboratories to Z-scores</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Benhour Amirian et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01080">2512.01080</a></td>
 </tr>
 </tbody></table>

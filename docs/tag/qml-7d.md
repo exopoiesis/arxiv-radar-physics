@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33806.html">QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a> · <a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
+<td>Yixiong Chen</td>
+<td><a href="http://arxiv.org/abs/2611.33806">2611.33806</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32314.html">Operationalizing Quantum Machine Learning for IoT Network Intrusion Detection</a></div><div class="paper-tags"><a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
 <td>Domenico Ciuonzo et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26327.html">Quantum Metric Control of Topological Superconductivity and Incommensurate Charge Density Wave in an Interacting Lieb-Kitaev Chain Model</a></div></td>
 <td>Jiale Xuan et al.</td>
 <td><a href="http://arxiv.org/abs/2611.26327">2611.26327</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24798.html">Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning</a></div><div class="paper-tags"><a href="quantum-machine-learning-7d.html">quantum-machine-learning</a></div></td>
-<td>Valeria Repetto et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24798">2611.24798</a></td>
 </tr>
 </tbody></table>

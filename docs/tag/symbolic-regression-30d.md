@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>symbolic-regression — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <strong>30d</strong> <a href="symbolic-regression-90d.html">90d</a> <a href="symbolic-regression-360d.html">360d</a> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34106.html">SysBio-SR: Benchmarking Symbolic Regression for Trajectory Fidelity and Mechanism Recovery in Systems Biology</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
+<td>Heng Rao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34106">2611.34106</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30886.html">Vitrify Exact Learning: exact differential equations, changes of variable and closed forms from numerical data</a></div></td>
@@ -68,17 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03210.html">CFD-driven symbolic regression of RANS transition models</a></div><div class="paper-tags"><a href="cfd-30d.html">cfd</a> · <a href="les-30d.html">les</a> · <a href="rans-30d.html">rans</a></div></td>
 <td>Louenas Zemmour et al.</td>
 <td><a href="http://arxiv.org/abs/2611.03210">2611.03210</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35276.html">Physics-Constrained Symbolic Regression for Mean-Velocity and Mixing-Length Scaling in Zero-Pressure-Gradient Turbulent Boundary Layers</a></div></td>
-<td>Xianglin Shan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35276">2610.35276</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35617.html">Distilling neural networks into equations to predict planetary instability</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a></div></td>
-<td>Simon Alford et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35617">2610.35617</a></td>
 </tr>
 </tbody></table>

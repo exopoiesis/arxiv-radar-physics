@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">470 papers</span>
+  <span class="paper-count">471 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34899.html">Enhancing Maritime Domain Awareness using Latent Space Representations</a></div></td>
+<td>Rikard Vinge et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34899">2611.34899</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14496.html">RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval</a></div></td>
@@ -32,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32518.html">HS-OVSeg: Multi-Granularity Open-Vocabulary Semantic Segmentation in Remote Sensing via Heterogeneous Supervision</a></div></td>
 <td>Wei Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32518">2611.32518</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33237.html">Resource-Efficient Multimodal Fusion for Early Rice Blast Forecasting in Sustainable Agriculture</a></div></td>
+<td>Shubhajyoti Das et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33237">2611.33237</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>
@@ -2828,11 +2840,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01665.html">Bridging the Scale Gap: Balanced Tiny and General Object Detection in Remote Sensing Imagery</a></div></td>
 <td>Zhicheng Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01665">2512.01665</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00895.html">A Scalable Variational Bayes Approach for Fitting Non-Conjugate Spatial Generalized Linear Mixed Models via Basis Expansions</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Jin Hyung Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00895">2512.00895</a></td>
 </tr>
 </tbody></table>

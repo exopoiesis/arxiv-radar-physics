@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33408.html">Computing hydration free energies and crystalline solubility of drug-like molecules with MACE</a></div></td>
+<td>J. Harry Moore et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33408">2611.33408</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29187.html">CLFF: Automated Framework for Concurrent Learning Force Fields and Material Property Calculations</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Cao Thang Nguyen et al.</td>
@@ -128,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07477.html">Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems</a></div></td>
 <td>Musiha Mahfuza Mukta et al.</td>
 <td><a href="http://arxiv.org/abs/2609.07477">2609.07477</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27277.html">Benchmarking of Fast and Interpretable UF Machine Learning Potentials</a></div></td>
-<td>Pawan Prakash et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27277">2608.27277</a></td>
 </tr>
 </tbody></table>

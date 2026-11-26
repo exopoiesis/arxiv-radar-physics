@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33419.html">Photometric Uncertainty Correction for Time-Domain Surveys: Vera C. Rubin Data Preview 2 Case Study</a></div></td>
+<td>Konstantin Malanchev et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33419">2611.33419</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29911.html">Modelling of post-reconstruction galaxy clustering with a hybrid bias expansion</a></div><div class="paper-tags"><a href="galaxy-formation-360d.html">galaxy-formation</a></div></td>
 <td>Vicente Izzo Dominguez et al.</td>
@@ -1082,11 +1088,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06299.html">Deep Learning Improves Photometric Redshifts in All Regions of Color Space</a></div></td>
 <td>Emma R. Moran et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06299">2507.06299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19919.html">Bayesian Posteriors with Stellar Population Synthesis on GPUs</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Georgios Zacharegkas et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19919">2506.19919</a></td>
 </tr>
 </tbody></table>

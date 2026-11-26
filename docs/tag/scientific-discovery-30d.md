@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34222.html">The Socratic PAUSE: safeguarding scientific judgement at AI speed</a></div></td>
+<td>Abdulkadir Celik et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34222">2611.34222</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26343.html">DeepQuest: From Knowledge Gaps to Scientific Discovery in Alzheimer&#x27;s Disease</a></div></td>
 <td>Chunbo Jiang et al.</td>
@@ -176,11 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37972.html">Application of PDE emulators for a multi-material, multi-physics simulation problem</a></div></td>
 <td>Diane Oyen et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37972">2610.37972</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35252.html">Labference: Benchmarking the Reasoning-Action Connection in Robotic Laboratories</a></div></td>
-<td>Shitong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35252">2610.35252</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-models — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-models-30d.html">30d</a> <a href="diffusion-models-90d.html">90d</a> <a href="diffusion-models-360d.html">360d</a> <a href="diffusion-models-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26389.html">ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step</a></div></td>
 <td>Kaiwen Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.26389">2611.26389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23776.html">Residual diffusion for fine-structure enhancement in low-count accelerator-based muon imaging</a></div></td>
-<td>Haochen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23776">2611.23776</a></td>
 </tr>
 </tbody></table>

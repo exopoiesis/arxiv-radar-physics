@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-problems — 90d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">81 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <strong>90d</strong> <a href="inverse-problems-360d.html">360d</a> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33688.html">Two 3-Dimensional Coefficient Inverse Problems for Wave-like Equations With a Single Location of the Point Source</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
+<td>Michael V. Klibanov et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33688">2611.33688</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33904.html">Estimating subcritical multiplication from stochastic neutron noise: a branching Brownian motion model for leakage counts</a></div></td>
+<td>Antoine Bessemoulin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33904">2611.33904</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28983.html">Probabilistic Inversion of Strong Gravitational Lenses with Flow Matching Priors</a></div><div class="paper-tags"><a href="diffusion-models-90d.html">diffusion-models</a> · <a href="strong-lensing-90d.html">strong-lensing</a></div></td>
@@ -488,29 +500,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02578.html">Reduced order model for parametric Boltzmann equation and its application to inverse problems</a></div><div class="paper-tags"><a href="rom-90d.html">rom</a></div></td>
 <td>Shanyin Tong et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02578">2609.02578</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26549.html">Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-90d.html">physics-informed-neural-networks</a> · <a href="pinns-90d.html">pinns</a> · <a href="scientific-machine-learning-90d.html">scientific-machine-learning</a></div></td>
-<td>Yuehao Song et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26549">2608.26549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26657.html">Heat equations in spectral Barron spaces</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Mourad Choulli et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26657">2608.26657</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27028.html">A quantum-assisted framework for PDE-based Bayesian inverse problems</a></div><div class="paper-tags"><a href="partial-differential-equations-90d.html">partial-differential-equations</a></div></td>
-<td>Dong An et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27028">2608.27028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27080.html">Active Diffusion-Based Inference for Ill-Posed Inverse Problems under Incomplete Priors</a></div></td>
-<td>Jitao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27080">2608.27080</a></td>
 </tr>
 </tbody></table>

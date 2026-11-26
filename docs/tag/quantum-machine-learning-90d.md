@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33806.html">QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference</a></div><div class="paper-tags"><a href="inductive-bias-90d.html">inductive-bias</a> · <a href="qml-90d.html">qml</a></div></td>
+<td>Yixiong Chen</td>
+<td><a href="http://arxiv.org/abs/2611.33806">2611.33806</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32314.html">Operationalizing Quantum Machine Learning for IoT Network Intrusion Detection</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
 <td>Domenico Ciuonzo et al.</td>
@@ -572,11 +578,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01537.html">Quantum Sparse Autoencoders for Q-Matrix Estimation in Cognitive Diagnosis</a></div><div class="paper-tags"><a href="qml-90d.html">qml</a></div></td>
 <td>Arif Hassan Zidan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01537">2609.01537</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26972.html">Quantum-enhanced ghost imaging recognition via joint optimization of speckle patterns and quantum network parameters</a></div></td>
-<td>Yirui Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26972">2608.26972</a></td>
 </tr>
 </tbody></table>

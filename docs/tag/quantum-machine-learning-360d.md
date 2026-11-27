@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">471 papers</span>
+  <span class="paper-count">467 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2816,29 +2816,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02928.html">Time-series forecasting with multiphoton quantum states and integrated photonics</a></div></td>
 <td>Rosario Di Bartolo et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02928">2512.02928</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.05237.html">Almost Optimal Synthesis of Reversible Function in Qudit Model</a></div></td>
-<td>Buji Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2501.05237">2501.05237</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22593.html">An Optimal Framework for Constructing Lie-Algebra Generator Pools: Application to Variational Quantum Eigensolvers for Chemistry</a></div><div class="paper-tags"><a href="quantum-error-correction-360d.html">quantum-error-correction</a> · <a href="vqe-360d.html">vqe</a></div></td>
-<td>Yaromir Viswanathan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22593">2511.22593</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01509.html">Learning Reduced Representations for Quantum Classifiers</a></div><div class="paper-tags"><a href="particle-physics-360d.html">particle-physics</a></div></td>
-<td>Patrick Odagiu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01509">2512.01509</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03094.html">Performance Analysis of Quantum Support Vector Classifiers and Quantum Neural Networks</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Tomás Villalba-Ferreiro et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03094">2512.03094</a></td>
 </tr>
 </tbody></table>

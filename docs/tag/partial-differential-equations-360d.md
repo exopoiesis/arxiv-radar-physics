@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>partial-differential-equations — 360d</h1>
-  <span class="paper-count">760 papers</span>
+  <span class="paper-count">756 papers</span>
   <nav class="window-nav"><a href="partial-differential-equations-7d.html">7d</a> <a href="partial-differential-equations-30d.html">30d</a> <a href="partial-differential-equations-90d.html">90d</a> <strong>360d</strong> <a href="partial-differential-equations-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4550,29 +4550,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05620.html">Monte Carlo-Type Neural Operator for Differential Equations</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a></div></td>
 <td>Salah Eddine Choutri et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05620">2510.05620</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13734.html">Extended Physics Informed Neural Network for Hyperbolic Two-Phase Flow in Porous Media</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a> · <a href="pinns-360d.html">pinns</a></div></td>
-<td>Saif Ur Rehman et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13734">2511.13734</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01279.html">The Dynamical Model Representation of Convolution-Generated Spatio-Temporal Gaussian Processes and Its Applications</a></div><div class="paper-tags"><a href="anomaly-detection-360d.html">anomaly-detection</a></div></td>
-<td>Yutong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01279">2512.01279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01370.html">Beyond Loss Guidance: Using PDE Residuals as Spectral Attention in Diffusion Neural Operators</a></div></td>
-<td>Medha Sawhney et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01370">2512.01370</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01888.html">Domain-Decomposed Graph Neural Network Surrogate Modeling for Ice Sheets</a></div><div class="paper-tags"><a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Adrienne M. Propp et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01888">2512.01888</a></td>
 </tr>
 </tbody></table>

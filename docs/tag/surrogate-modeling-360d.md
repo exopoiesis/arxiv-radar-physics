@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surrogate-modeling — 360d</h1>
-  <span class="paper-count">165 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="surrogate-modeling-7d.html">7d</a> <a href="surrogate-modeling-30d.html">30d</a> <a href="surrogate-modeling-90d.html">90d</a> <strong>360d</strong> <a href="surrogate-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -992,17 +992,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03113.html">A Discrete Neural Operator with Adaptive Sampling for Surrogate Modeling of Parametric Transient Darcy Flows in Porous Media</a></div><div class="paper-tags"><a href="operator-learning-360d.html">operator-learning</a></div></td>
 <td>Zhenglong Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03113">2512.03113</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11722.html">Fast 3D Surrogate Modeling for Data Center Thermal Management</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Soumyendu Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11722">2511.11722</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01927.html">Bayesian Statistical Inversion for High-Dimensional Computer Model Output and Spatially Distributed Counts</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
-<td>Steven D. Barnett et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01927">2512.01927</a></td>
 </tr>
 </tbody></table>

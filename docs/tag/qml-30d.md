@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>qml — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="qml-7d.html">7d</a> <strong>30d</strong> <a href="qml-90d.html">90d</a> <a href="qml-360d.html">360d</a> <a href="qml-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,17 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05442.html">Matched but Not Better: An Equivalence-Tested Benchmark of Quantum Machine Learning on Six Clinical Datasets and the QML-Health-READY Reporting Framework</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
 <td>Mohammed Siraj B et al.</td>
 <td><a href="http://arxiv.org/abs/2611.05442">2611.05442</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35235.html">False-Alarm Improvements and Detection Trade-Offs in Quantum Machine Learning for Intrusion Detection: A Reproducible Secondary Analysis</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Roberto Fernández-Barrios et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35235">2610.35235</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37819.html">Responsible Quantum Machine Learning for Medical Imaging: A Fairness Audit Across Sensitive Subgroups</a></div><div class="paper-tags"><a href="quantum-machine-learning-30d.html">quantum-machine-learning</a></div></td>
-<td>Giovanni dos Santos Franco et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37819">2610.37819</a></td>
 </tr>
 </tbody></table>

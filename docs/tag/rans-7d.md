@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>rans — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="rans-30d.html">30d</a> <a href="rans-90d.html">90d</a> <a href="rans-360d.html">360d</a> <a href="rans-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28794.html">AI Meets Turbulence Modeling: Balancing Causation, Correlation, and User Intent</a></div><div class="paper-tags"><a href="reduced-order-modeling-7d.html">reduced-order-modeling</a> · <a href="turbulence-modeling-7d.html">turbulence-modeling</a></div></td>
 <td>Sharath S. Girimaji</td>
 <td><a href="http://arxiv.org/abs/2611.28794">2611.28794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25619.html">Cyber-Physical RSI for AI-RAN: A Case Study</a></div></td>
-<td>Binghan Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25619">2611.25619</a></td>
 </tr>
 </tbody></table>

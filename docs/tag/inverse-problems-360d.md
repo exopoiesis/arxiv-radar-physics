@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">419 papers</span>
+  <span class="paper-count">417 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2516,17 +2516,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06004.html">On mathematical aspects of surface correction via ion beam etching</a></div></td>
 <td>W. Pauls</td>
 <td><a href="http://arxiv.org/abs/2512.06004">2512.06004</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01307.html">Inversions of stochastic processes from ergodic measures of Nonlinear SDEs</a></div></td>
-<td>Hongyu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01307">2512.01307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01927.html">Bayesian Statistical Inversion for High-Dimensional Computer Model Output and Spatially Distributed Counts</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Steven D. Barnett et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01927">2512.01927</a></td>
 </tr>
 </tbody></table>

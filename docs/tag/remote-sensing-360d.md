@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">471 papers</span>
+  <span class="paper-count">467 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2816,29 +2816,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06001.html">Small Language Models Reshape Higher Education: Courses, Textbooks, and Teaching</a></div><div class="paper-tags"><a href="atmospheric-physics-360d.html">atmospheric-physics</a> · <a href="hydrology-360d.html">hydrology</a></div></td>
 <td>Jian Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06001">2512.06001</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11740.html">AgriPotential: A Novel Multi-Spectral and Multi-Temporal Remote Sensing Dataset for Agricultural Potentials</a></div></td>
-<td>Mohammad El Sakka et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11740">2506.11740</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18058.html">Hierarchical Semi-Supervised Active Learning for Remote Sensing</a></div></td>
-<td>Wei Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18058">2511.18058</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22768.html">Fusion or Confusion? Assessing the impact of visible-thermal image fusion for automated wildlife detection</a></div></td>
-<td>Camille Dionne-Pierre et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22768">2511.22768</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01665.html">Bridging the Scale Gap: Balanced Tiny and General Object Detection in Remote Sensing Imagery</a></div></td>
-<td>Zhicheng Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01665">2512.01665</a></td>
 </tr>
 </tbody></table>

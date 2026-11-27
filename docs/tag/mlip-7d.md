@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mlip — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27188.html">Generating grain boundary structures at a specified energy with a symmetry-constrained diffusion model</a></div></td>
 <td>Kazuya Miyamoto et al.</td>
 <td><a href="http://arxiv.org/abs/2611.27188">2611.27188</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25944.html">Alloying effects on the interface cohesion of grain boundaries in the Ni--Fe--Cr system</a></div></td>
-<td>Aljoscha Felix Baumann et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25944">2611.25944</a></td>
 </tr>
 </tbody></table>

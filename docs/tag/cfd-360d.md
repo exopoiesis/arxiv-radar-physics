@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cfd — 360d</h1>
-  <span class="paper-count">210 papers</span>
+  <span class="paper-count">209 papers</span>
   <nav class="window-nav"><a href="cfd-7d.html">7d</a> <a href="cfd-30d.html">30d</a> <a href="cfd-90d.html">90d</a> <strong>360d</strong> <a href="cfd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1268,11 +1268,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03280.html">BlendedNet++: A Large-Scale Blended Wing Body Aerodynamics Dataset and Benchmark</a></div><div class="paper-tags"><a href="rans-360d.html">rans</a></div></td>
 <td>Nicholas Sung et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03280">2512.03280</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11722.html">Fast 3D Surrogate Modeling for Data Center Thermal Management</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Soumyendu Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11722">2511.11722</a></td>
 </tr>
 </tbody></table>

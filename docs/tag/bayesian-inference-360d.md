@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">403 papers</span>
+  <span class="paper-count">402 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2426,11 +2426,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03152.html">Inferring black hole formation channels in GWTC-4.0 via parametric mass-spin correlations derived from first principles</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
 <td>Emanuele Berti et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03152">2512.03152</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01776.html">Search for Peak Structures in the Stochastic Gravitational-Wave Background in LIGO-Virgo-KAGRA O1-O4a Datasets</a></div><div class="paper-tags"><a href="gravitational-waves-360d.html">gravitational-waves</a> · <a href="ligo-360d.html">ligo</a></div></td>
-<td>Catalina-Ana Miritescu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01776">2512.01776</a></td>
 </tr>
 </tbody></table>

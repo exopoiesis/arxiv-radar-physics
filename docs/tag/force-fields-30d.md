@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>force-fields — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="force-fields-7d.html">7d</a> <strong>30d</strong> <a href="force-fields-90d.html">90d</a> <a href="force-fields-360d.html">360d</a> <a href="force-fields-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06363.html">Discrete Backbone Elasticity and Curvature-Dependent Torsion Statistics in Proteins</a></div></td>
 <td>Yiquan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.06363">2611.06363</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35204.html">mdRNAcat: A Molecular Dynamics RNA Catalog of REST2 Conformational Ensembles</a></div></td>
-<td>Anton E. Dorn et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35204">2610.35204</a></td>
 </tr>
 </tbody></table>

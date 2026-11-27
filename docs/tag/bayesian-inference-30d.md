@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-inference — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-inference-90d.html">90d</a> <a href="bayesian-inference-360d.html">360d</a> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,17 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14553.html">Joint Bayesian Inference of Dense Matter and f(Q) Gravity with Nuclear and Neutron Star Constraints</a></div></td>
 <td>N. K. Patra et al.</td>
 <td><a href="http://arxiv.org/abs/2611.14553">2611.14553</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36770.html">Bayesian Treed Vecchia Gaussian Process Emulation via Sequential Monte Carlo</a></div></td>
-<td>Cong Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36770">2610.36770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37333.html">diff-soup: GPU-native Differentiable Simulation and Inference for Large-scale Stiff Dynamical Systems</a></div><div class="paper-tags"><a href="dynamical-systems-30d.html">dynamical-systems</a> · <a href="partial-differential-equations-30d.html">partial-differential-equations</a></div></td>
-<td>Samuel Degnan-Morgenstern et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37333">2610.37333</a></td>
 </tr>
 </tbody></table>

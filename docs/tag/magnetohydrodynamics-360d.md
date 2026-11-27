@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetohydrodynamics — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="magnetohydrodynamics-7d.html">7d</a> <a href="magnetohydrodynamics-30d.html">30d</a> <a href="magnetohydrodynamics-90d.html">90d</a> <strong>360d</strong> <a href="magnetohydrodynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08765.html">One-shot acceleration of transient PDE solvers via online-learned preconditioners</a></div><div class="paper-tags"><a href="mhd-360d.html">mhd</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Mikhail Khodak et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08765">2509.08765</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05999.html">Solver-in-the-Loop Applications in Astrophysical (Magneto)hydrodynamics</a></div></td>
-<td>Leonard Storcks et al.</td>
-<td><a href="http://arxiv.org/abs/2512.05999">2512.05999</a></td>
 </tr>
 </tbody></table>

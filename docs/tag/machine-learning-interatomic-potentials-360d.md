@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>machine-learning-interatomic-potentials — 360d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">143 papers</span>
   <nav class="window-nav"><a href="machine-learning-interatomic-potentials-7d.html">7d</a> <a href="machine-learning-interatomic-potentials-30d.html">30d</a> <a href="machine-learning-interatomic-potentials-90d.html">90d</a> <strong>360d</strong> <a href="machine-learning-interatomic-potentials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -872,11 +872,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04242.html">Characterizing Defect Dynamics in Silicon Carbide Using Symmetry-Adapted Collective Variables and Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Soumajit Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04242">2512.04242</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01160.html">From Regression to Classification: Exploring the Benefits of Categorical Representations of Energy in MLIPs</a></div></td>
-<td>Ahmad Ali</td>
-<td><a href="http://arxiv.org/abs/2512.01160">2512.01160</a></td>
 </tr>
 </tbody></table>

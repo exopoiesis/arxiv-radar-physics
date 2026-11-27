@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>symbolic-regression — 360d</h1>
-  <span class="paper-count">199 papers</span>
+  <span class="paper-count">198 papers</span>
   <nav class="window-nav"><a href="symbolic-regression-7d.html">7d</a> <a href="symbolic-regression-30d.html">30d</a> <a href="symbolic-regression-90d.html">90d</a> <strong>360d</strong> <a href="symbolic-regression-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1202,11 +1202,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04204.html">Machine Phenomenology: A Simple Equation Classifying Fast Radio Bursts</a></div></td>
 <td>Yang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04204">2512.04204</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00225.html">Discovering the Underlying Analytic Structure Within Standard Model Constants Using Artificial Intelligence</a></div></td>
-<td>S. V. Chekanov et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00225">2507.00225</a></td>
 </tr>
 </tbody></table>

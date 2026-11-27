@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ligo — 360d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="ligo-7d.html">7d</a> <a href="ligo-30d.html">30d</a> <a href="ligo-90d.html">90d</a> <strong>360d</strong> <a href="ligo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,11 +422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02968.html">Flexible Gravitational-Wave Parameter Estimation with Transformers</a></div></td>
 <td>Annalena Kofler et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02968">2512.02968</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01776.html">Search for Peak Structures in the Stochastic Gravitational-Wave Background in LIGO-Virgo-KAGRA O1-O4a Datasets</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="gravitational-waves-360d.html">gravitational-waves</a></div></td>
-<td>Catalina-Ana Miritescu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01776">2512.01776</a></td>
 </tr>
 </tbody></table>

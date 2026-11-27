@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chaotic-systems — 360d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="chaotic-systems-7d.html">7d</a> <a href="chaotic-systems-30d.html">30d</a> <a href="chaotic-systems-90d.html">90d</a> <strong>360d</strong> <a href="chaotic-systems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,17 +368,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00976.html">Learning Dissipative Chaotic Dynamics with Boundedness Guarantees</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Sunbochen Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2410.00976">2410.00976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08738.html">Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Azimov Sherkhon et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08738">2507.08738</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01984.html">ECO: Energy-Constrained Operator Learning for Chaotic Dynamics with Boundedness Guarantees</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
-<td>Andrea Goertzen et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01984">2512.01984</a></td>
 </tr>
 </tbody></table>

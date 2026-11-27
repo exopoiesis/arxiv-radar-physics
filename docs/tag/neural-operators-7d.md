@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neural-operators — 7d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <a href="neural-operators-360d.html">360d</a> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,17 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28267.html">Failure Modes and Data-Efficient Remedies for Transformer-Based Prediction of Viscoplastic Flows</a></div><div class="paper-tags"><a href="surrogate-modeling-7d.html">surrogate-modeling</a></div></td>
 <td>Maedeh Saberi et al.</td>
 <td><a href="http://arxiv.org/abs/2611.28267">2611.28267</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25756.html">Self-Supervised Operator Learning for Channel Estimation in Fluid Antenna Systems</a></div><div class="paper-tags"><a href="operator-learning-7d.html">operator-learning</a></div></td>
-<td>Erqiang Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25756">2611.25756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26551.html">GraphEP: A Calibrated Data System and Benchmark for Learning Cardiac Electrophysiology</a></div><div class="paper-tags"><a href="inductive-bias-7d.html">inductive-bias</a> · <a href="scientific-machine-learning-7d.html">scientific-machine-learning</a></div></td>
-<td>Matteo Baldan et al.</td>
-<td><a href="http://arxiv.org/abs/2611.26551">2611.26551</a></td>
 </tr>
 </tbody></table>

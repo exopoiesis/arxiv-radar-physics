@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">443 papers</span>
+  <span class="paper-count">441 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2660,17 +2660,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05620.html">Monte Carlo-Type Neural Operator for Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Salah Eddine Choutri et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05620">2510.05620</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16554.html">Machine Learning Time Propagators for Time-Dependent Density Functional Theory Simulations</a></div></td>
-<td>Karan Shah et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16554">2508.16554</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01576.html">From Black Hole to Galaxy: Neural Operator: Framework for Accretion and Feedback Dynamics</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Nihaal Bhojwani et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01576">2512.01576</a></td>
 </tr>
 </tbody></table>

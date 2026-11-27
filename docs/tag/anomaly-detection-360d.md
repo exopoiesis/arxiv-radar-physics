@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>anomaly-detection — 360d</h1>
-  <span class="paper-count">280 papers</span>
+  <span class="paper-count">276 papers</span>
   <nav class="window-nav"><a href="anomaly-detection-7d.html">7d</a> <a href="anomaly-detection-30d.html">30d</a> <a href="anomaly-detection-90d.html">90d</a> <strong>360d</strong> <a href="anomaly-detection-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1670,29 +1670,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07451.html">Synthetic Data Generation with Lorenzetti for Time Series Anomaly Detection in High-Energy Physics Calorimeters</a></div></td>
 <td>Laura Boggia et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07451">2509.07451</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15926.html">Anomaly preserving contrastive neural embeddings for end-to-end model-independent searches at the LHC</a></div></td>
-<td>Kyle Metzger et al.</td>
-<td><a href="http://arxiv.org/abs/2502.15926">2502.15926</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01279.html">The Dynamical Model Representation of Convolution-Generated Spatio-Temporal Gaussian Processes and Its Applications</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Yutong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01279">2512.01279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01365.html">Modeling Wavelet Transformed Quantum Support Vector for Network Intrusion Detection</a></div></td>
-<td>Swati Kumari et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01365">2512.01365</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01727.html">AI-Driven Cybersecurity Testbed for Nuclear Infrastructure: Comprehensive Evaluation Using METL Operational Data</a></div></td>
-<td>Benjamin Blakely et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01727">2512.01727</a></td>
 </tr>
 </tbody></table>

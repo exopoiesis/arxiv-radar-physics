@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>galaxy-formation — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="galaxy-formation-7d.html">7d</a> <a href="galaxy-formation-30d.html">30d</a> <a href="galaxy-formation-90d.html">90d</a> <strong>360d</strong> <a href="galaxy-formation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.17169.html">Ameliorating transient noise bursts in gravitational-wave searches for intermediate-mass black holes</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
 <td>Melissa Lopez et al.</td>
 <td><a href="http://arxiv.org/abs/2412.17169">2412.17169</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07060.html">LIMFAST. IV. Learning High-Redshift Galaxy Formation from Multiline Intensity Mapping with Implicit Likelihood Inference</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="cosmology-360d.html">cosmology</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Guochao Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07060">2509.07060</a></td>
 </tr>
 </tbody></table>

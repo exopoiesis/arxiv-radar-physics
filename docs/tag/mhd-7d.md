@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mhd — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mhd-30d.html">30d</a> <a href="mhd-90d.html">90d</a> <a href="mhd-360d.html">360d</a> <a href="mhd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31964.html">Sounding the Black Box: Online Training of Embedded Neural Networks in Forward-Only Physical Simulators</a></div></td>
 <td>Ruiqi Shu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.31964">2611.31964</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28266.html">CNN-Based Locked Mode Detection and Prospects for Prediction Utilizing Density Fluctuation Signals</a></div></td>
-<td>Randall Clark et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28266">2611.28266</a></td>
 </tr>
 </tbody></table>

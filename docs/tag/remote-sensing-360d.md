@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>remote-sensing — 360d</h1>
-  <span class="paper-count">467 papers</span>
+  <span class="paper-count">463 papers</span>
   <nav class="window-nav"><a href="remote-sensing-7d.html">7d</a> <a href="remote-sensing-30d.html">30d</a> <a href="remote-sensing-90d.html">90d</a> <strong>360d</strong> <a href="remote-sensing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2792,29 +2792,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04314.html">DisentangleFormer: Spatial-Channel Decoupling for Multi-Channel Vision</a></div></td>
 <td>Jiashu Liao et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04314">2512.04314</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05826.html">From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing</a></div></td>
-<td>Xintian Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2411.05826">2411.05826</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02517.html">SkyMoE: A Vision-Language Foundation Model for Enhancing Geospatial Interpretation with Mixture of Experts</a></div></td>
-<td>Jiaqi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02517">2512.02517</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02643.html">Leveraging Large-Scale Pretrained Spatial-Spectral Priors for General Zero-Shot Pansharpening</a></div></td>
-<td>Yongchuan Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02643">2512.02643</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06001.html">Small Language Models Reshape Higher Education: Courses, Textbooks, and Teaching</a></div><div class="paper-tags"><a href="atmospheric-physics-360d.html">atmospheric-physics</a> · <a href="hydrology-360d.html">hydrology</a></div></td>
-<td>Jian Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.06001">2512.06001</a></td>
 </tr>
 </tbody></table>

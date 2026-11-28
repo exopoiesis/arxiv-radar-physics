@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neural-operators — 360d</h1>
-  <span class="paper-count">441 papers</span>
+  <span class="paper-count">440 papers</span>
   <nav class="window-nav"><a href="neural-operators-7d.html">7d</a> <a href="neural-operators-30d.html">30d</a> <a href="neural-operators-90d.html">90d</a> <strong>360d</strong> <a href="neural-operators-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2654,11 +2654,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08625.html">Cross-Field Interface-Aware Neural Operators for Multiphase Flow Simulation</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Zhenzhong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08625">2511.08625</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05620.html">Monte Carlo-Type Neural Operator for Differential Equations</a></div><div class="paper-tags"><a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
-<td>Salah Eddine Choutri et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05620">2510.05620</a></td>
 </tr>
 </tbody></table>

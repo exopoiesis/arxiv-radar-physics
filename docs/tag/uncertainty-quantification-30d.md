@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>uncertainty-quantification — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="uncertainty-quantification-7d.html">7d</a> <strong>30d</strong> <a href="uncertainty-quantification-90d.html">90d</a> <a href="uncertainty-quantification-360d.html">360d</a> <a href="uncertainty-quantification-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03473.html">Fracture-Bench: A Controlled Benchmark Suite for Machine Learning Surrogates in Phase-Field Fracture Mechanics</a></div><div class="paper-tags"><a href="deeponet-30d.html">deeponet</a></div></td>
 <td>Meenu Krishnan U. et al.</td>
 <td><a href="http://arxiv.org/abs/2611.03473">2611.03473</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38780.html">An Eigenvector-Continued Green&#x27;s Function Method</a></div></td>
-<td>Stefano Brolli et al.</td>
-<td><a href="http://arxiv.org/abs/2610.38780">2610.38780</a></td>
 </tr>
 </tbody></table>

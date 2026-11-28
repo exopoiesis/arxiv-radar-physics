@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">244 papers</span>
+  <span class="paper-count">243 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1472,11 +1472,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19667.html">Dara: Automated multiple-hypothesis phase identification and refinement from powder X-ray diffraction</a></div></td>
 <td>Yuxing Fei et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19667">2510.19667</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22307.html">Enhanced Conditional Generation of Double Perovskite by Knowledge-Guided Language Model Feedback</a></div></td>
-<td>Inhyo Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22307">2511.22307</a></td>
 </tr>
 </tbody></table>

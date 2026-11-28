@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-inference — 360d</h1>
-  <span class="paper-count">402 papers</span>
+  <span class="paper-count">399 papers</span>
   <nav class="window-nav"><a href="bayesian-inference-7d.html">7d</a> <a href="bayesian-inference-30d.html">30d</a> <a href="bayesian-inference-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-inference-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2408,23 +2408,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13701.html">Blind Radio Mapping via Spatially Regularized Bayesian Trajectory Inference</a></div></td>
 <td>Zheng Xing et al.</td>
 <td><a href="http://arxiv.org/abs/2512.13701">2512.13701</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02411.html">Simulation-Based Inference of Ginzburg--Landau Parameters in Type--1.5 Superconductors</a></div></td>
-<td>Jung-Shen Kao</td>
-<td><a href="http://arxiv.org/abs/2512.02411">2512.02411</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02495.html">Bayesian Physics-Informed Neural Networks for Inverse Problems (BPINN-IP): Application in Infrared Image Processing</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Ali Mohammad-Djafari et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02495">2512.02495</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03152.html">Inferring black hole formation channels in GWTC-4.0 via parametric mass-spin correlations derived from first principles</a></div><div class="paper-tags"><a href="black-holes-360d.html">black-holes</a></div></td>
-<td>Emanuele Berti et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03152">2512.03152</a></td>
 </tr>
 </tbody></table>

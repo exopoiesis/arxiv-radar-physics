@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pinns — 360d</h1>
-  <span class="paper-count">578 papers</span>
+  <span class="paper-count">575 papers</span>
   <nav class="window-nav"><a href="pinns-7d.html">7d</a> <a href="pinns-30d.html">30d</a> <a href="pinns-90d.html">90d</a> <strong>360d</strong> <a href="pinns-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3464,23 +3464,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04183.html">PINN vs LSTM: A Comparative Study for Steam Temperature Control in Heat Recovery Steam Generators</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
 <td>Mojtaba Fanoodi et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04183">2512.04183</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02495.html">Bayesian Physics-Informed Neural Networks for Inverse Problems (BPINN-IP): Application in Infrared Image Processing</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="inverse-problems-360d.html">inverse-problems</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Ali Mohammad-Djafari et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02495">2512.02495</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02618.html">Modeling and Inverse Identification of Interfacial Heat Conduction in Finite Layer and Semi-Infinite Substrate Systems via a Physics-Guided Neural Framework</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Wenhao Sha et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02618">2512.02618</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02712.html">G-PIFNN: A Generalizable Physics-informed Fourier Neural Network Framework for Electrical Circuits</a></div><div class="paper-tags"><a href="physics-informed-neural-networks-360d.html">physics-informed-neural-networks</a></div></td>
-<td>Ibrahim Shahbaz et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02712">2512.02712</a></td>
 </tr>
 </tbody></table>

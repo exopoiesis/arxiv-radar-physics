@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>koopman-operator — 360d</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="koopman-operator-7d.html">7d</a> <a href="koopman-operator-30d.html">30d</a> <a href="koopman-operator-90d.html">90d</a> <strong>360d</strong> <a href="koopman-operator-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -452,11 +452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06134.html">Physics-Informed Neural Koopman Machine for Interpretable Longitudinal Personalized Alzheimer&#x27;s Disease Forecasting</a></div><div class="paper-tags"><a href="dynamical-systems-360d.html">dynamical-systems</a></div></td>
 <td>Georgi Hrusanov et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06134">2512.06134</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03256.html">KALIKO: Kalman-Implicit Koopman Operator Learning For Prediction of Nonlinear Dynamical Systems</a></div></td>
-<td>Albert H. Li et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03256">2512.03256</a></td>
 </tr>
 </tbody></table>

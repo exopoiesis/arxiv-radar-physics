@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>scientific-machine-learning — 360d</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="scientific-machine-learning-7d.html">7d</a> <a href="scientific-machine-learning-30d.html">30d</a> <a href="scientific-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="scientific-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1238,17 +1238,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03476.html">ATHENA: Agentic Team for Hierarchical Evolutionary Numerical Algorithms</a></div><div class="paper-tags"><a href="pinns-360d.html">pinns</a> · <a href="scientific-discovery-360d.html">scientific-discovery</a> · <a href="sciml-360d.html">sciml</a></div></td>
 <td>Juan Diego Toscano et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03476">2512.03476</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08184.html">Julia in HEP</a></div><div class="paper-tags"><a href="hep-360d.html">hep</a></div></td>
-<td>Graeme Andrew Stewart et al.</td>
-<td><a href="http://arxiv.org/abs/2503.08184">2503.08184</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23166.html">Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms</a></div></td>
-<td>Philippe Martin Wyder et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23166">2510.23166</a></td>
 </tr>
 </tbody></table>

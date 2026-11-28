@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 360d</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">169 papers</span>
   <nav class="window-nav"><a href="computational-fluid-dynamics-7d.html">7d</a> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1028,11 +1028,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01024.html">A data-driven framework to identify restenosis-prone regions in femoral arteries from geometric and inflow waveform parameters</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a> · <a href="rom-360d.html">rom</a></div></td>
 <td>Chotirawee Chatpattanasiri et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01024">2512.01024</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03177.html">Magic of the Well: assessing quantum resources of fluid dynamics data</a></div><div class="paper-tags"><a href="cfd-360d.html">cfd</a></div></td>
-<td>Antonio Francesco Mello et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03177">2512.03177</a></td>
 </tr>
 </tbody></table>

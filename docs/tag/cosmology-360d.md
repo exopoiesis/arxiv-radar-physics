@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>cosmology — 360d</h1>
-  <span class="paper-count">178 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="cosmology-7d.html">7d</a> <a href="cosmology-30d.html">30d</a> <a href="cosmology-90d.html">90d</a> <strong>360d</strong> <a href="cosmology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1076,11 +1076,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06319.html">A Fully Photometric Approach to Type Ia Supernova Cosmology in the LSST Era: Host Galaxy Redshifts and Supernova Classification</a></div><div class="paper-tags"><a href="dark-energy-360d.html">dark-energy</a></div></td>
 <td>Ayan Mitra et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06319">2512.06319</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07060.html">LIMFAST. IV. Learning High-Redshift Galaxy Formation from Multiline Intensity Mapping with Implicit Likelihood Inference</a></div><div class="paper-tags"><a href="astrophysics-360d.html">astrophysics</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Guochao Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07060">2509.07060</a></td>
 </tr>
 </tbody></table>

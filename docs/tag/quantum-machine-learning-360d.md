@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 360d</h1>
-  <span class="paper-count">467 papers</span>
+  <span class="paper-count">462 papers</span>
   <nav class="window-nav"><a href="quantum-machine-learning-7d.html">7d</a> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <strong>360d</strong> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2786,35 +2786,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05151.html">Quantum machine learning -- lecture notes</a></div></td>
 <td>Bojan Žunkovič</td>
 <td><a href="http://arxiv.org/abs/2512.05151">2512.05151</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02087.html">An Exponential Separation Between Quantum and Quantum-Inspired Classical Algorithms for Linear Systems</a></div></td>
-<td>Allan Grønlund et al.</td>
-<td><a href="http://arxiv.org/abs/2411.02087">2411.02087</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02301.html">Quantum Vanguard: Server Optimized Privacy Fortified Federated Intelligence for Future Vehicles</a></div></td>
-<td>Dev Gurung et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02301">2512.02301</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02422.html">Quantum feature encoding optimization</a></div><div class="paper-tags"><a href="qml-360d.html">qml</a></div></td>
-<td>Tommaso Fioravanti et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02422">2512.02422</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02721.html">Generative modeling using evolved quantum Boltzmann machines</a></div></td>
-<td>Mark M. Wilde</td>
-<td><a href="http://arxiv.org/abs/2512.02721">2512.02721</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02928.html">Time-series forecasting with multiphoton quantum states and integrated photonics</a></div></td>
-<td>Rosario Di Bartolo et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02928">2512.02928</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>astrophysics — 360d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="astrophysics-7d.html">7d</a> <a href="astrophysics-30d.html">30d</a> <a href="astrophysics-90d.html">90d</a> <strong>360d</strong> <a href="astrophysics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,11 +662,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15436.html">Semi-empirical Framework of Supermassive Black Hole Evolution: Highlighting a possible tension between Demographics and Gravitational Wave Background</a></div></td>
 <td>Andrea Lapi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15436">2507.15436</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07060.html">LIMFAST. IV. Learning High-Redshift Galaxy Formation from Multiline Intensity Mapping with Implicit Likelihood Inference</a></div><div class="paper-tags"><a href="cosmology-360d.html">cosmology</a> · <a href="galaxy-formation-360d.html">galaxy-formation</a> · <a href="normalizing-flows-360d.html">normalizing-flows</a></div></td>
-<td>Guochao Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07060">2509.07060</a></td>
 </tr>
 </tbody></table>

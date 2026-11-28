@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-problems — 360d</h1>
-  <span class="paper-count">417 papers</span>
+  <span class="paper-count">414 papers</span>
   <nav class="window-nav"><a href="inverse-problems-7d.html">7d</a> <a href="inverse-problems-30d.html">30d</a> <a href="inverse-problems-90d.html">90d</a> <strong>360d</strong> <a href="inverse-problems-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2498,23 +2498,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04974.html">Efficient Generative Transformer Operators For Million-Point PDEs</a></div><div class="paper-tags"><a href="neural-operators-360d.html">neural-operators</a> · <a href="partial-differential-equations-360d.html">partial-differential-equations</a></div></td>
 <td>Armand Kassaï Koupaï et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04974">2512.04974</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16854.html">MRI Super-Resolution with Deep Learning: A Comprehensive Survey</a></div></td>
-<td>Mohammad Khateri et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16854">2511.16854</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02495.html">Bayesian Physics-Informed Neural Networks for Inverse Problems (BPINN-IP): Application in Infrared Image Processing</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a> · <a href="pinns-360d.html">pinns</a> · <a href="uncertainty-quantification-360d.html">uncertainty-quantification</a></div></td>
-<td>Ali Mohammad-Djafari et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02495">2512.02495</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06004.html">On mathematical aspects of surface correction via ion beam etching</a></div></td>
-<td>W. Pauls</td>
-<td><a href="http://arxiv.org/abs/2512.06004">2512.06004</a></td>
 </tr>
 </tbody></table>

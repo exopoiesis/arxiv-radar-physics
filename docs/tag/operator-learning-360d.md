@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>operator-learning — 360d</h1>
-  <span class="paper-count">281 papers</span>
+  <span class="paper-count">280 papers</span>
   <nav class="window-nav"><a href="operator-learning-7d.html">7d</a> <a href="operator-learning-30d.html">30d</a> <a href="operator-learning-90d.html">90d</a> <strong>360d</strong> <a href="operator-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1694,11 +1694,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20207.html">Operator learning meets inverse problems: A probabilistic perspective</a></div><div class="paper-tags"><a href="inverse-problems-360d.html">inverse-problems</a></div></td>
 <td>Nicholas H. Nelsen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20207">2508.20207</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03113.html">A Discrete Neural Operator with Adaptive Sampling for Surrogate Modeling of Parametric Transient Darcy Flows in Porous Media</a></div><div class="paper-tags"><a href="surrogate-modeling-360d.html">surrogate-modeling</a></div></td>
-<td>Zhenglong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03113">2512.03113</a></td>
 </tr>
 </tbody></table>

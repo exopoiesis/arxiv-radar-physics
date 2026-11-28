@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transitions — 360d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">133 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <strong>360d</strong> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -812,17 +812,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00686.html">Using physics-inspired Singular Learning Theory to understand grokking &amp; other phase transitions in modern neural networks</a></div></td>
 <td>Anish Lakkapragada</td>
 <td><a href="http://arxiv.org/abs/2512.00686">2512.00686</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03193.html">In Situ Quantum Analog Pulse Characterization via Structured Signal Processing</a></div></td>
-<td>Yulong Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03193">2512.03193</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23716.html">Noise-Driven Persona Formation in Reflexive Neural Language Generation</a></div></td>
-<td>Toshiyuki Shigemura</td>
-<td><a href="http://arxiv.org/abs/2512.23716">2512.23716</a></td>
 </tr>
 </tbody></table>

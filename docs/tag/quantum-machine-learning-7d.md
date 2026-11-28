@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-machine-learning — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-machine-learning-30d.html">30d</a> <a href="quantum-machine-learning-90d.html">90d</a> <a href="quantum-machine-learning-360d.html">360d</a> <a href="quantum-machine-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,23 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30175.html">Observable-Level Expressivity in Fixed-Readout Quantum Neural Networks</a></div></td>
 <td>Iqra Bashir et al.</td>
 <td><a href="http://arxiv.org/abs/2611.30175">2611.30175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27486.html">Practical insights into controlling exponential concentration in quantum machine learning</a></div><div class="paper-tags"><a href="qml-7d.html">qml</a></div></td>
-<td>Fernando Mondragon-Sampedro et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27486">2611.27486</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27815.html">Autonomous quantum machine learning via Riemannian gradient-based optimization</a></div></td>
-<td>Kasidit Srimahajariyapong et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27815">2611.27815</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28361.html">Incompressible quantum information</a></div></td>
-<td>Lasse H. Wolff et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28361">2611.28361</a></td>
 </tr>
 </tbody></table>

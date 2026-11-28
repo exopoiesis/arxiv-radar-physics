@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>computational-fluid-dynamics — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="computational-fluid-dynamics-30d.html">30d</a> <a href="computational-fluid-dynamics-90d.html">90d</a> <a href="computational-fluid-dynamics-360d.html">360d</a> <a href="computational-fluid-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,17 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17152.html">AeroZoo: A Benchmark of Well-Posed Flow Problems for Foundation Models of Aerodynamics</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a></div></td>
 <td>Peter Sharpe et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17152">2611.17152</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27351.html">A 3D PINN-Based Framework for Patient-Specific Pulmonary Hemodynamics Using Windkessel Models</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a> · <a href="physics-informed-neural-networks-7d.html">physics-informed-neural-networks</a> · <a href="pinns-7d.html">pinns</a></div></td>
-<td>Celia Taboada et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27351">2611.27351</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28418.html">WingBench: Benchmarking How AI Agents Search for Better Designs</a></div><div class="paper-tags"><a href="cfd-7d.html">cfd</a></div></td>
-<td>Yiming Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28418">2611.28418</a></td>
 </tr>
 </tbody></table>

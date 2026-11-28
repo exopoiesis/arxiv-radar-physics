@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tensor-networks — 360d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="tensor-networks-7d.html">7d</a> <a href="tensor-networks-30d.html">30d</a> <a href="tensor-networks-90d.html">90d</a> <strong>360d</strong> <a href="tensor-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,17 +332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15875.html">Tree Tensor Networks Methods for Efficient Calculation of Molecular Vibrational Spectra</a></div></td>
 <td>Shuo Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2512.15875">2512.15875</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07814.html">Optimal sampling for least squares approximation with general dictionaries</a></div></td>
-<td>Philipp Trunschke et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07814">2407.07814</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02532.html">Laplace Approximation For Tensor Train Kernel Machines In System Identification</a></div></td>
-<td>Albert Saiapin et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02532">2512.02532</a></td>
 </tr>
 </tbody></table>

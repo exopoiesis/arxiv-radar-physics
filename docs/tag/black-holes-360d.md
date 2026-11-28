@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>black-holes — 360d</h1>
-  <span class="paper-count">92 papers</span>
+  <span class="paper-count">91 papers</span>
   <nav class="window-nav"><a href="black-holes-7d.html">7d</a> <a href="black-holes-30d.html">30d</a> <a href="black-holes-90d.html">90d</a> <strong>360d</strong> <a href="black-holes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -560,11 +560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01437.html">AGN -- host galaxy photometric decomposition using a fast, accurate and precise deep learning approach</a></div></td>
 <td>Berta Margalef-Bentabol et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01437">2410.01437</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03152.html">Inferring black hole formation channels in GWTC-4.0 via parametric mass-spin correlations derived from first principles</a></div><div class="paper-tags"><a href="bayesian-inference-360d.html">bayesian-inference</a></div></td>
-<td>Emanuele Berti et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03152">2512.03152</a></td>
 </tr>
 </tbody></table>
